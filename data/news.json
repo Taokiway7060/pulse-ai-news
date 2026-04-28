@@ -1,0 +1,140 @@
+{
+  "generated_at": "2026-04-28T06:00:00+00:00",
+  "count": 12,
+  "categories": ["Community", "Industry", "Labs", "Open Source", "Research"],
+  "_note": "Placeholder seed data so the UI renders before the first scheduled build. The daily GitHub Action will overwrite this file with real RSS-sourced headlines.",
+  "items": [
+    {
+      "id": "demo000001",
+      "title": "Welcome to Pulse — your daily AI news stream",
+      "summary": "This site is a static page that rebuilds itself every morning. A scheduled GitHub Action fetches a curated set of RSS feeds, normalizes the entries, and commits a fresh data/news.json — Cloudflare Pages then redeploys automatically. No backend, no database, no cost.",
+      "url": "#welcome",
+      "source": "Pulse",
+      "domain": "pulse.local",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-04-28T06:00:00+00:00"
+    },
+    {
+      "id": "demo000002",
+      "title": "Industry — coverage from TechCrunch, The Verge, Wired, Ars Technica, VentureBeat",
+      "summary": "After the first scheduled run, this slot will be filled by the latest AI-tagged stories from major tech publications. Cards link directly to the source article in a new tab.",
+      "url": "#industry",
+      "source": "Mixed press",
+      "domain": "press.local",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-04-28T05:45:00+00:00"
+    },
+    {
+      "id": "demo000003",
+      "title": "Research — fresh papers from arXiv cs.AI and cs.LG",
+      "summary": "Daily preprints from the two largest AI/ML categories on arXiv. Headlines are capped per feed so the firehose doesn't drown out everything else, and entries are deduped across sources.",
+      "url": "#research",
+      "source": "arXiv",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-04-28T05:30:00+00:00"
+    },
+    {
+      "id": "demo000004",
+      "title": "Labs — direct from OpenAI, Google AI, DeepMind, Anthropic",
+      "summary": "Announcements pulled straight from lab blogs, so you see them as soon as they ship — not filtered through press summaries. Updated alongside everything else on the daily cron.",
+      "url": "#labs",
+      "source": "Lab blogs",
+      "domain": "labs.local",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-04-28T05:15:00+00:00"
+    },
+    {
+      "id": "demo000005",
+      "title": "Open Source — the latest from Hugging Face and the community",
+      "summary": "New model releases, dataset drops, and tooling updates from the open-source ecosystem. The stuff you can actually run, fine-tune, and remix.",
+      "url": "#oss",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-04-28T05:00:00+00:00"
+    },
+    {
+      "id": "demo000006",
+      "title": "Community — what's bubbling on Hacker News right now",
+      "summary": "An AI-filtered slice of Hacker News, threshold-gated by points so only stories that gained real traction surface. Useful for catching grassroots reactions to launches and papers.",
+      "url": "#community",
+      "source": "Hacker News",
+      "domain": "news.ycombinator.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-04-28T04:45:00+00:00"
+    },
+    {
+      "id": "demo000007",
+      "title": "Use the chips above to filter by category",
+      "summary": "Tap Industry, Research, Labs, Open Source, or Community to narrow the feed. Tap All to return to the full stream. The hero card hides automatically when you filter or search so you see results-first.",
+      "url": "#filter",
+      "source": "Pulse",
+      "domain": "pulse.local",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-04-28T04:30:00+00:00"
+    },
+    {
+      "id": "demo000008",
+      "title": "Search across every headline, summary, and source",
+      "summary": "The search bar in the header runs against title, summary, source, and category in real time. Use it to track a model name, a company, a researcher, or a topic across all the feeds at once.",
+      "url": "#search",
+      "source": "Pulse",
+      "domain": "pulse.local",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-04-28T04:15:00+00:00"
+    },
+    {
+      "id": "demo000009",
+      "title": "Toggle light mode in the header",
+      "summary": "The sun/moon button in the top right swaps the palette between dark (default) and light. Both themes use the same glass surfaces and gradient accents — the contrast just inverts.",
+      "url": "#theme",
+      "source": "Pulse",
+      "domain": "pulse.local",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-04-28T04:00:00+00:00"
+    },
+    {
+      "id": "demo000010",
+      "title": "Edit build.py to add or remove feeds",
+      "summary": "The FEEDS list at the top of build.py controls every source. Add an RSS URL with a category tag, push to GitHub, and the next scheduled run will pick it up. Per-feed and total caps prevent any single source from overwhelming the page.",
+      "url": "#feeds",
+      "source": "Pulse",
+      "domain": "pulse.local",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-04-28T03:45:00+00:00"
+    },
+    {
+      "id": "demo000011",
+      "title": "GitHub Actions runs the build at 06:00 UTC daily",
+      "summary": "The cron is defined in .github/workflows/update.yml. You can change the time, run it manually from the Actions tab, or trigger it on every push by editing the schedule block.",
+      "url": "#cron",
+      "source": "GitHub Actions",
+      "domain": "github.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-04-28T03:30:00+00:00"
+    },
+    {
+      "id": "demo000012",
+      "title": "Connect this repo to Cloudflare Pages for a free public URL",
+      "summary": "Cloudflare Pages auto-deploys from your main branch. Each daily commit from the bot triggers a fresh build, and your *.pages.dev URL serves the new news.json instantly. Custom domains are free too.",
+      "url": "#deploy",
+      "source": "Cloudflare Pages",
+      "domain": "pages.cloudflare.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-04-28T03:15:00+00:00"
+    }
+  ]
+}
