@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T09:46:47.386399+00:00",
+  "generated_at": "2026-05-03T09:57:15.117129+00:00",
   "count": 88,
   "categories": [
     "Community",
@@ -9,6 +9,127 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "d660cd1e48f9",
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 108 # Comments: 104",
+      "url": "https://acai.sh/blog/specsmaxxing",
+      "source": "Hacker News (AI)",
+      "domain": "acai.sh",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-03T06:33:38+00:00"
+    },
+    {
+      "id": "9efcabdc9528",
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 279 # Comments: 138",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "source": "Hacker News (AI)",
+      "domain": "thinkpol.ca",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-03T04:05:28+00:00"
+    },
+    {
+      "id": "c416ef29ca4a",
+      "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
+      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 69 # Comments: 101",
+      "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
+      "source": "Hacker News (AI)",
+      "domain": "dailygrail.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-02T22:44:23+00:00"
+    },
+    {
+      "id": "75d28b166c44",
+      "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+      "summary": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 70 # Comments: 4",
+      "url": "https://github.com/mahimairaja/voiceai",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-02T22:03:15+00:00"
+    },
+    {
+      "id": "cd751b0b9ebb",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "summary": "Bad news for Tilly Norwood.",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-02T21:54:58+00:00"
+    },
+    {
+      "id": "8ef5ebdbe1fc",
+      "title": "The best AI dictation apps, tested and ranked",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-02T16:00:00+00:00"
+    },
+    {
+      "id": "e6d5095e44c9",
+      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 324 # Comments: 171",
+      "url": "https://arxiv.org/abs/2509.00462",
+      "source": "Hacker News (AI)",
+      "domain": "arxiv.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-02T15:28:13+00:00"
+    },
+    {
+      "id": "748ae34e3c9d",
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-02T10:30:00+00:00"
+    },
+    {
+      "id": "4bdf2674ea6d",
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "summary": "Hi HN, I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio. The idea is simple: you talk to your data in natural language, the AI generates Python code, executes it locally, and the whole conversation becomes a reprod…",
+      "url": "https://mljar.com/",
+      "source": "Hacker News (AI)",
+      "domain": "mljar.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-02T10:21:31+00:00"
+    },
+    {
+      "id": "2288d7cb0af6",
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "summary": "Hey HN! I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor. It fills fields, answers questions, focuses on a specific field, adds fields, deletes pages, and so on. It's built on top of SimplePDF that I started 7 years ago, pioneering privacy-respecting client-side pdf editing, now used mo…",
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "source": "Hacker News (AI)",
+      "domain": "copilot.simplepdf.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-02T08:54:27+00:00"
+    },
+    {
+      "id": "e22778300878",
+      "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+      "summary": "I've been building computer-use tools for a while, and I quietly launched this about a month ago (122 Stars on GH). I figured it was worth sharing here. Over the last few months, a lot of computer-use agents have come out: Codex, Claude Code, CUA, and others. Most of them seem to work roughly like this: 1. Take a scre…",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-02T02:18:24+00:00"
+    },
     {
       "id": "23f6e3b7456d",
       "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
@@ -100,7 +221,7 @@
     {
       "id": "a31015d1e1ff",
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 375 # Comments: 349",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 400 # Comments: 377",
       "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
       "source": "Hacker News (AI)",
       "domain": "californiawaterblog.com",
@@ -111,7 +232,7 @@
     {
       "id": "782dfdfb2e04",
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 243 # Comments: 268",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 272 # Comments: 300",
       "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
       "source": "Hacker News (AI)",
       "domain": "bbc.com",
@@ -122,7 +243,7 @@
     {
       "id": "0bc8023ea602",
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 380 # Comments: 452",
+      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 397 # Comments: 468",
       "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
       "source": "Hacker News (AI)",
       "domain": "briefs.co",
@@ -184,17 +305,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-05-01T14:00:00+00:00"
-    },
-    {
-      "id": "82234c45d1d0",
-      "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
-      "summary": "I've always had the urge to have my two macbooks communicate. Having one idle while working on the other felt like underutilization of resources. So I built Loopsy. Initially the goal was to do file transfer via local network, and then came running commands. I then tried running coding agents from one machine to the o…",
-      "url": "https://github.com/leox255/loopsy",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-05-01T10:25:41+00:00"
     },
     {
       "id": "f19f5d9e485f",
@@ -329,28 +439,6 @@
       "published": "2026-04-30T18:54:54+00:00"
     },
     {
-      "id": "c273fc4f9c3b",
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
-      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-04-30T18:20:03+00:00"
-    },
-    {
-      "id": "66a52a611216",
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-04-30T18:03:57+00:00"
-    },
-    {
       "id": "63e819c902b1",
       "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
       "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
@@ -373,17 +461,6 @@
       "published": "2026-04-30T17:30:39+00:00"
     },
     {
-      "id": "3511b2a88a59",
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "summary": "Also: https://socket.dev/blog/lightning-pypi-package-compromised Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 458 # Comments: 177",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "source": "Hacker News (AI)",
-      "domain": "semgrep.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-04-30T16:09:26+00:00"
-    },
-    {
       "id": "33cd779feb0e",
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
       "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is buil…",
@@ -393,17 +470,6 @@
       "category": "Research",
       "image": "",
       "published": "2026-04-30T15:59:41+00:00"
-    },
-    {
-      "id": "07319b66c027",
-      "title": "The More Young People Use AI, the More They Hate It",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai Comments URL: https://news.ycombinator.com/item?id=47963163 Points: 125 # Comments: 139",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
-      "source": "Hacker News (AI)",
-      "domain": "theverge.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-04-30T14:34:36+00:00"
     },
     {
       "id": "6a7ce82df4f4",
@@ -450,50 +516,6 @@
       "published": "2026-04-30T09:00:00+00:00"
     },
     {
-      "id": "46546871a5cf",
-      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-      "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 146 # Comments: 28",
-      "url": "https://datacenter.fm/",
-      "source": "Hacker News (AI)",
-      "domain": "datacenter.fm",
-      "category": "Community",
-      "image": "",
-      "published": "2026-04-30T07:52:12+00:00"
-    },
-    {
-      "id": "31c7b4393580",
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 669 # Comments: 454",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "source": "Hacker News (AI)",
-      "domain": "simonwillison.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-04-30T02:15:47+00:00"
-    },
-    {
-      "id": "1228d5e1d874",
-      "title": "Claude.ai and API unavailable [fixed]",
-      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 118 # Comments: 120",
-      "url": "https://status.claude.com/incidents/2gf1jpyty350",
-      "source": "Hacker News (AI)",
-      "domain": "status.claude.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-04-30T01:21:03+00:00"
-    },
-    {
-      "id": "d658377bc3b2",
-      "title": "Mike: open-source legal AI",
-      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 203 # Comments: 101",
-      "url": "https://mikeoss.com/",
-      "source": "Hacker News (AI)",
-      "domain": "mikeoss.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-04-30T00:56:23+00:00"
-    },
-    {
       "id": "637716bf05bf",
       "title": "Introducing Advanced Account Security",
       "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
@@ -516,17 +538,6 @@
       "published": "2026-04-29T23:41:51+00:00"
     },
     {
-      "id": "c5262f2aa529",
-      "title": "Emergency First Responders Say Waymos Are Getting Worse",
-      "summary": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
-      "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-04-29T20:45:37+00:00"
-    },
-    {
       "id": "c78bcffd3322",
       "title": "Where the goblins came from",
       "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
@@ -536,17 +547,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-04-29T20:00:00+00:00"
-    },
-    {
-      "id": "8a2cda23179d",
-      "title": "Your CEO is suffering from AI psychosis",
-      "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 108 # Comments: 31",
-      "url": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis",
-      "source": "Hacker News (AI)",
-      "domain": "handyai.substack.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-04-29T19:46:18+00:00"
     },
     {
       "id": "1ac256bc88e3",
