@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T09:57:15.117129+00:00",
-  "count": 88,
+  "generated_at": "2026-05-04T12:12:02.684232+00:00",
+  "count": 100,
   "categories": [
     "Community",
     "Industry",
@@ -10,9 +10,174 @@
   ],
   "items": [
     {
+      "id": "fd3c86256599",
+      "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+      "summary": "arXiv:2605.00005v1 Announce Type: new Abstract: The increasing deployment of deep neural networks (DNNs) in cyber-physical systems (CPS) enhances perception fidelity, but imposes substantial computational demands on execution platforms, posing challenges to real-time control deadlines. Traditional distributed CPS arch…",
+      "url": "https://arxiv.org/abs/2605.00005",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "d05fc2a9f914",
+      "title": "FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources",
+      "summary": "arXiv:2605.00011v1 Announce Type: new Abstract: Federated Learning (FL) enables collaborative intelligence across decentralized data source devices in a privacy-preserving way. While substantial research attention has been drawn to optimizing the learning process for an individual task, real-world applications increas…",
+      "url": "https://arxiv.org/abs/2605.00011",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "2b677f0bcaca",
+      "title": "What Physics do Data-Driven MoCap-to-Radar Models Learn?",
+      "summary": "arXiv:2605.00018v1 Announce Type: new Abstract: Data-driven MoCap-to-radar models generate plausible micro-Doppler spectrograms, but do they actually learn the underlying physics? We introduce a physics-based interpretability framework to answer this question via two proposed complementary metrics: one measures alignm…",
+      "url": "https://arxiv.org/abs/2605.00018",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "f3f3641c2e19",
+      "title": "AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G",
+      "summary": "arXiv:2605.00020v1 Announce Type: new Abstract: The success of large foundation models is catalyzing a new paradigm for AI-native 6G network design: wireless foundation models for physical layer design. However, existing models often operate on channel state information (CSI) in the space-time-frequency (STF) domain,…",
+      "url": "https://arxiv.org/abs/2605.00020",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "2684b4aa1c7f",
+      "title": "Learning physically grounded traffic accident reconstruction from public accident reports",
+      "summary": "arXiv:2605.00050v1 Announce Type: new Abstract: Traffic accidents are routinely documented in textual reports, yet physically grounded accident reconstruction remains difficult because detailed scene measurements and expert reconstructions are scarce, costly and hard to scale. Here we formulate accident reconstruction…",
+      "url": "https://arxiv.org/abs/2605.00050",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "f9565929ac89",
+      "title": "Smart Ensemble Learning Framework for Predicting Groundwater Heavy Metal Pollution",
+      "summary": "arXiv:2605.00056v1 Announce Type: new Abstract: Groundwater in the Densu Basin is increasingly threatened by heavy metal contamination, but conventional methods fail to capture the statistical complexity and spatial heterogeneity of pollution indicators. A key challenge is modelling the Heavy Metal Pollution Index (HP…",
+      "url": "https://arxiv.org/abs/2605.00056",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "ed5bacd046e4",
+      "title": "Information-Theoretic Generalization Bounds for Stochastic Gradient Descent with Predictable Virtual Noise",
+      "summary": "arXiv:2605.00064v1 Announce Type: new Abstract: Information-theoretic generalization bounds analyze stochastic optimization by relating expected generalization error to the mutual information between learned parameters and training data. Virtual perturbation analyses of SGD add auxiliary Gaussian noise only in the pro…",
+      "url": "https://arxiv.org/abs/2605.00064",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "3878c50ba27b",
+      "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
+      "summary": "arXiv:2605.00068v1 Announce Type: new Abstract: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively high costs and limited experimental opportunities. This paper presents Human-in-the-Loop Meta Bayesian Optimization (HL-M…",
+      "url": "https://arxiv.org/abs/2605.00068",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "cb088b405695",
+      "title": "Soft-MSM: Differentiable Context-Aware Elastic Alignment for Time Series",
+      "summary": "arXiv:2605.00069v1 Announce Type: new Abstract: Elastic distances like dynamic time warping (DTW) are central to time series machine learning because they compare sequences under local temporal misalignment. Soft-DTW is an adaptation of DTW that can be used as a gradient-based loss by replacing the hard minimum in its…",
+      "url": "https://arxiv.org/abs/2605.00069",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "dc830b55e88d",
+      "title": "CRADIPOR: Crash Dispersion Predictor",
+      "summary": "arXiv:2605.00070v1 Announce Type: new Abstract: We present CRADIPOR, a numerical dispersion prediction tool for automotive crash simulations. Finite Element (FE) crash models are widely used throughout vehicle development, but their predictions are not strictly repeatable because of parallel computation and model comp…",
+      "url": "https://arxiv.org/abs/2605.00070",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "66ec25c4fae8",
+      "title": "Hyperspherical Forward-Forward with Prototypical Representations",
+      "summary": "arXiv:2605.00082v1 Announce Type: new Abstract: The Forward-Forward (FF) algorithm presents a compelling, bio-inspired alternative to backpropagation. However, while efficient in training, it has a computationally prohibitive inference process that requires a separate forward pass for every class that is evaluated. In…",
+      "url": "https://arxiv.org/abs/2605.00082",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "a655d05c2e16",
+      "title": "Comparative Analysis of Polygon-Based and Global Machine Learning Models for Bus Occupancy Prediction",
+      "summary": "arXiv:2605.00083v1 Announce Type: new Abstract: Accurate forecasting of bus ridership (passengers numbers) is crucial for efficient management and optimization of public transport systems. Traditional forecasting models often fail to capture the unique and localized dynamics of different urban areas by treating the en…",
+      "url": "https://arxiv.org/abs/2605.00083",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-05-04T04:00:00+00:00"
+    },
+    {
+      "id": "ce69c5f64ed4",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-03T20:16:51+00:00"
+    },
+    {
+      "id": "739cdb6f1497",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-03T18:00:09+00:00"
+    },
+    {
+      "id": "3f693ed84727",
+      "title": "The Oscars just banned AI from winning acting and writing awards",
+      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740 Comments URL: https://news.ycombinator.com/item?id=47999346 Points: 74 # Comments: 50",
+      "url": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740",
+      "source": "Hacker News (AI)",
+      "domain": "gizmodo.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-03T17:34:15+00:00"
+    },
+    {
       "id": "d660cd1e48f9",
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 108 # Comments: 104",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 269 # Comments: 283",
       "url": "https://acai.sh/blog/specsmaxxing",
       "source": "Hacker News (AI)",
       "domain": "acai.sh",
@@ -23,7 +188,7 @@
     {
       "id": "9efcabdc9528",
       "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 279 # Comments: 138",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 364 # Comments: 217",
       "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
       "source": "Hacker News (AI)",
       "domain": "thinkpol.ca",
@@ -32,9 +197,20 @@
       "published": "2026-05-03T04:05:28+00:00"
     },
     {
+      "id": "246951a9e86d",
+      "title": "AI, Intimacy, and the Data You Never Meant to Share",
+      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 77 # Comments: 6",
+      "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+      "source": "Hacker News (AI)",
+      "domain": "fshot.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-03T02:42:43+00:00"
+    },
+    {
       "id": "c416ef29ca4a",
       "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 69 # Comments: 101",
+      "summary": "Article URL: https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/ Comments URL: https://news.ycombinator.com/item?id=47991340 Points: 75 # Comments: 123",
       "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
       "source": "Hacker News (AI)",
       "domain": "dailygrail.com",
@@ -45,7 +221,7 @@
     {
       "id": "75d28b166c44",
       "title": "Voice-AI-for-Beginners – A curated learning path for developers",
-      "summary": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 70 # Comments: 4",
+      "summary": "Article URL: https://github.com/mahimairaja/voiceai Comments URL: https://news.ycombinator.com/item?id=47991018 Points: 83 # Comments: 4",
       "url": "https://github.com/mahimairaja/voiceai",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -78,7 +254,7 @@
     {
       "id": "e6d5095e44c9",
       "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 324 # Comments: 171",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 330 # Comments: 178",
       "url": "https://arxiv.org/abs/2509.00462",
       "source": "Hacker News (AI)",
       "domain": "arxiv.org",
@@ -221,35 +397,13 @@
     {
       "id": "a31015d1e1ff",
       "title": "AI uses less water than the public thinks",
-      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 400 # Comments: 377",
+      "summary": "Article URL: https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/ Comments URL: https://news.ycombinator.com/item?id=47977383 Points: 407 # Comments: 384",
       "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
       "source": "Hacker News (AI)",
       "domain": "californiawaterblog.com",
       "category": "Community",
       "image": "",
       "published": "2026-05-01T17:18:58+00:00"
-    },
-    {
-      "id": "782dfdfb2e04",
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 272 # Comments: 300",
-      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-      "source": "Hacker News (AI)",
-      "domain": "bbc.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-05-01T16:42:41+00:00"
-    },
-    {
-      "id": "0bc8023ea602",
-      "title": "Uber torches 2026 AI budget on Claude Code in four months",
-      "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 397 # Comments: 468",
-      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "source": "Hacker News (AI)",
-      "domain": "briefs.co",
-      "category": "Community",
-      "image": "",
-      "published": "2026-05-01T16:08:53+00:00"
     },
     {
       "id": "ff1d97aeeb2a",
@@ -384,17 +538,6 @@
       "published": "2026-04-30T21:11:51+00:00"
     },
     {
-      "id": "4a87a01ac5a8",
-      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-      "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-      "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-04-30T20:14:47+00:00"
-    },
-    {
       "id": "c5c6dc46d04e",
       "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
       "summary": "Meta said the Kenyan workers didn't \"meet our standards.\"",
@@ -415,17 +558,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2251354672-1152x648.jpg",
       "published": "2026-04-30T19:34:15+00:00"
-    },
-    {
-      "id": "6434976e8b8c",
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-04-30T19:27:41+00:00"
     },
     {
       "id": "ccbb28af945d",
