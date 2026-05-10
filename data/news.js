@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-05-09T09:58:23.486013+00:00",
+  "generated_at": "2026-05-10T10:45:13.018352+00:00",
   "count": 86,
   "categories": [
     "Community",
@@ -10,9 +10,86 @@ window.NEWS_DATA = {
   ],
   "items": [
     {
+      "id": "d029aa486d31",
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-10T02:00:00+00:00"
+    },
+    {
+      "id": "37c19cf39d8b",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-09T21:45:00+00:00"
+    },
+    {
+      "id": "0c5e110abb12",
+      "title": "Meta's embrace of AI is making its employees miserable",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 396 # Comments: 432",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "source": "Hacker News (AI)",
+      "domain": "nytimes.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-09T18:33:36+00:00"
+    },
+    {
+      "id": "c3afc6f2810d",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "summary": "",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-05-09T18:09:28+00:00"
+    },
+    {
+      "id": "12977523d825",
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-09T14:43:30+00:00"
+    },
+    {
+      "id": "6df0e5a9965e",
+      "title": "The new Wild West of AI kids’ toys",
+      "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+      "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240670637-1152x648.jpg",
+      "published": "2026-05-09T11:00:51+00:00"
+    },
+    {
+      "id": "09c6280dedf1",
+      "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+      "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-09T10:30:00+00:00"
+    },
+    {
       "id": "8bcb3ce1b85c",
       "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 86 # Comments: 35",
+      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 182 # Comments: 76",
       "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
       "source": "Hacker News (AI)",
       "domain": "adele.pages.casa",
@@ -21,9 +98,20 @@ window.NEWS_DATA = {
       "published": "2026-05-09T07:23:40+00:00"
     },
     {
+      "id": "fe81c154f82d",
+      "title": "I Will Never Use AI to Code",
+      "summary": "Article URL: https://antman-does-software.com/i-will-never-use-ai-to-code-or-write Comments URL: https://news.ycombinator.com/item?id=48072319 Points: 65 # Comments: 81",
+      "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write",
+      "source": "Hacker News (AI)",
+      "domain": "antman-does-software.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-09T06:14:20+00:00"
+    },
+    {
       "id": "de275de1f737",
       "title": "People Hate AI Art",
-      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 116 # Comments: 130",
+      "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 142 # Comments: 168",
       "url": "https://mccue.dev/pages/5-8-26-ai-art",
       "source": "Hacker News (AI)",
       "domain": "mccue.dev",
@@ -100,24 +188,13 @@ window.NEWS_DATA = {
     {
       "id": "3c496545db96",
       "title": "AI is breaking two vulnerability cultures",
-      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 331 # Comments: 133",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 416 # Comments: 169",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "source": "Hacker News (AI)",
       "domain": "jefftk.com",
       "category": "Community",
       "image": "",
       "published": "2026-05-08T17:55:08+00:00"
-    },
-    {
-      "id": "8bb0f5b1ba73",
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "summary": "",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-05-08T17:41:05+00:00"
     },
     {
       "id": "01d58a0c130a",
@@ -153,10 +230,10 @@ window.NEWS_DATA = {
       "published": "2026-05-08T15:46:17+00:00"
     },
     {
-      "id": "8801cb2330f3",
-      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-      "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "id": "3ef6f6b9907d",
+      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+      "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
       "source": "Wired AI",
       "domain": "wired.com",
       "category": "Industry",
@@ -164,10 +241,10 @@ window.NEWS_DATA = {
       "published": "2026-05-08T15:00:00+00:00"
     },
     {
-      "id": "3ef6f6b9907d",
-      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+      "id": "8801cb2330f3",
+      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+      "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
       "source": "Wired AI",
       "domain": "wired.com",
       "category": "Industry",
@@ -254,7 +331,7 @@ window.NEWS_DATA = {
     {
       "id": "56716ae255a5",
       "title": "GPT-5.5 Price Increase: What It Costs",
-      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 206 # Comments: 64",
+      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 209 # Comments: 68",
       "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
       "source": "Hacker News (AI)",
       "domain": "openrouter.ai",
@@ -318,37 +395,15 @@ window.NEWS_DATA = {
       "published": "2026-05-07T20:20:20+00:00"
     },
     {
-      "id": "14ed73b0211a",
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-07T19:57:59+00:00"
-    },
-    {
       "id": "4f7f5e8dc2bd",
       "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 138 # Comments: 37",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 139 # Comments: 39",
       "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
       "source": "Hacker News (AI)",
       "domain": "citizen.co.za",
       "category": "Community",
       "image": "",
       "published": "2026-05-07T19:38:36+00:00"
-    },
-    {
-      "id": "a9a05f52fb87",
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
-      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-07T19:21:21+00:00"
     },
     {
       "id": "25cd642dfd7b",
@@ -362,20 +417,9 @@ window.NEWS_DATA = {
       "published": "2026-05-07T19:18:16+00:00"
     },
     {
-      "id": "2c34bfe30316",
-      "title": "Bumble is getting rid of the swipe, CEO says",
-      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
-      "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-07T19:06:17+00:00"
-    },
-    {
       "id": "d77cc9737674",
       "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 811 # Comments: 707",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 826 # Comments: 715",
       "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
       "source": "Hacker News (AI)",
       "domain": "rmoff.net",
@@ -485,7 +529,7 @@ window.NEWS_DATA = {
     {
       "id": "d2b24509e542",
       "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 125 # Comments: 25",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab Comments URL: https://news.ycombinator.com/item?id=48046397 Points: 126 # Comments: 25",
       "url": "https://unsloth.ai/blog/nvidia-collab",
       "source": "Hacker News (AI)",
       "domain": "unsloth.ai",
@@ -525,17 +569,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-05-07T00:00:00+00:00"
-    },
-    {
-      "id": "efb78dfb4cd4",
-      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-      "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-      "url": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-06T23:23:45+00:00"
     },
     {
       "id": "7f3cce97d1d3",
@@ -606,7 +639,7 @@ window.NEWS_DATA = {
     {
       "id": "7f2df074b393",
       "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
-      "summary": "Article URL: https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48037923 Points: 54 # Comments: 25",
+      "summary": "Article URL: https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb Comments URL: https://news.ycombinator.com/item?id=48037923 Points: 55 # Comments: 27",
       "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
       "source": "Hacker News (AI)",
       "domain": "theguardian.com",
@@ -624,17 +657,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp",
       "published": "2026-05-06T16:00:00+00:00"
-    },
-    {
-      "id": "6802e9b8841a",
-      "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
-      "summary": "Up to 3x the speed with no loss of quality—is it too good to be true?",
-      "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-1152x648.jpg",
-      "published": "2026-05-06T15:44:20+00:00"
     },
     {
       "id": "ce54a3c4c781",
@@ -657,28 +679,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-05-06T08:00:00+00:00"
-    },
-    {
-      "id": "8ad2ded07c20",
-      "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
-      "summary": "Article URL: https://github.com/OxideAV/oxideav-magicyuv/issues/3 Comments URL: https://news.ycombinator.com/item?id=48031185 Points: 81 # Comments: 6",
-      "url": "https://github.com/OxideAV/oxideav-magicyuv/issues/3",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-05-06T01:50:42+00:00"
-    },
-    {
-      "id": "fcff4180a7c1",
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 235 # Comments: 214",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "source": "Hacker News (AI)",
-      "domain": "letsdatascience.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-05-06T01:38:44+00:00"
     },
     {
       "id": "5c99300d25f6",
