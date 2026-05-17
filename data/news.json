@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T10:45:08.064626+00:00",
-  "count": 93,
+  "generated_at": "2026-05-17T10:53:00.325851+00:00",
+  "count": 81,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,72 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "3471af8792c6",
+      "title": "The haves and have nots of the AI gold rush",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-16T20:17:16+00:00"
+    },
+    {
+      "id": "4853d346b4b4",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-16T18:54:28+00:00"
+    },
+    {
+      "id": "7548d4f4c5e6",
+      "title": "US is starting to see heavy job losses in roles exposed to AI",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 156 # Comments: 246",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+      "source": "Hacker News (AI)",
+      "domain": "bloomberg.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-16T17:59:45+00:00"
+    },
+    {
+      "id": "9cc37a0458c9",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-16T15:33:33+00:00"
+    },
+    {
+      "id": "aca2570df701",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 240 # Comments: 72",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "source": "Hacker News (AI)",
+      "domain": "seangoedecke.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-16T14:58:16+00:00"
+    },
+    {
+      "id": "ad20ad8ff751",
+      "title": "The US is betting on AI to catch insider trading in prediction markets",
+      "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-1152x648.jpg",
+      "published": "2026-05-16T11:00:01+00:00"
+    },
     {
       "id": "f265d0332578",
       "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
@@ -21,147 +87,26 @@
       "published": "2026-05-16T09:30:00+00:00"
     },
     {
+      "id": "2358b3a373c0",
+      "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+      "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 54 # Comments: 65",
+      "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
+      "source": "Hacker News (AI)",
+      "domain": "petapixel.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-05-16T08:30:51+00:00"
+    },
+    {
       "id": "26dbf0ed6fe9",
       "title": "Frontier AI has broken the open CTF format",
-      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 148 # Comments: 129",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 384 # Comments: 387",
       "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
       "source": "Hacker News (AI)",
       "domain": "kabir.au",
       "category": "Community",
       "image": "",
       "published": "2026-05-16T07:01:55+00:00"
-    },
-    {
-      "id": "142ea28844c0",
-      "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-      "summary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that define…",
-      "url": "https://arxiv.org/abs/2605.13848",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "7873fe28483c",
-      "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
-      "summary": "arXiv:2605.13849v1 Announce Type: new Abstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations have two persistent limitations: continuous variables produce impractical fractional servings (1.7 eggs, 0.37 bananas)…",
-      "url": "https://arxiv.org/abs/2605.13849",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "1351d166a3f8",
-      "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-      "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent…",
-      "url": "https://arxiv.org/abs/2605.13850",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "19b538801351",
-      "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
-      "summary": "arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a…",
-      "url": "https://arxiv.org/abs/2605.13851",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "f808e830fa39",
-      "title": "PREPING: Building Agent Memory without Tasks",
-      "summary": "arXiv:2605.13880v1 Announce Type: new Abstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of how it is built, an agent faces a cold-start gap when first introduced to a new environment without any task-specific expe…",
-      "url": "https://arxiv.org/abs/2605.13880",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "54435afe10c6",
-      "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
-      "summary": "arXiv:2605.14002v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) embedded in agentic frameworks have transformed information retrieval from static, long context question answering into open-ended exploration. Yet real world use requires models to discover and synthesize \"long-tail\" facts from dispersed so…",
-      "url": "https://arxiv.org/abs/2605.14002",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "ab979c2248e5",
-      "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
-      "summary": "arXiv:2605.14004v1 Announce Type: new Abstract: Generative models are often trained with a next-token prediction objective, yet many downstream applications require the ability to estimate or control sequence-level properties. Next-token prediction can lead to overfitting of local patterns during training, underfittin…",
-      "url": "https://arxiv.org/abs/2605.14004",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "1ac571b17c80",
-      "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
-      "summary": "arXiv:2605.14033v1 Announce Type: new Abstract: Scientific theory shift in AI agents requires more than fitting equations to data. An artificial scientific agent must detect whether an existing representational framework remains transportable into a new regime, or whether its language has become locally-to-globally ob…",
-      "url": "https://arxiv.org/abs/2605.14033",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "ba5e3f8084d4",
-      "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
-      "summary": "arXiv:2605.14034v1 Announce Type: new Abstract: Wide applications of LLM-based agents require strong alignment with human social values. However, current works still exhibit deficiencies in self-cognition and dilemma decision, as well as self-emotions. To remedy this, we propose a novel value-based framework that empl…",
-      "url": "https://arxiv.org/abs/2605.14034",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "c9164c10bd47",
-      "title": "Enhanced and Efficient Reasoning in Large Learning Models",
-      "summary": "arXiv:2605.14036v1 Announce Type: new Abstract: In current Large Language Models we can trust the production of smoothly flowing prose on the basis of the principles of machine learning. However, there is no comparably principled basis to justify trust in the content of the text produced. It appears to be conventional…",
-      "url": "https://arxiv.org/abs/2605.14036",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "5e5a174061e6",
-      "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
-      "summary": "arXiv:2605.14038v1 Announce Type: new Abstract: Large language models (LLMs) increasingly act as autonomous agents that must decide when to answer directly vs. when to invoke external tools. Prior work studying adaptive tool use has largely treated tool necessity as a model-agnostic property, annotated by human or LLM…",
-      "url": "https://arxiv.org/abs/2605.14038",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
-    },
-    {
-      "id": "7ab682a2b7a9",
-      "title": "Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning",
-      "summary": "arXiv:2605.14048v1 Announce Type: new Abstract: Masked autoencoders (MAEs) have recently shown promise for self-supervised representation learning of resting-state brain functional connectivity (FC). However, a fundamental question remains unresolved: how should FC matrices be tokenized to align with the intrinsic mod…",
-      "url": "https://arxiv.org/abs/2605.14048",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-05-16T04:00:00+00:00"
     },
     {
       "id": "db3e75962b4b",
@@ -175,8 +120,8 @@
       "published": "2026-05-16T00:00:00+00:00"
     },
     {
-      "id": "35d866843a82",
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "id": "e9cbb4158dd5",
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
       "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control th…",
       "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
       "source": "MIT Tech Review AI",
@@ -199,7 +144,7 @@
     {
       "id": "c7989c9a4dbd",
       "title": "I believe there are entire companies right now under AI psychosis",
-      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578 https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1400 # Comments: 690",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578 https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1984 # Comments: 1164",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
       "source": "Hacker News (AI)",
       "domain": "twitter.com",
@@ -298,7 +243,7 @@
     {
       "id": "6e56e26ca6ea",
       "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 356 # Comments: 399",
+      "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 390 # Comments: 427",
       "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
       "source": "Hacker News (AI)",
       "domain": "fastcompany.com",
@@ -331,7 +276,7 @@
     {
       "id": "0d3f47ef2ebb",
       "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 53 # Comments: 45",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 58 # Comments: 47",
       "url": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o",
       "source": "Hacker News (AI)",
       "domain": "bbc.co.uk",
@@ -342,7 +287,7 @@
     {
       "id": "e17684482acc",
       "title": "UK sovereign LLM inference",
-      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 105 # Comments: 109",
+      "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 107 # Comments: 113",
       "url": "https://relax.ai/docs",
       "source": "Hacker News (AI)",
       "domain": "relax.ai",
@@ -353,7 +298,7 @@
     {
       "id": "e5409a5050b5",
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 280 # Comments: 63",
+      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 283 # Comments: 66",
       "url": "https://github.com/Andyyyy64/whichllm",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -397,7 +342,7 @@
     {
       "id": "dcbe703f0b29",
       "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 214 # Comments: 214",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 222 # Comments: 215",
       "url": "https://writing.antonleicht.me/p/cut-off",
       "source": "Hacker News (AI)",
       "domain": "writing.antonleicht.me",
@@ -474,24 +419,13 @@
     {
       "id": "907e9d9755d9",
       "title": "LLM Policy for Rust Compiler",
-      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 97 # Comments: 83",
+      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 98 # Comments: 83",
       "url": "https://github.com/rust-lang/rust-forge/pull/1040",
       "source": "Hacker News (AI)",
       "domain": "github.com",
       "category": "Community",
       "image": "",
       "published": "2026-05-14T23:37:21+00:00"
-    },
-    {
-      "id": "b0c4afe07a49",
-      "title": "Have a Coherent AI Policy",
-      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48142553 Points: 70 # Comments: 62",
-      "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
-      "source": "Hacker News (AI)",
-      "domain": "brianmeeker.me",
-      "category": "Community",
-      "image": "",
-      "published": "2026-05-14T23:24:45+00:00"
     },
     {
       "id": "d0448e843827",
@@ -503,17 +437,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-05-14T22:47:51+00:00"
-    },
-    {
-      "id": "c82a50101a16",
-      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 304 # Comments: 136",
-      "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-      "source": "Hacker News (AI)",
-      "domain": "theregister.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-05-14T22:37:40+00:00"
     },
     {
       "id": "7f29b4dca075",
@@ -582,28 +505,6 @@
       "published": "2026-05-14T19:17:28+00:00"
     },
     {
-      "id": "f511f5c81ce9",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
-      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-14T19:12:03+00:00"
-    },
-    {
-      "id": "19b1e2fc364d",
-      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-14T19:05:01+00:00"
-    },
-    {
       "id": "af24385ab0ed",
       "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
       "summary": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.",
@@ -626,17 +527,6 @@
       "published": "2026-05-14T18:55:01+00:00"
     },
     {
-      "id": "fd1a029fe2e7",
-      "title": "The AI zombification of universities",
-      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 191 # Comments: 210",
-      "url": "https://www.thenewcritic.com/p/the-great-zombification",
-      "source": "Hacker News (AI)",
-      "domain": "thenewcritic.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-05-14T18:37:08+00:00"
-    },
-    {
       "id": "792c7d1cfb57",
       "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
       "summary": "Made-up therapy referrals, incorrect prescriptions among the common mistakes.",
@@ -646,17 +536,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2171717851-1152x648.jpg",
       "published": "2026-05-14T17:28:43+00:00"
-    },
-    {
-      "id": "3502091a0b00",
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-14T16:30:02+00:00"
     },
     {
       "id": "43f5fb0bbdf7",
@@ -822,17 +701,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1155287857-1152x648.jpg",
       "published": "2026-05-13T16:31:18+00:00"
-    },
-    {
-      "id": "45e1e241b3ea",
-      "title": "Rivian adds a new onboard AI assistant to its latest software update",
-      "summary": "The Rivian Assistant is available for both Gen1 and Gen2 hardware.",
-      "url": "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/RivianAssistantStatic-1152x648.jpg",
-      "published": "2026-05-13T12:45:30+00:00"
     },
     {
       "id": "d1abc9cf44c4",
