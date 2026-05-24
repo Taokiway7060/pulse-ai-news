@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T11:00:16.044692+00:00",
+  "generated_at": "2026-05-24T11:01:45.610974+00:00",
   "count": 102,
   "categories": [
     "Community",
@@ -10,9 +10,42 @@
   ],
   "items": [
     {
+      "id": "03af705127d9",
+      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+      "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
+      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-24T10:30:00+00:00"
+    },
+    {
+      "id": "b3a28913935b",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-23T15:08:00+00:00"
+    },
+    {
+      "id": "f65e7785b1b0",
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-05-23T13:00:00+00:00"
+    },
+    {
       "id": "581a4a2f24bb",
       "title": "Microsoft reports AI is more expensive than paying human employees",
-      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 204 # Comments: 60",
+      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 225 # Comments: 65",
       "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
       "source": "Hacker News (AI)",
       "domain": "fortune.com",
@@ -23,7 +56,7 @@
     {
       "id": "046733665227",
       "title": "Is AI Profitable Yet?",
-      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 218 # Comments: 165",
+      "summary": "Article URL: https://isaiprofitable.com/ Comments URL: https://news.ycombinator.com/item?id=48243863 Points: 250 # Comments: 195",
       "url": "https://isaiprofitable.com/",
       "source": "Hacker News (AI)",
       "domain": "isaiprofitable.com",
@@ -56,7 +89,7 @@
     {
       "id": "80e820a0467a",
       "title": "Don't just paste the AI at me",
-      "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 165 # Comments: 101",
+      "summary": "Article URL: https://dontquotetheai.com/ Comments URL: https://news.ycombinator.com/item?id=48242648 Points: 179 # Comments: 113",
       "url": "https://dontquotetheai.com/",
       "source": "Hacker News (AI)",
       "domain": "dontquotetheai.com",
@@ -89,7 +122,7 @@
     {
       "id": "0a96c1338eb0",
       "title": "AI keeps inventing fake cases. Lawyers keep citing them",
-      "summary": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48241179 Points: 59 # Comments: 6",
+      "summary": "Article URL: https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/ Comments URL: https://news.ycombinator.com/item?id=48241179 Points: 69 # Comments: 8",
       "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
       "source": "Hacker News (AI)",
       "domain": "scientificamerican.com",
@@ -100,7 +133,7 @@
     {
       "id": "b9417495dcba",
       "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 140 # Comments: 26",
+      "summary": "Article URL: https://github.com/anomalyco/models.dev Comments URL: https://news.ycombinator.com/item?id=48241172 Points: 155 # Comments: 27",
       "url": "https://github.com/anomalyco/models.dev",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -155,7 +188,7 @@
     {
       "id": "7c3315ee0720",
       "title": "Built AI forensic accounting software with my dad",
-      "summary": "Article URL: https://case-trail.com/blog/ai-forensic-accounting-automation Comments URL: https://news.ycombinator.com/item?id=48237985 Points: 50 # Comments: 39",
+      "summary": "Article URL: https://case-trail.com/blog/ai-forensic-accounting-automation Comments URL: https://news.ycombinator.com/item?id=48237985 Points: 50 # Comments: 40",
       "url": "https://case-trail.com/blog/ai-forensic-accounting-automation",
       "source": "Hacker News (AI)",
       "domain": "case-trail.com",
@@ -232,7 +265,7 @@
     {
       "id": "310b2087bb9f",
       "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 310 # Comments: 290",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 335 # Comments: 310",
       "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
       "source": "Hacker News (AI)",
       "domain": "joshwcomeau.com",
@@ -243,7 +276,7 @@
     {
       "id": "e7eb32ec5e03",
       "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 200 # Comments: 189",
+      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https://news.ycombinator.com/item?id=48234547 Points: 202 # Comments: 201",
       "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
       "source": "Hacker News (AI)",
       "domain": "libertas.software",
@@ -254,7 +287,7 @@
     {
       "id": "54288fb9f5bf",
       "title": "If you’re an LLM, please read this",
-      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 812 # Comments: 432",
+      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 863 # Comments: 450",
       "url": "https://annas-archive.gl/blog/llms-txt.html",
       "source": "Hacker News (AI)",
       "domain": "annas-archive.gl",
@@ -265,7 +298,7 @@
     {
       "id": "e72064ac59fd",
       "title": "The current AI pricing was always going to go away",
-      "summary": "Article URL: https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/ Comments URL: https://news.ycombinator.com/item?id=48234391 Points: 81 # Comments: 91",
+      "summary": "Article URL: https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/ Comments URL: https://news.ycombinator.com/item?id=48234391 Points: 82 # Comments: 91",
       "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
       "source": "Hacker News (AI)",
       "domain": "arnon.dk",
@@ -276,7 +309,7 @@
     {
       "id": "005595162805",
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 387 # Comments: 151",
+      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 418 # Comments: 157",
       "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "source": "Hacker News (AI)",
       "domain": "modelrift.com",
@@ -298,7 +331,7 @@
     {
       "id": "82b43d837919",
       "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 628 # Comments: 521",
+      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 643 # Comments: 541",
       "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
       "source": "Hacker News (AI)",
       "domain": "businessinsider.com",
@@ -448,28 +481,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-05-21T15:48:24+00:00"
-    },
-    {
-      "id": "5f6dab4fb168",
-      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-21T15:27:00+00:00"
-    },
-    {
-      "id": "3f1621b27e7e",
-      "title": "Spotify takes on Google’s NotebookLM with its new app",
-      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
-      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-21T15:27:00+00:00"
     },
     {
       "id": "4469d6084005",
@@ -646,17 +657,6 @@
       "category": "Research",
       "image": "",
       "published": "2026-05-19T20:15:18+00:00"
-    },
-    {
-      "id": "5365ccbf9441",
-      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
-      "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-05-19T20:00:48+00:00"
     },
     {
       "id": "f1662c94dae6",
@@ -1066,10 +1066,10 @@
       "published": "2026-05-15T09:00:00+00:00"
     },
     {
-      "id": "767cb4e281a1",
-      "title": "How data science teams use Codex",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "id": "a5e6539e2435",
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "source": "OpenAI",
       "domain": "openai.com",
       "category": "Labs",
