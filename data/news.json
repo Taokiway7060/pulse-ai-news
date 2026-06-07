@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T08:42:36.698390+00:00",
-  "count": 98,
+  "generated_at": "2026-06-07T09:27:32.303235+00:00",
+  "count": 86,
   "categories": [
     "Community",
     "Industry",
@@ -10,136 +10,114 @@
   ],
   "items": [
     {
-      "id": "455bd5760251",
-      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-      "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users…",
-      "url": "https://arxiv.org/abs/2606.05256",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "a72b826652e3",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T20:32:24+00:00"
     },
     {
-      "id": "6947c1dae773",
-      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
-      "summary": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapi…",
-      "url": "https://arxiv.org/abs/2606.05304",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "ebe593d58411",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T19:02:33+00:00"
     },
     {
-      "id": "61d312ee8856",
-      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
-      "summary": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging meme…",
-      "url": "https://arxiv.org/abs/2606.05316",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "1c5b5c7dfe19",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 586 # Comments: 208",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "source": "Hacker News (AI)",
+      "domain": "this.weekinsecurity.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T18:35:27+00:00"
     },
     {
-      "id": "4981bad89b92",
-      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
-      "summary": "arXiv:2606.05332v1 Announce Type: new Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the inpu…",
-      "url": "https://arxiv.org/abs/2606.05332",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "c41d372a7396",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T18:13:36+00:00"
     },
     {
-      "id": "e4e6323e2386",
-      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
-      "summary": "arXiv:2606.05334v1 Announce Type: new Abstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component integrity may evolve…",
-      "url": "https://arxiv.org/abs/2606.05334",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "8bd892cdcd03",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T17:42:15+00:00"
     },
     {
-      "id": "f7412add777e",
-      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
-      "summary": "arXiv:2606.05342v1 Announce Type: new Abstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: issuing tool calls, refreshing pages, searching for alternatives, or otherwise trying to force progress. This is the wro…",
-      "url": "https://arxiv.org/abs/2606.05342",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "3fb7c5405c6e",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T16:17:21+00:00"
     },
     {
-      "id": "3d736670219b",
-      "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
-      "summary": "arXiv:2606.05357v1 Announce Type: new Abstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Score (MOAKS) prediction with interpretable statistical modeling to study structure-pain relationships at scale using data from the Osteoarthritis…",
-      "url": "https://arxiv.org/abs/2606.05357",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "1a889826db8e",
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "summary": "Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 151 # Comments: 46",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "source": "Hacker News (AI)",
+      "domain": "ft.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T15:35:49+00:00"
     },
     {
-      "id": "c98cbcf4b324",
-      "title": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
-      "summary": "arXiv:2606.05382v1 Announce Type: new Abstract: Multi-table question answering requires models to retrieve relevant evidence, link schemas, and perform compositional reasoning across relational tables. Existing multi-table Q&A resources typically provide questions and final answers but lack reasoning supervision that…",
-      "url": "https://arxiv.org/abs/2606.05382",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "fc6286f5cd4e",
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "summary": "Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 119 # Comments: 77",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "source": "Hacker News (AI)",
+      "domain": "reuters.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T13:40:22+00:00"
     },
     {
-      "id": "5be476a445d4",
-      "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
-      "summary": "arXiv:2606.05384v1 Announce Type: new Abstract: LLM-as-judge evaluation is widely used in benchmarking pipelines, where model outputs are compared and ranked using automated evaluators. These pipelines typically assume that judgments are stable properties of fixed inputs. We show that this assumption does not hold und…",
-      "url": "https://arxiv.org/abs/2606.05384",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "27eeacb2f64f",
+      "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 64 # Comments: 24",
+      "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+      "source": "Hacker News (AI)",
+      "domain": "wsj.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T12:15:59+00:00"
     },
     {
-      "id": "1edb12d9997e",
-      "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
-      "summary": "arXiv:2606.05389v1 Announce Type: new Abstract: Lossy compression is essential for massive spatiotemporal data from scientific simulations. Learned compressors can achieve high compression ratios at moderate accuracy targets, but their aggregate reconstruction losses do not guarantee accuracy for each block. Existing…",
-      "url": "https://arxiv.org/abs/2606.05389",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "882d7f4c2af1",
+      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+      "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
-    },
-    {
-      "id": "43f6b63dab5f",
-      "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
-      "summary": "arXiv:2606.05400v1 Announce Type: new Abstract: Long-horizon autoformalization of research mathematics fails not only at hard lemmas, but at scale: statements drift, dependencies tangle, context decays, and local repairs corrupt distant work. We present LeanMarathon, a multi-agent harness for reliable research-level L…",
-      "url": "https://arxiv.org/abs/2606.05400",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
-    },
-    {
-      "id": "6308c77ad454",
-      "title": "Harnessing Generalist Agents for Contextualized Time Series",
-      "summary": "arXiv:2606.05404v1 Announce Type: new Abstract: Time series are often embedded in rich contexts that are essential for holistic modeling. Moreover, real-world practitioners often require end-to-end workflows for analyzing temporal dynamics, where widely studied tasks such as forecasting are only one step in a broader…",
-      "url": "https://arxiv.org/abs/2606.05404",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-06T04:00:00+00:00"
+      "published": "2026-06-06T10:30:00+00:00"
     },
     {
       "id": "9b6c221dfb88",
@@ -153,20 +131,9 @@
       "published": "2026-06-06T02:31:51+00:00"
     },
     {
-      "id": "21eff5b5e6ed",
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-      "summary": "",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-06-05T22:18:46+00:00"
-    },
-    {
       "id": "612829841e31",
       "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "summary": "Article URL: https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48419023 Points: 67 # Comments: 3",
+      "summary": "Article URL: https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48419023 Points: 69 # Comments: 5",
       "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
       "source": "Hacker News (AI)",
       "domain": "disassociated.com",
@@ -177,7 +144,7 @@
     {
       "id": "a475169369b2",
       "title": "Hacker News, Sans AI",
-      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 164 # Comments: 95",
+      "summary": "Article URL: https://elijahpotter.dev/articles/hacker-news-sans-AI Comments URL: https://news.ycombinator.com/item?id=48417916 Points: 182 # Comments: 100",
       "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
       "source": "Hacker News (AI)",
       "domain": "elijahpotter.dev",
@@ -254,7 +221,7 @@
     {
       "id": "c93f0153f8fd",
       "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
-      "summary": "Article URL: https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924 Comments URL: https://news.ycombinator.com/item?id=48413924 Points: 66 # Comments: 5",
+      "summary": "Article URL: https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924 Comments URL: https://news.ycombinator.com/item?id=48413924 Points: 67 # Comments: 5",
       "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
       "source": "Hacker News (AI)",
       "domain": "kotaku.com",
@@ -386,7 +353,7 @@
     {
       "id": "86a2b3086dc9",
       "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 184 # Comments: 65",
+      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 191 # Comments: 65",
       "url": "https://passo.uno/fine-tuning-docs-llm/",
       "source": "Hacker News (AI)",
       "domain": "passo.uno",
@@ -408,35 +375,13 @@
     {
       "id": "f3a81dd97e2a",
       "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 115 # Comments: 103",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 119 # Comments: 107",
       "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
       "source": "Hacker News (AI)",
       "domain": "theintercept.com",
       "category": "Community",
       "image": "",
       "published": "2026-06-05T04:38:41+00:00"
-    },
-    {
-      "id": "af34bbc2aff1",
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 264 # Comments: 67",
-      "url": "https://github.com/alibaba/open-code-review",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-06-05T00:04:29+00:00"
-    },
-    {
-      "id": "75461c45a779",
-      "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinator.com/item?id=48406198 Points: 243 # Comments: 145",
-      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-      "source": "Hacker News (AI)",
-      "domain": "discuss.privacyguides.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-06-04T23:45:56+00:00"
     },
     {
       "id": "5a4d15c9be6d",
@@ -450,17 +395,6 @@
       "published": "2026-06-04T22:43:26+00:00"
     },
     {
-      "id": "325da9c5cc36",
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-04T22:29:50+00:00"
-    },
-    {
       "id": "e93af95c74a5",
       "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
       "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
@@ -470,17 +404,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279229514-1152x648.jpg",
       "published": "2026-06-04T22:23:36+00:00"
-    },
-    {
-      "id": "68c307ab7f66",
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
-      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-04T21:30:00+00:00"
     },
     {
       "id": "cab77970a3d4",
@@ -494,17 +417,6 @@
       "published": "2026-06-04T20:44:31+00:00"
     },
     {
-      "id": "be4b48dbfc45",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 522 # Comments: 141",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-06-04T20:11:20+00:00"
-    },
-    {
       "id": "43b8831c4d71",
       "title": "Elon Musk tries again to escape FTC audits of X data handling",
       "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC.",
@@ -514,28 +426,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2256975350-1152x648-1780599648.jpg",
       "published": "2026-06-04T19:49:12+00:00"
-    },
-    {
-      "id": "68436f779eec",
-      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "summary": "Meta may have found one way to slash its massive data center bill: tents.",
-      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-04T19:33:09+00:00"
-    },
-    {
-      "id": "b9e09d9f7448",
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-04T19:20:58+00:00"
     },
     {
       "id": "91dead81f7c3",
@@ -558,17 +448,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-06-04T18:44:49+00:00"
-    },
-    {
-      "id": "2a4f2283aab9",
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 510 # Comments: 685",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "source": "Hacker News (AI)",
-      "domain": "anthropic.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-06-04T16:20:17+00:00"
     },
     {
       "id": "f33210e8af84",
@@ -712,17 +591,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-1152x648.jpg",
       "published": "2026-06-03T19:10:03+00:00"
-    },
-    {
-      "id": "7b28e10ad397",
-      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-      "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
-      "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-03T18:49:32+00:00"
     },
     {
       "id": "ab9b5bad424f",
