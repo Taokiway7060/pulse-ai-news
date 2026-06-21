@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-06-20T09:29:33.980105+00:00",
+  "generated_at": "2026-06-21T09:59:51.285268+00:00",
   "count": 86,
   "categories": [
+    "Community",
     "Industry",
     "Labs",
     "Open Source",
@@ -9,136 +10,92 @@
   ],
   "items": [
     {
-      "id": "1301982ebd83",
-      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-      "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries…",
-      "url": "https://arxiv.org/abs/2606.19464",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "3e3dcf2863ad",
+      "title": "The 100k Whys of AI",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 108 # Comments: 56",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "source": "Hacker News (AI)",
+      "domain": "lcamtuf.substack.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
+      "published": "2026-06-21T05:45:21+00:00"
     },
     {
-      "id": "632ccab1e116",
-      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "summary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are…",
-      "url": "https://arxiv.org/abs/2606.19469",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "b063c94cd18d",
+      "title": "Building reliable agentic AI systems",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 105 # Comments: 21",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "source": "Hacker News (AI)",
+      "domain": "martinfowler.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
+      "published": "2026-06-21T04:28:39+00:00"
     },
     {
-      "id": "13f61ce9d0c4",
-      "title": "Diffusion Language Models: An Experimental Analysis",
-      "summary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through…",
-      "url": "https://arxiv.org/abs/2606.19475",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "9e066397580c",
+      "title": "When I reject AI code even if it works",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 180 # Comments: 99",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "source": "Hacker News (AI)",
+      "domain": "vinibrasil.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
+      "published": "2026-06-21T00:58:13+00:00"
     },
     {
-      "id": "dba120391836",
-      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-      "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are…",
-      "url": "https://arxiv.org/abs/2606.19494",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "f28aedd0837f",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
+      "published": "2026-06-20T20:32:29+00:00"
     },
     {
-      "id": "597855680d10",
-      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-      "summary": "arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-aligned way to measur…",
-      "url": "https://arxiv.org/abs/2606.19501",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "90d09e2e8ce4",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "summary": "So ... what's your In the Weights score?",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
+      "published": "2026-06-20T19:41:11+00:00"
     },
     {
-      "id": "00fce8d7847f",
-      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
-      "summary": "arXiv:2606.19509v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains unexplored. We study this question through the lens of cross-model attribution divergence with the go…",
-      "url": "https://arxiv.org/abs/2606.19509",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "10a468db0474",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
+      "published": "2026-06-20T16:39:57+00:00"
     },
     {
-      "id": "654369237b14",
-      "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
-      "summary": "arXiv:2606.19522v1 Announce Type: new Abstract: The retina offers a noninvasive window into neurodegenerative disease, capturing subtle structural patterns associated with a risk of future cognitive decline. Vision-language alignment frameworks such as REVEAL have shown that pairing retinal fundus images with structur…",
-      "url": "https://arxiv.org/abs/2606.19522",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "446bb64cc40a",
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 209 # Comments: 110",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "source": "Hacker News (AI)",
+      "domain": "blog.cloudflare.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
+      "published": "2026-06-20T11:19:05+00:00"
     },
     {
-      "id": "f6d33cd62fcd",
-      "title": "Emergent Alignment",
-      "summary": "arXiv:2606.19527v1 Announce Type: new Abstract: Can Large Language Models (LLMs) discern when their own outputs are misaligned with human ethics? And can they self-correct? We endow an LLM with a conscience step that reviews its own reasoning and outputs, and we extend the training loss with an alignment component usi…",
-      "url": "https://arxiv.org/abs/2606.19527",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "6fe6cc2db2d5",
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
-    },
-    {
-      "id": "4713c76645a6",
-      "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
-      "summary": "arXiv:2606.19538v1 Announce Type: new Abstract: Convolutional networks, recurrent networks, and transformers each encode different inductive biases -- locality, sequential memory, and content-dependent pairwise interaction -- and have remained mathematically distinct since their inception. We show that this fragmentat…",
-      "url": "https://arxiv.org/abs/2606.19538",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
-    },
-    {
-      "id": "06cd3deff479",
-      "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
-      "summary": "arXiv:2606.19559v1 Announce Type: new Abstract: Recent position papers argue that the classical aleatoric/epistemic uncertainty framework is insufficient for interactive large language model (LLM) agents and call for underspecification-aware, decomposed, and communicable uncertainty representations that can unlock new…",
-      "url": "https://arxiv.org/abs/2606.19559",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
-    },
-    {
-      "id": "25e6d6571224",
-      "title": "Analyzing the Narration Gap in LLM-Solver Loops",
-      "summary": "arXiv:2606.19588v1 Announce Type: new Abstract: Formal tools such as SAT and SMT solvers are increasingly embedded in language model reasoning pipelines when a safety or security critical question can be formulated in logic. Unlike chain of thought whose steps are sampled from the model distribution without formal gua…",
-      "url": "https://arxiv.org/abs/2606.19588",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
-    },
-    {
-      "id": "641abf2a3457",
-      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
-      "summary": "arXiv:2606.19602v1 Announce Type: new Abstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandli…",
-      "url": "https://arxiv.org/abs/2606.19602",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-20T04:00:00+00:00"
+      "published": "2026-06-20T10:00:00+00:00"
     },
     {
       "id": "0a67b3f4cb9e",
@@ -152,6 +109,39 @@
       "published": "2026-06-19T22:40:14+00:00"
     },
     {
+      "id": "f227bd2e0651",
+      "title": "Companies rein in AI usage as costs strain budgets",
+      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 120 # Comments: 104",
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "source": "Hacker News (AI)",
+      "domain": "ft.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-19T19:57:18+00:00"
+    },
+    {
+      "id": "1a9228527aeb",
+      "title": "Is AI ruining our skills? Early results are in – and they're not good",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 240 # Comments: 313",
+      "url": "https://www.nature.com/articles/d41586-026-01947-1",
+      "source": "Hacker News (AI)",
+      "domain": "nature.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-19T18:00:48+00:00"
+    },
+    {
+      "id": "5921dab21d8b",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 527 # Comments: 253",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "source": "Hacker News (AI)",
+      "domain": "arrowtsx.dev",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-19T16:11:25+00:00"
+    },
+    {
       "id": "b71a951f075b",
       "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
       "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, a…",
@@ -161,6 +151,28 @@
       "category": "Industry",
       "image": "",
       "published": "2026-06-19T16:08:17+00:00"
+    },
+    {
+      "id": "320bd5b9cded",
+      "title": "AI Engineer Claims to Have Cracked Linear A",
+      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 440 # Comments: 173",
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "source": "Hacker News (AI)",
+      "domain": "aiclambake.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-19T16:04:42+00:00"
+    },
+    {
+      "id": "71e31f8f1cea",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 797 # Comments: 571",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "source": "Hacker News (AI)",
+      "domain": "reuters.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-19T16:03:15+00:00"
     },
     {
       "id": "42c1eaf0e3f3",
@@ -216,6 +228,17 @@
       "category": "Industry",
       "image": "",
       "published": "2026-06-19T07:59:12+00:00"
+    },
+    {
+      "id": "ef25ce960f11",
+      "title": "Generative AI Is Having Its Herbalife Moment",
+      "summary": "Article URL: https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife Comments URL: https://news.ycombinator.com/item?id=48595144 Points: 69 # Comments: 64",
+      "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+      "source": "Hacker News (AI)",
+      "domain": "whatwelo.st",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-19T05:37:51+00:00"
     },
     {
       "id": "9a25436bb8f1",
@@ -284,15 +307,15 @@
       "published": "2026-06-18T20:30:00+00:00"
     },
     {
-      "id": "370e55679daf",
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
+      "id": "85ca5aaa1fa0",
+      "title": "Amazon investigating engineers who criticized AI data center expansion",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html Comments URL: https://news.ycombinator.com/item?id=48590891 Points: 55 # Comments: 16",
+      "url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
+      "source": "Hacker News (AI)",
+      "domain": "cnbc.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-18T19:59:22+00:00"
+      "published": "2026-06-18T20:14:15+00:00"
     },
     {
       "id": "b764f0841343",
@@ -306,26 +329,15 @@
       "published": "2026-06-18T19:29:51+00:00"
     },
     {
-      "id": "8e48bed6d2c6",
-      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
+      "id": "62e5c2508f95",
+      "title": "The AI Hate Progression",
+      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 123 # Comments: 187",
+      "url": "https://www.xodium.net/2026/06/the-ai-hate-progression.html",
+      "source": "Hacker News (AI)",
+      "domain": "xodium.net",
+      "category": "Community",
       "image": "",
-      "published": "2026-06-18T18:51:46+00:00"
-    },
-    {
-      "id": "55c00cfe18f8",
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-18T18:22:13+00:00"
+      "published": "2026-06-18T18:30:33+00:00"
     },
     {
       "id": "a331b554fb37",
@@ -623,17 +635,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Hegseth-Congress-1024x648.jpg",
       "published": "2026-06-16T18:11:05+00:00"
-    },
-    {
-      "id": "e261d7cfa5dd",
-      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-      "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-      "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-16T17:50:52+00:00"
     },
     {
       "id": "527acfb78371",
