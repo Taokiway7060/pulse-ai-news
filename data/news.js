@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-06-22T12:19:05.733089+00:00",
-  "count": 85,
+  "generated_at": "2026-06-23T09:56:47.900572+00:00",
+  "count": 87,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,270 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "297b6eb54759",
+      "title": "The $400 million machine powering the future of chipmaking",
+      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine. It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a…",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-06-23T09:00:00+00:00"
+    },
+    {
+      "id": "68038f6fae8e",
+      "title": "AI Built a Nuke and Still Lost",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 53 # Comments: 46",
+      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+      "source": "Hacker News (AI)",
+      "domain": "lwilko.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-23T08:16:45+00:00"
+    },
+    {
+      "id": "3aaf7cb5850c",
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 99 # Comments: 50",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "source": "Hacker News (AI)",
+      "domain": "openai.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-23T01:36:08+00:00"
+    },
+    {
+      "id": "5c773453fd8e",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-23T01:27:55+00:00"
+    },
+    {
+      "id": "b77e917c5b67",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "summary": "OpenAI is using AI to help the open source community better protect itself.",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-23T00:11:31+00:00"
+    },
+    {
+      "id": "e478f9a21079",
+      "title": "How Omio is building the future of conversational travel",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "url": "https://openai.com/index/omio",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-06-23T00:00:00+00:00"
+    },
+    {
+      "id": "5a4d706c4b80",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "summary": "",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-06-23T00:00:00+00:00"
+    },
+    {
+      "id": "b8decd45f950",
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
+      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-factory-zero-1152x648.jpg",
+      "published": "2026-06-22T21:52:39+00:00"
+    },
+    {
+      "id": "6d9942042fec",
+      "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+      "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 90 # Comments: 22",
+      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+      "source": "Hacker News (AI)",
+      "domain": "businessinsider.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-22T21:43:22+00:00"
+    },
+    {
+      "id": "7f9b56d25191",
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T21:08:09+00:00"
+    },
+    {
+      "id": "54c6c8f188cf",
+      "title": "The AI world is getting ‘loopy’",
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T20:53:11+00:00"
+    },
+    {
+      "id": "4c65bbf57238",
+      "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+      "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T20:28:53+00:00"
+    },
+    {
+      "id": "a112bed8559e",
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T20:13:58+00:00"
+    },
+    {
+      "id": "26e6ee6e304d",
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T20:08:15+00:00"
+    },
+    {
+      "id": "72275b6cc2ce",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T18:49:44+00:00"
+    },
+    {
+      "id": "0e4441b60923",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-06-22T18:00:00+00:00"
+    },
+    {
+      "id": "2b9a324f6ac1",
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T17:31:29+00:00"
+    },
+    {
+      "id": "9facdef42ef4",
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+      "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+      "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T17:00:00+00:00"
+    },
+    {
+      "id": "583ffff36831",
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T16:51:29+00:00"
+    },
+    {
+      "id": "d0ecb192a336",
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-22T14:00:00+00:00"
+    },
+    {
+      "id": "d345c929ba6e",
+      "title": "How Anthropic may have talked itself into an AI export ban",
+      "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
+      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-1152x648.jpg",
+      "published": "2026-06-22T13:45:24+00:00"
+    },
+    {
+      "id": "942b5fdedeb6",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "summary": "",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-06-22T13:18:56+00:00"
+    },
+    {
+      "id": "2be53c636c5b",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-06-22T10:00:00+00:00"
+    },
+    {
+      "id": "83463f5fa247",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-06-22T10:00:00+00:00"
+    },
     {
       "id": "4581fd2d3e1e",
       "title": "Some Electricians Think Building Data Centers Is for Sellouts",
@@ -32,6 +296,28 @@ window.NEWS_DATA = {
       "published": "2026-06-22T09:30:00+00:00"
     },
     {
+      "id": "4c6b7c59bfd8",
+      "title": "Codex-maxxing for long-running work",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-06-22T00:00:00+00:00"
+    },
+    {
+      "id": "7f306de484d8",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "summary": "",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-06-22T00:00:00+00:00"
+    },
+    {
       "id": "2d02a56a6fda",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
@@ -45,7 +331,7 @@ window.NEWS_DATA = {
     {
       "id": "4f674c5797f4",
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 156 # Comments: 30",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 205 # Comments: 49",
       "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
       "source": "Hacker News (AI)",
       "domain": "teachmecoolstuff.com",
@@ -54,9 +340,20 @@ window.NEWS_DATA = {
       "published": "2026-06-21T22:55:23+00:00"
     },
     {
+      "id": "5294d8140cfb",
+      "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+      "summary": "Article URL: https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built Comments URL: https://news.ycombinator.com/item?id=48623371 Points: 58 # Comments: 25",
+      "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+      "source": "Hacker News (AI)",
+      "domain": "alshe.substack.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-21T22:46:43+00:00"
+    },
+    {
       "id": "0c59b5a2cf22",
       "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 439 # Comments: 142",
+      "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 523 # Comments: 180",
       "url": "https://apertvs.ai/",
       "source": "Hacker News (AI)",
       "domain": "apertvs.ai",
@@ -100,7 +397,7 @@ window.NEWS_DATA = {
     {
       "id": "1b41bfed2c99",
       "title": "The 100k whys of AI",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 187 # Comments: 106",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 193 # Comments: 106",
       "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
       "source": "Hacker News (AI)",
       "domain": "lcamtuf.substack.com",
@@ -111,7 +408,7 @@ window.NEWS_DATA = {
     {
       "id": "3ea4c24c2334",
       "title": "Don’t use AI to write things that you present as your own work",
-      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 93 # Comments: 84",
+      "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 104 # Comments: 99",
       "url": "https://www.satisfice.com/blog/archives/488148",
       "source": "Hacker News (AI)",
       "domain": "satisfice.com",
@@ -122,7 +419,7 @@ window.NEWS_DATA = {
     {
       "id": "b063c94cd18d",
       "title": "Building reliable agentic AI systems",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 193 # Comments: 47",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 195 # Comments: 49",
       "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
       "source": "Hacker News (AI)",
       "domain": "martinfowler.com",
@@ -133,7 +430,7 @@ window.NEWS_DATA = {
     {
       "id": "9e066397580c",
       "title": "When I reject AI code even if it works",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 223 # Comments: 165",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 229 # Comments: 166",
       "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
       "source": "Hacker News (AI)",
       "domain": "vinibrasil.com",
@@ -153,31 +450,9 @@ window.NEWS_DATA = {
       "published": "2026-06-20T20:32:29+00:00"
     },
     {
-      "id": "90d09e2e8ce4",
-      "title": "In the Weights is your new AI-centric vanity search",
-      "summary": "So ... what's your In the Weights score?",
-      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-20T19:41:11+00:00"
-    },
-    {
-      "id": "10a468db0474",
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-20T16:39:57+00:00"
-    },
-    {
       "id": "446bb64cc40a",
       "title": "Temporary Cloudflare accounts for AI agents",
-      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 243 # Comments: 142",
+      "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 245 # Comments: 147",
       "url": "https://blog.cloudflare.com/temporary-accounts/",
       "source": "Hacker News (AI)",
       "domain": "blog.cloudflare.com",
@@ -197,20 +472,9 @@ window.NEWS_DATA = {
       "published": "2026-06-20T10:00:00+00:00"
     },
     {
-      "id": "0a67b3f4cb9e",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-19T22:40:14+00:00"
-    },
-    {
       "id": "f227bd2e0651",
       "title": "Companies rein in AI usage as costs strain budgets",
-      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 120 # Comments: 105",
+      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 121 # Comments: 106",
       "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
       "source": "Hacker News (AI)",
       "domain": "ft.com",
@@ -219,125 +483,15 @@ window.NEWS_DATA = {
       "published": "2026-06-19T19:57:18+00:00"
     },
     {
-      "id": "1a9228527aeb",
-      "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 246 # Comments: 315",
-      "url": "https://www.nature.com/articles/d41586-026-01947-1",
-      "source": "Hacker News (AI)",
-      "domain": "nature.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-06-19T18:00:48+00:00"
-    },
-    {
-      "id": "5921dab21d8b",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 564 # Comments: 288",
-      "url": "https://arrowtsx.dev/bigger-models/",
-      "source": "Hacker News (AI)",
-      "domain": "arrowtsx.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-06-19T16:11:25+00:00"
-    },
-    {
-      "id": "b71a951f075b",
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, a…",
-      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-19T16:08:17+00:00"
-    },
-    {
-      "id": "320bd5b9cded",
-      "title": "AI Engineer Claims to Have Cracked Linear A",
-      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 444 # Comments: 178",
-      "url": "https://aiclambake.com/clamtakes/linear-a/",
-      "source": "Hacker News (AI)",
-      "domain": "aiclambake.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-06-19T16:04:42+00:00"
-    },
-    {
-      "id": "71e31f8f1cea",
-      "title": "Norway imposes near ban on AI in elementary school",
-      "summary": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 809 # Comments: 587",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "source": "Hacker News (AI)",
-      "domain": "reuters.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-06-19T16:03:15+00:00"
-    },
-    {
-      "id": "42c1eaf0e3f3",
-      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, a…",
-      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-19T16:01:03+00:00"
-    },
-    {
-      "id": "9072ae5d0d38",
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-19T15:23:28+00:00"
-    },
-    {
-      "id": "3b2d3b017779",
-      "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-19T13:00:00+00:00"
-    },
-    {
       "id": "03fe39642594",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the r…",
+      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring t…",
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "source": "MIT Tech Review AI",
       "domain": "technologyreview.com",
       "category": "Research",
       "image": "",
       "published": "2026-06-19T10:40:24+00:00"
-    },
-    {
-      "id": "955e9e6a0ef6",
-      "title": "The US says ASML’s top chip tool may be in China, but how?",
-      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-19T07:59:12+00:00"
-    },
-    {
-      "id": "9a25436bb8f1",
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-19T00:51:11+00:00"
     },
     {
       "id": "8751185628b1",
@@ -417,17 +571,6 @@ window.NEWS_DATA = {
       "published": "2026-06-18T17:00:00+00:00"
     },
     {
-      "id": "f7036c17f021",
-      "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
-      "summary": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
-      "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-18T16:03:27+00:00"
-    },
-    {
       "id": "9ad821e700cc",
       "title": "Improving health intelligence in ChatGPT",
       "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
@@ -450,17 +593,6 @@ window.NEWS_DATA = {
       "published": "2026-06-18T08:00:00+00:00"
     },
     {
-      "id": "48fe59641fb3",
-      "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
-      "summary": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It’s moving forward anyway.",
-      "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-18T06:00:00+00:00"
-    },
-    {
       "id": "202fd770376b",
       "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
       "summary": "",
@@ -481,17 +613,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-06-18T00:00:00+00:00"
-    },
-    {
-      "id": "3c23a8bf3aef",
-      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-      "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-17T22:52:00+00:00"
     },
     {
       "id": "0427b605b655",
@@ -681,17 +802,6 @@ window.NEWS_DATA = {
       "published": "2026-06-16T15:46:31+00:00"
     },
     {
-      "id": "e18cad5a02ea",
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
-      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
-      "published": "2026-06-16T11:15:46+00:00"
-    },
-    {
       "id": "303296d93f38",
       "title": "Want to get a data center online quickly? Give it some flex.",
       "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different…",
@@ -712,17 +822,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-06-16T00:00:00+00:00"
-    },
-    {
-      "id": "239e9ae49c07",
-      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
-      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/nvidia-chip-1152x648-1754500479.jpg",
-      "published": "2026-06-15T19:07:02+00:00"
     },
     {
       "id": "065ab03e1c16",
@@ -758,28 +857,6 @@ window.NEWS_DATA = {
       "published": "2026-06-14T17:00:00+00:00"
     },
     {
-      "id": "0ca16b44d213",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-06-12T10:00:00+00:00"
-    },
-    {
-      "id": "b0e001661e81",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "url": "https://openai.com/index/preply",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-06-12T00:00:00+00:00"
-    },
-    {
       "id": "e2ea7fdb6ac6",
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
@@ -800,28 +877,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-06-11T11:00:45+00:00"
-    },
-    {
-      "id": "af9336b923ed",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-06-11T00:00:00+00:00"
-    },
-    {
-      "id": "d961e9139858",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-06-11T00:00:00+00:00"
     },
     {
       "id": "77fe39816f04",
@@ -910,39 +965,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-06-09T10:20:06+00:00"
-    },
-    {
-      "id": "fe27348ff70a",
-      "title": "Five things you need to know about AI",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-09T09:16:45+00:00"
-    },
-    {
-      "id": "b753e670cd2f",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "summary": "",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-06-09T00:00:00+00:00"
-    },
-    {
-      "id": "fe9fb3575dea",
-      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
-      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "source": "DeepMind",
-      "domain": "deepmind.google",
-      "category": "Labs",
-      "image": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w528-h297-n-nu-rw-lo",
-      "published": "2026-06-08T13:04:59+00:00"
     }
   ]
 };
