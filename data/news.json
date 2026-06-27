@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T09:41:28.291921+00:00",
-  "count": 95,
+  "generated_at": "2026-06-27T08:46:04.636853+00:00",
+  "count": 71,
   "categories": [
     "Industry",
     "Labs",
@@ -9,268 +9,158 @@
   ],
   "items": [
     {
-      "id": "7b4ba7d72bee",
-      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-      "summary": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks can reliably detect…",
-      "url": "https://arxiv.org/abs/2606.26155",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "92810b598c29",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-27T01:01:37+00:00"
     },
     {
-      "id": "4da82a3fae5c",
-      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-      "summary": "arXiv:2606.26158v1 Announce Type: new Abstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the opportunity to study six other key dimensions of agent performance: construct validity issues such as sh…",
-      "url": "https://arxiv.org/abs/2606.26158",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "57bf3c50e00c",
+      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-27T00:26:14+00:00"
     },
     {
-      "id": "e11898d7e497",
-      "title": "Refusal Lives Downstream of Persona in Chat Models",
-      "summary": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5-7B-Instruct and Lla…",
-      "url": "https://arxiv.org/abs/2606.26161",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "id": "ab3f160910f2",
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "summary": "Half-million strong military will train on drones as “universal combat tool.”",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-1152x648.jpg",
+      "published": "2026-06-26T22:19:05+00:00"
     },
     {
-      "id": "0635925d3ab1",
-      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-      "summary": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic trading. This domain is u…",
-      "url": "https://arxiv.org/abs/2606.26173",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "id": "f7dab7f634f2",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-1024x648.jpg",
+      "published": "2026-06-26T20:04:55+00:00"
     },
     {
-      "id": "63aee2d7c30e",
-      "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-      "summary": "arXiv:2606.26203v1 Announce Type: new Abstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automated annotation, neura…",
-      "url": "https://arxiv.org/abs/2606.26203",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "19d75c1e702d",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T18:32:14+00:00"
     },
     {
-      "id": "cc4bf71027ce",
-      "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
-      "summary": "arXiv:2606.26205v1 Announce Type: new Abstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, which are authoritative but abstract, and patient narratives, which are experience-near but unvalidated. Integrating th…",
-      "url": "https://arxiv.org/abs/2606.26205",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "0ffda4ffa059",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T18:19:36+00:00"
     },
     {
-      "id": "3c944f1bc4a0",
-      "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
-      "summary": "arXiv:2606.26267v1 Announce Type: new Abstract: Rating systems such as Elo serve as the gold standard for matchmaking in competitive chess. However, they inherently suffer from response lag due to their exclusive reliance on match outcomes, neglecting the granular quality of gameplay. Nevertheless, incorporating move-…",
-      "url": "https://arxiv.org/abs/2606.26267",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "26a9e1182a97",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier ri…",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T17:43:22+00:00"
     },
     {
-      "id": "6c008bd89086",
-      "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
-      "summary": "arXiv:2606.26298v1 Announce Type: new Abstract: Autonomous AI agents may begin to perform consequential, irreversible actions such as clinical prescribing and production software deployment. This paper observes that human institutions have governed powerful autonomous actors not by monitoring their reasoning but by re…",
-      "url": "https://arxiv.org/abs/2606.26298",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "8accdaef4c9b",
+      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+      "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T17:05:40+00:00"
     },
     {
-      "id": "f31b810ef375",
-      "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
-      "summary": "arXiv:2606.26299v1 Announce Type: new Abstract: While generative AI has achieved remarkable success in solving problems with verifiable solutions, generating physical art that satisfies both strict geometric constraints and subjective visual aesthetics remains a challenge. This paper presents an approach to tackle the…",
-      "url": "https://arxiv.org/abs/2606.26299",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "ef88cca66225",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T16:24:47+00:00"
     },
     {
-      "id": "97575d1a12a4",
-      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-      "summary": "arXiv:2606.26300v1 Announce Type: new Abstract: A classical intuition holds that verifying a solution is easier than producing one. For today's coding agents, this intuition is being inverted: as foundation models develop stronger reasoning capabilities and engineering harnesses grow more sophisticated, generating com…",
-      "url": "https://arxiv.org/abs/2606.26300",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "ab529afeccc0",
+      "title": "Europe Is Fed Up and Wants Its Own AI",
+      "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+      "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T15:00:00+00:00"
     },
     {
-      "id": "53d46fdfeb9a",
-      "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
-      "summary": "arXiv:2606.26346v1 Announce Type: new Abstract: Agentic benchmarks have emerged across general-purpose and domain-specific settings, including finance, coding, law, and drug discovery, yet energy-domain evaluations remain largely limited to static knowledge recall. This is a critical gap for a sector that requires liv…",
-      "url": "https://arxiv.org/abs/2606.26346",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "2de7a174e37b",
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier ri…",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T14:00:00+00:00"
     },
     {
-      "id": "f93258a58b14",
-      "title": "What We are Missing in Multimodal LLM Evaluation?",
-      "summary": "arXiv:2606.26348v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) can process diverse inputs, e.g., text, images, audio, and video, and generate textual responses. While their capabilities have advanced rapidly, evaluation of such models has not kept pace. Most existing evaluation benchmarks are…",
-      "url": "https://arxiv.org/abs/2606.26348",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "ada2c81f471f",
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T13:00:00+00:00"
     },
     {
-      "id": "b98411bdcd7d",
-      "title": "Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics",
-      "summary": "arXiv:2606.26128v1 Announce Type: new Abstract: The spatiotemporal evolution of many physical, chemical, and biological systems is described by nonlinear partial differential equations (PDEs). Recently, deep neural network-based surrogate models have gained increasing interest as efficient alternatives to computationa…",
-      "url": "https://arxiv.org/abs/2606.26128",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "4134c0c5ef20",
+      "title": "How Qatar Became FIFA’s Technology Test Lab",
+      "summary": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
+      "url": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T10:00:00+00:00"
     },
     {
-      "id": "ff1f1bb1f65f",
-      "title": "\\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation",
-      "summary": "arXiv:2606.26164v1 Announce Type: new Abstract: Finding all modes of a multimodal black-box function is a fundamental challenge in optimization, Bayesian inference, and scientific computing. Existing approaches -- basin-hopping, CMA-ES, multistart gradient descent -- operate sequentially and cannot exploit the massive…",
-      "url": "https://arxiv.org/abs/2606.26164",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "42b41bfc8973",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
       "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "a85199ee47ce",
-      "title": "Implementation of reinforcement learning in chemical reaction networks: application to phototaxis as curiosity-driven exploration",
-      "summary": "arXiv:2606.26168v1 Announce Type: new Abstract: Living systems navigate environments using noisy and incomplete sensory signals. In unicellular algae, phototaxis is often modeled as a mechanistic run--tumble process driven by stimulus--response rules. However, such descriptions overlook how organisms actively sample t…",
-      "url": "https://arxiv.org/abs/2606.26168",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "59c5e39bff93",
-      "title": "Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis",
-      "summary": "arXiv:2606.26169v1 Announce Type: new Abstract: Neural Architecture Search (NAS) has emerged as a pivotal technique in optimizing the design of Generative Adversarial Networks (GANs), automating the search for effective architectures while addressing the challenges inherent in manual design. This paper provides a comp…",
-      "url": "https://arxiv.org/abs/2606.26169",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "ffb41a2f5a28",
-      "title": "KG-TRACE: A Neuro-Symbolic Framework for Mechanistic Grounding in Antimicrobial Resistance Prediction",
-      "summary": "arXiv:2606.26179v1 Announce Type: new Abstract: While WGS-based AMR prediction has reached high accuracy, existing models lack a mechanism to ground neural attributions in established biological pathways. We present KG-TRACE, a novel neuro-symbolic framework that integrates the WHO mutation knowledge graph (KG) as a s…",
-      "url": "https://arxiv.org/abs/2606.26179",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "e30e614f7d20",
-      "title": "Necessary but Not Sufficient: Temperature Control and Reproducibility in LLM-as-Judge Safety Evaluations",
-      "summary": "arXiv:2606.26185v1 Announce Type: new Abstract: LLM-as-judge (\"grader\") components are now standard in evaluation harnesses, including safety evaluations where a pass/fail verdict may gate downstream deployment decisions. A widespread assumption is that setting the grader's sampling temperature to 0 makes grading dete…",
-      "url": "https://arxiv.org/abs/2606.26185",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "2b41829de499",
-      "title": "Clue-Guided Money Laundering Group Discovery",
-      "summary": "arXiv:2606.26189v1 Announce Type: new Abstract: Money Laundering Group Discovery (MLGD) aims to identify hidden criminal groups and recover their complete structures in large-scale financial networks. Existing graph anomaly detection methods mainly produce node-level risk alerts, while global group discovery methods p…",
-      "url": "https://arxiv.org/abs/2606.26189",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "a85f674c0eed",
-      "title": "Federated Hash Projected Latent Factor Learning",
-      "summary": "arXiv:2606.26192v1 Announce Type: new Abstract: Hash Learning (HL) is an efficient representation learning approach that maps real-valued data into compact binary representations. Traditional HL methods typically require users to upload personal data to a central server, which is incompatible with increasingly stringe…",
-      "url": "https://arxiv.org/abs/2606.26192",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "0c4d174563a8",
-      "title": "Statistical and Structural Approaches to Algorithmic Fairness",
-      "summary": "arXiv:2606.26200v1 Announce Type: new Abstract: Modern machine learning systems have outgrown their origins as isolated predictive constructs, evolving into complex socio-technical architectures that actively mediate human opportunity. As algorithms increasingly determine access to economic and social opportunities, i…",
-      "url": "https://arxiv.org/abs/2606.26200",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "85a28e2fb9af",
-      "title": "Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery",
-      "summary": "arXiv:2606.26204v1 Announce Type: new Abstract: Floods frequently impact regions around the world. Rapid and accurate flood detection is crucial for emergency response and timely mitigation of human and economic loss. The expanding availability of satellite data and advances in artificial intelligence have enhanced mo…",
-      "url": "https://arxiv.org/abs/2606.26204",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "0b3bcdd5b40e",
-      "title": "A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks",
-      "summary": "arXiv:2606.26212v1 Announce Type: new Abstract: A Graph Neural Network (GNN) framework for predicting the solvability of finite groups from their Cayley graph representations was introduced in [1]. In the present work, we generalize this approach and develop a property-independent framework for learning algebraic prop…",
-      "url": "https://arxiv.org/abs/2606.26212",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
-    },
-    {
-      "id": "3e9222ba04fd",
-      "title": "Fast LeWorldModel",
-      "summary": "arXiv:2606.26217v1 Announce Type: new Abstract: Joint-Embedding Predictive Architectures (JEPAs), including recent LeWorldModel (LeWM), have become a promising foundation for reconstruction-free visual world models. For visual planning, however, LeWM evaluates candidate action sequences by repeatedly applying a local…",
-      "url": "https://arxiv.org/abs/2606.26217",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-06-26T04:00:00+00:00"
+      "published": "2026-06-26T10:00:00+00:00"
     },
     {
       "id": "340c22c4188c",
@@ -416,17 +306,6 @@
       "published": "2026-06-25T16:00:00+00:00"
     },
     {
-      "id": "8923538aff02",
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-25T14:55:38+00:00"
-    },
-    {
       "id": "af6afcd3ab07",
       "title": "Repositioning retail for the AI era",
       "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through…",
@@ -436,39 +315,6 @@
       "category": "Research",
       "image": "",
       "published": "2026-06-25T14:22:59+00:00"
-    },
-    {
-      "id": "4d7c18b35fb9",
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
-      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-25T14:00:00+00:00"
-    },
-    {
-      "id": "e4c8a4184bde",
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-25T13:30:00+00:00"
-    },
-    {
-      "id": "687be10bd043",
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-25T12:00:38+00:00"
     },
     {
       "id": "6c42874e4019",
@@ -515,39 +361,6 @@
       "published": "2026-06-25T02:00:00+00:00"
     },
     {
-      "id": "10e24b8ce637",
-      "title": "Europe is pushing back on Washington’s chip war",
-      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
-      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-25T00:08:36+00:00"
-    },
-    {
-      "id": "6e3ec73b8a4e",
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-24T23:26:52+00:00"
-    },
-    {
-      "id": "7f25599fd214",
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-24T22:41:41+00:00"
-    },
-    {
       "id": "d0a0d248c955",
       "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
       "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
@@ -581,17 +394,6 @@
       "published": "2026-06-24T21:05:51+00:00"
     },
     {
-      "id": "d155fe7cbc16",
-      "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
-      "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
-      "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-24T18:45:00+00:00"
-    },
-    {
       "id": "7e72a771c854",
       "title": "Introducing computer use in Gemini 3.5 Flash",
       "summary": "",
@@ -612,28 +414,6 @@
       "category": "Open Source",
       "image": "",
       "published": "2026-06-24T16:00:13+00:00"
-    },
-    {
-      "id": "f11b79e728b5",
-      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
-      "summary": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
-      "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-24T15:15:00+00:00"
-    },
-    {
-      "id": "9ab17f515ed2",
-      "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
-      "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
-      "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-24T12:36:07+00:00"
     },
     {
       "id": "21077ae7d186",
@@ -779,17 +559,6 @@
       "published": "2026-06-22T21:52:39+00:00"
     },
     {
-      "id": "7f9b56d25191",
-      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-      "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
-      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-22T21:08:09+00:00"
-    },
-    {
       "id": "0e4441b60923",
       "title": "Three things to watch amid Anthropic’s latest feud with the government",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
@@ -911,17 +680,6 @@
       "published": "2026-06-18T18:13:13+00:00"
     },
     {
-      "id": "952768eda7b0",
-      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-      "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230233284-1152x648.jpg",
-      "published": "2026-06-18T17:02:49+00:00"
-    },
-    {
       "id": "522ceae3990e",
       "title": "New usage analytics and updated spend controls for enterprises",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
@@ -944,17 +702,6 @@
       "published": "2026-06-18T11:00:00+00:00"
     },
     {
-      "id": "fbbe30a4bf08",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-06-18T08:00:00+00:00"
-    },
-    {
       "id": "202fd770376b",
       "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
       "summary": "",
@@ -975,17 +722,6 @@
       "category": "Open Source",
       "image": "",
       "published": "2026-06-18T00:00:00+00:00"
-    },
-    {
-      "id": "0427b605b655",
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.40.06-PM-1152x648.png",
-      "published": "2026-06-17T19:25:19+00:00"
     },
     {
       "id": "7e2e8c55b0ca",
