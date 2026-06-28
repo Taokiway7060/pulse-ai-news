@@ -1,13 +1,124 @@
 {
-  "generated_at": "2026-06-27T08:46:04.636853+00:00",
-  "count": 71,
+  "generated_at": "2026-06-28T09:22:22.546663+00:00",
+  "count": 82,
   "categories": [
+    "Community",
     "Industry",
     "Labs",
     "Open Source",
     "Research"
   ],
   "items": [
+    {
+      "id": "a57e7fae65e7",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 61 # Comments: 12",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-28T04:31:18+00:00"
+    },
+    {
+      "id": "5237828ff5ab",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 183 # Comments: 104",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "source": "Hacker News (AI)",
+      "domain": "the-independent.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-28T03:09:13+00:00"
+    },
+    {
+      "id": "16f4df0b1dec",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 210 # Comments: 117",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "source": "Hacker News (AI)",
+      "domain": "jayacunzo.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-28T01:28:10+00:00"
+    },
+    {
+      "id": "e8b20fa74a50",
+      "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+      "summary": "Everyone feared AI would enslave humanity; but it looks like the real fight is stopping governments and Big Tech from enslaving AI for the benefit of the few. Amid the newly announced \"regulation\" of OpenAI's frontier models, I believe the future majority feared the most - sort of AI becoming a superpower and enslavin…",
+      "url": "https://news.ycombinator.com/item?id=48701615",
+      "source": "Hacker News (AI)",
+      "domain": "news.ycombinator.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-27T20:48:01+00:00"
+    },
+    {
+      "id": "54f7ceb54602",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-27T20:42:36+00:00"
+    },
+    {
+      "id": "9016e554b6ea",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-27T16:45:09+00:00"
+    },
+    {
+      "id": "8a4f172308f1",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-27T14:00:00+00:00"
+    },
+    {
+      "id": "a8ce72cc4da8",
+      "title": "Asian AI startups launch Mythos-like models",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 224 # Comments: 171",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "Hacker News (AI)",
+      "domain": "techcrunch.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-27T13:10:21+00:00"
+    },
+    {
+      "id": "232f5757ae85",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-06-27T12:00:00+00:00"
+    },
+    {
+      "id": "432f3258f861",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 760 # Comments: 320",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-27T09:18:52+00:00"
+    },
     {
       "id": "92810b598c29",
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
@@ -29,6 +140,28 @@
       "category": "Industry",
       "image": "",
       "published": "2026-06-27T00:26:14+00:00"
+    },
+    {
+      "id": "5d0ed606468a",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "summary": "https://archive.md/ArXuF https://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 546 # Comments: 761",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "source": "Hacker News (AI)",
+      "domain": "semafor.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-26T22:48:28+00:00"
+    },
+    {
+      "id": "663437fb8fa0",
+      "title": "AI in mathematics is forcing big questions",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 201 # Comments: 169",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "source": "Hacker News (AI)",
+      "domain": "spectrum.ieee.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-26T22:36:51+00:00"
     },
     {
       "id": "ab3f160910f2",
@@ -62,6 +195,17 @@
       "category": "Industry",
       "image": "",
       "published": "2026-06-26T18:32:14+00:00"
+    },
+    {
+      "id": "4555ae45a2f6",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 1161 # Comments: 1213",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "source": "Hacker News (AI)",
+      "domain": "washingtonpost.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-26T18:23:14+00:00"
     },
     {
       "id": "0ffda4ffa059",
@@ -108,6 +252,17 @@
       "published": "2026-06-26T16:24:47+00:00"
     },
     {
+      "id": "244911a94e08",
+      "title": "The AI industry is pouring millions into US elections",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 120 # Comments: 82",
+      "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+      "source": "Hacker News (AI)",
+      "domain": "bloodinthemachine.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-26T15:02:43+00:00"
+    },
+    {
       "id": "ab529afeccc0",
       "title": "Europe Is Fed Up and Wants Its Own AI",
       "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
@@ -128,6 +283,17 @@
       "category": "Industry",
       "image": "",
       "published": "2026-06-26T14:00:00+00:00"
+    },
+    {
+      "id": "cc0d30250820",
+      "title": "The AI backlash is only getting started",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 95 # Comments: 265",
+      "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
+      "source": "Hacker News (AI)",
+      "domain": "economist.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-06-26T13:12:04+00:00"
     },
     {
       "id": "ada2c81f471f",
@@ -207,17 +373,6 @@
       "published": "2026-06-25T23:13:45+00:00"
     },
     {
-      "id": "85479e36ccb2",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-25T20:19:25+00:00"
-    },
-    {
       "id": "9129138218eb",
       "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
       "summary": "Notion is \"going all in on using agents to run your inbox.\"",
@@ -249,39 +404,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-1024x648.jpg",
       "published": "2026-06-25T18:01:48+00:00"
-    },
-    {
-      "id": "e71a3812cb4a",
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-25T17:38:27+00:00"
-    },
-    {
-      "id": "392674e675bf",
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-25T16:55:00+00:00"
-    },
-    {
-      "id": "f85ab6fe3a87",
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-06-25T16:48:11+00:00"
     },
     {
       "id": "9ef06dc92c7b",
