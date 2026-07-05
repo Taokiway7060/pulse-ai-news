@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-07-04T08:46:51.731963+00:00",
+  "generated_at": "2026-07-05T09:16:33.750914+00:00",
   "count": 88,
   "categories": [
     "Community",
@@ -9,6 +9,83 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "718b7782e48b",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 260 # Comments: 98",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-04T21:51:09+00:00"
+    },
+    {
+      "id": "b83ebab0d909",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-04T20:55:25+00:00"
+    },
+    {
+      "id": "36325e574cd1",
+      "title": "AI has torched the market for junior programmers",
+      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 90 # Comments: 172",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+      "source": "Hacker News (AI)",
+      "domain": "seldo.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-04T19:50:08+00:00"
+    },
+    {
+      "id": "9ca5e649bc43",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-04T18:00:05+00:00"
+    },
+    {
+      "id": "f268518577fe",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-04T16:32:08+00:00"
+    },
+    {
+      "id": "eb1f29dd0bd2",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-04T15:51:32+00:00"
+    },
+    {
+      "id": "38c67d55dfc3",
+      "title": "2026 Unslop AI-Written Fiction Contest Results",
+      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 63 # Comments: 141",
+      "url": "https://www.hyperstitionai.com/unslop-results",
+      "source": "Hacker News (AI)",
+      "domain": "hyperstitionai.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-04T05:37:25+00:00"
+    },
     {
       "id": "afaaa3ec519a",
       "title": "The only AI glossary you’ll need this year",
@@ -23,7 +100,7 @@ window.NEWS_DATA = {
     {
       "id": "e27095140e8c",
       "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 62 # Comments: 12",
+      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 66 # Comments: 15",
       "url": "https://kagi.com/changelog#10959",
       "source": "Hacker News (AI)",
       "domain": "kagi.com",
@@ -45,7 +122,7 @@ window.NEWS_DATA = {
     {
       "id": "391bca30a512",
       "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
-      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 73 # Comments: 90",
+      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 76 # Comments: 93",
       "url": "https://okaneland.com/study/ai-productivity-roi-at-work/",
       "source": "Hacker News (AI)",
       "domain": "okaneland.com",
@@ -67,7 +144,7 @@ window.NEWS_DATA = {
     {
       "id": "74bc4dd90b9e",
       "title": "Instead of banning AI, I made a classroom contract with my students",
-      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 74 # Comments: 84",
+      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 93 # Comments: 90",
       "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
       "source": "Hacker News (AI)",
       "domain": "science.org",
@@ -89,7 +166,7 @@ window.NEWS_DATA = {
     {
       "id": "e3d3b470ecd3",
       "title": "Please stop the AI confidence theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 228 # Comments: 246",
+      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 232 # Comments: 257",
       "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
       "source": "Hacker News (AI)",
       "domain": "elenaverna.com",
@@ -100,7 +177,7 @@ window.NEWS_DATA = {
     {
       "id": "1233c2197b49",
       "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902 Comments URL: https://news.ycombinator.com/item?id=48774246 Points: 55 # Comments: 65",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902 Comments URL: https://news.ycombinator.com/item?id=48774246 Points: 55 # Comments: 69",
       "url": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
       "source": "Hacker News (AI)",
       "domain": "wsj.com",
@@ -122,7 +199,7 @@ window.NEWS_DATA = {
     {
       "id": "b0ce74b34ed5",
       "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 514 # Comments: 181",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 543 # Comments: 194",
       "url": "https://righttointelligence.org/",
       "source": "Hacker News (AI)",
       "domain": "righttointelligence.org",
@@ -144,7 +221,7 @@ window.NEWS_DATA = {
     {
       "id": "4fd2aca66054",
       "title": "Zuckerberg says AI agent development going slower than expected",
-      "summary": "Article URL: https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 51 # Comments: 64",
+      "summary": "Article URL: https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 51 # Comments: 65",
       "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
       "source": "Hacker News (AI)",
       "domain": "reuters.com",
@@ -166,24 +243,13 @@ window.NEWS_DATA = {
     {
       "id": "2e313d113cf2",
       "title": "The short leash AI coding method for beating Fable",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 192 # Comments: 238",
+      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 194 # Comments: 242",
       "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
       "source": "Hacker News (AI)",
       "domain": "blog.okturtles.org",
       "category": "Community",
       "image": "",
       "published": "2026-07-02T19:11:57+00:00"
-    },
-    {
-      "id": "170f645d8270",
-      "title": "Claude-real-video － any LLM can watch a video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 160 # Comments: 54",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-02T19:10:12+00:00"
     },
     {
       "id": "acd03b641abc",
@@ -208,17 +274,6 @@ window.NEWS_DATA = {
       "published": "2026-07-02T18:31:09+00:00"
     },
     {
-      "id": "237e6cd486db",
-      "title": "Ask HN: Why are so many \"AI evangelists\" posting such insufferable content?",
-      "summary": "My LinkedIn feed is absolutely unreal right now. 90% (I don't even think I'm exaggerating) of the posts in my feed are from connections who have changed their title to something like \"AI Thought Leader | AI Native | Thought Coaching\". They post *daily* about something LLM/agentic. The biggest problem is that it's neve…",
-      "url": "https://news.ycombinator.com/item?id=48765450",
-      "source": "Hacker News (AI)",
-      "domain": "news.ycombinator.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-02T18:23:03+00:00"
-    },
-    {
       "id": "d2a7be7da487",
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
       "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
@@ -228,17 +283,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-07-02T18:01:20+00:00"
-    },
-    {
-      "id": "bcf4648a9500",
-      "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
-      "summary": "Article URL: https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/ Comments URL: https://news.ycombinator.com/item?id=48764326 Points: 73 # Comments: 46",
-      "url": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/",
-      "source": "Hacker News (AI)",
-      "domain": "variety.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-02T17:03:30+00:00"
     },
     {
       "id": "fe3191afd009",
@@ -307,17 +351,6 @@ window.NEWS_DATA = {
       "published": "2026-07-02T12:51:44+00:00"
     },
     {
-      "id": "db8903f6f0cb",
-      "title": "Yep, we’re using OpenClaw to date now",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-02T12:00:00+00:00"
-    },
-    {
       "id": "6f91b699d403",
       "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
       "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
@@ -340,17 +373,6 @@ window.NEWS_DATA = {
       "published": "2026-07-02T09:30:00+00:00"
     },
     {
-      "id": "6d81eb2f9eca",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-02T05:30:00+00:00"
-    },
-    {
       "id": "69a2d7f10447",
       "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
       "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
@@ -360,28 +382,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-07-01T20:28:57+00:00"
-    },
-    {
-      "id": "73e5be5efd04",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-01T18:54:18+00:00"
-    },
-    {
-      "id": "e0e2f3cd873c",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-01T18:47:22+00:00"
     },
     {
       "id": "d3fed6195d5d",
