@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T09:16:33.750914+00:00",
+  "generated_at": "2026-07-06T10:52:28.975622+00:00",
   "count": 88,
   "categories": [
     "Community",
@@ -10,9 +10,97 @@
   ],
   "items": [
     {
+      "id": "0d4f911df6a3",
+      "title": "When AI Costs More Than the Engineer",
+      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 97 # Comments: 85",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "source": "Hacker News (AI)",
+      "domain": "tomtunguz.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-06T07:05:25+00:00"
+    },
+    {
+      "id": "39e99ced2970",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "summary": "https://x.com/haider1/status/2073695124220006575 , https://xcancel.com/haider1/status/2073695124220006575 Comments URL: https://news.ycombinator.com/item?id=48799614 Points: 301 # Comments: 240",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "source": "Hacker News (AI)",
+      "domain": "twitter.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-06T01:04:03+00:00"
+    },
+    {
+      "id": "a7ac57828ddd",
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt Comments URL: https://news.ycombinator.com/item?id=48799256 Points: 153 # Comments: 68",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "source": "Hacker News (AI)",
+      "domain": "readtheline.ca",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-06T00:04:48+00:00"
+    },
+    {
+      "id": "0778813ce4bf",
+      "title": "🤗 Kernels: Major Updates",
+      "summary": "",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-07-06T00:00:00+00:00"
+    },
+    {
+      "id": "4753e4e35829",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 166 # Comments: 103",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "source": "Hacker News (AI)",
+      "domain": "intextbooks.science.uu.nl",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-05T18:47:43+00:00"
+    },
+    {
+      "id": "ef38cbdb6268",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-05T17:43:36+00:00"
+    },
+    {
+      "id": "304e51576777",
+      "title": "A sociotechnical threat model for AI-driven smart home devices",
+      "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 83 # Comments: 66",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "source": "Hacker News (AI)",
+      "domain": "arxiv.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-05T17:05:57+00:00"
+    },
+    {
+      "id": "7d01367724e6",
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "summary": "Article URL: https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/ Comments URL: https://news.ycombinator.com/item?id=48795826 Points: 133 # Comments: 2",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "source": "Hacker News (AI)",
+      "domain": "techcrunch.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-05T17:05:35+00:00"
+    },
+    {
       "id": "718b7782e48b",
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 260 # Comments: 98",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 366 # Comments: 148",
       "url": "https://github.com/openai/codex/issues/30364",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -34,7 +122,7 @@
     {
       "id": "36325e574cd1",
       "title": "AI has torched the market for junior programmers",
-      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 90 # Comments: 172",
+      "summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 99 # Comments: 190",
       "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
       "source": "Hacker News (AI)",
       "domain": "seldo.com",
@@ -78,7 +166,7 @@
     {
       "id": "38c67d55dfc3",
       "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 63 # Comments: 141",
+      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 66 # Comments: 145",
       "url": "https://www.hyperstitionai.com/unslop-results",
       "source": "Hacker News (AI)",
       "domain": "hyperstitionai.com",
@@ -100,7 +188,7 @@
     {
       "id": "e27095140e8c",
       "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 66 # Comments: 15",
+      "summary": "Article URL: https://kagi.com/changelog#10959 Comments URL: https://news.ycombinator.com/item?id=48779352 Points: 67 # Comments: 15",
       "url": "https://kagi.com/changelog#10959",
       "source": "Hacker News (AI)",
       "domain": "kagi.com",
@@ -122,7 +210,7 @@
     {
       "id": "391bca30a512",
       "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
-      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 76 # Comments: 93",
+      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 77 # Comments: 94",
       "url": "https://okaneland.com/study/ai-productivity-roi-at-work/",
       "source": "Hacker News (AI)",
       "domain": "okaneland.com",
@@ -144,7 +232,7 @@
     {
       "id": "74bc4dd90b9e",
       "title": "Instead of banning AI, I made a classroom contract with my students",
-      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 93 # Comments: 90",
+      "summary": "Article URL: https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students Comments URL: https://news.ycombinator.com/item?id=48775499 Points: 95 # Comments: 90",
       "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
       "source": "Hacker News (AI)",
       "domain": "science.org",
@@ -164,50 +252,6 @@
       "published": "2026-07-03T14:25:43+00:00"
     },
     {
-      "id": "e3d3b470ecd3",
-      "title": "Please stop the AI confidence theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 232 # Comments: 257",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "source": "Hacker News (AI)",
-      "domain": "elenaverna.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-03T12:51:17+00:00"
-    },
-    {
-      "id": "1233c2197b49",
-      "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902 Comments URL: https://news.ycombinator.com/item?id=48774246 Points: 55 # Comments: 69",
-      "url": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
-      "source": "Hacker News (AI)",
-      "domain": "wsj.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-03T12:33:20+00:00"
-    },
-    {
-      "id": "31959d03e132",
-      "title": "AI coding is a nightmare. Am I the only one experiencing this?",
-      "summary": "Here are my biggest gripes with AI coding assistants right now: Obsessed with reinventing the wheel. You'll often find it writing three duplicate functions for the exact same feature in a single file. Why? Because it's terrified of blowing up the context window, so it only reads a fraction of a large file and complete…",
-      "url": "https://news.ycombinator.com/item?id=48770319",
-      "source": "Hacker News (AI)",
-      "domain": "news.ycombinator.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-03T03:18:42+00:00"
-    },
-    {
-      "id": "b0ce74b34ed5",
-      "title": "Protect your right to run local AI",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 543 # Comments: 194",
-      "url": "https://righttointelligence.org/",
-      "source": "Hacker News (AI)",
-      "domain": "righttointelligence.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-02T23:54:03+00:00"
-    },
-    {
       "id": "46af6a29ac8d",
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
       "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
@@ -219,17 +263,6 @@
       "published": "2026-07-02T23:38:10+00:00"
     },
     {
-      "id": "4fd2aca66054",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "summary": "Article URL: https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48767058 Points: 51 # Comments: 65",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "source": "Hacker News (AI)",
-      "domain": "reuters.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-02T20:38:06+00:00"
-    },
-    {
       "id": "4ee71286ce0c",
       "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
       "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
@@ -239,17 +272,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-07-02T20:11:59+00:00"
-    },
-    {
-      "id": "2e313d113cf2",
-      "title": "The short leash AI coding method for beating Fable",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 194 # Comments: 242",
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "source": "Hacker News (AI)",
-      "domain": "blog.okturtles.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-02T19:11:57+00:00"
     },
     {
       "id": "acd03b641abc",
@@ -327,17 +349,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280413039-1024x648.jpg",
       "published": "2026-07-02T14:39:17+00:00"
-    },
-    {
-      "id": "786355c0db9f",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-02T13:53:00+00:00"
     },
     {
       "id": "729bd178506e",
@@ -965,17 +976,6 @@
       "category": "Open Source",
       "image": "",
       "published": "2026-06-22T13:18:56+00:00"
-    },
-    {
-      "id": "7f306de484d8",
-      "title": "We got local models to triage the OpenClaw repo for FREE!*",
-      "summary": "",
-      "url": "https://huggingface.co/blog/local-models-pr-triage",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-06-22T00:00:00+00:00"
     }
   ]
 }
