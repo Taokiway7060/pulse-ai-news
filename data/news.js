@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-07-10T09:48:01.258989+00:00",
-  "count": 111,
+  "generated_at": "2026-07-11T08:05:58.116636+00:00",
+  "count": 87,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,149 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "1f8c6fe0e5e0",
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-11T01:07:26+00:00"
+    },
+    {
+      "id": "7a0f021c2827",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-10T23:55:07+00:00"
+    },
+    {
+      "id": "a8e7991e5ee5",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-10T21:00:29+00:00"
+    },
+    {
+      "id": "77df32871b93",
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 142 # Comments: 81",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "source": "Hacker News (AI)",
+      "domain": "tryai.dev",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-10T20:52:28+00:00"
+    },
+    {
+      "id": "6cef86043944",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-10T20:44:05+00:00"
+    },
+    {
+      "id": "614816283053",
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: comp…",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-10T19:00:00+00:00"
+    },
+    {
+      "id": "e595a5047bcc",
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 204 # Comments: 172",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "source": "Hacker News (AI)",
+      "domain": "casp.ac",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-10T18:49:26+00:00"
+    },
+    {
+      "id": "74cceb7da155",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805 , https://xcancel.com/__eknight__/status/2075643450196971805 Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 437 # Comments: 354",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News (AI)",
+      "domain": "cdn.openai.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-10T18:29:19+00:00"
+    },
+    {
+      "id": "97fadad4d538",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-10T17:17:12+00:00"
+    },
+    {
+      "id": "eedccc09d5fc",
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+      "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284791473-1024x648.jpg",
+      "published": "2026-07-10T15:46:18+00:00"
+    },
+    {
+      "id": "5d7de432de19",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: comp…",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-10T14:00:00+00:00"
+    },
+    {
+      "id": "f1125d91f4a9",
+      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+      "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+      "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-10T10:30:00+00:00"
+    },
+    {
+      "id": "92faff4839d8",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 278 # Comments: 228",
+      "url": "https://nevo-project.epfl.ch/",
+      "source": "Hacker News (AI)",
+      "domain": "nevo-project.epfl.ch",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-10T07:39:11+00:00"
+    },
     {
       "id": "c1601d269cfc",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
@@ -23,277 +166,13 @@ window.NEWS_DATA = {
     {
       "id": "d18105301203",
       "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
       "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
       "source": "Wired AI",
       "domain": "wired.com",
       "category": "Industry",
       "image": "",
       "published": "2026-07-10T06:00:00+00:00"
-    },
-    {
-      "id": "f25bec927642",
-      "title": "Context Graphs for Proactive Enterprise Agents",
-      "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agent…",
-      "url": "https://arxiv.org/abs/2607.07721",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "7f652c05035c",
-      "title": "AI-integrated models for assessing agricultural resilience",
-      "summary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market…",
-      "url": "https://arxiv.org/abs/2607.07759",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "e3eaf7bb4448",
-      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-      "summary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and…",
-      "url": "https://arxiv.org/abs/2607.07760",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "ed3bf7b40476",
-      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-      "summary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-vie…",
-      "url": "https://arxiv.org/abs/2607.07761",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "7ee316ae37fe",
-      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
-      "summary": "arXiv:2607.07766v1 Announce Type: new Abstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that effective psychological support often req…",
-      "url": "https://arxiv.org/abs/2607.07766",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "633cf040e8dd",
-      "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
-      "summary": "arXiv:2607.07775v1 Announce Type: new Abstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and digital systems. Robotic prostheses are a representative example of this tight coupling. Also referred to as bionic limbs, robotic prostheses ar…",
-      "url": "https://arxiv.org/abs/2607.07775",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "9f5f5ae421e9",
-      "title": "Infinity-Parser2 Technical Report",
-      "summary": "arXiv:2607.07836v1 Announce Type: new Abstract: We present Infinity-Parser2, a large multimodal model that couples a controllable data-synthesis pipeline with multi-task reinforcement learning for end-to-end document parsing, addressing the persistent scarcity of faithfully annotated parsing corpora. Our contributions…",
-      "url": "https://arxiv.org/abs/2607.07836",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "f08ba5dbdba8",
-      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
-      "summary": "arXiv:2607.07846v1 Announce Type: new Abstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vectorization, time/wave vector analysis, piecewise functions, Fourier analysis, and differential equations in MATLAB. The cou…",
-      "url": "https://arxiv.org/abs/2607.07846",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "16143b2c4e85",
-      "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
-      "summary": "arXiv:2607.07850v1 Announce Type: new Abstract: For seemless control of advanced hand prostheses and augmented reality, accurate and immediate hand gestures recognition is essential. Surface electromyography (sEMG) signals obtained from the forearm are commonly employed for this purpose. In this paper, we present a no…",
-      "url": "https://arxiv.org/abs/2607.07850",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "d4c24ab3a850",
-      "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
-      "summary": "arXiv:2607.07858v1 Announce Type: new Abstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over unstructured documents, heterogeneous data sources, and regulated decision workflows. Actuaries now face a design space that ranges from tradition…",
-      "url": "https://arxiv.org/abs/2607.07858",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "95586d6759e2",
-      "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
-      "summary": "arXiv:2607.07859v1 Announce Type: new Abstract: Reinforcement learning (RL) research has increasingly shifted focus towards alignment, ensuring agents learn behaviors adhering to human values. While human demonstrations and feedback have proven crucial for alignment, existing approaches predominantly combine these sig…",
-      "url": "https://arxiv.org/abs/2607.07859",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "502ece9dbc9d",
-      "title": "Nigeria Machinery: A Low-Resource Industrial Dataset with a Domain-Grounded Reasoning Layer",
-      "summary": "arXiv:2607.07883v1 Announce Type: new Abstract: There is relatively little, public, and model-ready data on industrial machinery for African economies. This makes it hard to do quantitative analysis or to train language models on numeric tasks grounded in that setting. We release two things to help with part of this p…",
-      "url": "https://arxiv.org/abs/2607.07883",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "73b6e2a9ee6a",
-      "title": "Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution",
-      "summary": "arXiv:2607.07716v1 Announce Type: new Abstract: Temporal graphs are ubiquitous in real-world applications and Temporal Graph Networks (TGNs) have achieved superior predictive accuracy. Understanding which historical events drive model predictions can enhance trustworthiness of TGNs. Existing explanation methods overlo…",
-      "url": "https://arxiv.org/abs/2607.07716",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "cdaf5774c1c0",
-      "title": "Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed Chest X-ray Classification",
-      "summary": "arXiv:2607.07717v1 Announce Type: new Abstract: In chest X-ray (CXR) classification, acceptable ranking performance can still leave rare-positive patients below threshold, especially within subgroups. We study this pre-deployment fairness problem as an audit question: after a long-tailed multi-label CXR model is conve…",
-      "url": "https://arxiv.org/abs/2607.07717",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "f9d5e62d04eb",
-      "title": "LLT: Local Linear Transformer for PDE Operator Learning",
-      "summary": "arXiv:2607.07718v1 Announce Type: new Abstract: Neural operators have become a common approach for learning PDE solution maps and accelerating numerical simulations. Transformer-based neural operators are of particular interest, since attention can learn long-range dependencies in the computational domain. However, st…",
-      "url": "https://arxiv.org/abs/2607.07718",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "f9ce9a0faee3",
-      "title": "ReCoLoRA: Spectrum-Aware Recursive Consolidation for Continual LLM Fine-Tuning",
-      "summary": "arXiv:2607.07719v1 Announce Type: new Abstract: Parameter-efficient fine-tuning adapts a large language model to one task cheaply, but across a task sequence LoRA-style methods keep stacking low-rank updates on the same frozen weight, so each new task tends to overwrite the previous ones. We present ReCoLoRA (Recursiv…",
-      "url": "https://arxiv.org/abs/2607.07719",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "3ca0627d9448",
-      "title": "Omni-Sleep: A Sleep Foundation Model via Hierarchical Contrastive Learning of CNS--ANS Dynamic",
-      "summary": "arXiv:2607.07720v1 Announce Type: new Abstract: Sleep physiology arises from the coordinated dynamics of the central nervous system (CNS) and autonomic nervous system (ANS), as reflected by multimodal polysomnography signals including EEG, EOG, EMG, ECG, and respiration. However, existing sleep foundation models often…",
-      "url": "https://arxiv.org/abs/2607.07720",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "893e9b721091",
-      "title": "Uncertainty-gated selection for block-sparse attention",
-      "summary": "arXiv:2607.07724v1 Announce Type: new Abstract: Block-sparse attention scales long-context language models by replacing the O(N^2) softmax with a per-query top-k selection over key blocks. This cutoff is myopic: when the k-th and (k+1)-th blocks are nearly tied in score, the selector commits without spending extra bud…",
-      "url": "https://arxiv.org/abs/2607.07724",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "a696588a53fb",
-      "title": "SHIFT: Survival Prediction from Incomplete and Heterogeneous Genomic Data",
-      "summary": "arXiv:2607.07725v1 Announce Type: new Abstract: Genomic prediction models often fail to transfer across institutions because sequencing panels differ across sites, creating structural feature missingness at deployment. Existing approaches to this challenge typically restrict analysis to genes shared across cohorts, ex…",
-      "url": "https://arxiv.org/abs/2607.07725",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "c206c43924e5",
-      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
-      "summary": "arXiv:2607.07740v1 Announce Type: new Abstract: Modern LLMs are increasingly deployed in long-context applications such as retrieval-augmented generation, repository-level coding, and agentic workflows whose accumulated reasoning and tool traces routinely push the input an order of magnitude past the pretraining windo…",
-      "url": "https://arxiv.org/abs/2607.07740",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "8c7286945d30",
-      "title": "Architecture Generalization with MetaNCA",
-      "summary": "arXiv:2607.07743v1 Announce Type: new Abstract: Self-organization is an emergent property of life, driven by the collective behavior of individual components acting on local information. Biological neurons, through local interactions transmitted through synapses, are able to learn efficiently and can adapt their conne…",
-      "url": "https://arxiv.org/abs/2607.07743",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "1a03b89128a7",
-      "title": "LiST: Lipschitz Scaling Training for Robust and Calibrated Neural Networks",
-      "summary": "arXiv:2607.07745v1 Announce Type: new Abstract: While accuracy, robustness, and calibration are all essential for reliable neural networks, they are often studied separately; developing models that satisfy all three simultaneously remains a central challenge. Lipschitz-constrained models guarantee robustness by design…",
-      "url": "https://arxiv.org/abs/2607.07745",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "0c925e4135fb",
-      "title": "Selective Left-Shift: Turning Test-Time Compute and Difficulty-based Curation into Training Data for Low-Resource Code Generation",
-      "summary": "arXiv:2607.07748v1 Announce Type: new Abstract: Large Language Models achieve strong code generation for high resource languages like Python and Java but suffer sharp performance drops on Low-Resource Programming Languages~(LRPLs) such as Julia. Improving Small Language Models~(SLMs) for these languages faces a trilem…",
-      "url": "https://arxiv.org/abs/2607.07748",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
-    },
-    {
-      "id": "b534e5986f89",
-      "title": "A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents",
-      "summary": "arXiv:2607.07753v1 Announce Type: new Abstract: Modelling psychological disorders in artificial agents offers both a testbed for computational psychiatry and a lens on the failure modes of affective control. Prior work induces one or two disorders in a reinforcement learning (RL) agent by hand-tuned reward shaping, la…",
-      "url": "https://arxiv.org/abs/2607.07753",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-10T04:00:00+00:00"
     },
     {
       "id": "49342582ee17",
@@ -318,8 +197,8 @@ window.NEWS_DATA = {
       "published": "2026-07-10T00:00:00+00:00"
     },
     {
-      "id": "abe36cde926c",
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "id": "e29492cf89fa",
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
       "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "source": "TechCrunch AI",
@@ -439,26 +318,15 @@ window.NEWS_DATA = {
       "published": "2026-07-09T20:12:03+00:00"
     },
     {
-      "id": "8d824ab91f52",
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
+      "id": "f5e488ba5711",
+      "title": "Show HN: Reviving my 2001 college band with AI",
+      "summary": "25 years ago, I joined a band called Fading Maize at Ripon College in Wisconsin. We did what we could with what we had. We recorded 3 albums over the next 3 years and played at as many bars and coffee shops as we could. We built a website with Microsoft Frontpage. Then we went our separate ways, got married, had kids,…",
+      "url": "https://www.fadingmaize.com",
+      "source": "Hacker News (AI)",
+      "domain": "fadingmaize.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-07-09T19:40:45+00:00"
-    },
-    {
-      "id": "5c65503b41d1",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-09T19:05:58+00:00"
+      "published": "2026-07-09T19:49:37+00:00"
     },
     {
       "id": "82bdd1f0e101",
@@ -472,28 +340,6 @@ window.NEWS_DATA = {
       "published": "2026-07-09T18:57:53+00:00"
     },
     {
-      "id": "afd3d0d64502",
-      "title": "Google will now disclose which ads are made with AI",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-09T18:40:51+00:00"
-    },
-    {
-      "id": "c2b3a8c212f4",
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-09T18:34:35+00:00"
-    },
-    {
       "id": "6bd15af3020a",
       "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
       "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
@@ -505,20 +351,9 @@ window.NEWS_DATA = {
       "published": "2026-07-09T18:30:00+00:00"
     },
     {
-      "id": "c88856bc7f49",
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-09T18:22:39+00:00"
-    },
-    {
       "id": "136d248d0190",
       "title": "GPT-5.6",
-      "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf https://developers.openai.com/api/docs/guides/latest-model https://x.com/levie/status/2075287443411222628 , https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news.ycombinator.com/item?id=48849066 Points: 1268 # Comments: 904",
+      "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf https://developers.openai.com/api/docs/guides/latest-model https://x.com/levie/status/2075287443411222628 , https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news.ycombinator.com/item?id=48849066 Points: 1522 # Comments: 1083",
       "url": "https://openai.com/index/gpt-5-6/",
       "source": "Hacker News (AI)",
       "domain": "openai.com",
@@ -529,7 +364,7 @@ window.NEWS_DATA = {
     {
       "id": "f4cfee9ce317",
       "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 77 # Comments: 45",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 235 # Comments: 243",
       "url": "https://ai-2040.com/",
       "source": "Hacker News (AI)",
       "domain": "ai-2040.com",
@@ -551,7 +386,7 @@ window.NEWS_DATA = {
     {
       "id": "68df3a0bf249",
       "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 217 # Comments: 195",
+      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 240 # Comments: 214",
       "url": "https://www.pangram.com/blog/ai-in-your-feed",
       "source": "Hacker News (AI)",
       "domain": "pangram.com",
@@ -562,7 +397,7 @@ window.NEWS_DATA = {
     {
       "id": "cf1facca9f53",
       "title": "The next era of AI is about infrastructure, not just models",
-      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 51 # Comments: 21",
+      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 60 # Comments: 23",
       "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
       "source": "Hacker News (AI)",
       "domain": "blog.mozilla.ai",
@@ -573,7 +408,7 @@ window.NEWS_DATA = {
     {
       "id": "34f7f7672837",
       "title": "DeepSeek aims to make its own AI chip",
-      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 58 # Comments: 7",
+      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 72 # Comments: 14",
       "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
       "source": "Hacker News (AI)",
       "domain": "proactiveinvestors.com",
@@ -584,7 +419,7 @@ window.NEWS_DATA = {
     {
       "id": "e0bc94005c7f",
       "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 91 # Comments: 58",
+      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 95 # Comments: 58",
       "url": "https://github.com/ronak-create/FableCut",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -646,61 +481,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "c6d0b3b5c690",
-      "title": "AI changes the economics of software rewrites",
-      "summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 102 # Comments: 104",
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
-      "source": "Hacker News (AI)",
-      "domain": "thetruthasiseeitnow.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T05:46:50+00:00"
-    },
-    {
-      "id": "b7542e120b77",
-      "title": "What's slowing down the AI buildout",
-      "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 73 # Comments: 166",
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "source": "Hacker News (AI)",
-      "domain": "worksinprogress.news",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T03:26:02+00:00"
-    },
-    {
-      "id": "e180e5b451a0",
-      "title": "I think I have LLM burnout",
-      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 391 # Comments: 347",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "source": "Hacker News (AI)",
-      "domain": "alecscollon.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T01:56:28+00:00"
-    },
-    {
-      "id": "89dff9fdd751",
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 171 # Comments: 92",
-      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "source": "Hacker News (AI)",
-      "domain": "tryai.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-08T23:27:14+00:00"
-    },
-    {
-      "id": "75d0b75473af",
-      "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 133 # Comments: 151",
-      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "source": "Hacker News (AI)",
-      "domain": "arstechnica.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-08T23:11:28+00:00"
     },
     {
       "id": "3396bac03e24",
@@ -791,17 +571,6 @@ window.NEWS_DATA = {
       "published": "2026-07-08T13:00:00+00:00"
     },
     {
-      "id": "3e809b66c809",
-      "title": "Pickup Artist Mystery Has an AI Girlfriend",
-      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
-      "url": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-08T11:00:00+00:00"
-    },
-    {
       "id": "a754ceade323",
       "title": "Helping K–12 educators build practical AI skills",
       "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
@@ -811,17 +580,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-07-08T10:00:00+00:00"
-    },
-    {
-      "id": "1ef7c63fb77f",
-      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
-      "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-08T09:30:00+00:00"
     },
     {
       "id": "42ec95c7fced",
@@ -855,17 +613,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-07-08T00:00:00+00:00"
-    },
-    {
-      "id": "2a7a40a348a6",
-      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
-      "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-07T21:59:29+00:00"
     },
     {
       "id": "7ddc8909f288",
@@ -1020,17 +767,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-07-06T15:30:55+00:00"
-    },
-    {
-      "id": "54435d246b5a",
-      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-      "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
-      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-1152x648.jpeg",
-      "published": "2026-07-06T14:17:42+00:00"
     },
     {
       "id": "0778813ce4bf",
