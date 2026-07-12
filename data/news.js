@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-07-11T08:05:58.116636+00:00",
+  "generated_at": "2026-07-12T08:26:55.460582+00:00",
   "count": 87,
   "categories": [
     "Community",
@@ -9,6 +9,83 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "7db80587f654",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 228 # Comments: 51",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News (AI)",
+      "domain": "iroh.computer",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-11T22:38:57+00:00"
+    },
+    {
+      "id": "2424976ec163",
+      "title": "Stop Telling Me to Ask an LLM",
+      "summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 177 # Comments: 104",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "source": "Hacker News (AI)",
+      "domain": "blog.yaelwrites.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-11T22:28:48+00:00"
+    },
+    {
+      "id": "f3cd9c4dcf67",
+      "title": "AI 2040 and the cult of intelligence",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 199 # Comments: 232",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "source": "Hacker News (AI)",
+      "domain": "geohot.github.io",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-11T18:04:01+00:00"
+    },
+    {
+      "id": "9f6bb2c1e801",
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 103 # Comments: 63",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "source": "Hacker News (AI)",
+      "domain": "pluralistic.net",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-11T17:23:52+00:00"
+    },
+    {
+      "id": "d4b12d4402f1",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-11T14:13:00+00:00"
+    },
+    {
+      "id": "33dfcd1d7b35",
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 210 # Comments: 153",
+      "url": "https://www.mixfont.com/ghost-font",
+      "source": "Hacker News (AI)",
+      "domain": "mixfont.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-11T09:36:53+00:00"
+    },
+    {
+      "id": "c034c625bafd",
+      "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 50 # Comments: 21",
+      "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+      "source": "Hacker News (AI)",
+      "domain": "windowscentral.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-11T09:10:45+00:00"
+    },
     {
       "id": "1f8c6fe0e5e0",
       "title": "OpenAI’s Head of Safety Is Leaving the Company",
@@ -21,6 +98,17 @@ window.NEWS_DATA = {
       "published": "2026-07-11T01:07:26+00:00"
     },
     {
+      "id": "18951a87014a",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 56 # Comments: 22",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "source": "Hacker News (AI)",
+      "domain": "bbc.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-11T00:40:36+00:00"
+    },
+    {
       "id": "7a0f021c2827",
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
@@ -30,6 +118,17 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-07-10T23:55:07+00:00"
+    },
+    {
+      "id": "6b8324cd6992",
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "summary": "Article URL: https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/ Comments URL: https://news.ycombinator.com/item?id=48865903 Points: 51 # Comments: 30",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "source": "Hacker News (AI)",
+      "domain": "jamesdrandall.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-10T22:04:45+00:00"
     },
     {
       "id": "a8e7991e5ee5",
@@ -45,7 +144,7 @@ window.NEWS_DATA = {
     {
       "id": "77df32871b93",
       "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 142 # Comments: 81",
+      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 155 # Comments: 86",
       "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
       "source": "Hacker News (AI)",
       "domain": "tryai.dev",
@@ -78,7 +177,7 @@ window.NEWS_DATA = {
     {
       "id": "e595a5047bcc",
       "title": "How the terrorist group Boko Haram uses frontier AI",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 204 # Comments: 172",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 227 # Comments: 199",
       "url": "https://casp.ac/reports/ai-enabled-terrorism",
       "source": "Hacker News (AI)",
       "domain": "casp.ac",
@@ -89,7 +188,7 @@ window.NEWS_DATA = {
     {
       "id": "74cceb7da155",
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805 , https://xcancel.com/__eknight__/status/2075643450196971805 Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 437 # Comments: 354",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805 , https://xcancel.com/__eknight__/status/2075643450196971805 Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863490 Points: 517 # Comments: 426",
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "source": "Hacker News (AI)",
       "domain": "cdn.openai.com",
@@ -107,6 +206,17 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-07-10T17:17:12+00:00"
+    },
+    {
+      "id": "7eb564474e5d",
+      "title": "Hands-On with the AMD Ryzen AI Halo",
+      "summary": "Article URL: https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx Comments URL: https://news.ycombinator.com/item?id=48861833 Points: 52 # Comments: 43",
+      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+      "source": "Hacker News (AI)",
+      "domain": "microcenter.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-10T16:06:38+00:00"
     },
     {
       "id": "eedccc09d5fc",
@@ -140,17 +250,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-07-10T10:30:00+00:00"
-    },
-    {
-      "id": "92faff4839d8",
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 278 # Comments: 228",
-      "url": "https://nevo-project.epfl.ch/",
-      "source": "Hacker News (AI)",
-      "domain": "nevo-project.epfl.ch",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-10T07:39:11+00:00"
     },
     {
       "id": "c1601d269cfc",
@@ -263,17 +362,6 @@ window.NEWS_DATA = {
       "published": "2026-07-09T21:57:42+00:00"
     },
     {
-      "id": "f7f1ef51bc78",
-      "title": "Can AI answer the $3 trillion question?",
-      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-09T21:47:50+00:00"
-    },
-    {
       "id": "358c7dd1be02",
       "title": "OpenAI wants its new tool to do your work for you and with you",
       "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
@@ -283,17 +371,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gptwork-1152x648-1783630571.webp",
       "published": "2026-07-09T21:25:55+00:00"
-    },
-    {
-      "id": "28e618eaddf8",
-      "title": "Building a real-time AI tutor for 5-year-olds",
-      "summary": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right. Our tutor steers the UX in real-time…",
-      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "source": "Hacker News (AI)",
-      "domain": "ello.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T20:51:06+00:00"
     },
     {
       "id": "042dac351cd2",
@@ -318,17 +395,6 @@ window.NEWS_DATA = {
       "published": "2026-07-09T20:12:03+00:00"
     },
     {
-      "id": "f5e488ba5711",
-      "title": "Show HN: Reviving my 2001 college band with AI",
-      "summary": "25 years ago, I joined a band called Fading Maize at Ripon College in Wisconsin. We did what we could with what we had. We recorded 3 albums over the next 3 years and played at as many bars and coffee shops as we could. We built a website with Microsoft Frontpage. Then we went our separate ways, got married, had kids,…",
-      "url": "https://www.fadingmaize.com",
-      "source": "Hacker News (AI)",
-      "domain": "fadingmaize.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T19:49:37+00:00"
-    },
-    {
       "id": "82bdd1f0e101",
       "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
       "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
@@ -351,28 +417,6 @@ window.NEWS_DATA = {
       "published": "2026-07-09T18:30:00+00:00"
     },
     {
-      "id": "136d248d0190",
-      "title": "GPT-5.6",
-      "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf https://developers.openai.com/api/docs/guides/latest-model https://x.com/levie/status/2075287443411222628 , https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news.ycombinator.com/item?id=48849066 Points: 1522 # Comments: 1083",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "source": "Hacker News (AI)",
-      "domain": "openai.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T17:04:14+00:00"
-    },
-    {
-      "id": "f4cfee9ce317",
-      "title": "AI 2040: Plan A",
-      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 235 # Comments: 243",
-      "url": "https://ai-2040.com/",
-      "source": "Hacker News (AI)",
-      "domain": "ai-2040.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T16:21:44+00:00"
-    },
-    {
       "id": "1e358541c161",
       "title": "The 1X Neo Robot Has Freaky Fast Fingers",
       "summary": "The soft, oddly intimate home-chore robot has been given some very tactile hands.",
@@ -382,50 +426,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-07-09T16:01:22+00:00"
-    },
-    {
-      "id": "68df3a0bf249",
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 240 # Comments: 214",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "source": "Hacker News (AI)",
-      "domain": "pangram.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T15:50:09+00:00"
-    },
-    {
-      "id": "cf1facca9f53",
-      "title": "The next era of AI is about infrastructure, not just models",
-      "summary": "Article URL: https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/ Comments URL: https://news.ycombinator.com/item?id=48846842 Points: 60 # Comments: 23",
-      "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-      "source": "Hacker News (AI)",
-      "domain": "blog.mozilla.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T14:50:01+00:00"
-    },
-    {
-      "id": "34f7f7672837",
-      "title": "DeepSeek aims to make its own AI chip",
-      "summary": "Article URL: https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html Comments URL: https://news.ycombinator.com/item?id=48846708 Points: 72 # Comments: 14",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
-      "source": "Hacker News (AI)",
-      "domain": "proactiveinvestors.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T14:42:21+00:00"
-    },
-    {
-      "id": "e0bc94005c7f",
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 95 # Comments: 58",
-      "url": "https://github.com/ronak-create/FableCut",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-09T13:23:10+00:00"
     },
     {
       "id": "0fe761e4220f",
