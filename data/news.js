@@ -1,14 +1,24 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-07-17T08:21:09.477917+00:00",
-  "count": 111,
+  "generated_at": "2026-07-18T08:02:52.119763+00:00",
+  "count": 99,
   "categories": [
-    "Community",
     "Industry",
     "Labs",
     "Open Source",
     "Research"
   ],
   "items": [
+    {
+      "id": "4a1a942f950b",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-18T04:47:25+00:00"
+    },
     {
       "id": "74e1390fe365",
       "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
@@ -18,7 +28,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "1c8ee9e7ea2c",
@@ -29,7 +39,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "0e062973f199",
@@ -40,7 +50,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "5a83d84e9fca",
@@ -51,7 +61,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "f988932dc509",
@@ -62,7 +72,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "0d9e6e074b7b",
@@ -73,7 +83,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "c659a954a3a2",
@@ -84,7 +94,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "a289755d53f8",
@@ -95,7 +105,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "27cb5c58d2ce",
@@ -106,7 +116,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "633630fe6d08",
@@ -117,7 +127,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "6359031af32d",
@@ -128,7 +138,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "c8453e364419",
@@ -139,7 +149,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "18040677f3bd",
@@ -150,7 +160,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "6aa92e954615",
@@ -161,7 +171,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "ae3db059e883",
@@ -172,7 +182,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "d79a7c9e4963",
@@ -183,7 +193,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "43a523a744c2",
@@ -194,7 +204,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "c90ec6286874",
@@ -205,7 +215,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "d7be374e1b2d",
@@ -216,7 +226,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "b7d5733ab116",
@@ -227,7 +237,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "36f922f92072",
@@ -238,7 +248,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "9ceb7670f112",
@@ -249,7 +259,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "a745337ec5bd",
@@ -260,7 +270,7 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
     },
     {
       "id": "a0c7dc0ed64c",
@@ -271,7 +281,183 @@ window.NEWS_DATA = {
       "domain": "arxiv.org",
       "category": "Research",
       "image": "",
-      "published": "2026-07-17T04:00:00+00:00"
+      "published": "2026-07-18T04:00:00+00:00"
+    },
+    {
+      "id": "f1cc15104278",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T22:55:09+00:00"
+    },
+    {
+      "id": "f3c07513edbd",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T22:12:56+00:00"
+    },
+    {
+      "id": "6ccf1ab3e398",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T21:20:47+00:00"
+    },
+    {
+      "id": "330e7732182a",
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T20:19:49+00:00"
+    },
+    {
+      "id": "0350c2c73606",
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T20:09:27+00:00"
+    },
+    {
+      "id": "acaa027c9990",
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "summary": "The FireSat program can spot wildfires that other satellites miss.",
+      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png",
+      "published": "2026-07-17T19:50:18+00:00"
+    },
+    {
+      "id": "f6dc9b58435f",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedg…",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T17:45:46+00:00"
+    },
+    {
+      "id": "87d79a44c0b5",
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg",
+      "published": "2026-07-17T16:10:05+00:00"
+    },
+    {
+      "id": "ba2c9ed9b9e7",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-07-17T15:57:54+00:00"
+    },
+    {
+      "id": "e3492dafa30e",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T15:21:17+00:00"
+    },
+    {
+      "id": "407b85ee30cd",
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedg…",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T14:00:00+00:00"
+    },
+    {
+      "id": "e8787f50fae3",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T12:00:00+00:00"
+    },
+    {
+      "id": "eb1a234941f7",
+      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+      "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+      "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T10:00:00+00:00"
+    },
+    {
+      "id": "9d03534fe430",
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-07-17T10:00:00+00:00"
+    },
+    {
+      "id": "efec03de50fa",
+      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+      "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
+      "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-17T09:00:00+00:00"
+    },
+    {
+      "id": "6a503d06d1d1",
+      "title": "The risk of weather data sabotage is rising",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livel…",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-17T08:57:32+00:00"
     },
     {
       "id": "8433beeebcdf",
@@ -307,17 +493,6 @@ window.NEWS_DATA = {
       "published": "2026-07-16T20:26:23+00:00"
     },
     {
-      "id": "92f17cbe8ed8",
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 236 # Comments: 82",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "source": "Hacker News (AI)",
-      "domain": "lmstudio.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-16T20:18:15+00:00"
-    },
-    {
       "id": "c520eda5b5d7",
       "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
       "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
@@ -327,17 +502,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-1152x648.png",
       "published": "2026-07-16T20:09:48+00:00"
-    },
-    {
-      "id": "1359d5b5314a",
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 243 # Comments: 312",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "source": "Hacker News (AI)",
-      "domain": "tryai.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-16T20:03:23+00:00"
     },
     {
       "id": "3a24762671c2",
@@ -406,17 +570,6 @@ window.NEWS_DATA = {
       "published": "2026-07-16T18:22:06+00:00"
     },
     {
-      "id": "c93e974b63b6",
-      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=48937756 Points: 134 # Comments: 28",
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-      "source": "Hacker News (AI)",
-      "domain": "the-decoder.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-16T17:44:46+00:00"
-    },
-    {
       "id": "228fb2d07d7f",
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
       "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a…",
@@ -428,17 +581,6 @@ window.NEWS_DATA = {
       "published": "2026-07-16T17:06:08+00:00"
     },
     {
-      "id": "c499e7c954c8",
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 193 # Comments: 136",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "source": "Hacker News (AI)",
-      "domain": "blog.lyc8503.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-16T16:41:37+00:00"
-    },
-    {
       "id": "124ab2a13347",
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
       "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and…",
@@ -448,28 +590,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
       "published": "2026-07-16T16:40:48+00:00"
-    },
-    {
-      "id": "658c1e5da8a5",
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-07-16T16:01:21+00:00"
-    },
-    {
-      "id": "601ac6ded562",
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-16T16:00:00+00:00"
     },
     {
       "id": "7cde3a563282",
@@ -516,105 +636,6 @@ window.NEWS_DATA = {
       "published": "2026-07-16T15:48:21+00:00"
     },
     {
-      "id": "647326809e11",
-      "title": "Yes, you can now order DoorDash from the command line",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-16T15:38:55+00:00"
-    },
-    {
-      "id": "dd37eaf6e12e",
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-16T15:31:09+00:00"
-    },
-    {
-      "id": "e416259fa117",
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 128 # Comments: 60",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "source": "Hacker News (AI)",
-      "domain": "zhinit.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-16T15:13:00+00:00"
-    },
-    {
-      "id": "fb00408ae6c2",
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-16T15:02:00+00:00"
-    },
-    {
-      "id": "ce969ccd49c2",
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-16T14:40:00+00:00"
-    },
-    {
-      "id": "cbb17694a0fc",
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-16T14:26:29+00:00"
-    },
-    {
-      "id": "8f886d1ae38b",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-16T13:17:59+00:00"
-    },
-    {
-      "id": "2f8d854fbb7e",
-      "title": "Generative AI Is an Engineering Disaster",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 104 # Comments: 74",
-      "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
-      "source": "Hacker News (AI)",
-      "domain": "theatlantic.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-16T13:12:24+00:00"
-    },
-    {
-      "id": "7ab12b1cdf55",
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 221 # Comments: 227",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "source": "Hacker News (AI)",
-      "domain": "theocharis.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-16T11:59:01+00:00"
-    },
-    {
       "id": "6ebad4c4dd21",
       "title": "Newer Models, Same Advantage",
       "summary": "",
@@ -648,28 +669,6 @@ window.NEWS_DATA = {
       "published": "2026-07-16T09:30:42+00:00"
     },
     {
-      "id": "1fee94939073",
-      "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 104 # Comments: 114",
-      "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
-      "source": "Hacker News (AI)",
-      "domain": "frank.computer",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-16T04:31:01+00:00"
-    },
-    {
-      "id": "887cd4db560b",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-16T04:00:00+00:00"
-    },
-    {
       "id": "637bd5eac203",
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
@@ -692,17 +691,6 @@ window.NEWS_DATA = {
       "published": "2026-07-16T00:00:00+00:00"
     },
     {
-      "id": "958faf9f3891",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-15T23:59:44+00:00"
-    },
-    {
       "id": "740f145b306c",
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
       "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot…",
@@ -712,61 +700,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
       "published": "2026-07-15T22:24:17+00:00"
-    },
-    {
-      "id": "80976b67b30e",
-      "title": "LLM Networking with MikroTik",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 102 # Comments: 56",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "source": "Hacker News (AI)",
-      "domain": "blog.greg.technology",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-15T22:23:27+00:00"
-    },
-    {
-      "id": "8d6fdaf6a81e",
-      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
-      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 55 # Comments: 63",
-      "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-      "source": "Hacker News (AI)",
-      "domain": "economics.mit.edu",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-15T21:39:21+00:00"
-    },
-    {
-      "id": "7a7581e63092",
-      "title": "We don't use AI in any of our design or production processes",
-      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 107 # Comments: 113",
-      "url": "https://mass-driver.com/article/from-human-hands",
-      "source": "Hacker News (AI)",
-      "domain": "mass-driver.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-15T21:36:49+00:00"
-    },
-    {
-      "id": "f1017e7e1ee6",
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 289 # Comments: 106",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "source": "Hacker News (AI)",
-      "domain": "siegelendowment.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-15T21:16:36+00:00"
-    },
-    {
-      "id": "50d7cb0bda3f",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-15T19:41:38+00:00"
     },
     {
       "id": "ae4240b1eedf",
@@ -945,17 +878,6 @@ window.NEWS_DATA = {
       "published": "2026-07-14T16:28:14+00:00"
     },
     {
-      "id": "cc8956384437",
-      "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
-      "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-      "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-14T16:05:18+00:00"
-    },
-    {
       "id": "2f6cd353a186",
       "title": "Celebrating 25 years of visual search innovation",
       "summary": "Google Images logo surrounded by illustrations of people searching for different images",
@@ -976,17 +898,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg",
       "published": "2026-07-14T15:06:28+00:00"
-    },
-    {
-      "id": "19ae17a24e20",
-      "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
-      "summary": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-14T10:30:00+00:00"
     },
     {
       "id": "88f362928f7e",
@@ -1022,17 +933,6 @@ window.NEWS_DATA = {
       "published": "2026-07-14T00:00:00+00:00"
     },
     {
-      "id": "1947b02a5180",
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255514431-1024x648.jpg",
-      "published": "2026-07-13T19:17:51+00:00"
-    },
-    {
       "id": "b064a3a903b9",
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether A…",
@@ -1042,17 +942,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-07-13T18:00:00+00:00"
-    },
-    {
-      "id": "5f75c11ca1ab",
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
-      "published": "2026-07-13T15:06:34+00:00"
     },
     {
       "id": "f83e9c107c13",
@@ -1125,17 +1014,6 @@ window.NEWS_DATA = {
       "title": "GPT-5.5 Bio Bug Bounty",
       "summary": "Details about the OpenAI Bio Bounty program",
       "url": "https://openai.com/index/bio-bug-bounty",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "7c5976357f0c",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "source": "OpenAI",
       "domain": "openai.com",
       "category": "Labs",
@@ -1218,17 +1096,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-07-06T18:00:00+00:00"
-    },
-    {
-      "id": "6eb7a8198d31",
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "summary": "",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "source": "DeepMind",
-      "domain": "deepmind.google",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-07-03T14:25:43+00:00"
     }
   ]
 };
