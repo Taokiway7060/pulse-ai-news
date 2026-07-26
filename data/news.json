@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:16:50.159168+00:00",
+  "generated_at": "2026-07-26T08:35:21.244612+00:00",
   "count": 83,
   "categories": [
     "Community",
@@ -9,6 +9,138 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "583ccb492ef3",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-26T01:30:00+00:00"
+    },
+    {
+      "id": "5f777ad0745e",
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 80 # Comments: 83",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "source": "Hacker News (AI)",
+      "domain": "siepr.stanford.edu",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-25T22:51:10+00:00"
+    },
+    {
+      "id": "e30bc5e2814b",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 109 # Comments: 75",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "source": "Hacker News (AI)",
+      "domain": "blog.cloudflare.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-25T22:50:49+00:00"
+    },
+    {
+      "id": "1d1b85e76fe6",
+      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 57 # Comments: 19",
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "source": "Hacker News (AI)",
+      "domain": "daringfireball.net",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-25T21:18:06+00:00"
+    },
+    {
+      "id": "cb5596a265fd",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 142 # Comments: 121",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "Hacker News (AI)",
+      "domain": "debian.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-25T19:44:39+00:00"
+    },
+    {
+      "id": "26e9741506aa",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 170 # Comments: 37",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-25T18:59:50+00:00"
+    },
+    {
+      "id": "0a478c2b53f8",
+      "title": "Politician reads AI prompt during assembly",
+      "summary": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 67 # Comments: 43",
+      "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+      "source": "Hacker News (AI)",
+      "domain": "youtube.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-25T16:31:15+00:00"
+    },
+    {
+      "id": "858f90a6292c",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-25T16:00:00+00:00"
+    },
+    {
+      "id": "23dd40ee0be6",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 373 # Comments: 287",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "source": "Hacker News (AI)",
+      "domain": "tobi.knaup.me",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-25T14:49:49+00:00"
+    },
+    {
+      "id": "10b7aa7b77ae",
+      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 62 # Comments: 82",
+      "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+      "source": "Hacker News (AI)",
+      "domain": "wsj.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-25T13:33:03+00:00"
+    },
+    {
+      "id": "5351a4345241",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-25T13:05:00+00:00"
+    },
+    {
+      "id": "371d4bd0be90",
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-25T10:30:00+00:00"
+    },
     {
       "id": "d857d47d4857",
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -188,7 +320,7 @@
     {
       "id": "8adf13346b9e",
       "title": "Oracle fires 21,000 employees to fund AI spending",
-      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 73 # Comments: 13",
+      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 78 # Comments: 14",
       "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
       "source": "Hacker News (AI)",
       "domain": "jpost.com",
@@ -199,7 +331,7 @@
     {
       "id": "11d39bc74f0f",
       "title": "I Tried Building a Real App with AI. It Took a Year",
-      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 96 # Comments: 79",
+      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 108 # Comments: 84",
       "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
       "source": "Hacker News (AI)",
       "domain": "alexhyett.com",
@@ -221,35 +353,13 @@
     {
       "id": "ad6ad9aa7f54",
       "title": "Hetzner is working on LLM Inference",
-      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 148 # Comments: 79",
+      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 152 # Comments: 87",
       "url": "https://sliplane.io/blog/hetzner-inference",
       "source": "Hacker News (AI)",
       "domain": "sliplane.io",
       "category": "Community",
       "image": "",
       "published": "2026-07-24T09:24:44+00:00"
-    },
-    {
-      "id": "6a85b98e82c3",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-24T01:00:00+00:00"
-    },
-    {
-      "id": "832335556206",
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-23T20:33:02+00:00"
     },
     {
       "id": "64272e7ccb3c",
@@ -263,17 +373,6 @@
       "published": "2026-07-23T19:08:01+00:00"
     },
     {
-      "id": "4501db4ebdbf",
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-23T19:00:00+00:00"
-    },
-    {
       "id": "bcf92a743d6e",
       "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
       "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
@@ -283,28 +382,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-07-23T18:45:52+00:00"
-    },
-    {
-      "id": "123052c11a10",
-      "title": "AI bet goes awry: Oracle fires 21,000 employees",
-      "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 105 # Comments: 25",
-      "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-      "source": "Hacker News (AI)",
-      "domain": "msn.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-23T18:07:33+00:00"
-    },
-    {
-      "id": "78168dcc5ba4",
-      "title": "The arguments against open source AI are bad",
-      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 309 # Comments: 211",
-      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "source": "Hacker News (AI)",
-      "domain": "tombedor.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-23T16:49:57+00:00"
     },
     {
       "id": "616d55337d42",
@@ -318,39 +395,6 @@
       "published": "2026-07-23T16:04:19+00:00"
     },
     {
-      "id": "136d12ed4e46",
-      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "summary": "hey HN, Jonathan and Guy here, creators of OneCLI ( https://onecli.sh/ ). OneCLI is an open source vault for AI Agents. Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to keep them safe. We figured that in the agent's world, this is not the…",
-      "url": "https://github.com/onecli/onecli",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-23T15:42:40+00:00"
-    },
-    {
-      "id": "a2a40897eab4",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https://littletech.org/ https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1042 # Comments: 856",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "source": "Hacker News (AI)",
-      "domain": "politico.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-23T15:18:40+00:00"
-    },
-    {
-      "id": "2dbee6c380f1",
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "summary": "Hi HN, we are Marcos and Harrison, cofounders of Palmier ( https://palmier.io ). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few demos: - Making some AI transitions: https://www.youtube.com/watch?v=hbM_-eR1GX…",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-23T15:11:37+00:00"
-    },
-    {
       "id": "97ada15ce205",
       "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
       "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
@@ -360,39 +404,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-chatbot-icons-on-smartphone-1-1152x648.jpg",
       "published": "2026-07-23T14:45:05+00:00"
-    },
-    {
-      "id": "fac0d5d5beb3",
-      "title": "I think you might be fooling yourself with AI",
-      "summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 83 # Comments: 167",
-      "url": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
-      "source": "Hacker News (AI)",
-      "domain": "louwrentius.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-23T14:05:43+00:00"
-    },
-    {
-      "id": "c7b591a8f673",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 263 # Comments: 327",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "source": "Hacker News (AI)",
-      "domain": "darpa.mil",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-23T13:51:36+00:00"
-    },
-    {
-      "id": "ca178c0b967f",
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 272 # Comments: 282",
-      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-      "source": "Hacker News (AI)",
-      "domain": "reuters.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-23T13:10:02+00:00"
     },
     {
       "id": "02d55232f47b",
@@ -635,17 +646,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-1152x648.jpg",
       "published": "2026-07-21T16:58:25+00:00"
-    },
-    {
-      "id": "67209dd21c59",
-      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
-      "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
-      "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-21T16:08:44+00:00"
     },
     {
       "id": "597fc6223a06",
