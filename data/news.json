@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T08:35:21.244612+00:00",
-  "count": 83,
+  "generated_at": "2026-07-27T10:04:18.740624+00:00",
+  "count": 95,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,226 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "56544ebeeea3",
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+      "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-27T10:00:00+00:00"
+    },
+    {
+      "id": "196b6bba8d25",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-07-27T09:32:20+00:00"
+    },
+    {
+      "id": "a3571cd2ca0d",
+      "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
+      "summary": "arXiv:2607.21623v1 Announce Type: new Abstract: We present EaaS, a cloud-native reference architecture that operationalizes AI evaluation methods as six stateless Kubernetes microservices: conformal prediction with finite-sample-corrected Adaptive Prediction Sets, calibration assessment, drift detection via RFF-approx…",
+      "url": "https://arxiv.org/abs/2607.21623",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "8ac9e8503261",
+      "title": "On the Depth Scalability of Logic Gate Networks",
+      "summary": "arXiv:2607.21633v1 Announce Type: new Abstract: Logic Gate Networks (LGNs) implement computation through compositions of Boolean operations, yet unlike classical Boolean circuits, existing LGNs do not reliably benefit from increased depth. We identify two distinct causes: optimization collapse in deep relaxed LGNs and…",
+      "url": "https://arxiv.org/abs/2607.21633",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "1894c56c8bdf",
+      "title": "MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion",
+      "summary": "arXiv:2607.21634v1 Announce Type: new Abstract: Masked discrete diffusion for molecular graph generation typically applies a uniform corruption schedule to all tokens in a lossless graph-to-sequence representation, implicitly treating structurally heterogeneous molecular components as equally difficult and equally imp…",
+      "url": "https://arxiv.org/abs/2607.21634",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "09bb4f039c34",
+      "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+      "summary": "arXiv:2607.21635v1 Announce Type: new Abstract: Personal agents maintain memories, learned skills, tool configurations, and policy state that evolve with each user. Existing agent benchmarks often evaluate these capabilities in isolation: tool benchmarks test invocation under fixed APIs, memory benchmarks test recall…",
+      "url": "https://arxiv.org/abs/2607.21635",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "85648283ed74",
+      "title": "Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models",
+      "summary": "arXiv:2607.21636v1 Announce Type: new Abstract: Synthetic tabular data is valued for preserving not only each column's marginal distribution but the dependencies between columns -- structure that carries much of the discriminative signal for minority classes in imbalanced domains such as fraud and clinical risk. Yet t…",
+      "url": "https://arxiv.org/abs/2607.21636",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "578ac19b379f",
+      "title": "Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning",
+      "summary": "arXiv:2607.21637v1 Announce Type: new Abstract: This paper explores the efficacy of quasi-Monte Carlo (QMC) weight initialization for meta-reinforcement learning within modern benchmark environments. Various sampling methods are used to bound a population-based search and aggregate an optimal prior from a baseline set…",
+      "url": "https://arxiv.org/abs/2607.21637",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "081dcdc1fee2",
+      "title": "Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations",
+      "summary": "arXiv:2607.21644v1 Announce Type: new Abstract: We present a goal-agnostic control framework for partial differential equations (PDEs) built around a joint-embedding predictive architecture (JEPA). The small 2D ViT encoder and action-conditioned latent dynamics are trained offline without a reward or downstream goal,…",
+      "url": "https://arxiv.org/abs/2607.21644",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "6e45a50eace1",
+      "title": "Multi-Horizon Consistency as Geometry: When Latent Dynamics Contract, and When They Do Not",
+      "summary": "arXiv:2607.21645v1 Announce Type: new Abstract: Multi-horizon latent consistency is a common training knob in video predictors and world models, but practitioners rarely know what it does to transition geometry. We treat lambda, the weight on multi-step latent agreement, as a diagnostic control and measure an empirica…",
+      "url": "https://arxiv.org/abs/2607.21645",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "a7b4a169403d",
+      "title": "Adjustment Speed as a Safety Constraint for Nonstationary Reinforcement Learning",
+      "summary": "arXiv:2607.21646v1 Announce Type: new Abstract: Ensuring safety in reinforcement learning under nonstationarity requires determining whether a learning system can safely adapt to forecasted environmental change within the required recovery horizon. Existing safe reinforcement learning methods typically assume stationa…",
+      "url": "https://arxiv.org/abs/2607.21646",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "98d650be952c",
+      "title": "A Drift Stable Quantum Federated Learning for Intelligent Services",
+      "summary": "arXiv:2607.21647v1 Announce Type: new Abstract: Quantum federated learning enables distributed clients to train quantum neural networks without sharing local data, making it promising for privacy-aware intelligent services. Intelligent services in this context refer to privacy-sensitive distributed decision systems, s…",
+      "url": "https://arxiv.org/abs/2607.21647",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "1dd9b54bd782",
+      "title": "Shallower ReLU Network Representations via Exact Linear Algebra",
+      "summary": "arXiv:2607.21651v1 Announce Type: new Abstract: We prove that the maximum of $n$ real numbers is exactly representable by a ReLU network with two hidden layers for every $n\\le 10$. The constructions are obtained by reducing the problem to exact rational linear algebra: after a symmetry reduction, the necessary cancell…",
+      "url": "https://arxiv.org/abs/2607.21651",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "a6b4b6a86fb5",
+      "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+      "summary": "arXiv:2607.21653v1 Announce Type: new Abstract: Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of trainer, distributed backend, and rollout glue: the cost lands on the…",
+      "url": "https://arxiv.org/abs/2607.21653",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-07-27T04:00:00+00:00"
+    },
+    {
+      "id": "8af2f4444a0d",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-27T00:19:14+00:00"
+    },
+    {
+      "id": "a8a089005db3",
+      "title": "Making sense of the panic over Chinese AI",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-26T19:40:57+00:00"
+    },
+    {
+      "id": "5717818d5710",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-07-26T16:33:13+00:00"
+    },
+    {
+      "id": "c3a7d92ea9af",
+      "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+      "summary": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 52 # Comments: 122",
+      "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+      "source": "Hacker News (AI)",
+      "domain": "andys.blog",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-26T16:14:46+00:00"
+    },
+    {
+      "id": "7c5275020596",
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 200 # Comments: 66",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "source": "Hacker News (AI)",
+      "domain": "rickmanelius.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-26T13:13:03+00:00"
+    },
+    {
+      "id": "577d0a1eac22",
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "summary": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 124 # Comments: 49",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "source": "Hacker News (AI)",
+      "domain": "teorth.github.io",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-26T10:32:35+00:00"
+    },
     {
       "id": "583ccb492ef3",
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
@@ -23,7 +243,7 @@
     {
       "id": "5f777ad0745e",
       "title": "What is happening to jobs? Separating AI hype from reality",
-      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 80 # Comments: 83",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 263 # Comments: 342",
       "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
       "source": "Hacker News (AI)",
       "domain": "siepr.stanford.edu",
@@ -34,7 +254,7 @@
     {
       "id": "e30bc5e2814b",
       "title": "Cloudflare's new AI traffic options for customers",
-      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 109 # Comments: 75",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 190 # Comments: 149",
       "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
       "source": "Hacker News (AI)",
       "domain": "blog.cloudflare.com",
@@ -45,7 +265,7 @@
     {
       "id": "1d1b85e76fe6",
       "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 57 # Comments: 19",
+      "summary": "Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 61 # Comments: 19",
       "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
       "source": "Hacker News (AI)",
       "domain": "daringfireball.net",
@@ -56,7 +276,7 @@
     {
       "id": "cb5596a265fd",
       "title": "LLM Usage in Debian: Three Proposals",
-      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 142 # Comments: 121",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 209 # Comments: 208",
       "url": "https://www.debian.org/vote/2026/vote_002",
       "source": "Hacker News (AI)",
       "domain": "debian.org",
@@ -67,7 +287,7 @@
     {
       "id": "26e9741506aa",
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 170 # Comments: 37",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 277 # Comments: 70",
       "url": "https://github.com/slvDev/esp32-ai",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -78,7 +298,7 @@
     {
       "id": "0a478c2b53f8",
       "title": "Politician reads AI prompt during assembly",
-      "summary": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 67 # Comments: 43",
+      "summary": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 69 # Comments: 48",
       "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
       "source": "Hacker News (AI)",
       "domain": "youtube.com",
@@ -100,7 +320,7 @@
     {
       "id": "23dd40ee0be6",
       "title": "Open-weight AI is having its Kubernetes moment",
-      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 373 # Comments: 287",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 402 # Comments: 317",
       "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "source": "Hacker News (AI)",
       "domain": "tobi.knaup.me",
@@ -109,15 +329,26 @@
       "published": "2026-07-25T14:49:49+00:00"
     },
     {
-      "id": "10b7aa7b77ae",
-      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49047448 Points: 62 # Comments: 82",
-      "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+      "id": "adb03b9c3cf6",
+      "title": "The AI jobs apocalypse probably isn't coming anytime soon",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor Comments URL: https://news.ycombinator.com/item?id=49047969 Points: 53 # Comments: 90",
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
       "source": "Hacker News (AI)",
-      "domain": "wsj.com",
+      "domain": "theguardian.com",
       "category": "Community",
       "image": "",
-      "published": "2026-07-25T13:33:03+00:00"
+      "published": "2026-07-25T14:41:06+00:00"
+    },
+    {
+      "id": "fba44ba7dc29",
+      "title": "The AI Productivity Illusion",
+      "summary": "Article URL: https://www.hardresetmedia.com/p/the-ai-productivity-illusion Comments URL: https://news.ycombinator.com/item?id=49047526 Points: 69 # Comments: 26",
+      "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
+      "source": "Hacker News (AI)",
+      "domain": "hardresetmedia.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-07-25T13:43:33+00:00"
     },
     {
       "id": "5351a4345241",
@@ -252,17 +483,6 @@
       "published": "2026-07-24T15:13:57+00:00"
     },
     {
-      "id": "c6723a15baac",
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-24T15:09:55+00:00"
-    },
-    {
       "id": "3ed0eb6f8db7",
       "title": "Silicon Valley Is Completely Divided Over Chinese AI",
       "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
@@ -272,28 +492,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-07-24T15:00:00+00:00"
-    },
-    {
-      "id": "cc6f03fe9922",
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face —…",
-      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-24T14:00:00+00:00"
-    },
-    {
-      "id": "f914bbda4813",
-      "title": "Open Weights and American AI Leadership [pdf]",
-      "summary": "Article URL: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf Comments URL: https://news.ycombinator.com/item?id=49035751 Points: 111 # Comments: 2",
-      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "source": "Hacker News (AI)",
-      "domain": "images.nvidia.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-24T13:58:12+00:00"
     },
     {
       "id": "db271304158f",
@@ -307,39 +505,6 @@
       "published": "2026-07-24T13:49:38+00:00"
     },
     {
-      "id": "643676a6963c",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-24T13:36:42+00:00"
-    },
-    {
-      "id": "8adf13346b9e",
-      "title": "Oracle fires 21,000 employees to fund AI spending",
-      "summary": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 78 # Comments: 14",
-      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
-      "source": "Hacker News (AI)",
-      "domain": "jpost.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-24T13:33:12+00:00"
-    },
-    {
-      "id": "11d39bc74f0f",
-      "title": "I Tried Building a Real App with AI. It Took a Year",
-      "summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 108 # Comments: 84",
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-      "source": "Hacker News (AI)",
-      "domain": "alexhyett.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-24T12:00:17+00:00"
-    },
-    {
       "id": "6da4e902a84e",
       "title": "Some Kids Will Never Think AI Is Cool",
       "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
@@ -349,17 +514,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-07-24T10:00:00+00:00"
-    },
-    {
-      "id": "ad6ad9aa7f54",
-      "title": "Hetzner is working on LLM Inference",
-      "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 152 # Comments: 87",
-      "url": "https://sliplane.io/blog/hetzner-inference",
-      "source": "Hacker News (AI)",
-      "domain": "sliplane.io",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-24T09:24:44+00:00"
     },
     {
       "id": "64272e7ccb3c",
@@ -591,28 +745,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-07-21T22:50:01+00:00"
-    },
-    {
-      "id": "44a3df9fb25f",
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-07-21T20:00:27+00:00"
-    },
-    {
-      "id": "f55f8adcdc1a",
-      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-      "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-21T19:05:00+00:00"
     },
     {
       "id": "2d0dd7c48ed1",
