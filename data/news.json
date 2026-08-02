@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T08:29:40.679732+00:00",
-  "count": 83,
+  "generated_at": "2026-08-02T08:32:30.030553+00:00",
+  "count": 84,
   "categories": [
     "Community",
     "Industry",
@@ -10,9 +10,163 @@
   ],
   "items": [
     {
+      "id": "00adf3961a13",
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-02T08:29:14+00:00"
+    },
+    {
+      "id": "335e451447df",
+      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 50 # Comments: 32",
+      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+      "source": "Hacker News (AI)",
+      "domain": "youtube.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-01T22:50:30+00:00"
+    },
+    {
+      "id": "4b3d4e992bd6",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 292 # Comments: 258",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "source": "Hacker News (AI)",
+      "domain": "mitsloan.mit.edu",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-01T22:25:12+00:00"
+    },
+    {
+      "id": "a2c5f9585e59",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-01T20:26:04+00:00"
+    },
+    {
+      "id": "9ad3c87ad57d",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-01T19:45:45+00:00"
+    },
+    {
+      "id": "6a21a49b7f60",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-01T17:07:34+00:00"
+    },
+    {
+      "id": "ef6fda291df6",
+      "title": "This $9 key physically locks your most addictive apps",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-01T15:58:17+00:00"
+    },
+    {
+      "id": "2381c057a220",
+      "title": "Google kills Earth AI generator after one day",
+      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 62 # Comments: 100",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "source": "Hacker News (AI)",
+      "domain": "twitter.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-01T13:02:44+00:00"
+    },
+    {
+      "id": "3755c60b2501",
+      "title": "On the non-use of AI in my writing process",
+      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 130 # Comments: 122",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "source": "Hacker News (AI)",
+      "domain": "antipope.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-01T12:56:54+00:00"
+    },
+    {
+      "id": "37e7ffda95f5",
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "summary": "Reddit may still be considering ending its licensing deal with Google.",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
+      "published": "2026-08-01T12:30:36+00:00"
+    },
+    {
+      "id": "8f35b52dd4e1",
+      "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+      "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+      "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-01T10:30:00+00:00"
+    },
+    {
+      "id": "5a80babb38a5",
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-01T09:30:00+00:00"
+    },
+    {
+      "id": "fcb129b948d9",
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 74 # Comments: 104",
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "source": "Hacker News (AI)",
+      "domain": "engadget.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-01T08:26:55+00:00"
+    },
+    {
+      "id": "e292fa597323",
+      "title": "AI doesn't generate working products, that's still your job",
+      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 255 # Comments: 269",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "source": "Hacker News (AI)",
+      "domain": "weeraman.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-01T07:52:10+00:00"
+    },
+    {
       "id": "7710388ca5ac",
       "title": "Flint: A Visualization Language for the AI Era",
-      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 98 # Comments: 31",
+      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 262 # Comments: 67",
       "url": "https://microsoft.github.io/flint-chart/",
       "source": "Hacker News (AI)",
       "domain": "microsoft.github.io",
@@ -133,7 +287,7 @@
     {
       "id": "29683940c744",
       "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 117 # Comments: 72",
+      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 130 # Comments: 85",
       "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
       "source": "Hacker News (AI)",
       "domain": "manifest.build",
@@ -177,7 +331,7 @@
     {
       "id": "048b56f93138",
       "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 159 # Comments: 182",
+      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 206 # Comments: 232",
       "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
       "source": "Hacker News (AI)",
       "domain": "quantamagazine.org",
@@ -263,20 +417,9 @@
       "published": "2026-07-31T14:01:40+00:00"
     },
     {
-      "id": "b99e5e501932",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy secu…",
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-31T14:00:00+00:00"
-    },
-    {
       "id": "8b338013881f",
       "title": "Situational Awareness down 67% in July in AI stock rout",
-      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 146 # Comments: 156",
+      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 155 # Comments: 167",
       "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
       "source": "Hacker News (AI)",
       "domain": "wsj.com",
@@ -287,7 +430,7 @@
     {
       "id": "fcf131609585",
       "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 148 # Comments: 138",
+      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 155 # Comments: 139",
       "url": "https://arxiv.org/abs/2607.27197",
       "source": "Hacker News (AI)",
       "domain": "arxiv.org",
@@ -309,7 +452,7 @@
     {
       "id": "0ca6e6d59b37",
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 501 # Comments: 519",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 562 # Comments: 606",
       "url": "https://blog.google/security/chrome-stronger-with-every-update/",
       "source": "Hacker News (AI)",
       "domain": "blog.google",
@@ -329,28 +472,6 @@
       "published": "2026-07-31T07:00:00+00:00"
     },
     {
-      "id": "1ba0ebc075c5",
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "summary": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X. Before GUIs, interacting with a computer was limited to strange terminal commands: C:\\> DIR C:\\> COPY FILE.TXT A:…",
-      "url": "https://marbleos.com/demo",
-      "source": "Hacker News (AI)",
-      "domain": "marbleos.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-31T05:17:29+00:00"
-    },
-    {
-      "id": "42e73be2d333",
-      "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "summary": "Article URL: https://greyswansignals.com/?theme=dark Comments URL: https://news.ycombinator.com/item?id=49118933 Points: 141 # Comments: 158",
-      "url": "https://greyswansignals.com/?theme=dark",
-      "source": "Hacker News (AI)",
-      "domain": "greyswansignals.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-31T04:15:04+00:00"
-    },
-    {
       "id": "dec4aa2c8f0f",
       "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
       "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
@@ -362,17 +483,6 @@
       "published": "2026-07-31T01:24:26+00:00"
     },
     {
-      "id": "9760736d8724",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-31T01:06:54+00:00"
-    },
-    {
       "id": "c50fb5ba7c5a",
       "title": "Disrupting a Criminal Scam Operation",
       "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
@@ -382,39 +492,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-07-31T00:00:00+00:00"
-    },
-    {
-      "id": "0dfc9dbc7986",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-30T23:25:58+00:00"
-    },
-    {
-      "id": "5601796260f7",
-      "title": "The AI Aesthetic",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 365 # Comments: 176",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "source": "Hacker News (AI)",
-      "domain": "blog.jim-nielsen.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-30T23:22:16+00:00"
-    },
-    {
-      "id": "9b524b9db573",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-30T23:08:58+00:00"
     },
     {
       "id": "b0088ca2eaef",
@@ -439,17 +516,6 @@
       "published": "2026-07-30T19:26:56+00:00"
     },
     {
-      "id": "c659ace133ec",
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "summary": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. With V4 as the teache…",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "source": "Hacker News (AI)",
-      "domain": "ctgt.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-30T18:13:06+00:00"
-    },
-    {
       "id": "ee34432400ce",
       "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
       "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
@@ -472,17 +538,6 @@
       "published": "2026-07-30T17:51:10+00:00"
     },
     {
-      "id": "b02640ac3969",
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 393 # Comments: 233",
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "source": "Hacker News (AI)",
-      "domain": "bottlenecklabs.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-30T17:31:07+00:00"
-    },
-    {
       "id": "247594038b49",
       "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
       "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
@@ -494,17 +549,6 @@
       "published": "2026-07-30T17:00:00+00:00"
     },
     {
-      "id": "1a9dca4b0cfb",
-      "title": "The New Friend AI Pendant Can Now Talk Back to You",
-      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
-      "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-30T16:00:00+00:00"
-    },
-    {
       "id": "de55b8351714",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "summary": "",
@@ -514,17 +558,6 @@
       "category": "Open Source",
       "image": "",
       "published": "2026-07-30T15:09:09+00:00"
-    },
-    {
-      "id": "fc91b56cbc69",
-      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
-      "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-30T15:04:22+00:00"
     },
     {
       "id": "980956c12c8f",
@@ -547,17 +580,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-1152x648.jpg",
       "published": "2026-07-30T14:53:07+00:00"
-    },
-    {
-      "id": "cfc2b68232af",
-      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
-      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-      "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-30T10:30:00+00:00"
     },
     {
       "id": "3eb19aca5e96",
@@ -602,17 +624,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
       "published": "2026-07-29T22:07:06+00:00"
-    },
-    {
-      "id": "73b4ebe7a4a0",
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
-      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing-1152x648.jpg",
-      "published": "2026-07-29T20:03:42+00:00"
     },
     {
       "id": "314062ad0588",
