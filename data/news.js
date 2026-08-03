@@ -1,14 +1,310 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-08-02T08:32:30.030553+00:00",
-  "count": 84,
+  "generated_at": "2026-08-03T09:58:42.608949+00:00",
+  "count": 96,
   "categories": [
-    "Community",
     "Industry",
     "Labs",
     "Open Source",
     "Research"
   ],
   "items": [
+    {
+      "id": "444edd21cd8c",
+      "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+      "summary": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+      "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-03T09:30:00+00:00"
+    },
+    {
+      "id": "3e35219e1ef8",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just loo…",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T08:30:05+00:00"
+    },
+    {
+      "id": "9098cc1346fe",
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI a…",
+      "url": "https://arxiv.org/abs/2607.28629",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "cc977c78c2d5",
+      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "summary": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorous benchmarking proto…",
+      "url": "https://arxiv.org/abs/2607.28631",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "c0c147dcefcb",
+      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "summary": "arXiv:2607.28632v1 Announce Type: new Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for major conjecture di…",
+      "url": "https://arxiv.org/abs/2607.28632",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "3ba35da5f828",
+      "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+      "summary": "arXiv:2607.28642v1 Announce Type: new Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error anchoring. We argue that under bounded context windows, the core bottleneck is not trajectory compression or test-time co…",
+      "url": "https://arxiv.org/abs/2607.28642",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "2ecae3f66fc5",
+      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "summary": "arXiv:2607.28657v1 Announce Type: new Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformulates user prompts…",
+      "url": "https://arxiv.org/abs/2607.28657",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "d3d6690148ec",
+      "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+      "summary": "arXiv:2607.28659v1 Announce Type: new Abstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across multiple domains. Recently, generative recommendation (GR) has emerged. It first learns semantic identifiers (SIDs) from item semantics and form…",
+      "url": "https://arxiv.org/abs/2607.28659",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "75397ef66bea",
+      "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+      "summary": "arXiv:2607.28662v1 Announce Type: new Abstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabularies fracture across documents, the same person surfaces under several name variants, relationships duplicate, and distinct individuals who shar…",
+      "url": "https://arxiv.org/abs/2607.28662",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "0ab5fcd30d9b",
+      "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+      "summary": "arXiv:2607.28674v1 Announce Type: new Abstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpretability methods rely on output-level signals or collapse processing depth into a single trajectory-level scalar, leav…",
+      "url": "https://arxiv.org/abs/2607.28674",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "7165cddde775",
+      "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+      "summary": "arXiv:2607.28677v1 Announce Type: new Abstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnostic and treatment guidance, administrative…",
+      "url": "https://arxiv.org/abs/2607.28677",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "bc2c06b37adc",
+      "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+      "summary": "arXiv:2607.28678v1 Announce Type: new Abstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally grounded reasoning. However, existing agentic memory approaches often discard fine-grained dentity cues under aggressiv…",
+      "url": "https://arxiv.org/abs/2607.28678",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "e35c5ed6bc21",
+      "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
+      "summary": "arXiv:2607.28679v1 Announce Type: new Abstract: Multi-agent planning problems arise in a variety of engineering applications, such as multi-robot wildfire fighting and unmanned aerial inspection in factories. A particular challenge is the existence of spatio-temporal (i.e., when and/or where an agent should do what) a…",
+      "url": "https://arxiv.org/abs/2607.28679",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "30e37a53f68c",
+      "title": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
+      "summary": "arXiv:2607.28684v1 Announce Type: new Abstract: Existing benchmarks for scientific equation discovery are largely composed of well-known equations available in the public domain, making it difficult to determine whether a model is discovering laws from data or merely recalling answers from its training corpus. LSR-Syn…",
+      "url": "https://arxiv.org/abs/2607.28684",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "dc25551c471e",
+      "title": "Topology-Aware Data Movement for Disaggregated GPU Inference",
+      "summary": "arXiv:2607.28633v1 Announce Type: new Abstract: Disaggregated LLM inference creates a datacenter networking problem that no existing system solves correctly. When prefill and decode run on separate GPU pools, the KV cache must be transferred between them. For a 70B model this is 2.6 GB per request, exceeding 100 GB/s…",
+      "url": "https://arxiv.org/abs/2607.28633",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "91e8f655082e",
+      "title": "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems",
+      "summary": "arXiv:2607.28665v1 Announce Type: new Abstract: Automated driving systems (ADSs) are becoming ubiquitous. Future Software Defined Vehicles (SDVs) may be able to run multiple ADSs, both native and aftermarket such as Comma.ai's Openpilot. Monitoring systems to independently verify which automated driving system is acti…",
+      "url": "https://arxiv.org/abs/2607.28665",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "2e1f52fbc208",
+      "title": "Guarantees on Dynamical System Distinguishability for LLM Token Generation",
+      "summary": "arXiv:2607.28667v1 Announce Type: new Abstract: Recent work has shown that classifying large language models (LLMs)' responses can be distinguished by modeling token embeddings as trajectories of a black-box dynamical system (DS) and comparing prediction residuals of two DSs. Despite the empirical success of this dyna…",
+      "url": "https://arxiv.org/abs/2607.28667",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "cf97c1c74080",
+      "title": "LARA: Lightweight Adapters in the Residual Stream for Composable Adaptation and Alignment",
+      "summary": "arXiv:2607.28669v1 Announce Type: new Abstract: We present LARA (Lightweight Additive Residual Adaptation), a method for efficient adaptation that operates in the residual stream of a frozen model rather than in its weights. Where LoRA adds an update of low rank to weight matrices, LARA reads the hidden state at a sma…",
+      "url": "https://arxiv.org/abs/2607.28669",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "767e63399d92",
+      "title": "Hierarchical Copula-Gumbel-Top-\\texorpdfstring{$K$}{K} Routing: Two-Sided Dependence Control for Frozen Mixture-of-Experts at Fixed Per-Token Routing Laws",
+      "summary": "arXiv:2607.28670v1 Announce Type: new Abstract: A stochastic Gumbel-Top-$K$ router defines, for every token of a mixture-of-experts (MoE) model, a \\emph{routing law}: a distribution over ordered expert lists and mixture weights. We ask which \\emph{joint} distributions over the routing choices of different tokens are r…",
+      "url": "https://arxiv.org/abs/2607.28670",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "57e3c112797d",
+      "title": "LAWFUL: Law-Aligned Witness for Faithful Use of Latents",
+      "summary": "arXiv:2607.28672v1 Announce Type: new Abstract: When a neural network predicts a physical system accurately, has it learned the governing law as formal, structured knowledge, and if so, does the network's internal computation actually use that representation throughout the law's domain of validity? We identify four in…",
+      "url": "https://arxiv.org/abs/2607.28672",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "bfafca96e8be",
+      "title": "MPP-GNN: Subject-Adaptive Community Detection for fMRI-Based Alzheimer's Disease Classification",
+      "summary": "arXiv:2607.28681v1 Announce Type: new Abstract: Functional magnetic resonance imaging (fMRI) is a widely used technique for studying the brain. Recent methods that utilize graph neural networks (GNNs) for analysis of brain functional connectivity have shown great potential for the classification of brain disorders, su…",
+      "url": "https://arxiv.org/abs/2607.28681",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "baf4a51e4e2d",
+      "title": "Technological Advances in Detecting and Managing Cognitive Impairment in Older Adults: Trends, Challenges, and Future Directions",
+      "summary": "arXiv:2607.28687v1 Announce Type: new Abstract: As populations age, cognitive decline from mild cognitive impairment (MCI) to dementia is a defining health challenge of the coming decades, yet routine assessment often misses its earliest signs. This article critically synthesizes recent technological advances for dete…",
+      "url": "https://arxiv.org/abs/2607.28687",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "065581d418b5",
+      "title": "SEDR-Seq2P: A Lightweight Dilated Residual Sequence-to-Point Network for Multi-Task Industrial NILM",
+      "summary": "arXiv:2607.28693v1 Announce Type: new Abstract: Industrial NILM remains challenging because measurement noise and widespread concurrent machine operation reduce the generalization of models tuned on residential data. This work adopts a one-to-many, multi-task disaggregation setting, in which a single network estimates…",
+      "url": "https://arxiv.org/abs/2607.28693",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "d9fdc39369af",
+      "title": "Predicting Steel Fatigue Life from Micrographs Using Physics-Informed Deep Learning",
+      "summary": "arXiv:2607.28695v1 Announce Type: new Abstract: Here is the plain text version optimized for arXiv's submission form. Custom macros (like \\CV and \\SI) have been converted to standard text/math so they render correctly on the webpage: Evaluating the fatigue life of structural steels conventionally requires mechanical t…",
+      "url": "https://arxiv.org/abs/2607.28695",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "93c7db0fb62d",
+      "title": "Mitigating Class-Tail Undercoverage in Medical Vision-Language Models under Clinical Shift",
+      "summary": "arXiv:2607.28696v1 Announce Type: new Abstract: Medical vision-language models (VLMs) can retain high observed marginal coverage after clinical shift while substantially under-covering an individual disease class. The affected class varies with acquisition protocol and backbone geometry, so source prevalence does not…",
+      "url": "https://arxiv.org/abs/2607.28696",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "fd3eb9593fd0",
+      "title": "Flow Matching with Missing Data",
+      "summary": "arXiv:2607.28698v1 Announce Type: new Abstract: Flow matching assumes fully observed training data, which many real-world applications rarely provide. We propose Missing-Data Flow Matching, which treats the missing coordinates of training samples as latent variables and averages the flow matching loss over the values…",
+      "url": "https://arxiv.org/abs/2607.28698",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "id": "94001f065792",
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-02T20:54:22+00:00"
+    },
     {
       "id": "00adf3961a13",
       "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
@@ -18,29 +314,7 @@ window.NEWS_DATA = {
       "domain": "wired.com",
       "category": "Industry",
       "image": "",
-      "published": "2026-08-02T08:29:14+00:00"
-    },
-    {
-      "id": "335e451447df",
-      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-      "summary": "Article URL: https://www.youtube.com/watch?v=pHcZpvIfho0 Comments URL: https://news.ycombinator.com/item?id=49139325 Points: 50 # Comments: 32",
-      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-      "source": "Hacker News (AI)",
-      "domain": "youtube.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-01T22:50:30+00:00"
-    },
-    {
-      "id": "4b3d4e992bd6",
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 292 # Comments: 258",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "source": "Hacker News (AI)",
-      "domain": "mitsloan.mit.edu",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-01T22:25:12+00:00"
+      "published": "2026-08-02T10:00:00+00:00"
     },
     {
       "id": "a2c5f9585e59",
@@ -87,28 +361,6 @@ window.NEWS_DATA = {
       "published": "2026-08-01T15:58:17+00:00"
     },
     {
-      "id": "2381c057a220",
-      "title": "Google kills Earth AI generator after one day",
-      "summary": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 62 # Comments: 100",
-      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-      "source": "Hacker News (AI)",
-      "domain": "twitter.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-01T13:02:44+00:00"
-    },
-    {
-      "id": "3755c60b2501",
-      "title": "On the non-use of AI in my writing process",
-      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 130 # Comments: 122",
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "source": "Hacker News (AI)",
-      "domain": "antipope.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-01T12:56:54+00:00"
-    },
-    {
       "id": "37e7ffda95f5",
       "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
       "summary": "Reddit may still be considering ending its licensing deal with Google.",
@@ -140,39 +392,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-08-01T09:30:00+00:00"
-    },
-    {
-      "id": "fcb129b948d9",
-      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-      "summary": "Article URL: https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/ Comments URL: https://news.ycombinator.com/item?id=49132341 Points: 74 # Comments: 104",
-      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-      "source": "Hacker News (AI)",
-      "domain": "engadget.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-01T08:26:55+00:00"
-    },
-    {
-      "id": "e292fa597323",
-      "title": "AI doesn't generate working products, that's still your job",
-      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 255 # Comments: 269",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "source": "Hacker News (AI)",
-      "domain": "weeraman.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-01T07:52:10+00:00"
-    },
-    {
-      "id": "7710388ca5ac",
-      "title": "Flint: A Visualization Language for the AI Era",
-      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 262 # Comments: 67",
-      "url": "https://microsoft.github.io/flint-chart/",
-      "source": "Hacker News (AI)",
-      "domain": "microsoft.github.io",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-01T02:45:09+00:00"
     },
     {
       "id": "b3291d06c7d3",
@@ -285,17 +504,6 @@ window.NEWS_DATA = {
       "published": "2026-07-31T18:11:55+00:00"
     },
     {
-      "id": "29683940c744",
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 130 # Comments: 85",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "source": "Hacker News (AI)",
-      "domain": "manifest.build",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-31T18:06:39+00:00"
-    },
-    {
       "id": "9407d0aef0c2",
       "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
       "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy secu…",
@@ -327,17 +535,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-07-31T16:08:18+00:00"
-    },
-    {
-      "id": "048b56f93138",
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 206 # Comments: 232",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "source": "Hacker News (AI)",
-      "domain": "quantamagazine.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-31T15:29:39+00:00"
     },
     {
       "id": "c67ba138417d",
@@ -395,17 +592,6 @@ window.NEWS_DATA = {
       "published": "2026-07-31T14:47:26+00:00"
     },
     {
-      "id": "b03325daed9a",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-31T14:47:11+00:00"
-    },
-    {
       "id": "42b82eb3232a",
       "title": "AI scammers outperform humans when it comes to building trust",
       "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
@@ -417,28 +603,6 @@ window.NEWS_DATA = {
       "published": "2026-07-31T14:01:40+00:00"
     },
     {
-      "id": "8b338013881f",
-      "title": "Situational Awareness down 67% in July in AI stock rout",
-      "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 155 # Comments: 167",
-      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-      "source": "Hacker News (AI)",
-      "domain": "wsj.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-31T13:37:36+00:00"
-    },
-    {
-      "id": "fcf131609585",
-      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 155 # Comments: 139",
-      "url": "https://arxiv.org/abs/2607.27197",
-      "source": "Hacker News (AI)",
-      "domain": "arxiv.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-31T11:37:12+00:00"
-    },
-    {
       "id": "9b38bd5584f1",
       "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
       "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
@@ -448,17 +612,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-1152x648.jpg",
       "published": "2026-07-31T11:00:52+00:00"
-    },
-    {
-      "id": "0ca6e6d59b37",
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 562 # Comments: 606",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "source": "Hacker News (AI)",
-      "domain": "blog.google",
-      "category": "Community",
-      "image": "",
-      "published": "2026-07-31T07:29:22+00:00"
     },
     {
       "id": "aaa160255520",
@@ -536,17 +689,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-07-30T17:51:10+00:00"
-    },
-    {
-      "id": "247594038b49",
-      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
-      "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
-      "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-07-30T17:00:00+00:00"
     },
     {
       "id": "de55b8351714",
@@ -921,17 +1063,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-07-21T00:00:00+00:00"
-    },
-    {
-      "id": "92d12ab12915",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI…",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-07-20T18:00:00+00:00"
     }
   ]
 };
