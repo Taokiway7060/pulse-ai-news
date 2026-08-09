@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:03:11.448805+00:00",
+  "generated_at": "2026-08-09T07:06:02.520156+00:00",
   "count": 82,
   "categories": [
     "Community",
@@ -9,6 +9,83 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "2beb206f7f66",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-08T21:24:02+00:00"
+    },
+    {
+      "id": "c11141d7f3f5",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-08T19:41:13+00:00"
+    },
+    {
+      "id": "96119abbaf46",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 159 # Comments: 106",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "source": "Hacker News (AI)",
+      "domain": "social.treehouse.systems",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-08T13:55:42+00:00"
+    },
+    {
+      "id": "c0befaaebb05",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-1152x648.jpg",
+      "published": "2026-08-08T11:05:50+00:00"
+    },
+    {
+      "id": "bb6ceff53460",
+      "title": "Making an AI bid writer refuse to lie",
+      "summary": "Article URL: https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie Comments URL: https://news.ycombinator.com/item?id=49220378 Points: 50 # Comments: 0",
+      "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
+      "source": "Hacker News (AI)",
+      "domain": "ailucius.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-08T10:13:31+00:00"
+    },
+    {
+      "id": "03e8c964461b",
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-08T10:00:00+00:00"
+    },
+    {
+      "id": "c308112a761d",
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals Comments URL: https://news.ycombinator.com/item?id=49217629 Points: 51 # Comments: 58",
+      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+      "source": "Hacker News (AI)",
+      "domain": "economist.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-08T00:03:31+00:00"
+    },
     {
       "id": "fda4a113a6b7",
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -34,7 +111,7 @@
     {
       "id": "b400ace837d4",
       "title": "Managing AI Coding Costs at Scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 215 # Comments: 194",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 302 # Comments: 262",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "source": "Hacker News (AI)",
       "domain": "databricks.com",
@@ -56,7 +133,7 @@
     {
       "id": "41fc07e67024",
       "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 445 # Comments: 307",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 525 # Comments: 379",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
       "source": "Hacker News (AI)",
       "domain": "app.dealroom.co",
@@ -155,7 +232,7 @@
     {
       "id": "693bf76bc700",
       "title": "AI psychosis is the new leadership blind spot",
-      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 168 # Comments: 104",
+      "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 172 # Comments: 106",
       "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
       "source": "Hacker News (AI)",
       "domain": "fastcompany.com",
@@ -199,7 +276,7 @@
     {
       "id": "ed5adbedf0cf",
       "title": "I won't read LLM authored fiction",
-      "summary": "Article URL: https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction Comments URL: https://news.ycombinator.com/item?id=49207146 Points: 71 # Comments: 112",
+      "summary": "Article URL: https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction Comments URL: https://news.ycombinator.com/item?id=49207146 Points: 72 # Comments: 112",
       "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
       "source": "Hacker News (AI)",
       "domain": "mccormick.cx",
@@ -221,7 +298,7 @@
     {
       "id": "6e6a73975fef",
       "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/ Comments URL: https://news.ycombinator.com/item?id=49204546 Points: 72 # Comments: 117",
+      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/ Comments URL: https://news.ycombinator.com/item?id=49204546 Points: 76 # Comments: 118",
       "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
       "source": "Hacker News (AI)",
       "domain": "shreveporttimes.com",
@@ -243,7 +320,7 @@
     {
       "id": "82e69f101818",
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 143 # Comments: 9",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 148 # Comments: 10",
       "url": "https://www.aleksagordic.com/blog/vllm",
       "source": "Hacker News (AI)",
       "domain": "aleksagordic.com",
@@ -287,7 +364,7 @@
     {
       "id": "531f3f92c8f7",
       "title": "xAI, SpaceX, and the Race for AI Buildout",
-      "summary": "Article URL: https://illegal.solutions/posts/xai_pollution Comments URL: https://news.ycombinator.com/item?id=49201342 Points: 145 # Comments: 120",
+      "summary": "Article URL: https://illegal.solutions/posts/xai_pollution Comments URL: https://news.ycombinator.com/item?id=49201342 Points: 146 # Comments: 120",
       "url": "https://illegal.solutions/posts/xai_pollution",
       "source": "Hacker News (AI)",
       "domain": "illegal.solutions",
@@ -331,7 +408,7 @@
     {
       "id": "07b0453a06f2",
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 312 # Comments: 258",
+      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 314 # Comments: 273",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "source": "Hacker News (AI)",
       "domain": "openai.com",
@@ -386,24 +463,13 @@
     {
       "id": "24098a560c2b",
       "title": "Software development with AI is starting to feel like cooking steak",
-      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 405 # Comments: 415",
+      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 416 # Comments: 418",
       "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
       "source": "Hacker News (AI)",
       "domain": "blog.sydorets.com",
       "category": "Community",
       "image": "",
       "published": "2026-08-06T15:30:48+00:00"
-    },
-    {
-      "id": "b0a498b8ee9c",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information wa…",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-06T15:10:32+00:00"
     },
     {
       "id": "23f9ec5fbe81",
@@ -415,28 +481,6 @@
       "category": "Labs",
       "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo",
       "published": "2026-08-06T15:06:15+00:00"
-    },
-    {
-      "id": "9f7b26089c25",
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-06T13:31:57+00:00"
-    },
-    {
-      "id": "184fc365b91b",
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 331 # Comments: 244",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "source": "Hacker News (AI)",
-      "domain": "scalex.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-06T11:58:07+00:00"
     },
     {
       "id": "82e3e1379cc6",
@@ -470,17 +514,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-08-06T06:00:00+00:00"
-    },
-    {
-      "id": "496aa085a99c",
-      "title": "Governments are making a dangerous bet on the AI boom",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49192160 Points: 58 # Comments: 35",
-      "url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
-      "source": "Hacker News (AI)",
-      "domain": "economist.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-06T03:40:51+00:00"
     },
     {
       "id": "395a1cb54225",
@@ -527,17 +560,6 @@
       "published": "2026-08-05T23:30:00+00:00"
     },
     {
-      "id": "45eae1157a0f",
-      "title": "When online commenters detect my art as AI",
-      "summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 115 # Comments: 64",
-      "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
-      "source": "Hacker News (AI)",
-      "domain": "davidrevoy.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-05T20:58:52+00:00"
-    },
-    {
       "id": "0a449b5b7485",
       "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
       "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
@@ -580,28 +602,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-08-05T19:42:12+00:00"
-    },
-    {
-      "id": "4eb0c425bb17",
-      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
-      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
-      "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-05T18:30:00+00:00"
-    },
-    {
-      "id": "c39dad30e399",
-      "title": "Google plans to kill Assistant on your phone on September 4",
-      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
-      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-      "published": "2026-08-05T15:30:02+00:00"
     },
     {
       "id": "d77da7bd0a12",
