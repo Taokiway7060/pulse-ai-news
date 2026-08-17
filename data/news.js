@@ -1,13 +1,377 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-08-16T06:50:49.908309+00:00",
-  "count": 72,
+  "generated_at": "2026-08-17T07:07:29.760544+00:00",
+  "count": 108,
   "categories": [
+    "Community",
     "Industry",
     "Labs",
     "Open Source",
     "Research"
   ],
   "items": [
+    {
+      "id": "fb8d8371e9c2",
+      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+      "summary": "arXiv:2608.13564v1 Announce Type: new Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavailable at deployment time. Such a judge is a reward-free proxy whose val…",
+      "url": "https://arxiv.org/abs/2608.13564",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "2d43b088fde8",
+      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "summary": "arXiv:2608.13565v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importance of individual MoE layers remains insufficiently characterized, partic…",
+      "url": "https://arxiv.org/abs/2608.13565",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "22777f07cb8a",
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "summary": "arXiv:2608.13567v1 Announce Type: new Abstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental principle of how intelli…",
+      "url": "https://arxiv.org/abs/2608.13567",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "ffacfe9d35a2",
+      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "summary": "arXiv:2608.13573v1 Announce Type: new Abstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often observe short time pe…",
+      "url": "https://arxiv.org/abs/2608.13573",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "876fab3b93c1",
+      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "summary": "arXiv:2608.13574v1 Announce Type: new Abstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged actions, weak auditabi…",
+      "url": "https://arxiv.org/abs/2608.13574",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "8fa1257d1c9e",
+      "title": "AI Evaluation Should Work With Humans",
+      "summary": "arXiv:2608.13577v1 Announce Type: new Abstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and so implicitly targets the goal of replacing humans) is guiding AI development in the wrong direction. Instead, the AI community should pivot to…",
+      "url": "https://arxiv.org/abs/2608.13577",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "040a5a28f186",
+      "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+      "summary": "arXiv:2608.13591v1 Announce Type: new Abstract: High-confidence errors in large language models are often treated as evidence of fragile internal inference. We study a different possibility: stable miscalibration, where a confident wrong answer remains locally stable under small perturbations. We combine two diagnosti…",
+      "url": "https://arxiv.org/abs/2608.13591",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "b858f1f514be",
+      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+      "summary": "arXiv:2608.13598v1 Announce Type: new Abstract: Agent evaluation relies almost entirely on outcome metrics such as success rate, which capture whether an agent succeeds but not how consistently it behaves. We argue that behavioral consistency across tasks is a distinct and measurable property, and we introduce the Beh…",
+      "url": "https://arxiv.org/abs/2608.13598",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "87ff9a6736fe",
+      "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+      "summary": "arXiv:2608.13604v1 Announce Type: new Abstract: Detection of misunderstanding is an urgent problem to solve because communication has moved away from real-time, in-person interaction and is increasingly handled by AI-mediated channels. This shift cuts communicators off from the resources repair depends on faster than…",
+      "url": "https://arxiv.org/abs/2608.13604",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "af5eba5ff3bb",
+      "title": "Active Perception for Embodied Disambiguation",
+      "summary": "arXiv:2608.13605v1 Announce Type: new Abstract: Natural language provides robots with a flexible task interface, but target ambiguity in embodied environments arises not only from user intent; it can also result from missing taskrelevant physical evidence in the current observation. Existing interactive disambiguation…",
+      "url": "https://arxiv.org/abs/2608.13605",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "8169a51c5159",
+      "title": "MobileMem: Learning from a Year of Mobile Experiences",
+      "summary": "arXiv:2608.13606v1 Announce Type: new Abstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal assistants that can understand, remember, and continuously learn from users' experiences. Such assistants require long-term memory to accumula…",
+      "url": "https://arxiv.org/abs/2608.13606",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "a89165988bf3",
+      "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+      "summary": "arXiv:2608.13607v1 Announce Type: new Abstract: Frontier LLMs are updated frequently and typically outperform their predecessors in aggregate. But aggregate gains say little about individual samples: an update can still cause sample-level regression, where a response correct under the old model becomes incorrect under…",
+      "url": "https://arxiv.org/abs/2608.13607",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "8ef5d746f03e",
+      "title": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+      "summary": "arXiv:2608.13562v1 Announce Type: new Abstract: Modern operational systems face uncertainty even in routine conditions, where rare, bursty, and self-exciting events emerge from both exogenous covariates and endogenous event dynamics. Standard neural operators are typically trained as regression-style function-to-funct…",
+      "url": "https://arxiv.org/abs/2608.13562",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "539b6680c2b1",
+      "title": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required",
+      "summary": "arXiv:2608.13566v1 Announce Type: new Abstract: Post-training papers, model cards, and blog posts often treat scores on a small set of coding benchmarks (e.g., SWE-bench and LiveCodeBench) as evidence of broad coding capability, both for research artifacts and user-facing systems. We argue that optimization for these…",
+      "url": "https://arxiv.org/abs/2608.13566",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "01faf1c47ef0",
+      "title": "Robust XGBoosting for Regression",
+      "summary": "arXiv:2608.13590v1 Announce Type: new Abstract: XGBoost is a very popular and powerful method for prediction. It iteratively fits simple decision trees to the residuals of the previous step. An efficient and scalable implementation is available. The standard loss function for XGBoost is the quadratic loss, but a Huber…",
+      "url": "https://arxiv.org/abs/2608.13590",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "9bcb6a3a5a26",
+      "title": "Training-Free Knowledge Transfer Across Model Scales through Activation-Guided Pruning",
+      "summary": "arXiv:2608.13596v1 Announce Type: new Abstract: Heterogeneous model fusion seeks to combine models that differ in tasks, initializations, architectures, or scales. We study an underexplored cross-scale setting: improving a small recipient language model with a stronger donor despite substantial architectural mismatch.…",
+      "url": "https://arxiv.org/abs/2608.13596",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "a477e99bdf20",
+      "title": "Hard Cases, Bad Labels: Testing Error Exposure and Error Location in Uncertainty Sampling Under Bounded Label Noise",
+      "summary": "arXiv:2608.13601v1 Announce Type: new Abstract: Active learning can reduce labeling cost by selecting informative examples, but the most uncertain examples may also be the hardest to label correctly. This study tests whether uncertainty sampling fails because it acquires more corrupted labels or because errors concent…",
+      "url": "https://arxiv.org/abs/2608.13601",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "1f15219ab4bd",
+      "title": "Robust Dual-Model Collaborative Random Vector Functional Link Network",
+      "summary": "arXiv:2608.13628v1 Announce Type: new Abstract: Random vector functional link (RVFL) networks are lightweight and fast neural models that offer efficient training and strong generalization through randomized hidden-layer weights and direct input-output connections. However, conventional RVFL models are sensitive to no…",
+      "url": "https://arxiv.org/abs/2608.13628",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "f7594df3db32",
+      "title": "Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments",
+      "summary": "arXiv:2608.13652v1 Announce Type: new Abstract: Generic event-level anomaly detection for collider physics has two recurring problems: anomaly scores are hard to interpret, and they correlate strongly with energy scale and object multiplicity. We present Organized Representation via Contrastive learning for Anomaly de…",
+      "url": "https://arxiv.org/abs/2608.13652",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "a6cb98f53faa",
+      "title": "The Query Knows What to Forget: A Second Erase Direction for Linear Attention",
+      "summary": "arXiv:2608.13668v1 Announce Type: new Abstract: Linear attention keeps a state of fixed size. At long context, many stored items share this state, and interference between them degrades retrieval. Gated DeltaNet-2 (GDN-2), like every delta-rule model before it, derives its erase vector from the key of the current toke…",
+      "url": "https://arxiv.org/abs/2608.13668",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "cd09cebefa06",
+      "title": "From BERT to Frontier Agents: Eight Years of Language-Model Progress, the Collapse of the Capability-Cost Curve, and the Rise of Task-Targeted Models",
+      "summary": "arXiv:2608.13675v1 Announce Type: new Abstract: Between October 2018 and July 2026 AI models progressed from simple systems like BERT to massive agents that solve complex math and write software. The ability to resolve real coding issues improved by nearly six times per year since late 2024. During this time costs dro…",
+      "url": "https://arxiv.org/abs/2608.13675",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "594e5c6a72b1",
+      "title": "EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models",
+      "summary": "arXiv:2608.13676v1 Announce Type: new Abstract: Objective: Foundation models represent the next advancement in AI for EEG analysis; however current explainable AI techniques provide attribution scores in the time-channel input space, which is mismatched to clinical intuition about EEG. Thus, there is a critical need f…",
+      "url": "https://arxiv.org/abs/2608.13676",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "f904d4961514",
+      "title": "SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers",
+      "summary": "arXiv:2608.13702v1 Announce Type: new Abstract: Spiking neural networks (SNNs) offer an energy-efficient alternative to conventional deep neural networks by exploiting sparse event-driven computation, but their training remains challenging because the non-differentiable spike function requires surrogate gradients whos…",
+      "url": "https://arxiv.org/abs/2608.13702",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "381127279b30",
+      "title": "Capacity-Dependent Effects of Data Selection for Reasoning",
+      "summary": "arXiv:2608.13721v1 Announce Type: new Abstract: In reasoning supervised fine-tuning, candidate responses for the same instruction can differ substantially in how well they match the student's current distribution. Recent likelihood-based response selection methods suggest that responses closer to the student distribut…",
+      "url": "https://arxiv.org/abs/2608.13721",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "id": "36a9d0441a7c",
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 110 # Comments: 113",
+      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "source": "Hacker News (AI)",
+      "domain": "futurism.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-16T21:34:06+00:00"
+    },
+    {
+      "id": "5b23955d35fb",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-16T20:57:04+00:00"
+    },
+    {
+      "id": "105f51175401",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-16T20:32:01+00:00"
+    },
+    {
+      "id": "4687654aae22",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-16T16:53:51+00:00"
+    },
+    {
+      "id": "4207c8fb4e23",
+      "title": "The AI Credit Resale Economy",
+      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 268 # Comments: 113",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "Hacker News (AI)",
+      "domain": "vectoral.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-16T14:44:55+00:00"
+    },
+    {
+      "id": "f61385334e62",
+      "title": "Show HN: A public AI whose memory is shared across all users",
+      "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 70 # Comments: 63",
+      "url": "https://wildstatic.com/",
+      "source": "Hacker News (AI)",
+      "domain": "wildstatic.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-16T13:21:45+00:00"
+    },
+    {
+      "id": "268b920d50cc",
+      "title": "AI Coding Without the Vibes",
+      "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 82 # Comments: 49",
+      "url": "https://peterbloem.nl/blog/craft-coding",
+      "source": "Hacker News (AI)",
+      "domain": "peterbloem.nl",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-16T10:31:36+00:00"
+    },
+    {
+      "id": "5883a5745bcf",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 239 # Comments: 206",
+      "url": "https://littlelearner-ll.github.io/",
+      "source": "Hacker News (AI)",
+      "domain": "littlelearner-ll.github.io",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-16T07:37:53+00:00"
+    },
+    {
+      "id": "822bac181df1",
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 55 # Comments: 7",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "source": "Hacker News (AI)",
+      "domain": "arxiv.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-15T22:41:51+00:00"
+    },
     {
       "id": "5bb4b08564cf",
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -18,6 +382,17 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-08-15T21:29:19+00:00"
+    },
+    {
+      "id": "b28d580db938",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 184 # Comments: 90",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "Hacker News (AI)",
+      "domain": "science.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-15T19:12:53+00:00"
     },
     {
       "id": "1faae2f1928c",
@@ -31,6 +406,17 @@ window.NEWS_DATA = {
       "published": "2026-08-15T18:58:39+00:00"
     },
     {
+      "id": "10680a607e4b",
+      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 612 # Comments: 492",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "Hacker News (AI)",
+      "domain": "davidepiffer.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-15T18:13:02+00:00"
+    },
+    {
       "id": "e39150da5918",
       "title": "SpaceX officially closes its Cursor acquisition",
       "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
@@ -40,6 +426,50 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-08-15T16:30:00+00:00"
+    },
+    {
+      "id": "f935eea9ea7f",
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 61 # Comments: 137",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "source": "Hacker News (AI)",
+      "domain": "spectrum.ieee.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-15T15:32:25+00:00"
+    },
+    {
+      "id": "9496baf2fcba",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 69 # Comments: 72",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "source": "Hacker News (AI)",
+      "domain": "bbc.co.uk",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-15T14:08:55+00:00"
+    },
+    {
+      "id": "484e3a04254a",
+      "title": "Cloudflare's AI Psychosis",
+      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 116 # Comments: 98",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+      "source": "Hacker News (AI)",
+      "domain": "opensauce.it",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-15T14:08:40+00:00"
+    },
+    {
+      "id": "0955e19451f3",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 64 # Comments: 28",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "source": "Hacker News (AI)",
+      "domain": "stephen-cresswell.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-15T13:43:46+00:00"
     },
     {
       "id": "e4ceb1e982aa",
@@ -216,39 +646,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-08-13T21:13:24+00:00"
-    },
-    {
-      "id": "f74ffd8efd8f",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-13T20:14:39+00:00"
-    },
-    {
-      "id": "88122123f24b",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-13T19:22:40+00:00"
-    },
-    {
-      "id": "3c09b9482373",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-13T19:19:49+00:00"
     },
     {
       "id": "331cd1f2cb55",
