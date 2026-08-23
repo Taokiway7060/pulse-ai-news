@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-08-22T06:50:54.497759+00:00",
+  "generated_at": "2026-08-23T06:51:38.455342+00:00",
   "count": 89,
   "categories": [
     "Community",
@@ -9,6 +9,83 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "6c648a85d86e",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-22T21:46:56+00:00"
+    },
+    {
+      "id": "1fd11c86d809",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-22T19:00:00+00:00"
+    },
+    {
+      "id": "ca641c23c4f9",
+      "title": "Why your local LLM feels dumber than it is",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 282 # Comments: 92",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "Hacker News (AI)",
+      "domain": "forum.level1techs.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-22T18:14:16+00:00"
+    },
+    {
+      "id": "7427fc6ebbdf",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-22T16:30:34+00:00"
+    },
+    {
+      "id": "71c481348396",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-22T16:00:00+00:00"
+    },
+    {
+      "id": "35584cfc03b3",
+      "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 54 # Comments: 67",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "source": "Hacker News (AI)",
+      "domain": "theguardian.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-22T14:13:05+00:00"
+    },
+    {
+      "id": "5242f4308f35",
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 87 # Comments: 77",
+      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+      "source": "Hacker News (AI)",
+      "domain": "developers.openai.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-22T04:33:06+00:00"
+    },
     {
       "id": "2f0b53733d6e",
       "title": "The Unlikely Place at the Center of China’s AI Boom",
@@ -56,7 +133,7 @@ window.NEWS_DATA = {
     {
       "id": "b0eab7db4bb5",
       "title": "AI boosted homework scores, then exam scores dropped: Study",
-      "summary": "Article URL: https://canews24.online/?p=71 Comments URL: https://news.ycombinator.com/item?id=49389565 Points: 165 # Comments: 9",
+      "summary": "Article URL: https://canews24.online/?p=71 Comments URL: https://news.ycombinator.com/item?id=49389565 Points: 165 # Comments: 11",
       "url": "https://canews24.online/?p=71",
       "source": "Hacker News (AI)",
       "domain": "canews24.online",
@@ -87,6 +164,17 @@ window.NEWS_DATA = {
       "published": "2026-08-21T14:00:00+00:00"
     },
     {
+      "id": "2bf6da8ffcd9",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 148 # Comments: 48",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "source": "Hacker News (AI)",
+      "domain": "reuters.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-21T13:43:33+00:00"
+    },
+    {
       "id": "f3c4266731b0",
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
@@ -100,7 +188,7 @@ window.NEWS_DATA = {
     {
       "id": "f73c830f2611",
       "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 333 # Comments: 341",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 478 # Comments: 484",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "source": "Hacker News (AI)",
       "domain": "cymerys.com",
@@ -120,17 +208,6 @@ window.NEWS_DATA = {
       "published": "2026-08-21T11:00:53+00:00"
     },
     {
-      "id": "bf9745caf260",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 703 # Comments: 2",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "source": "Hacker News (AI)",
-      "domain": "annas-archive.pk",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-21T10:05:46+00:00"
-    },
-    {
       "id": "a2c2ccaf9ac6",
       "title": "The Single English County Saying No to Palantir",
       "summary": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
@@ -144,7 +221,7 @@ window.NEWS_DATA = {
     {
       "id": "c5a7d7cda830",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 553 # Comments: 852",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 615 # Comments: 894",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "source": "Hacker News (AI)",
       "domain": "annas-archive.gl",
@@ -155,7 +232,7 @@ window.NEWS_DATA = {
     {
       "id": "279f61595a0b",
       "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 186 # Comments: 208",
+      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 189 # Comments: 209",
       "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
       "source": "Hacker News (AI)",
       "domain": "mathstodon.xyz",
@@ -208,39 +285,6 @@ window.NEWS_DATA = {
       "published": "2026-08-20T22:09:51+00:00"
     },
     {
-      "id": "cfcc8ffd0a38",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-20T20:53:13+00:00"
-    },
-    {
-      "id": "0e8b0049edfa",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-20T19:18:21+00:00"
-    },
-    {
-      "id": "df06109d9373",
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-20T19:15:05+00:00"
-    },
-    {
       "id": "33a739f32f55",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "summary": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for ev…",
@@ -261,17 +305,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-08-20T18:49:07+00:00"
-    },
-    {
-      "id": "814aacbf49e2",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-20T18:20:35+00:00"
     },
     {
       "id": "6917127c511e",
@@ -298,7 +331,7 @@ window.NEWS_DATA = {
     {
       "id": "4af80bf212b2",
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 297 # Comments: 291",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 302 # Comments: 297",
       "url": "https://github.com/zachahn/vomit",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -309,13 +342,24 @@ window.NEWS_DATA = {
     {
       "id": "d9c90ce32971",
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 206 # Comments: 161",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 210 # Comments: 163",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "source": "Hacker News (AI)",
       "domain": "blog.yaros.ae",
       "category": "Community",
       "image": "",
       "published": "2026-08-20T15:06:53+00:00"
+    },
+    {
+      "id": "fb6f77a2a9ab",
+      "title": "Guess which of these LLM outputs is watermarked",
+      "summary": "https://www.seangoedecke.com/readers-cant-identify-watermark... Comments URL: https://news.ycombinator.com/item?id=49374729 Points: 65 # Comments: 74",
+      "url": "https://sgoedecke.github.io/watermark-quiz/",
+      "source": "Hacker News (AI)",
+      "domain": "sgoedecke.github.io",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-20T14:03:58+00:00"
     },
     {
       "id": "586a15e9f4af",
@@ -329,17 +373,6 @@ window.NEWS_DATA = {
       "published": "2026-08-20T13:00:35+00:00"
     },
     {
-      "id": "2cd642bcdeab",
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 89 # Comments: 143",
-      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "source": "Hacker News (AI)",
-      "domain": "franciscotrindade.me",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-20T11:42:20+00:00"
-    },
-    {
       "id": "63f475a3a6d3",
       "title": "Unlocking hidden revenue streams with market models",
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, cur…",
@@ -349,17 +382,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-08-20T09:47:22+00:00"
-    },
-    {
-      "id": "18ad69db2c05",
-      "title": "Don't paste the AI, please",
-      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1035 # Comments: 577",
-      "url": "https://dontpastetheai.com/",
-      "source": "Hacker News (AI)",
-      "domain": "dontpastetheai.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-20T08:20:44+00:00"
     },
     {
       "id": "5fee7cfd1a7c",
@@ -450,17 +472,6 @@ window.NEWS_DATA = {
       "published": "2026-08-19T15:45:29+00:00"
     },
     {
-      "id": "e39ad8b83a0a",
-      "title": "Mathematics in the age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 207 # Comments: 260",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "source": "Hacker News (AI)",
-      "domain": "arxiv.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-19T15:14:25+00:00"
-    },
-    {
       "id": "1de76cd9975c",
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical deci…",
@@ -492,17 +503,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-08-19T07:00:00+00:00"
-    },
-    {
-      "id": "be8ce281d0a6",
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "summary": "https://archive.is/w1eng https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618 Comments URL: https://news.ycombinator.com/item?id=49357530 Points: 285 # Comments: 309",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "source": "Hacker News (AI)",
-      "domain": "economist.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-19T06:13:31+00:00"
     },
     {
       "id": "7932f126da3e",
