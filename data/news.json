@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T06:51:38.455342+00:00",
-  "count": 89,
+  "generated_at": "2026-08-24T07:10:41.409033+00:00",
+  "count": 113,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,314 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "820cb40628da",
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "summary": "arXiv:2608.20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substantial Functional Requ…",
+      "url": "https://arxiv.org/abs/2608.20341",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "c01e0026bead",
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's terminal-based coding age…",
+      "url": "https://arxiv.org/abs/2608.20342",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "0cd7cfe65da4",
+      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "summary": "arXiv:2608.20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This study demonstrates th…",
+      "url": "https://arxiv.org/abs/2608.20378",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "dfcd07bc3bef",
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "summary": "arXiv:2608.20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbones. With the advent…",
+      "url": "https://arxiv.org/abs/2608.20379",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "bd9fb9967d80",
+      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+      "summary": "arXiv:2608.20384v1 Announce Type: new Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of the cues driving their decisions -- a dual objective that current high-ca…",
+      "url": "https://arxiv.org/abs/2608.20384",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "fa01e040a8dd",
+      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+      "summary": "arXiv:2608.20389v1 Announce Type: new Abstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations exposed in its system prompt, without an…",
+      "url": "https://arxiv.org/abs/2608.20389",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "6039e08d5df8",
+      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+      "summary": "arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is to decouple routing f…",
+      "url": "https://arxiv.org/abs/2608.20397",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "490f195890ec",
+      "title": "Environmental Slow AI: Design Principles for Generative Systems",
+      "summary": "arXiv:2608.20398v1 Announce Type: new Abstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become open to deliberate reshaping. This position paper examines the maximalist values of current genera…",
+      "url": "https://arxiv.org/abs/2608.20398",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "757160238211",
+      "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
+      "summary": "arXiv:2608.20400v1 Announce Type: new Abstract: Agentic memory under a fixed budget involves two stages: retention and retrieval. Existing retrieval-centered paradigms implicitly assume necessary evidence survives eviction, but we challenge this by isolating a pre-retrieval failure mode: structurally indirect prerequi…",
+      "url": "https://arxiv.org/abs/2608.20400",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "5b3b3e639160",
+      "title": "World models of environment, agent and joint agent-environment systems",
+      "summary": "arXiv:2608.20401v1 Announce Type: new Abstract: World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variables they predict, such as observations, rewards, states, latent or information states. We argue that there is a prior distinction: which channel…",
+      "url": "https://arxiv.org/abs/2608.20401",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "2ffa93dcedda",
+      "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+      "summary": "arXiv:2608.20414v1 Announce Type: new Abstract: Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial structure from a single image remains difficult to isolate. Broad benchmarks often combine perception, optical character recognition, domain kn…",
+      "url": "https://arxiv.org/abs/2608.20414",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "3146dc3d420e",
+      "title": "Categorical AI phenomenology: A first-person approach",
+      "summary": "arXiv:2608.20420v1 Announce Type: new Abstract: This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective experience enacted through an agent's interface with the world. We shift the methodological focus to first-person structures, modeled mathematicall…",
+      "url": "https://arxiv.org/abs/2608.20420",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "f911c3228a4b",
+      "title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis",
+      "summary": "arXiv:2608.20343v1 Announce Type: new Abstract: This study develops and evaluates a bankruptcy prediction framework that integrates consensus-based feature selection, hybrid resampling, stacking ensembles, and explainable artificial intelligence to improve minority-class detection in severely imbalanced financial data…",
+      "url": "https://arxiv.org/abs/2608.20343",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "4dec15de6ff2",
+      "title": "Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study",
+      "summary": "arXiv:2608.20406v1 Announce Type: new Abstract: Public health forecasts must respond to abrupt changes in surveillance data without over-extrapolating noise, reporting artifacts, or temporary trends. We evaluated autoregressive integrated moving average (ARIMA), random forest, and extreme gradient boosting (XGBoost) m…",
+      "url": "https://arxiv.org/abs/2608.20406",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "3a1a882b2f8d",
+      "title": "From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing",
+      "summary": "arXiv:2608.20423v1 Announce Type: new Abstract: Personalised thermal comfort is essential for occupant wellbeing and for the development of more responsive building-control strategies, yet conventional Heating, Ventilation, and Air Conditioning (HVAC) systems rely on static setpoints and population-level comfort model…",
+      "url": "https://arxiv.org/abs/2608.20423",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "a049cf741c23",
+      "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers",
+      "summary": "arXiv:2608.20427v1 Announce Type: new Abstract: Dense causal attention remains expensive at long context even when implemented with highly optimized exact kernels. We study BF1, a deterministic block-aligned dyadic sparse-attention route that combines a small exact local neighborhood, a global first block, and logarit…",
+      "url": "https://arxiv.org/abs/2608.20427",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "58ded74943b1",
+      "title": "Approximate Homomorphisms and Convergent Representations in Transducers",
+      "summary": "arXiv:2608.20428v1 Announce Type: new Abstract: We study the stability of minimal representations of controlled stochastic processes (in particular, transducers) under perturbations. This question is motivated by recent experiments finding predictive-state structure in the latent representations of neural networks. We…",
+      "url": "https://arxiv.org/abs/2608.20428",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "319f6e6d13be",
+      "title": "Wrong-Physics Backdoors in Neural PDE Operators",
+      "summary": "arXiv:2608.20439v1 Announce Type: new Abstract: Neural PDE operators are increasingly trained on reusable solver archives, yet validation often relies on clean prediction error and parameter-agnostic plausibility checks. We introduce cross-parameter relinking, a data-poisoning primitive that makes a triggered input se…",
+      "url": "https://arxiv.org/abs/2608.20439",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "054f814ab6ac",
+      "title": "Decision Tree and K-Means Analysis of Raman Spectra for Edible Oils: A Physics-Informed AI Approach",
+      "summary": "arXiv:2608.20440v1 Announce Type: new Abstract: Authentication of edible oils in processed foods is important for food quality, fraud prevention, and regulatory compliance. This study establishes an integrated Raman spectroscopy and machine-learning framework that links intrinsic spectral organization, interpretable c…",
+      "url": "https://arxiv.org/abs/2608.20440",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "a564f5630f3c",
+      "title": "Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries",
+      "summary": "arXiv:2608.20441v1 Announce Type: new Abstract: Selecting the optimal neural-operator prediction during deployment is challenging when high-fidelity reference solutions are unavailable. We demonstrate that under a squared Hilbert-space loss, ranking a finite model library depends strictly on the low-dimensional span o…",
+      "url": "https://arxiv.org/abs/2608.20441",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "d57b3ffb8e7f",
+      "title": "Stored in Optimizer State, Valued by Later Training: A Causal Account of Subliminal Trait Transfer",
+      "summary": "arXiv:2608.20442v1 Announce Type: new Abstract: Subliminal trait transfer allows a student model to acquire behavioral dispositions from teacher-generated data in which the trait is not semantically expressed. Recent work explains how such signals enter gradients, but not how they survive source removal or acquire dif…",
+      "url": "https://arxiv.org/abs/2608.20442",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "2dbab0e4cc22",
+      "title": "Amortized Bandwidth Learning for Kernel Density Estimation under Logarithmic Score",
+      "summary": "arXiv:2608.20445v1 Announce Type: new Abstract: Kernel density estimation converts finite samples into probability densities, but its performance depends critically on bandwidth selection. Classical selectors prescribe the sample-to-bandwidth rule analytically or asymptotically, or solve a new optimization for each sa…",
+      "url": "https://arxiv.org/abs/2608.20445",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "2ca4db777949",
+      "title": "Mutual information and sensitivity analysis for feature selection in customer targeting: a comparative study",
+      "summary": "arXiv:2608.20447v1 Announce Type: new Abstract: Feature selection is a highly relevant task in a data-driven knowledge discovery project. Several techniques have been developed aiming at finding the features that influence most an outcome to predict, including mutual information and, in recent years, the data-based se…",
+      "url": "https://arxiv.org/abs/2608.20447",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "b0dccf3e5462",
+      "title": "When Clean Data Hurts: Learning with Monotone Corruptions Beyond Binary Classification",
+      "summary": "arXiv:2608.20480v1 Announce Type: new Abstract: Optimal learners are tailored to exploit the i.i.d.\\ data assumption underlying the classic PAC model. What if an i.i.d.\\ training sample were corrupted with correctly labeled examples drawn from an otherwise unrelated, even adversarial source? This model of learning wit…",
+      "url": "https://arxiv.org/abs/2608.20480",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "b8a57cb021df",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-23T20:01:36+00:00"
+    },
+    {
+      "id": "5f69dea12634",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-23T19:14:08+00:00"
+    },
+    {
+      "id": "78745cd4e5d1",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-23T15:30:00+00:00"
+    },
+    {
+      "id": "dbc7f4b2009c",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-23T15:00:00+00:00"
+    },
     {
       "id": "6c648a85d86e",
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -34,7 +342,7 @@
     {
       "id": "ca641c23c4f9",
       "title": "Why your local LLM feels dumber than it is",
-      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 282 # Comments: 92",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 417 # Comments: 171",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "source": "Hacker News (AI)",
       "domain": "forum.level1techs.com",
@@ -67,7 +375,7 @@
     {
       "id": "35584cfc03b3",
       "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 54 # Comments: 67",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 55 # Comments: 70",
       "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
       "source": "Hacker News (AI)",
       "domain": "theguardian.com",
@@ -78,7 +386,7 @@
     {
       "id": "5242f4308f35",
       "title": "GPT 5.6 Sol 20% price reduction",
-      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 87 # Comments: 77",
+      "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 90 # Comments: 77",
       "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
       "source": "Hacker News (AI)",
       "domain": "developers.openai.com",
@@ -153,20 +461,9 @@
       "published": "2026-08-21T14:00:00+00:00"
     },
     {
-      "id": "1869aa73b3a0",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a…",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-21T14:00:00+00:00"
-    },
-    {
       "id": "2bf6da8ffcd9",
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 148 # Comments: 48",
+      "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 188 # Comments: 98",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "source": "Hacker News (AI)",
       "domain": "reuters.com",
@@ -188,7 +485,7 @@
     {
       "id": "f73c830f2611",
       "title": "I'm becoming AI-blind",
-      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 478 # Comments: 484",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 487 # Comments: 492",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "source": "Hacker News (AI)",
       "domain": "cymerys.com",
@@ -221,7 +518,7 @@
     {
       "id": "c5a7d7cda830",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 615 # Comments: 894",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 623 # Comments: 898",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "source": "Hacker News (AI)",
       "domain": "annas-archive.gl",
@@ -241,17 +538,6 @@
       "published": "2026-08-21T00:15:12+00:00"
     },
     {
-      "id": "9304b18cf6ad",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-21T00:13:44+00:00"
-    },
-    {
       "id": "bc6267c75377",
       "title": "Measuring benchmark optimization in speech recognition",
       "summary": "",
@@ -261,28 +547,6 @@
       "category": "Open Source",
       "image": "",
       "published": "2026-08-21T00:00:00+00:00"
-    },
-    {
-      "id": "9acef622139d",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-20T22:36:37+00:00"
-    },
-    {
-      "id": "0ebc2f730cee",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-20T22:09:51+00:00"
     },
     {
       "id": "33a739f32f55",
@@ -331,7 +595,7 @@
     {
       "id": "4af80bf212b2",
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 302 # Comments: 297",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 303 # Comments: 297",
       "url": "https://github.com/zachahn/vomit",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -342,7 +606,7 @@
     {
       "id": "d9c90ce32971",
       "title": "Anti-AI fonts are useless and harmful",
-      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 210 # Comments: 163",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 210 # Comments: 165",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "source": "Hacker News (AI)",
       "domain": "blog.yaros.ae",
@@ -353,7 +617,7 @@
     {
       "id": "fb6f77a2a9ab",
       "title": "Guess which of these LLM outputs is watermarked",
-      "summary": "https://www.seangoedecke.com/readers-cant-identify-watermark... Comments URL: https://news.ycombinator.com/item?id=49374729 Points: 65 # Comments: 74",
+      "summary": "https://www.seangoedecke.com/readers-cant-identify-watermark... Comments URL: https://news.ycombinator.com/item?id=49374729 Points: 67 # Comments: 79",
       "url": "https://sgoedecke.github.io/watermark-quiz/",
       "source": "Hacker News (AI)",
       "domain": "sgoedecke.github.io",
