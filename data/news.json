@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T12:35:09.281702+00:00",
-  "count": 103,
+  "generated_at": "2026-08-30T11:43:25.124983+00:00",
+  "count": 91,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,94 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "fc64f90a9a72",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "summary": "The company is testing robots on tasks that can performed by technicians.",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "published": "2026-08-30T11:03:47+00:00"
+    },
+    {
+      "id": "7c60d819866c",
+      "title": "Why the Hottest New Wearables Want to Be Ignored",
+      "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+      "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-30T10:30:00+00:00"
+    },
+    {
+      "id": "791e756a7921",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-29T18:41:59+00:00"
+    },
+    {
+      "id": "c6f75d6e1526",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-o…",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-29T17:36:47+00:00"
+    },
+    {
+      "id": "0c6228657f5d",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 403 # Comments: 100",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "Hacker News (AI)",
+      "domain": "newsletter.eng-leadership.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-29T17:19:47+00:00"
+    },
+    {
+      "id": "e73ec7b28df8",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 62 # Comments: 81",
+      "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+      "source": "Hacker News (AI)",
+      "domain": "optimizedbyotto.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-29T16:16:32+00:00"
+    },
+    {
+      "id": "1156928ef7d0",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 489 # Comments: 455",
+      "url": "https://lwn.net/Articles/1091231/",
+      "source": "Hacker News (AI)",
+      "domain": "lwn.net",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-29T14:02:10+00:00"
+    },
+    {
+      "id": "91f9a59a7712",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-29T13:00:00+00:00"
+    },
     {
       "id": "96f9653d1be2",
       "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
@@ -32,141 +120,9 @@
       "published": "2026-08-29T10:00:00+00:00"
     },
     {
-      "id": "14b4c56f5d8f",
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "summary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interpretability, leading…",
-      "url": "https://arxiv.org/abs/2608.26107",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "4775af744260",
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "summary": "arXiv:2608.26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a plausible extension…",
-      "url": "https://arxiv.org/abs/2608.26109",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "6544553f1b2c",
-      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "summary": "arXiv:2608.26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-based models and task…",
-      "url": "https://arxiv.org/abs/2608.26111",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "4dbfab69f2de",
-      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "summary": "arXiv:2608.26113v1 Announce Type: new Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS generation pipeline with PDK aware knowledge i…",
-      "url": "https://arxiv.org/abs/2608.26113",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "c99b454d53e2",
-      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "summary": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, they often produce nu…",
-      "url": "https://arxiv.org/abs/2608.26114",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "db4befeac2bf",
-      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
-      "summary": "arXiv:2608.26116v1 Announce Type: new Abstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed-loop framework based on au…",
-      "url": "https://arxiv.org/abs/2608.26116",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "c1298ece881d",
-      "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
-      "summary": "arXiv:2608.26134v1 Announce Type: new Abstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equally to on-device forecasting for mission-critical edge environments, including military systems. However, this paper identifies the Accuracy-E…",
-      "url": "https://arxiv.org/abs/2608.26134",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "d6417d5a729b",
-      "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
-      "summary": "arXiv:2608.26145v1 Announce Type: new Abstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-generated literature reviews and the role of AI in supporting literature re…",
-      "url": "https://arxiv.org/abs/2608.26145",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "7f192f203316",
-      "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
-      "summary": "arXiv:2608.26149v1 Announce Type: new Abstract: Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems. Relational data combine several sources of complexity, including large data volume, high-dimensional variables, high-cardinality categorical features,…",
-      "url": "https://arxiv.org/abs/2608.26149",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "fb277548df73",
-      "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
-      "summary": "arXiv:2608.26150v1 Announce Type: new Abstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including systematic literature reviews (SLRs). This study reports an LLM pipeline development for extracting model-relevant…",
-      "url": "https://arxiv.org/abs/2608.26150",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "88f7b76565d7",
-      "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
-      "summary": "arXiv:2608.26151v1 Announce Type: new Abstract: Subscriber attrition is a costly, persistent challenge for telecommunications providers, with monthly churn of roughly 1.9% in mature markets eroding billions in revenue annually. Predictive models can flag at-risk customers accurately, yet they are routinely excluded fr…",
-      "url": "https://arxiv.org/abs/2608.26151",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
-      "id": "3cff240f2dde",
-      "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
-      "summary": "arXiv:2608.26153v1 Announce Type: new Abstract: Clinical electroencephalography (EEG) reporting remains largely manual and time-consuming, and current EEG software ecosystems do not produce the structured EEG-text supervision needed for training modern language models. Most toolboxes focus on visualization or preproce…",
-      "url": "https://arxiv.org/abs/2608.26153",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-29T04:00:00+00:00"
-    },
-    {
       "id": "ae1423163e9e",
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 121 # Comments: 26",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 227 # Comments: 61",
       "url": "https://github.com/stemdeckapp/stemdeck",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -177,7 +133,7 @@
     {
       "id": "8f46edc984ea",
       "title": "I accidentally turned LLM memory into program analysis",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 177 # Comments: 40",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 294 # Comments: 79",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "source": "Hacker News (AI)",
       "domain": "pwning.systems",
@@ -188,7 +144,7 @@
     {
       "id": "cfc6038ffdc8",
       "title": "Identifying fake cosmetics using AI",
-      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 56 # Comments: 22",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 59 # Comments: 25",
       "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
       "source": "Hacker News (AI)",
       "domain": "groverlab.org",
@@ -309,7 +265,7 @@
     {
       "id": "bdaf6f5ae593",
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 492 # Comments: 148",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 518 # Comments: 151",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "source": "Hacker News (AI)",
       "domain": "blog.luanti.org",
@@ -331,7 +287,7 @@
     {
       "id": "227a268f6f92",
       "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 212 # Comments: 141",
+      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 213 # Comments: 144",
       "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
       "source": "Hacker News (AI)",
       "domain": "neilalexander.dev",
@@ -364,7 +320,7 @@
     {
       "id": "d420389b2921",
       "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 115 # Comments: 35",
+      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 117 # Comments: 36",
       "url": "https://www.terminal-bench-science.ai/announcement",
       "source": "Hacker News (AI)",
       "domain": "terminal-bench-science.ai",
@@ -408,7 +364,7 @@
     {
       "id": "06532c328579",
       "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 111 # Comments: 14",
+      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 112 # Comments: 15",
       "url": "https://github.com/calmrocks/ai-engineer-notebooks",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -527,17 +483,6 @@
       "published": "2026-08-27T17:28:27+00:00"
     },
     {
-      "id": "906524dcd3c9",
-      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
-      "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-27T16:52:42+00:00"
-    },
-    {
       "id": "b513c3717f07",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "summary": "",
@@ -571,61 +516,6 @@
       "published": "2026-08-27T16:00:00+00:00"
     },
     {
-      "id": "33e3ad0ef8e6",
-      "title": "Nvidia projects $673B in sales as AI demand widens",
-      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 111 # Comments: 108",
-      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
-      "source": "Hacker News (AI)",
-      "domain": "forgeeks.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-27T15:04:16+00:00"
-    },
-    {
-      "id": "e9b884bb6ba3",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-27T14:56:52+00:00"
-    },
-    {
-      "id": "49ea04162395",
-      "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
-      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 92 # Comments: 80",
-      "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
-      "source": "Hacker News (AI)",
-      "domain": "groundbrkr.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-27T14:27:39+00:00"
-    },
-    {
-      "id": "b9da1cf6acf5",
-      "title": "AI’s memory crunch is coming for Android apps",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-27T14:27:04+00:00"
-    },
-    {
-      "id": "c402abef2bd7",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-27T14:01:42+00:00"
-    },
-    {
       "id": "be3c6c02fc09",
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built…",
@@ -657,17 +547,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
       "published": "2026-08-27T13:57:08+00:00"
-    },
-    {
-      "id": "365fb1396158",
-      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "summary": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 140 # Comments: 82",
-      "url": "https://aiandeducation.mit.edu/report/",
-      "source": "Hacker News (AI)",
-      "domain": "aiandeducation.mit.edu",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-27T13:07:45+00:00"
     },
     {
       "id": "326777fd4083",
@@ -778,17 +657,6 @@
       "category": "Industry",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
       "published": "2026-08-26T14:30:00+00:00"
-    },
-    {
-      "id": "be2097206d88",
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
-      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
-      "published": "2026-08-26T11:10:49+00:00"
     },
     {
       "id": "9880be3e8392",
