@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-08-30T11:43:25.124983+00:00",
-  "count": 91,
+  "generated_at": "2026-08-31T13:22:58.392462+00:00",
+  "count": 102,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,226 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "496524cdd7b9",
+      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-31T12:56:46+00:00"
+    },
+    {
+      "id": "23bf4bec41a4",
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-31T10:30:00+00:00"
+    },
+    {
+      "id": "42e96c54c7d8",
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png",
+      "published": "2026-08-31T10:00:34+00:00"
+    },
+    {
+      "id": "39d3819d8fb8",
+      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails Comments URL: https://news.ycombinator.com/item?id=49506655 Points: 54 # Comments: 47",
+      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "source": "Hacker News (AI)",
+      "domain": "au.pcmag.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-31T07:23:47+00:00"
+    },
+    {
+      "id": "9b37cfdfbc44",
+      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+      "summary": "arXiv:2608.27507v1 Announce Type: new Abstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameterized policies in replicated copies of the same environment. However, its pooled team-entropy score measures only collective exploration and can…",
+      "url": "https://arxiv.org/abs/2608.27507",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "6ca87073877d",
+      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+      "summary": "arXiv:2608.27512v1 Announce Type: new Abstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models. When a full-precision source checkpoint is evaluated and quantization is applied downstream without equivalent re-evaluation, this workflow cr…",
+      "url": "https://arxiv.org/abs/2608.27512",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "a9f29346eb3c",
+      "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+      "summary": "arXiv:2608.27513v1 Announce Type: new Abstract: Softmax attention stores key and value vectors for every preceding token, causing inference memory to grow with sequence length. Recent language models incorporating Gated DeltaNet (GDN) or Kimi Delta Attention (KDA) reduce this cost by replacing the KV cache in most lay…",
+      "url": "https://arxiv.org/abs/2608.27513",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "09a66a74912f",
+      "title": "A Deeper Analysis of Block-Sparse Featurizers",
+      "summary": "arXiv:2608.27515v1 Announce Type: new Abstract: The recently introduced block-sparse featurizer (BSF; Fel et al., 2026) is similar to a sparse autoencoder (SAE), but its atomic unit is a small subspace (a block of directions) rather than a single direction. It is designed for features that live on low-dimensional mani…",
+      "url": "https://arxiv.org/abs/2608.27515",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "b3d19f9fe459",
+      "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+      "summary": "arXiv:2608.27518v1 Announce Type: new Abstract: Continual learning (CL) and model merging (MM) both aim to obtain a single model that performs well across multiple tasks, challenged respectively by catastrophic forgetting and weight-disentanglement error. In the literature, these difficulties are merely treated separa…",
+      "url": "https://arxiv.org/abs/2608.27518",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "0e53d08d5d02",
+      "title": "Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
+      "summary": "arXiv:2608.27521v1 Announce Type: new Abstract: Many dynamical processes unfold on the sphere but the default scientific machine learning architectures are Euclidean. Applying these architectures on a regular lat-lon grid causes problems: Cartesian convolutions become distorted at high latitude; 2D FFTs in Fourier neu…",
+      "url": "https://arxiv.org/abs/2608.27521",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "6aa091bea84b",
+      "title": "Self-Explainable Multi-Label Graph Neural Network for Correlated Evidence Attribution",
+      "summary": "arXiv:2608.27574v1 Announce Type: new Abstract: Multi-label graph learning intends to capture the intrinsic complexity of real-world applications, where one sample is often related to multiple groups or consists of multiple objects. To date, a handful of multi-label graph learning methods exist, but none of them integ…",
+      "url": "https://arxiv.org/abs/2608.27574",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "eb6b8bf1593c",
+      "title": "Curvature-Aware Radius Shrinkage for Adaptive Nearest Neighbor Classification",
+      "summary": "arXiv:2608.27634v1 Announce Type: new Abstract: Nearest neighbor classification relies fundamentally on how locality is defined, yet conventional $k$-NN imposes the same neighborhood cardinality throughout the feature space. This assumption can be inadequate for data whose local geometry varies substantially across th…",
+      "url": "https://arxiv.org/abs/2608.27634",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "2ecb0a998897",
+      "title": "More Data Cannot Break a Symmetry: Identifiability by Design",
+      "summary": "arXiv:2608.27651v1 Announce Type: new Abstract: Unsupervised representational alignment recovers a stimulus-by-stimulus correspondence from geometry alone, but the automorphism group of the stimulus geometry bounds what any such alignment can identify, before data exist. The obvious diagnostic for this degeneracy, the…",
+      "url": "https://arxiv.org/abs/2608.27651",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "151814089fac",
+      "title": "Unsupervised Continual Learning with Growing Self-Organizing Maps and Synthetic Replay",
+      "summary": "arXiv:2608.27662v1 Announce Type: new Abstract: This work presents a generative continual learning framework based on growing self-organizing maps (GSOMs) that are augmented with learned distributional statistics as well as encoder-decoder models for class-incremental learning. The proposed approach enables exemplar-f…",
+      "url": "https://arxiv.org/abs/2608.27662",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "6f95770509d8",
+      "title": "SegBench-GC: Testing Segmentation Invariance in Multi-Step Offline Goal-Conditioned Reinforcement Learning",
+      "summary": "arXiv:2608.27678v1 Announce Type: new Abstract: Offline goal-conditioned reinforcement learning (GCRL) often uses trajectory structure for future-goal sampling and multi-step targets, yet logged trajectories may be partitioned for administrative reasons that do not correspond to termination. We introduce SegBench-GC,…",
+      "url": "https://arxiv.org/abs/2608.27678",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "5bab139fc5d6",
+      "title": "SafeStep: An Interactive Demonstration of Semantic Communication for Pedestrian Safety Monitoring",
+      "summary": "arXiv:2608.27688v1 Announce Type: new Abstract: In this paper, we develop SafeStep, an interactive browser-based semantic communication platform for live pedestrian safety monitoring. SafeStep extracts pedestrian information from four live traffic-camera feeds, transmits it through a semantic communication transceiver…",
+      "url": "https://arxiv.org/abs/2608.27688",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-08-31T04:00:00+00:00"
+    },
+    {
+      "id": "a0bb03db8c12",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-31T02:34:00+00:00"
+    },
+    {
+      "id": "43d03f0e1561",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-30T16:54:25+00:00"
+    },
+    {
+      "id": "3459fcef50a0",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-08-30T15:00:00+00:00"
+    },
+    {
+      "id": "e144bde8ea33",
+      "title": "No AI Fridays",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 277 # Comments: 195",
+      "url": "https://noaifridays.com/",
+      "source": "Hacker News (AI)",
+      "domain": "noaifridays.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-30T12:31:05+00:00"
+    },
     {
       "id": "fc64f90a9a72",
       "title": "Inside Meta’s push to put robots to work in data centers",
@@ -30,6 +250,17 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-08-30T10:30:00+00:00"
+    },
+    {
+      "id": "8d7cdadfa521",
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 59 # Comments: 31",
+      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "source": "Hacker News (AI)",
+      "domain": "abc.net.au",
+      "category": "Community",
+      "image": "",
+      "published": "2026-08-30T10:20:11+00:00"
     },
     {
       "id": "791e756a7921",
@@ -56,7 +287,7 @@ window.NEWS_DATA = {
     {
       "id": "0c6228657f5d",
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 403 # Comments: 100",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 466 # Comments: 118",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "source": "Hacker News (AI)",
       "domain": "newsletter.eng-leadership.com",
@@ -67,7 +298,7 @@ window.NEWS_DATA = {
     {
       "id": "e73ec7b28df8",
       "title": "The growing divide between AI hype and software engineering reality",
-      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 62 # Comments: 81",
+      "summary": "Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 66 # Comments: 88",
       "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
       "source": "Hacker News (AI)",
       "domain": "optimizedbyotto.com",
@@ -78,7 +309,7 @@ window.NEWS_DATA = {
     {
       "id": "1156928ef7d0",
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 489 # Comments: 455",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 509 # Comments: 472",
       "url": "https://lwn.net/Articles/1091231/",
       "source": "Hacker News (AI)",
       "domain": "lwn.net",
@@ -122,7 +353,7 @@ window.NEWS_DATA = {
     {
       "id": "ae1423163e9e",
       "title": "StemDeck, a free, open-source and local AI stem separator",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 227 # Comments: 61",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 243 # Comments: 63",
       "url": "https://github.com/stemdeckapp/stemdeck",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -133,7 +364,7 @@ window.NEWS_DATA = {
     {
       "id": "8f46edc984ea",
       "title": "I accidentally turned LLM memory into program analysis",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 294 # Comments: 79",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 302 # Comments: 84",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "source": "Hacker News (AI)",
       "domain": "pwning.systems",
@@ -144,7 +375,7 @@ window.NEWS_DATA = {
     {
       "id": "cfc6038ffdc8",
       "title": "Identifying fake cosmetics using AI",
-      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 59 # Comments: 25",
+      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 62 # Comments: 27",
       "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
       "source": "Hacker News (AI)",
       "domain": "groverlab.org",
@@ -265,7 +496,7 @@ window.NEWS_DATA = {
     {
       "id": "bdaf6f5ae593",
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 518 # Comments: 151",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 522 # Comments: 151",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "source": "Hacker News (AI)",
       "domain": "blog.luanti.org",
@@ -340,17 +571,6 @@ window.NEWS_DATA = {
       "published": "2026-08-28T00:00:00+00:00"
     },
     {
-      "id": "9e227b121c91",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-27T23:16:45+00:00"
-    },
-    {
       "id": "cc978defe5a3",
       "title": "Anthropic's new hardware standard lets AI agents control the physical world",
       "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
@@ -360,17 +580,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
       "published": "2026-08-27T22:15:43+00:00"
-    },
-    {
-      "id": "06532c328579",
-      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 112 # Comments: 15",
-      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-27T21:46:39+00:00"
     },
     {
       "id": "be37f2e0eaeb",
@@ -406,17 +615,6 @@ window.NEWS_DATA = {
       "published": "2026-08-27T19:55:22+00:00"
     },
     {
-      "id": "0df1118e0eb1",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-27T19:52:52+00:00"
-    },
-    {
       "id": "1af5e4ced477",
       "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
       "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
@@ -426,17 +624,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2281424431-1024x648.jpg",
       "published": "2026-08-27T18:57:08+00:00"
-    },
-    {
-      "id": "e4a66b4a90c5",
-      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-      "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc Comments URL: https://news.ycombinator.com/item?id=49469249 Points: 91 # Comments: 40",
-      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
-      "source": "Hacker News (AI)",
-      "domain": "news.bgov.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-27T18:34:40+00:00"
     },
     {
       "id": "021a522d325a",
@@ -450,39 +637,6 @@ window.NEWS_DATA = {
       "published": "2026-08-27T18:12:17+00:00"
     },
     {
-      "id": "a2a385226324",
-      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
-      "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-27T18:06:52+00:00"
-    },
-    {
-      "id": "9d2ed0982fdc",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-27T17:43:24+00:00"
-    },
-    {
-      "id": "180b0b4d03a7",
-      "title": "Tell HN: Man, AI is killing my brain",
-      "summary": "I was among the last to resist, but then I was given a subtle hint that if I won't \"improve my productivity and be on par with my colleagues\" my work will be at risk. So I started to use Claude Code about a year ago. At first, I'd give it small tasks, review every line it wrote, opened a proper PR, review again, ask q…",
-      "url": "https://news.ycombinator.com/item?id=49468252",
-      "source": "Hacker News (AI)",
-      "domain": "news.ycombinator.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-08-27T17:28:27+00:00"
-    },
-    {
       "id": "b513c3717f07",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "summary": "",
@@ -492,17 +646,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-08-27T16:11:32+00:00"
-    },
-    {
-      "id": "fddb5b41eda6",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-08-27T16:00:00+00:00"
     },
     {
       "id": "b01df93906fa",
@@ -613,17 +756,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
       "published": "2026-08-26T21:25:27+00:00"
-    },
-    {
-      "id": "b2404f6e518b",
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-      "published": "2026-08-26T19:19:22+00:00"
     },
     {
       "id": "935014c4ac77",
@@ -998,17 +1130,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-08-17T19:46:21+00:00"
-    },
-    {
-      "id": "af2e6ce14419",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI",
-      "domain": "blog.google",
-      "category": "Labs",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
-      "published": "2026-08-17T08:00:00+00:00"
     }
   ]
 };
