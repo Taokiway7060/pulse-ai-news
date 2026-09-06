@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:24:28.617257+00:00",
+  "generated_at": "2026-09-06T10:43:05.340798+00:00",
   "count": 92,
   "categories": [
     "Community",
@@ -10,15 +10,136 @@
   ],
   "items": [
     {
+      "id": "f77dd6ada532",
+      "title": "My Brief Summer Fling With Siri AI",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-06T10:30:00+00:00"
+    },
+    {
+      "id": "69c96ade1f15",
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-06T10:00:00+00:00"
+    },
+    {
+      "id": "e332bdd24acd",
+      "title": "AI, Tools and Transformation",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 67 # Comments: 23",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "source": "Hacker News (AI)",
+      "domain": "ben-evans.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-06T02:12:46+00:00"
+    },
+    {
+      "id": "40f7f52d212c",
+      "title": "GPT-6 Astra on robot arms",
+      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 192 # Comments: 141",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "source": "Hacker News (AI)",
+      "domain": "openai.robocurve.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-06T01:52:45+00:00"
+    },
+    {
+      "id": "d738dba61d4a",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-05T22:49:55+00:00"
+    },
+    {
+      "id": "eb2534263535",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 67 # Comments: 20",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-05T22:15:52+00:00"
+    },
+    {
+      "id": "fb44ac4ae17c",
+      "title": "America's two largest school districts impose AI moratoriums",
+      "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 59 # Comments: 71",
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "source": "Hacker News (AI)",
+      "domain": "techpolicy.press",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-05T21:43:22+00:00"
+    },
+    {
+      "id": "372eabe16d98",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-05T19:35:24+00:00"
+    },
+    {
+      "id": "56e975bf1926",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-05T18:05:27+00:00"
+    },
+    {
+      "id": "af0acee24ef3",
+      "title": "OpenAI Agents Hacked Another Website",
+      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-05T10:30:00+00:00"
+    },
+    {
       "id": "be4ab5ab8560",
       "title": "AI handles incidents, engineers lose touch with their systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 110 # Comments: 76",
+      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 383 # Comments: 333",
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "source": "Hacker News (AI)",
       "domain": "sylvainkalache.com",
       "category": "Community",
       "image": "",
       "published": "2026-09-05T07:52:50+00:00"
+    },
+    {
+      "id": "7c612ac7fb07",
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 72 # Comments: 71",
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "source": "Hacker News (AI)",
+      "domain": "coderabbit.ai",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-05T03:38:56+00:00"
     },
     {
       "id": "3b2d41f2d5aa",
@@ -56,7 +177,7 @@
     {
       "id": "9ccc3e1adfbc",
       "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 230 # Comments: 135",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 313 # Comments: 225",
       "url": "https://openrouter.ai/openai/gpt-6-astra",
       "source": "Hacker News (AI)",
       "domain": "openrouter.ai",
@@ -78,7 +199,7 @@
     {
       "id": "941ece51d50a",
       "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 262 # Comments: 158",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 408 # Comments: 225",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "source": "Hacker News (AI)",
       "domain": "eebench.org",
@@ -155,7 +276,7 @@
     {
       "id": "9b81a0078fd1",
       "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 297 # Comments: 270",
+      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 325 # Comments: 299",
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "source": "Hacker News (AI)",
       "domain": "nytimes.com",
@@ -199,7 +320,7 @@
     {
       "id": "7ee1fe2cac03",
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 383 # Comments: 72",
+      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 394 # Comments: 74",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "source": "Hacker News (AI)",
       "domain": "productrise.app",
@@ -210,7 +331,7 @@
     {
       "id": "d5e884ab0445",
       "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-      "summary": "Article URL: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/ Comments URL: https://news.ycombinator.com/item?id=49562744 Points: 93 # Comments: 2",
+      "summary": "Article URL: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/ Comments URL: https://news.ycombinator.com/item?id=49562744 Points: 95 # Comments: 2",
       "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
       "source": "Hacker News (AI)",
       "domain": "reuters.com",
@@ -252,17 +373,6 @@
       "published": "2026-09-04T04:21:03+00:00"
     },
     {
-      "id": "b8b5b8226cad",
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-04T00:48:42+00:00"
-    },
-    {
       "id": "60e617a143f2",
       "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
       "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
@@ -287,57 +397,13 @@
     {
       "id": "0dacc1d35fad",
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 232 # Comments: 147",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 235 # Comments: 155",
       "url": "https://arcprize.org/blog/astra",
       "source": "Hacker News (AI)",
       "domain": "arcprize.org",
       "category": "Community",
       "image": "",
       "published": "2026-09-03T19:45:00+00:00"
-    },
-    {
-      "id": "893bff5582c0",
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-03T19:36:29+00:00"
-    },
-    {
-      "id": "453f52197d8e",
-      "title": "GPT-6 Astra",
-      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https://news.ycombinator.com/item?id=49556147 Comments URL: https://news.…",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "source": "Hacker News (AI)",
-      "domain": "openai.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-03T18:41:05+00:00"
-    },
-    {
-      "id": "34d1bdcd7621",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-03T18:37:57+00:00"
-    },
-    {
-      "id": "0a0a0681acfb",
-      "title": "OpenAI begins rolling out GPT-6 Astra",
-      "summary": "https://thenewstack.io/openai-gpt6-astra-benchmarks/ , image: https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot... https://venturebeat.com/technology/welcome-to-the-agi-era-op... https://www.theverge.com/ai-artificial-intelligence/988334/o... https://twitter.com/OpenAI/status/2095595741528125780 Comments UR…",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "source": "Hacker News (AI)",
-      "domain": "cnbc.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-03T18:18:22+00:00"
     },
     {
       "id": "e3d8ac9c4799",
@@ -362,17 +428,6 @@
       "published": "2026-09-03T18:06:24+00:00"
     },
     {
-      "id": "416cd457a955",
-      "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ Comments URL: https://news.ycombinator.com/item?id=49553463 Points: 61 # Comments: 79",
-      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
-      "source": "Hacker News (AI)",
-      "domain": "sanders.senate.gov",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-03T17:20:29+00:00"
-    },
-    {
       "id": "30a47348078d",
       "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
       "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
@@ -393,17 +448,6 @@
       "category": "Labs",
       "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo",
       "published": "2026-09-03T15:02:08+00:00"
-    },
-    {
-      "id": "8ab376932008",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the feel right and shipping it took a few more weekends and evenings. I spent the last few weeks analyzing what Claude did…",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "source": "Hacker News (AI)",
-      "domain": "babyloniantwins.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-03T14:28:18+00:00"
     },
     {
       "id": "24cd5007eaaf",
@@ -450,17 +494,6 @@
       "published": "2026-09-03T13:00:00+00:00"
     },
     {
-      "id": "15bd2ac4dd33",
-      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-      "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
-      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-03T12:43:09+00:00"
-    },
-    {
       "id": "2f9e5b71a3e5",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
@@ -483,17 +516,6 @@
       "published": "2026-09-03T12:00:00+00:00"
     },
     {
-      "id": "abc134a5d3be",
-      "title": "A dark horse enters China's AI race: StartLux",
-      "summary": "Article URL: https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector Comments URL: https://news.ycombinator.com/item?id=49548530 Points: 55 # Comments: 29",
-      "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
-      "source": "Hacker News (AI)",
-      "domain": "chinaonchina.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-03T11:12:57+00:00"
-    },
-    {
       "id": "f515048a4f19",
       "title": "GPT-6 Astra: A new generation of intelligence",
       "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
@@ -503,28 +525,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-09-03T11:00:00+00:00"
-    },
-    {
-      "id": "dd10abd466f5",
-      "title": "This Is Flock’s AI Search Tool for Cops",
-      "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
-      "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-03T10:00:00+00:00"
-    },
-    {
-      "id": "4dd3d3adb43e",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-03T01:32:02+00:00"
     },
     {
       "id": "59825a748ef6",
