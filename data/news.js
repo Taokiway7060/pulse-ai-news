@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-09-07T12:12:25.991226+00:00",
-  "count": 116,
+  "generated_at": "2026-09-08T11:02:13.743362+00:00",
+  "count": 89,
   "categories": [
     "Community",
     "Industry",
@@ -10,15 +10,70 @@ window.NEWS_DATA = {
   ],
   "items": [
     {
-      "id": "38018e4ce7de",
+      "id": "6d148a59c309",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 56 # Comments: 36",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-08T05:20:23+00:00"
+    },
+    {
+      "id": "54863cd17086",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-07T19:24:00+00:00"
+    },
+    {
+      "id": "4f3b45e7ba87",
+      "title": "AI Cold Showers",
+      "summary": "Article URL: https://allan.reyes.sh/posts/ai-cold-showers/ Comments URL: https://news.ycombinator.com/item?id=49601810 Points: 75 # Comments: 12",
+      "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+      "source": "Hacker News (AI)",
+      "domain": "allan.reyes.sh",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-07T19:05:39+00:00"
+    },
+    {
+      "id": "26c8d3e70235",
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 100 # Comments: 117",
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "source": "Hacker News (AI)",
+      "domain": "bottlenecklabs.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-07T18:24:32+00:00"
+    },
+    {
+      "id": "5b9dade4674b",
       "title": "The complex corporate web behind a $3.2 billion AI data center",
       "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
       "source": "Ars Technica AI",
       "domain": "arstechnica.com",
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
       "published": "2026-09-07T11:00:03+00:00"
+    },
+    {
+      "id": "9bcacb5ecebe",
+      "title": "Initial effects of AI technology on employment look positive",
+      "summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 87 # Comments: 131",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "source": "Hacker News (AI)",
+      "domain": "economist.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-07T10:38:32+00:00"
     },
     {
       "id": "a4b42cefb6b9",
@@ -32,279 +87,26 @@ window.NEWS_DATA = {
       "published": "2026-09-07T10:30:00+00:00"
     },
     {
+      "id": "5462db843146",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 88 # Comments: 51",
+      "url": "https://github.com/timgordontg/engrim",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-07T04:49:36+00:00"
+    },
+    {
       "id": "825e8d55fc2a",
       "title": "I refused to train the AI that could replace me",
-      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 86 # Comments: 98",
+      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 94 # Comments: 113",
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
       "source": "Hacker News (AI)",
       "domain": "restofworld.org",
       "category": "Community",
       "image": "",
       "published": "2026-09-07T04:38:22+00:00"
-    },
-    {
-      "id": "07882236b742",
-      "title": "EXAONE Forecast for Finance",
-      "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-scale pretraining. However, they are prima…",
-      "url": "https://arxiv.org/abs/2609.04239",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "79939dc8bfd5",
-      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-      "summary": "arXiv:2609.04286v1 Announce Type: new Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review traces that developme…",
-      "url": "https://arxiv.org/abs/2609.04286",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "62b2d3e023fc",
-      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-      "summary": "arXiv:2609.04298v1 Announce Type: new Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work makes three contributio…",
-      "url": "https://arxiv.org/abs/2609.04298",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "2633aba74164",
-      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
-      "summary": "arXiv:2609.04300v1 Announce Type: new Abstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of contingency in power systems enables proactive decision-making and mitigates large-scale breakdowns and failures. This…",
-      "url": "https://arxiv.org/abs/2609.04300",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "e49e389af8ea",
-      "title": "Iris: Climbing to the Search Frontier",
-      "summary": "arXiv:2609.04304v1 Announce Type: new Abstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author multi-hop chains over…",
-      "url": "https://arxiv.org/abs/2609.04304",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "e49ed855d481",
-      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
-      "summary": "arXiv:2609.04343v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning underlying the model's de…",
-      "url": "https://arxiv.org/abs/2609.04343",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "f07edcece8f7",
-      "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
-      "summary": "arXiv:2609.04373v1 Announce Type: new Abstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outcomes. We hypothesize…",
-      "url": "https://arxiv.org/abs/2609.04373",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "d2453a3e1eb2",
-      "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
-      "summary": "arXiv:2609.04377v1 Announce Type: new Abstract: Enterprise AI deployments fail not from model inadequacy, but because organizations lack a structured substrate encoding how they decide, negotiate, and execute. Generic LLMs carry no firm-specific ontological priors; RAG remains brittle, with no path to executable actio…",
-      "url": "https://arxiv.org/abs/2609.04377",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "db1976ffb11a",
-      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
-      "summary": "arXiv:2609.04444v1 Announce Type: new Abstract: Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living creature. It is a farm simulation: LLM sub-agents drive a crew of two tra…",
-      "url": "https://arxiv.org/abs/2609.04444",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "6a09316fa4da",
-      "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
-      "summary": "arXiv:2609.04476v1 Announce Type: new Abstract: Performance modeling is central to hardware design and software optimization, yet constructing these models requires structured reasoning about computation, data reuse, storage, and movement. We introduce PerfReasoning, a benchmark that evaluates LLMs both as direct perf…",
-      "url": "https://arxiv.org/abs/2609.04476",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "0273b6e07f8c",
-      "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
-      "summary": "arXiv:2609.04490v1 Announce Type: new Abstract: Quantization is widely used to reduce the computational and memory demands of neural-network inference. In recurrent networks, however, the quantized state is stored and returned at the next time step, so the rule used to store that state can alter subsequent computation…",
-      "url": "https://arxiv.org/abs/2609.04490",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "af2a6b64fd1b",
-      "title": "ResLearn-XR: Residual Learning for Network Traffic and Quality-of-Experience-Aware Modeling in Extended Reality",
-      "summary": "arXiv:2609.04493v1 Announce Type: new Abstract: We present ResLearn-XR, a residual learning framework for predicting eXtended Reality (XR) network traffic and estimating Quality-of-Experience (QoE) risk. ResLearn-XR adopts a two-stage temporal learning structure comprising a base sequence prediction model augmented wi…",
-      "url": "https://arxiv.org/abs/2609.04493",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "5c81c382d1d6",
-      "title": "Spectral-Target Physical Latent Structuring for JEPA-Style World Models",
-      "summary": "arXiv:2609.04264v1 Announce Type: new Abstract: Latent world models have become increasingly popular as a method to predict and plan in latent space rather than pixel space. Recent architectures, such as LeWorldModel (LeWM), jointly train the encoder and predictor using regularization techniques like SIGReg to prevent…",
-      "url": "https://arxiv.org/abs/2609.04264",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "d84457800f92",
-      "title": "ProToMEx: Rapid, Interpretable Explanations via Structured Representations",
-      "summary": "arXiv:2609.04265v1 Announce Type: new Abstract: Existing post-hoc explainers for machine learning classifiers primarily focus on feature attribution, assigning importance scores to individual features. While valuable, this approach struggles to articulate the complex, combinatorial patterns that often drive a model's…",
-      "url": "https://arxiv.org/abs/2609.04265",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "fde5e3efa413",
-      "title": "A Data Fusion Framework for Grounding Aerospace Surrogate Model via Experimental Wind-Tunnel Observations",
-      "summary": "arXiv:2609.04267v1 Announce Type: new Abstract: Aerodynamic surrogate models trained on high-fidelity CFD data reproduce numerical predictions of both scalar outputs and entire fields accurately, yet their predictive fidelity is limited by systematic discrepancies between CFD and experimental observations. We present…",
-      "url": "https://arxiv.org/abs/2609.04267",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "f1322c947fff",
-      "title": "Quantum-Assisted Memory-Efficient Training for Parameter-Intensive Wi-Fi-Based Human Activity Recognition",
-      "summary": "arXiv:2609.04271v1 Announce Type: new Abstract: Wi-Fi-based human activity recognition (HAR) has become an important part of integrated sensing and communications, paving the way for a range of context-aware services. However, most existing Wi-Fi-based HAR systems rely on deep learning (DL) models that are computation…",
-      "url": "https://arxiv.org/abs/2609.04271",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "6107127c2e35",
-      "title": "Evaluating Large Language Models for Forced Outage Risk Prediction: Benefits and Comparison to Machine Learning",
-      "summary": "arXiv:2609.04272v1 Announce Type: new Abstract: This study examines the ability of large language models (LLMs) to predict the risk of weather-related forced outages in the distribution grid in a zero-shot framework, without labeled training data. The problem is formulated as a binary severity classification task acro…",
-      "url": "https://arxiv.org/abs/2609.04272",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "e82c03ed6428",
-      "title": "BER-PEF: Unified Human Mobility Predictability Evaluation via Bayes Error Rate Estimation",
-      "summary": "arXiv:2609.04292v1 Announce Type: new Abstract: Human mobility predictability concerns the best prediction performance attainable from a given target and input information, but its ground truth is not directly observable on real mobility data. We present BER-PEF, a Bayes-error-rate-based framework that converts BER es…",
-      "url": "https://arxiv.org/abs/2609.04292",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "5372a5fd02ee",
-      "title": "Data-Driven Learning of Unknown Nonlinear Differential Equations Using Functional Analysis",
-      "summary": "arXiv:2609.04329v1 Announce Type: new Abstract: In this paper, the problem of data-driven discovery of nonlinear ordinary differential equations (ODEs) is recast, and a new interpretable machine learning (ML) method is proposed. The proposed method aims to learn the unknown vector field of nonlinear dynamics without p…",
-      "url": "https://arxiv.org/abs/2609.04329",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "ebdf429c5c28",
-      "title": "Modular Deep Recurrent Neural Network: Application to Quadrotors",
-      "summary": "arXiv:2609.04339v1 Announce Type: new Abstract: A modular deep Recurrent Neural Network (RNN) is introduced to facilitate the process of deploying various architectures of RNNs, and to automatically compute derivatives for gradient-based learning methods. The modularity leads to a set of new architectures, one of whic…",
-      "url": "https://arxiv.org/abs/2609.04339",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "776164658ffe",
-      "title": "SharedSAE: One Feature Dictionary Across Language Models",
-      "summary": "arXiv:2609.04344v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) are widely used to interpret language model activations, but SAE training and latent labelling are typically repeated for every model. Here, we show that a single shared SAE can replace a collection of dedicated per-model SAEs. Our method, Shar…",
-      "url": "https://arxiv.org/abs/2609.04344",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "ba13a9b71931",
-      "title": "A Quantum Variational Approach to Prototypical Recurrent Unit",
-      "summary": "arXiv:2609.04354v1 Announce Type: new Abstract: We introduce a lightweight Quantum Prototypical Recurrent Unit (QPRU) that requires significantly fewer parameters than both classical recurrent architectures, such as Long Short- Term Memory (LSTM) and Gated Recurrent Unit (GRU), and quantum variants, including Quantum…",
-      "url": "https://arxiv.org/abs/2609.04354",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "3d1c355ddf41",
-      "title": "On the Abundance of Critical Points of the t-SNE Energy",
-      "summary": "arXiv:2609.04379v1 Announce Type: new Abstract: This paper considers the energy landscape of the t-SNE algorithm. While this algorithm has enjoyed broad adoption, the non-convexity of the associated energy has made it difficult to rigorously understand what the algorithm captures in many settings. In particular, a num…",
-      "url": "https://arxiv.org/abs/2609.04379",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
-    },
-    {
-      "id": "1765b4ff766d",
-      "title": "Disentangling Attention in Deep Operator Learning: A Controlled Study of Data-Driven and Physics-Informed Architectures",
-      "summary": "arXiv:2609.04407v1 Announce Type: new Abstract: Deep neural operators learn mappings between input functions and complete PDE solution fields, enabling forward evaluations of new problem instances orders of magnitude faster than conventional numerical solvers. Attention mechanisms have recently been introduced into ne…",
-      "url": "https://arxiv.org/abs/2609.04407",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-07T04:00:00+00:00"
     },
     {
       "id": "71f314b2c219",
@@ -342,7 +144,7 @@ window.NEWS_DATA = {
     {
       "id": "b642b7273b86",
       "title": "How I feel about AI",
-      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 158 # Comments: 253",
+      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 162 # Comments: 258",
       "url": "https://beza1e1.tuxen.de/ai_feelings.html",
       "source": "Hacker News (AI)",
       "domain": "beza1e1.tuxen.de",
@@ -353,7 +155,7 @@ window.NEWS_DATA = {
     {
       "id": "98dac75946d2",
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 664 # Comments: 409",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 722 # Comments: 431",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "source": "Hacker News (AI)",
       "domain": "bcantrill.dtrace.org",
@@ -408,7 +210,7 @@ window.NEWS_DATA = {
     {
       "id": "e332bdd24acd",
       "title": "AI, Tools and Transformation",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 152 # Comments: 70",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 155 # Comments: 76",
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "source": "Hacker News (AI)",
       "domain": "ben-evans.com",
@@ -419,7 +221,7 @@ window.NEWS_DATA = {
     {
       "id": "40f7f52d212c",
       "title": "GPT-6 Astra on robot arms",
-      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 234 # Comments: 186",
+      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 240 # Comments: 189",
       "url": "https://openai.robocurve.org/gpt-6-astra/",
       "source": "Hacker News (AI)",
       "domain": "openai.robocurve.org",
@@ -441,7 +243,7 @@ window.NEWS_DATA = {
     {
       "id": "eb2534263535",
       "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 76 # Comments: 25",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 79 # Comments: 32",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -494,30 +296,8 @@ window.NEWS_DATA = {
       "published": "2026-09-05T10:30:00+00:00"
     },
     {
-      "id": "be4ab5ab8560",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 411 # Comments: 341",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "source": "Hacker News (AI)",
-      "domain": "sylvainkalache.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-05T07:52:50+00:00"
-    },
-    {
-      "id": "7c612ac7fb07",
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 72 # Comments: 74",
-      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "source": "Hacker News (AI)",
-      "domain": "coderabbit.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-05T03:38:56+00:00"
-    },
-    {
-      "id": "3b2d41f2d5aa",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "id": "0720cc8fdd8d",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "summary": "The round is being raised just months after the robot data startup exited from stealth.",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "source": "TechCrunch AI",
@@ -549,17 +329,6 @@ window.NEWS_DATA = {
       "published": "2026-09-04T22:17:36+00:00"
     },
     {
-      "id": "9ccc3e1adfbc",
-      "title": "GPT-6 Astra on OpenRouter",
-      "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 319 # Comments: 233",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "source": "Hacker News (AI)",
-      "domain": "openrouter.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-04T21:39:19+00:00"
-    },
-    {
       "id": "24f51f002eaa",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
@@ -569,17 +338,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-09-04T21:12:11+00:00"
-    },
-    {
-      "id": "941ece51d50a",
-      "title": "Can AI design circuit boards yet?",
-      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 419 # Comments: 238",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "source": "Hacker News (AI)",
-      "domain": "eebench.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-04T19:48:29+00:00"
     },
     {
       "id": "4c4801ea957e",
@@ -648,17 +406,6 @@ window.NEWS_DATA = {
       "published": "2026-09-04T16:04:08+00:00"
     },
     {
-      "id": "9b81a0078fd1",
-      "title": "Corporate America is getting hooked on open-source AI",
-      "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 330 # Comments: 307",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "source": "Hacker News (AI)",
-      "domain": "nytimes.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-04T15:33:45+00:00"
-    },
-    {
       "id": "c1a792c4854f",
       "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
       "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
@@ -668,17 +415,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-09-04T15:00:00+00:00"
-    },
-    {
-      "id": "5e07083485be",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-04T14:47:11+00:00"
     },
     {
       "id": "be93e32e53cd",
@@ -1251,39 +987,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-08-25T11:39:24+00:00"
-    },
-    {
-      "id": "06bc022a1c10",
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leader…",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-25T09:00:00+00:00"
-    },
-    {
-      "id": "805a5aa6362e",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "summary": "",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-08-25T00:00:00+00:00"
-    },
-    {
-      "id": "76aa8b701923",
-      "title": "How to encourage smarter AI use in the classroom",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically…",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-08-24T14:20:19+00:00"
     }
   ]
 };
