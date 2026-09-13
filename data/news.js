@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-09-12T10:30:42.633901+00:00",
-  "count": 98,
+  "generated_at": "2026-09-13T11:33:55.468837+00:00",
+  "count": 86,
   "categories": [
     "Community",
     "Industry",
@@ -21,141 +21,152 @@ window.NEWS_DATA = {
       "published": "2026-09-14T00:00:00+00:00"
     },
     {
-      "id": "766f26d1a205",
-      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-      "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy may leave $f_{\\min}$…",
-      "url": "https://arxiv.org/abs/2609.10584",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "1795d96229d9",
+      "title": "AI Agents Are Thirsty for Power",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-13T10:00:00+00:00"
     },
     {
-      "id": "c8cc2c127e0d",
-      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-      "summary": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, translating natural-lang…",
-      "url": "https://arxiv.org/abs/2609.10629",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "81a1b4302718",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 260 # Comments: 330",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "source": "Hacker News (AI)",
+      "domain": "yoshuabengio.org",
+      "category": "Community",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-13T01:22:31+00:00"
     },
     {
-      "id": "254d37c6d5e1",
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across symbolic, structura…",
-      "url": "https://arxiv.org/abs/2609.10654",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "1bbea0a51ce8",
+      "title": "Everyone should slow down AI development except for me",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 517 # Comments: 311",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "source": "Hacker News (AI)",
+      "domain": "xeiaso.net",
+      "category": "Community",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-13T00:30:44+00:00"
     },
     {
-      "id": "af6f95b15d4a",
-      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid protocol. We report…",
-      "url": "https://arxiv.org/abs/2609.10656",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "f0ff5bb0bb4e",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 65 # Comments: 29",
+      "url": "https://agentsdock.net/",
+      "source": "Hacker News (AI)",
+      "domain": "agentsdock.net",
+      "category": "Community",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-12T23:45:58+00:00"
     },
     {
-      "id": "03a7cadfb1ad",
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "summary": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs in hyperparameter s…",
-      "url": "https://arxiv.org/abs/2609.10657",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "0213665f4688",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 246 # Comments: 137",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "source": "Hacker News (AI)",
+      "domain": "withspecific.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-12T20:25:48+00:00"
     },
     {
-      "id": "9f5a4736b655",
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "summary": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoints using supervised fine-tuning and reinforcement learning, and evalua…",
-      "url": "https://arxiv.org/abs/2609.10712",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "5a92a6eab1e4",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-12T20:19:16+00:00"
     },
     {
-      "id": "922b290c77e6",
-      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-      "summary": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as technical, human, and operational disrupt…",
-      "url": "https://arxiv.org/abs/2609.10724",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "70b8757af5c3",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-12T19:34:44+00:00"
     },
     {
-      "id": "1050cd91cecd",
-      "title": "Towards a Deterministic Math Solver for Clinical Language Models",
-      "summary": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard response is to hardcode each calculator as a validated function, one at a time. We test an alternative:…",
-      "url": "https://arxiv.org/abs/2609.10728",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "3db0e63042a8",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o Comments URL: https://news.ycombinator.com/item?id=49674395 Points: 54 # Comments: 107",
+      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+      "source": "Hacker News (AI)",
+      "domain": "bbc.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-12T16:56:52+00:00"
     },
     {
-      "id": "6239c5ed9793",
-      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-      "summary": "arXiv:2609.10824v1 Announce Type: new Abstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples, trajectories, or evalu…",
-      "url": "https://arxiv.org/abs/2609.10824",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "7c37d98a8ff0",
+      "title": "Nvidia is the central bank of AI",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 495 # Comments: 351",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News (AI)",
+      "domain": "economist.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-12T15:08:27+00:00"
     },
     {
-      "id": "a50567f438e3",
-      "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
-      "summary": "arXiv:2609.10873v1 Announce Type: new Abstract: Independent evaluation can reject harmful policy updates yet also prevent useful continual learning. We argue that update admission must be assessed through both error control and retained learning opportunities at a stated interaction budget. We identify a concrete fail…",
-      "url": "https://arxiv.org/abs/2609.10873",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "3ac009d22828",
+      "title": "LLMs are real, AI is fake",
+      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 70 # Comments: 36",
+      "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+      "source": "Hacker News (AI)",
+      "domain": "pluralistic.net",
+      "category": "Community",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-12T13:47:28+00:00"
     },
     {
-      "id": "9daa31bfb82b",
-      "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
-      "summary": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately upon readiness. Un…",
-      "url": "https://arxiv.org/abs/2609.10964",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "4601ef139e4c",
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 114 # Comments: 55",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "source": "Hacker News (AI)",
+      "domain": "tedium.co",
+      "category": "Community",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-12T11:13:38+00:00"
     },
     {
-      "id": "256f0a90e12e",
-      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
-      "summary": "arXiv:2609.10992v1 Announce Type: new Abstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current privacy-preserving methods typically employ context-agnostic static rules, causing severe utility degradation. However,…",
-      "url": "https://arxiv.org/abs/2609.10992",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "56f1d62107c3",
+      "title": "I spent $4,000 on a robot dog from China",
+      "summary": "Unitree might be the world’s most important robotics company.",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
+      "published": "2026-09-12T11:00:53+00:00"
+    },
+    {
+      "id": "4fac1df94443",
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-09-12T04:00:00+00:00"
+      "published": "2026-09-12T10:30:00+00:00"
     },
     {
       "id": "c67ebbc12ea8",
       "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 56 # Comments: 40",
+      "summary": "Article URL: https://twitter.com/venturetwins/status/2098456905526211026 Comments URL: https://news.ycombinator.com/item?id=49667253 Points: 64 # Comments: 71",
       "url": "https://twitter.com/venturetwins/status/2098456905526211026",
       "source": "Hacker News (AI)",
       "domain": "twitter.com",
@@ -177,7 +188,7 @@ window.NEWS_DATA = {
     {
       "id": "4511b5cba202",
       "title": "AI researchers debate how close we are to recursive self-improvement",
-      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 106 # Comments: 105",
+      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 117 # Comments: 116",
       "url": "https://www.dwarkesh.com/p/john-beren-charlie",
       "source": "Hacker News (AI)",
       "domain": "dwarkesh.com",
@@ -230,8 +241,8 @@ window.NEWS_DATA = {
       "published": "2026-09-11T20:30:17+00:00"
     },
     {
-      "id": "75673d0d10fa",
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "id": "097b4cc74f67",
+      "title": "Roundtables: Could AI really kill us all?",
       "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huc…",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Tech Review AI",
@@ -287,7 +298,7 @@ window.NEWS_DATA = {
     {
       "id": "71af6d16ebb6",
       "title": "A misalignment of AI in mathematics",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 939 # Comments: 901",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 1198 # Comments: 1177",
       "url": "https://mathandai.org/",
       "source": "Hacker News (AI)",
       "domain": "mathandai.org",
@@ -298,24 +309,13 @@ window.NEWS_DATA = {
     {
       "id": "f92e069ffa9b",
       "title": "A Misalignment of AI in Mathematics",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49662116 Points: 145 # Comments: 10",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49662116 Points: 149 # Comments: 10",
       "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
       "source": "Hacker News (AI)",
       "domain": "terrytao.wordpress.com",
       "category": "Community",
       "image": "",
       "published": "2026-09-11T17:30:26+00:00"
-    },
-    {
-      "id": "575abb6d5d7e",
-      "title": "Feeling Sad about AI",
-      "summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 172 # Comments: 282",
-      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-      "source": "Hacker News (AI)",
-      "domain": "artificialworlds.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-11T16:50:51+00:00"
     },
     {
       "id": "1afef41f5032",
@@ -329,17 +329,6 @@ window.NEWS_DATA = {
       "published": "2026-09-11T16:46:25+00:00"
     },
     {
-      "id": "1fb617746cf6",
-      "title": "Show HN: Hacker News, Without AI",
-      "summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 186 # Comments: 79",
-      "url": "https://www.unslop.news/",
-      "source": "Hacker News (AI)",
-      "domain": "unslop.news",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-11T16:08:50+00:00"
-    },
-    {
       "id": "6804b131c3f2",
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
@@ -349,28 +338,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-09-11T16:00:00+00:00"
-    },
-    {
-      "id": "a9b46cb476a7",
-      "title": "Hacker News with reduced priority for AI driven content",
-      "summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 119 # Comments: 54",
-      "url": "https://sprinklz.io/public/pdwt4dve5uai",
-      "source": "Hacker News (AI)",
-      "domain": "sprinklz.io",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-11T15:52:49+00:00"
-    },
-    {
-      "id": "b67a134b17b1",
-      "title": "Show HN: Hacker News, without AI",
-      "summary": "Article URL: https://hcker.news/?ai=exclude Comments URL: https://news.ycombinator.com/item?id=49659647 Points: 190 # Comments: 85",
-      "url": "https://hcker.news/?ai=exclude",
-      "source": "Hacker News (AI)",
-      "domain": "hcker.news",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-11T15:01:19+00:00"
     },
     {
       "id": "694903eb878d",
@@ -384,17 +351,6 @@ window.NEWS_DATA = {
       "published": "2026-09-11T15:00:00+00:00"
     },
     {
-      "id": "06b106aa1659",
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part. I noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would p…",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "source": "Hacker News (AI)",
-      "domain": "news.ycombinator.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-11T13:11:04+00:00"
-    },
-    {
       "id": "f607528815de",
       "title": "Claude users found ways around safeguards for bioweapons research",
       "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
@@ -404,28 +360,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
       "published": "2026-09-11T13:02:35+00:00"
-    },
-    {
-      "id": "a12b05a9584e",
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 324 # Comments: 298",
-      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "source": "Hacker News (AI)",
-      "domain": "researchagenda.news",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-11T11:17:50+00:00"
-    },
-    {
-      "id": "16ded2306e86",
-      "title": "Resist \"AI\"",
-      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 65 # Comments: 179",
-      "url": "https://ronjeffries.com/articles/-v026/x/t/",
-      "source": "Hacker News (AI)",
-      "domain": "ronjeffries.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-11T10:19:59+00:00"
     },
     {
       "id": "2030be60881e",
@@ -448,17 +382,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-09-11T09:00:00+00:00"
-    },
-    {
-      "id": "e3118d305ddd",
-      "title": "GPT‑Live‑1 in the API",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 54 # Comments: 55",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-      "source": "Hacker News (AI)",
-      "domain": "openai.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-11T05:45:19+00:00"
     },
     {
       "id": "3eaa2f9dcc97",
@@ -492,28 +415,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-09-10T21:35:00+00:00"
-    },
-    {
-      "id": "9e35d9b4210e",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-10T20:59:51+00:00"
-    },
-    {
-      "id": "99a902222e5f",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-10T20:57:30+00:00"
     },
     {
       "id": "b6dfb035c0c5",
@@ -670,17 +571,6 @@ window.NEWS_DATA = {
       "published": "2026-09-09T22:11:55+00:00"
     },
     {
-      "id": "e72042fdbb03",
-      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-      "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
-      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-09T21:15:27+00:00"
-    },
-    {
       "id": "0fa7b69ee73b",
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
       "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
@@ -690,17 +580,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg",
       "published": "2026-09-09T20:06:28+00:00"
-    },
-    {
-      "id": "0e1d93d90d5a",
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
-      "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-09T18:30:00+00:00"
     },
     {
       "id": "e1740f031afa",
@@ -888,17 +767,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
       "published": "2026-09-07T11:00:03+00:00"
-    },
-    {
-      "id": "d7c2bcb27293",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-      "published": "2026-09-04T22:17:36+00:00"
     },
     {
       "id": "4c4801ea957e",
