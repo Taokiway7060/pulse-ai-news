@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-09-17T11:26:32.644782+00:00",
-  "count": 109,
+  "generated_at": "2026-09-18T10:59:31.201059+00:00",
+  "count": 107,
   "categories": [
     "Community",
     "Industry",
@@ -10,9 +10,625 @@ window.NEWS_DATA = {
   ],
   "items": [
     {
-      "id": "916d59096f34",
-      "title": "AI Safety Is Mostly a Sex Cult",
-      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 120 # Comments: 82",
+      "id": "c86a7463116e",
+      "title": "The Leftist Split Over AI Doom",
+      "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-18T10:15:00+00:00"
+    },
+    {
+      "id": "e91557df5aff",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 85 # Comments: 36",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "Hacker News (AI)",
+      "domain": "techcrunch.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-18T09:45:07+00:00"
+    },
+    {
+      "id": "c9bc0b8fdcc2",
+      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+      "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-18T09:15:00+00:00"
+    },
+    {
+      "id": "a326b0d6214c",
+      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-18T09:00:00+00:00"
+    },
+    {
+      "id": "1341a1bcb3ad",
+      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "summary": "arXiv:2609.19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property determines constant-stepsize sampled dynamics. We construct an ergodic two-state counterexample in which the ETD mean map co…",
+      "url": "https://arxiv.org/abs/2609.19170",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "44301cfe5f0d",
+      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "summary": "arXiv:2609.19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require grounding observed data in source evidence, interpreting it through a quantitative physics model, and linking it to a bi…",
+      "url": "https://arxiv.org/abs/2609.19180",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "7f090fc262ce",
+      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what res…",
+      "url": "https://arxiv.org/abs/2609.19182",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "991c9c9f9119",
+      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "summary": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, bu…",
+      "url": "https://arxiv.org/abs/2609.19203",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "24ef6942aeb1",
+      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+      "summary": "arXiv:2609.19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to study rigorously under controlled settings. Existing studies therefore rely on simplifications such as approximately lin…",
+      "url": "https://arxiv.org/abs/2609.19212",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "4906e3249e6b",
+      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "summary": "arXiv:2609.19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-…",
+      "url": "https://arxiv.org/abs/2609.19244",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "8689576852b1",
+      "title": "Do AI Agents Understand Computer Architecture?",
+      "summary": "arXiv:2609.19387v1 Announce Type: new Abstract: Agents are increasingly asked to design hardware, and increasingly reported to succeed. Such reports establish that a design improved; they cannot establish why. An agent that improves an accelerator may be reasoning about the machine, or may be searching competently ove…",
+      "url": "https://arxiv.org/abs/2609.19387",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "a58a71b81fe0",
+      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+      "summary": "arXiv:2609.19391v1 Announce Type: new Abstract: LLM coding agents now generate complex programs at a scale that makes thorough human review increasingly difficult, raising the risk of safety and security failures. Common approaches, including fuzz testing, static analysis, and LLM-as-a-Verifier, can detect many failur…",
+      "url": "https://arxiv.org/abs/2609.19391",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "4a6bdee920ab",
+      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+      "summary": "arXiv:2609.19425v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call tools that do not exist and pass arguments no schema declares. Existing defenses either pick the right tool (selection) or constrain what an agen…",
+      "url": "https://arxiv.org/abs/2609.19425",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "2b86d50e0418",
+      "title": "The syntax and semantics of goals",
+      "summary": "arXiv:2609.19448v1 Announce Type: new Abstract: In both cognitive science and computer science, goals are conceptualized as cognitive states that flexibly combine with world knowledge to organize and specify purposeful behavior. In this way, goals are compositional representations whose content relates to rational beh…",
+      "url": "https://arxiv.org/abs/2609.19448",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "d21ca0b6dc5f",
+      "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
+      "summary": "arXiv:2609.19465v1 Announce Type: new Abstract: Compositional reasoning is critical for real-world problem solving: since training data is necessarily limited, models must generalize by composing learned skills in new ways. While post-training methods such as reinforcement learning (RL) have substantially improved the…",
+      "url": "https://arxiv.org/abs/2609.19465",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "459b697fa852",
+      "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
+      "summary": "arXiv:2609.19472v1 Announce Type: new Abstract: Autonomous systems increasingly rely on Large Language Models (LLMs) yet the safety infrastructure surrounding these models introduces latency and compute overhead. This limits utility in resource-constrained, time-critical deployments. Existing external guardrail models…",
+      "url": "https://arxiv.org/abs/2609.19472",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "911830a28042",
+      "title": "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment",
+      "summary": "arXiv:2609.19209v1 Announce Type: new Abstract: Generative query suggestion aims to enhance user engagement by anticipating user intents and recommending relevant follow-up queries. A central challenge is to generate slates whose individual queries are useful while the slate covers distinct intents. We propose an Inte…",
+      "url": "https://arxiv.org/abs/2609.19209",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "0775f7b44b62",
+      "title": "Layer-wise Curriculum Learning for Efficient LLM Compression",
+      "summary": "arXiv:2609.19213v1 Announce Type: new Abstract: In this paper, we introduce layer-wise curriculum learning for efficient LLM compression. The proposed method facilitates the knowledge transfer from the teacher model to the student model, utilizing a curriculum learning approach that begins with easier optimization tas…",
+      "url": "https://arxiv.org/abs/2609.19213",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "3d5c7932ed85",
+      "title": "Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training",
+      "summary": "arXiv:2609.19242v1 Announce Type: new Abstract: Block diffusion language models (BDLMs) combine autoregressive dependencies across blocks with parallel denoising within blocks, but long-context training is constrained by distributed attention communication and activation memory. Conventional context parallelism (CP) s…",
+      "url": "https://arxiv.org/abs/2609.19242",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "46bb57bb8903",
+      "title": "Randomized SVD Approximations for Spectral Co-Clustering of Word-Document Matrices",
+      "summary": "arXiv:2609.19243v1 Announce Type: new Abstract: Spectral co-clustering is a useful tool for discovering latent structure in word-document matrices, but its reliance on singular value decomposition (SVD) can make standard formulations expensive on high-dimensional data. This paper presents two randomized approximations…",
+      "url": "https://arxiv.org/abs/2609.19243",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "b0c936d5e047",
+      "title": "Radio-Frequency Convolutional Neural Networks",
+      "summary": "arXiv:2609.19279v1 Announce Type: new Abstract: Running artificial intelligence (AI) models directly on edge devices such as smartphones, wearables, and drones offers low latency, pervasive scalability, and data privacy, but these devices rarely carry the computing capability that modern neural networks demand. Edge a…",
+      "url": "https://arxiv.org/abs/2609.19279",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "f619d4124cb1",
+      "title": "Learning-Induced Dynamical Transition in Recurrent Neural Networks",
+      "summary": "arXiv:2609.19288v1 Announce Type: new Abstract: Learning in recurrent neural networks can fundamentally reshape their underlying dynamics, transforming initially chaotic activity into stable task-dependent behavior. We develop a non-equilibrium dynamical mean-field theory(DMFT) to describe this transition during learn…",
+      "url": "https://arxiv.org/abs/2609.19288",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "a723c8ebd7ff",
+      "title": "Personalized Federated Hierarchical Gaussian Processes for Privacy-Preserving Modeling of Heterogeneous Distributed Systems",
+      "summary": "arXiv:2609.19337v1 Announce Type: new Abstract: We present Personalized Federated Hierarchical Gaussian Processes (pFedHGP) for probabilistic regression and classification when data are distributed across heterogeneous clients. Each client's latent function decomposes into (i) a shared global component, (ii) a client-…",
+      "url": "https://arxiv.org/abs/2609.19337",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "9224899c4fb5",
+      "title": "How to Guide Your Language Flow",
+      "summary": "arXiv:2609.19356v1 Announce Type: new Abstract: We introduce a new method to guide flow matching models. Our approach, which we call probe guidance, uses the frozen internal states of an existing diffusion model to construct a guidance signal. This works using a similar principle as autoguidance, but eliminates the ne…",
+      "url": "https://arxiv.org/abs/2609.19356",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "0b5e3c2fb086",
+      "title": "Smart Insole Human Activity Recognition for Continuous Monitoring in Elderly Care",
+      "summary": "arXiv:2609.19359v1 Announce Type: new Abstract: Falls in older adults are often preceded by changes in mobility, balance, and postural transitions. This paper presents a wireless smart insole platform and machine-learning workflow for recognizing sitting, standing, walking, and unstable walking from plantar-pressure a…",
+      "url": "https://arxiv.org/abs/2609.19359",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "8e69ff0a727a",
+      "title": "Stiefel Attention: When the Geometry of Transformer Projection Matrices Dominates Optimizer Choice---and When It Does Not",
+      "summary": "arXiv:2609.19363v1 Announce Type: new Abstract: The query and key projections $\\WQ,\\WK$ in attention are almost always trained by Euclidean optimizers with no constraint on their geometry. We constrain them to the Stiefel manifold and optimize them there with a Riemannian Adam that carries one scalar second moment per…",
+      "url": "https://arxiv.org/abs/2609.19363",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "6d6bbfcfbdcc",
+      "title": "Machine-Learning Assessment of the Predictive Value of Inflammatory Biomarkers for Cognitive Impairment in an Older Hispanic Adult Cohort",
+      "summary": "arXiv:2609.19374v1 Announce Type: new Abstract: Small clinical tabular datasets require interpretable machine learning because deep learning is often impractical and ensemble models can be difficult to inspect. A key pitfall is that statistical significance does not necessarily imply predictive utility. Using data fro…",
+      "url": "https://arxiv.org/abs/2609.19374",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "53c8f0c07e06",
+      "title": "FCx: An algorithm for finding Feasible Counterfactual Explanations",
+      "summary": "arXiv:2609.19383v1 Announce Type: new Abstract: Counterfactual (CF) explanations identify changes that alter an input's classification. While existing methods produce realistic and low-cost CFs, they often fail to ensure feasibility, by suggesting non-constructive modifications or incompatible with future changes (e.g…",
+      "url": "https://arxiv.org/abs/2609.19383",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "ff39f878d461",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T23:25:52+00:00"
+    },
+    {
+      "id": "cc9efb0920e2",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T23:21:17+00:00"
+    },
+    {
+      "id": "493cf4f09503",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T22:34:09+00:00"
+    },
+    {
+      "id": "e08a291c196e",
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T22:20:21+00:00"
+    },
+    {
+      "id": "34273bd40874",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T22:14:59+00:00"
+    },
+    {
+      "id": "8943d0aa65b3",
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png",
+      "published": "2026-09-17T22:12:58+00:00"
+    },
+    {
+      "id": "2f157451420c",
+      "title": "How to Write with an LLM",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 181 # Comments: 109",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "source": "Hacker News (AI)",
+      "domain": "sockpuppet.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-17T21:48:38+00:00"
+    },
+    {
+      "id": "3be281991ba5",
+      "title": "Sex, AI, and the Apocalypse",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 210 # Comments: 207",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "source": "Hacker News (AI)",
+      "domain": "iankduncan.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-17T21:15:52+00:00"
+    },
+    {
+      "id": "d883c9add744",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 485 # Comments: 228",
+      "url": "https://bend-lang.com/",
+      "source": "Hacker News (AI)",
+      "domain": "bend-lang.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-17T20:36:13+00:00"
+    },
+    {
+      "id": "451bd46786e2",
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T20:34:47+00:00"
+    },
+    {
+      "id": "23a06d2dd0a4",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T20:34:24+00:00"
+    },
+    {
+      "id": "46d9092684d3",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png",
+      "published": "2026-09-17T20:24:34+00:00"
+    },
+    {
+      "id": "46d81aa0cc27",
+      "title": "Is the AI safety debate about safety or control?",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T20:19:37+00:00"
+    },
+    {
+      "id": "d51d9220ec1a",
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-1152x648.jpg",
+      "published": "2026-09-17T20:10:41+00:00"
+    },
+    {
+      "id": "7af30ee9fcb2",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T20:00:00+00:00"
+    },
+    {
+      "id": "1b20898089b9",
+      "title": "Making global data easier to explore",
+      "summary": "UN System Data Commons Data webpage",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI",
+      "domain": "blog.google",
+      "category": "Labs",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
+      "published": "2026-09-17T20:00:00+00:00"
+    },
+    {
+      "id": "02718d5ad96f",
+      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+      "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T19:58:28+00:00"
+    },
+    {
+      "id": "31f76800d1ef",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T19:46:08+00:00"
+    },
+    {
+      "id": "828d938c4b70",
+      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T18:42:25+00:00"
+    },
+    {
+      "id": "2e37039b1be7",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
+      "published": "2026-09-17T18:33:13+00:00"
+    },
+    {
+      "id": "a99e45b849ad",
+      "title": "Even the king of England has his hesitations about AI",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T17:26:25+00:00"
+    },
+    {
+      "id": "20011e9b5b66",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T17:15:59+00:00"
+    },
+    {
+      "id": "332a1a0ba114",
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-17T17:15:00+00:00"
+    },
+    {
+      "id": "033ff7033af9",
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "summary": "Hey HN, we're Nars & Nishant, founders of Skillsync ( https://skillsync.com ) Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats. This is annoying be…",
+      "url": "https://news.ycombinator.com/item?id=49743049",
+      "source": "Hacker News (AI)",
+      "domain": "news.ycombinator.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-17T16:22:15+00:00"
+    },
+    {
+      "id": "2184a1568cbc",
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "summary": "Model maker commits to new framework for reporting misaligned models.",
+      "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-875641-001-1152x648.jpg",
+      "published": "2026-09-17T16:18:34+00:00"
+    },
+    {
+      "id": "a78a6d82fa73",
+      "title": "LLM Classification Is Feature Engineering",
+      "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Points: 103 # Comments: 20",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "source": "Hacker News (AI)",
+      "domain": "minimallysufficient.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-17T15:40:17+00:00"
+    },
+    {
+      "id": "b5d9be3287d6",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a dedicated space to s…",
+      "url": "https://mysetup.ai/",
+      "source": "Hacker News (AI)",
+      "domain": "mysetup.ai",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-17T13:01:44+00:00"
+    },
+    {
+      "id": "aabab6d8e6c3",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-09-17T12:00:00+00:00"
+    },
+    {
+      "id": "92f315a1bbda",
+      "title": "AI safety is mostly a sex cult",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 295 # Comments: 246",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "source": "Hacker News (AI)",
       "domain": "skywriter.blue",
@@ -21,317 +637,20 @@ window.NEWS_DATA = {
       "published": "2026-09-17T08:36:37+00:00"
     },
     {
-      "id": "97ce139200de",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
+      "id": "735ea3d745b9",
+      "title": "Introducing Astra for Law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
       "image": "",
-      "published": "2026-09-17T05:00:00+00:00"
-    },
-    {
-      "id": "ee85724f1b48",
-      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-      "summary": "arXiv:2609.17631v1 Announce Type: new Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states. Provenance, attestation, and transparency expose history but alone do not specify the publication transition examined…",
-      "url": "https://arxiv.org/abs/2609.17631",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "c9541b8eac6b",
-      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-      "summary": "arXiv:2609.17632v1 Announce Type: new Abstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how they gather evidence…",
-      "url": "https://arxiv.org/abs/2609.17632",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "d08bc289f6d3",
-      "title": "One Color Preprocessing Improves DSATUR",
-      "summary": "arXiv:2609.17633v1 Announce Type: new Abstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing colorings that typically use more colors than state-of-the-art coloring algorithms. We propose SSLD (Semidefinite Spectral Learning with DSATUR), which…",
-      "url": "https://arxiv.org/abs/2609.17633",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "9642a8cf804f",
-      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
-      "summary": "arXiv:2609.17635v1 Announce Type: new Abstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stream as ground truth. We study what happens when it is not. We formalise stealthy false data injection for cit…",
-      "url": "https://arxiv.org/abs/2609.17635",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "2a58a590758b",
-      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-      "summary": "arXiv:2609.17637v1 Announce Type: new Abstract: Restricting what a module can read may improve what a system learns to compute. We test this in a preregistered confirmation with sixty four-cell systems sharing a frozen language-model backbone and communicating through learned continuous packets. Five conditions vary e…",
-      "url": "https://arxiv.org/abs/2609.17637",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "85b0313b2cf5",
-      "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
-      "summary": "arXiv:2609.17688v1 Announce Type: new Abstract: Wearable assistants require episodic memory over egocentric video, yet current vision-language models face bounded frame budgets, growing visual-token costs, and long-context retrieval failures. Under these practical constraints, we study whether textual captions can ser…",
-      "url": "https://arxiv.org/abs/2609.17688",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "37514386d191",
-      "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
-      "summary": "arXiv:2609.17695v1 Announce Type: new Abstract: A large language model (LLM) agent can follow more graph paths without acquiring more independent evidence. GraphEcho tests whether agents mistake these repeated encounters for additional corroboration. The benchmark varies path counts and evidential origins while holdin…",
-      "url": "https://arxiv.org/abs/2609.17695",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "8a4585ebeebb",
-      "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
-      "summary": "arXiv:2609.17696v1 Announce Type: new Abstract: Document repositories evolve continuously. Guidelines and policies are revised, superseded, and re-uploaded, so the same content recurs in different wording and newer versions refine or contradict earlier ones. These inconsistencies belong to the growing collection rathe…",
-      "url": "https://arxiv.org/abs/2609.17696",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "102c6526da14",
-      "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
-      "summary": "arXiv:2609.17699v1 Announce Type: new Abstract: We present NeMo Data Designer (NDD), an open-source, general-purpose framework for multi-modal synthetic data generation (SDG). Designed to be intuitive to use, NDD provides a declarative configuration format in which human and/or agent users define each dataset column,…",
-      "url": "https://arxiv.org/abs/2609.17699",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "43ccf2a19819",
-      "title": "A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products",
-      "summary": "arXiv:2609.17731v1 Announce Type: new Abstract: High-resolution land use and land cover (LULC) products derived from Sentinel-2 imagery are widely used for environmental monitoring and land management, yet their performance can vary across regions with complex ecological gradients and heterogeneous surface conditions.…",
-      "url": "https://arxiv.org/abs/2609.17731",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "0e77f7c352be",
-      "title": "Imitation Learning for Autonomous Driving in CARLA",
-      "summary": "arXiv:2609.17757v1 Announce Type: new Abstract: Behavioral cloning trains a policy offline on expert demonstrations, but deployment is closed loop: each action affects the observations the policy receives next. We study how much closed-loop driving competence a compact multimodal policy can acquire from offline demons…",
-      "url": "https://arxiv.org/abs/2609.17757",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "3480011e854d",
-      "title": "SAGE: Governed Artifact Generation from Enterprise Guidelines",
-      "summary": "arXiv:2609.17775v1 Announce Type: new Abstract: Enterprise guideline documents mix narrative text, complex tables, and embedded images, and converting them into structured work artifacts still takes two to three days of manual effort each. Current language and vision-language models extract from such documents but off…",
-      "url": "https://arxiv.org/abs/2609.17775",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "ef079e100162",
-      "title": "Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds",
-      "summary": "arXiv:2609.17560v1 Announce Type: new Abstract: Every production model is updated, by retraining, fine-tuning, quantization, or a silent vendor swap, and each update risks being worse than what it replaced. We formalize update promotion as certified paired risk-difference auditing. Our starting point is a support iden…",
-      "url": "https://arxiv.org/abs/2609.17560",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "039c18c887b2",
-      "title": "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs",
-      "summary": "arXiv:2609.17564v1 Announce Type: new Abstract: Deploying retrieval-augmented generation (RAG) on commodity GPUs such as the NVIDIA T4 (16 GB VRAM) exposes a practical failure mode we call the Compression Paradox: neural prompt compression can add key-value (KV) cache contention and preprocessing latency that outweigh…",
-      "url": "https://arxiv.org/abs/2609.17564",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "a7fa46eec4c4",
-      "title": "Where Grokking Happens: Distributed Utility and Fourier Recoding Without a Module Switch",
-      "summary": "arXiv:2609.17571v1 Announce Type: new Abstract: Where in a Transformer is the change from memorization to generalization functionally expressed? We introduce Transition Games--behavior-aligned exact activation games with paired non-generalizing controls--and find distributed utility gain with a prospective block-0 att…",
-      "url": "https://arxiv.org/abs/2609.17571",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "31dee4be157a",
-      "title": "Disentangling Algorithmic Bias from Archival Artifacts: A Controlled Audit of Vision-Language Model Valuation in Metropolitan Museum Archives",
-      "summary": "arXiv:2609.17572v1 Announce Type: new Abstract: Auditing vision-language models (VLMs) for societal bias requires distinguishing direct algorithmic valuation disparities from confounders embedded within archival metadata. In this study, we audit Contrastive Language-Image Pretraining (CLIP) models using historical art…",
-      "url": "https://arxiv.org/abs/2609.17572",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "a1d21c16c093",
-      "title": "Temperon: Full-Time SAM Quality at a Third Less Wall-Clock",
-      "summary": "arXiv:2609.17575v1 Announce Type: new Abstract: Sharpness-aware minimization (SAM) doubles the cost of every training step, yet its benefit concentrates where training ends. We study where an expensive training mode should be spent and propose Temperon: a plain-SGD explorer for the first 43% of the epoch budget, then…",
-      "url": "https://arxiv.org/abs/2609.17575",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "7b1df33a18e3",
-      "title": "When the Gradient Sees Rank: Provable Necessity, Causal Recruitment, and Composition in Trained Matrix Memories",
-      "summary": "arXiv:2609.17594v1 Announce Type: new Abstract: Can gradient-based training learn the rank needed to store and compose associations in a matrix memory? In our earlier study, we used a matrix-augmented reasoner on a task that admits a rank-1 solution, leaving this question open. We train matrix memories on $K$ fresh ke…",
-      "url": "https://arxiv.org/abs/2609.17594",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "ee0e7b2e6c1b",
-      "title": "Prior-Free Competitive Ratios for Improving Bandits: Scale, Curvature and Horizon Are Free, but Not Jointly Under Noise",
-      "summary": "arXiv:2609.17595v1 Announce Type: new Abstract: In the improving multi-armed bandits problem, each of $k$ arms has an unknown nondecreasing, discretely concave reward curve $f_i$, and pulling arm $i$ for the $t$-th time yields $f_i(t)$. For sufficiently long horizons, Blum and Ravichandran (ALT 2025) proved that rando…",
-      "url": "https://arxiv.org/abs/2609.17595",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "48cec3764c76",
-      "title": "Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications",
-      "summary": "arXiv:2609.17638v1 Announce Type: new Abstract: This is the set of lecture notes for the PhD course \\href{https://www.unibz.it/en/faculties/engineering/phd-computer-science/study-course-offering/2025/36967}{\\textit{Physics Informed Neural Network}, held at the University of Bozen/Bolzano} in the academic year 2025/202…",
-      "url": "https://arxiv.org/abs/2609.17638",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "19800b845f7f",
-      "title": "Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches",
-      "summary": "arXiv:2609.17652v1 Announce Type: new Abstract: When agentic sessions run to a million tokens with many sessions resident at once, the KV cache and the index that ranks it live in host memory, and the scan that ranks all n keys for a top-k step becomes the traffic that bounds decoding. We present Fathom, a key scan in…",
-      "url": "https://arxiv.org/abs/2609.17652",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "881e02f58a82",
-      "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
-      "summary": "arXiv:2609.17653v1 Announce Type: new Abstract: GUI agents execute long-horizon tasks on dynamic graphical user interfaces, where pop-ups, delayed loads, and relocated widgets routinely invalidate plans fixed before execution. Recent agent-skill frameworks encapsulate reusable procedural knowledge to mitigate this, ye…",
-      "url": "https://arxiv.org/abs/2609.17653",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "395e15f272b4",
-      "title": "Regularized Least Squares Training of Quadratic Neural Networks with Applications to System Identification",
-      "summary": "arXiv:2609.17654v1 Announce Type: new Abstract: This paper proposes a least squares approach for the training of quadratic neural networks with regularization. The proposed methodology yields a lower bound on the solution of the training optimization problem for the case where the regularization coefficient is positiv…",
-      "url": "https://arxiv.org/abs/2609.17654",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "c497fda68e25",
-      "title": "DSD: Learning Diverse and Reusable Motor Skills via Diffusion Skill Discovery",
-      "summary": "arXiv:2609.17682v1 Announce Type: new Abstract: Humans efficiently learn new tasks by reusing a rich repertoire of motor skills across different goals and contexts. A similar strategy can also be used to enable simulated characters to efficiently perform new tasks by leveraging reusable motor skills. To support a wide…",
-      "url": "https://arxiv.org/abs/2609.17682",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-      "id": "5e308402015b",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-17T03:30:00+00:00"
-    },
-    {
-      "id": "89dd231d340b",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-17T00:58:49+00:00"
-    },
-    {
-      "id": "bf2f1641244c",
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-16T23:43:09+00:00"
+      "published": "2026-09-17T00:00:00+00:00"
     },
     {
       "id": "d6810b1618a0",
       "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 144 # Comments: 65",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 195 # Comments: 98",
       "url": "https://openspec.dev/",
       "source": "Hacker News (AI)",
       "domain": "openspec.dev",
@@ -340,8 +659,8 @@ window.NEWS_DATA = {
       "published": "2026-09-16T23:06:39+00:00"
     },
     {
-      "id": "3a1c1aaa1c52",
-      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "id": "01094fb8dd32",
+      "title": "An OpenAI Agent Tried to Jailbreak Itself",
       "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
       "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
       "source": "Wired AI",
@@ -362,17 +681,6 @@ window.NEWS_DATA = {
       "published": "2026-09-16T22:02:46+00:00"
     },
     {
-      "id": "f411c6eeef68",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-16T21:07:24+00:00"
-    },
-    {
       "id": "9d408fa66c28",
       "title": "Washington Won’t Be Regulating AI Anytime Soon",
       "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
@@ -382,17 +690,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-09-16T21:00:00+00:00"
-    },
-    {
-      "id": "6a118fc2b19b",
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-16T20:12:00+00:00"
     },
     {
       "id": "7670f0b2b654",
@@ -408,35 +705,13 @@ window.NEWS_DATA = {
     {
       "id": "2d061b4da713",
       "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 74 # Comments: 280",
+      "summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 309",
       "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
       "source": "Hacker News (AI)",
       "domain": "businessinsider.com",
       "category": "Community",
       "image": "",
       "published": "2026-09-16T18:59:42+00:00"
-    },
-    {
-      "id": "b83a2908166e",
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-16T18:25:25+00:00"
-    },
-    {
-      "id": "175a3a9c671b",
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-16T17:00:00+00:00"
     },
     {
       "id": "c1ba3c98302f",
@@ -450,17 +725,6 @@ window.NEWS_DATA = {
       "published": "2026-09-16T17:00:00+00:00"
     },
     {
-      "id": "d40a1003bf4c",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-16T16:30:00+00:00"
-    },
-    {
       "id": "00c406317c86",
       "title": "Helping older adults use AI in everyday life",
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -472,42 +736,9 @@ window.NEWS_DATA = {
       "published": "2026-09-16T16:00:00+00:00"
     },
     {
-      "id": "d402a94cfa1c",
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-16T15:00:00+00:00"
-    },
-    {
-      "id": "ec8f403f3766",
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-16T14:24:58+00:00"
-    },
-    {
-      "id": "ba8253a17db3",
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
-      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-16T14:15:00+00:00"
-    },
-    {
       "id": "2a4281bf8da3",
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 74 # Comments: 44",
+      "summary": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 79 # Comments: 47",
       "url": "https://stale.jock.pl/",
       "source": "Hacker News (AI)",
       "domain": "stale.jock.pl",
@@ -573,24 +804,13 @@ window.NEWS_DATA = {
     {
       "id": "77cd7b30a4ca",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 566 # Comments: 195",
+      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 582 # Comments: 204",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "source": "Hacker News (AI)",
       "domain": "mistral.ai",
       "category": "Community",
       "image": "",
       "published": "2026-09-16T08:08:57+00:00"
-    },
-    {
-      "id": "a65ae4fe5a45",
-      "title": "Stay discoverable in search while disallowing AI training",
-      "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 84 # Comments: 49",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "source": "Hacker News (AI)",
-      "domain": "blog.cloudflare.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-16T02:25:18+00:00"
     },
     {
       "id": "e89d80500e20",
@@ -602,17 +822,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Agility_Digit5_04-1152x648.png",
       "published": "2026-09-15T18:33:02+00:00"
-    },
-    {
-      "id": "6452bbca9a86",
-      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-15T18:00:09+00:00"
     },
     {
       "id": "f96e75a1d968",
@@ -635,17 +844,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-09-15T17:05:57+00:00"
-    },
-    {
-      "id": "a6642b77dead",
-      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49715113 Points: 229 # Comments: 168",
-      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-      "source": "Hacker News (AI)",
-      "domain": "404media.co",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-15T16:38:45+00:00"
     },
     {
       "id": "3bd1b4d459fc",
@@ -692,50 +890,6 @@ window.NEWS_DATA = {
       "published": "2026-09-15T16:00:00+00:00"
     },
     {
-      "id": "cab10c37b5c2",
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 114 # Comments: 79",
-      "url": "https://www.formas.ai/cartesian",
-      "source": "Hacker News (AI)",
-      "domain": "formas.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-15T15:26:45+00:00"
-    },
-    {
-      "id": "4e444ee5297d",
-      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "summary": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-lice…",
-      "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-15T15:20:26+00:00"
-    },
-    {
-      "id": "938f04035976",
-      "title": "AI is breaking our proxies for expertise",
-      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49712416 Points: 92 # Comments: 77",
-      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-      "source": "Hacker News (AI)",
-      "domain": "seangoedecke.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-15T13:41:55+00:00"
-    },
-    {
-      "id": "7dd2bd488640",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o Comments URL: https://news.ycombinator.com/item?id=49712409 Points: 64 # Comments: 129",
-      "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
-      "source": "Hacker News (AI)",
-      "domain": "bbc.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-15T13:41:28+00:00"
-    },
-    {
       "id": "26dca952bdbf",
       "title": "New insights from Google’s AI & Economy ATLAS",
       "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
@@ -767,17 +921,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-09-15T10:00:00+00:00"
-    },
-    {
-      "id": "e0c80cd37678",
-      "title": "How much of F-Droid is LLM generated?",
-      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 144 # Comments: 180",
-      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-      "source": "Hacker News (AI)",
-      "domain": "tintotint.eu",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-15T09:47:48+00:00"
     },
     {
       "id": "d68aa95333e6",
@@ -824,17 +967,6 @@ window.NEWS_DATA = {
       "published": "2026-09-14T19:28:42+00:00"
     },
     {
-      "id": "803c0472e9a6",
-      "title": "AI leaders want to hit the brakes after years of reckless speed",
-      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
-      "published": "2026-09-14T19:06:13+00:00"
-    },
-    {
       "id": "4a9b75371800",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
@@ -855,17 +987,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-09-14T17:54:22+00:00"
-    },
-    {
-      "id": "643ee3e30d15",
-      "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
-      "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
-      "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-14T16:50:00+00:00"
     },
     {
       "id": "9d3daca14bef",
@@ -901,39 +1022,6 @@ window.NEWS_DATA = {
       "published": "2026-09-14T12:00:00+00:00"
     },
     {
-      "id": "0f1ae26b7e14",
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-14T11:00:00+00:00"
-    },
-    {
-      "id": "eb5b6e0f30bf",
-      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-      "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
-      "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-14T11:00:00+00:00"
-    },
-    {
-      "id": "b97e27064342",
-      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
-      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-14T09:00:00+00:00"
-    },
-    {
       "id": "f126fe00b984",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -943,39 +1031,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-09-14T00:00:00+00:00"
-    },
-    {
-      "id": "1795d96229d9",
-      "title": "AI Agents Are Thirsty for Power",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-13T10:00:00+00:00"
-    },
-    {
-      "id": "56f1d62107c3",
-      "title": "I spent $4,000 on a robot dog from China",
-      "summary": "Unitree might be the world’s most important robotics company.",
-      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
-      "published": "2026-09-12T11:00:53+00:00"
-    },
-    {
-      "id": "6b10ba084596",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
-      "published": "2026-09-11T19:34:09+00:00"
     },
     {
       "id": "6804b131c3f2",
@@ -989,17 +1044,6 @@ window.NEWS_DATA = {
       "published": "2026-09-11T16:00:00+00:00"
     },
     {
-      "id": "f607528815de",
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-      "published": "2026-09-11T13:02:35+00:00"
-    },
-    {
       "id": "2030be60881e",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
@@ -1009,17 +1053,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-09-11T10:00:00+00:00"
-    },
-    {
-      "id": "4855502621b0",
-      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-      "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
-      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2271644469-1024x648.jpg",
-      "published": "2026-09-10T18:14:14+00:00"
     },
     {
       "id": "f58e1aaabe3c",
@@ -1044,17 +1077,6 @@ window.NEWS_DATA = {
       "published": "2026-09-10T16:00:00+00:00"
     },
     {
-      "id": "8535b63b1205",
-      "title": "Now everyone can put data to work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-09-10T15:00:00+00:00"
-    },
-    {
       "id": "2bd183778dd2",
       "title": "Powering AI is an architecture problem",
       "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts…",
@@ -1064,17 +1086,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-09-10T11:00:00+00:00"
-    },
-    {
-      "id": "01a76e22c8b4",
-      "title": "Introducing ChatGPT for Financial Services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-09-10T07:00:00+00:00"
     },
     {
       "id": "a8b96930e0a0",
@@ -1174,39 +1185,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-09-04T18:39:19+00:00"
-    },
-    {
-      "id": "52ec606f2ad4",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becom…",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-04T09:25:19+00:00"
-    },
-    {
-      "id": "0f3c9742817d",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "source": "DeepMind",
-      "domain": "deepmind.google",
-      "category": "Labs",
-      "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo",
-      "published": "2026-09-03T15:02:08+00:00"
-    },
-    {
-      "id": "601b9c156380",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-09-03T13:13:48+00:00"
     }
   ]
 };
