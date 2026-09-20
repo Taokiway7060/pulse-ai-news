@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-09-19T10:43:34.691527+00:00",
+  "generated_at": "2026-09-20T11:05:57.486189+00:00",
   "count": 85,
   "categories": [
     "Community",
@@ -9,6 +9,171 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "7ba559c642ee",
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-20T10:30:00+00:00"
+    },
+    {
+      "id": "3e2eb13d11fc",
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-20T10:30:00+00:00"
+    },
+    {
+      "id": "7fe4414fb397",
+      "title": "Can you tell which images are AI-generated?",
+      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 86 # Comments: 71",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "source": "Hacker News (AI)",
+      "domain": "slop-sense.labtoagi.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-19T23:02:34+00:00"
+    },
+    {
+      "id": "ad76eea6dd30",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-19T20:39:13+00:00"
+    },
+    {
+      "id": "afe5e6ae9ace",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-19T19:57:47+00:00"
+    },
+    {
+      "id": "15a7b7eba97c",
+      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+      "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Points: 51 # Comments: 19",
+      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "source": "Hacker News (AI)",
+      "domain": "apnews.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-19T18:36:44+00:00"
+    },
+    {
+      "id": "ebb0ca8e5725",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit Comments URL: https://news.ycomb…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": "Hacker News (AI)",
+      "domain": "tomshardware.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-19T18:21:30+00:00"
+    },
+    {
+      "id": "ee9e7b55e65a",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-19T17:30:00+00:00"
+    },
+    {
+      "id": "512cc93e0d3c",
+      "title": "I think you should almost never use AI to write",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 302 # Comments: 149",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "source": "Hacker News (AI)",
+      "domain": "erichgrunewald.substack.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-19T16:35:24+00:00"
+    },
+    {
+      "id": "435bd1253e9f",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-19T15:00:00+00:00"
+    },
+    {
+      "id": "a879f1062527",
+      "title": "AI safety conversations have gotten unbelievable",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-19T15:00:00+00:00"
+    },
+    {
+      "id": "2dcf8f96db7e",
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 71 # Comments: 42",
+      "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
+      "source": "Hacker News (AI)",
+      "domain": "bsky.app",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-19T14:36:28+00:00"
+    },
+    {
+      "id": "e12ff72bc115",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-19T14:00:00+00:00"
+    },
+    {
+      "id": "57b69beda119",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-19T13:00:00+00:00"
+    },
+    {
+      "id": "b160b200ac71",
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-19T11:00:00+00:00"
+    },
     {
       "id": "390d06c4a70e",
       "title": "Mathematicians Hate AI. They Can’t Quit It",
@@ -23,7 +188,7 @@ window.NEWS_DATA = {
     {
       "id": "16f9c0cb33bf",
       "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 75 # Comments: 43",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1600 # Comments: 851",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "source": "Hacker News (AI)",
       "domain": "john.hartnup.uk",
@@ -45,7 +210,7 @@ window.NEWS_DATA = {
     {
       "id": "35a0962e61d9",
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 123 # Comments: 61",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 383 # Comments: 174",
       "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "source": "Hacker News (AI)",
       "domain": "prinzai.com",
@@ -54,9 +219,20 @@ window.NEWS_DATA = {
       "published": "2026-09-19T06:41:44+00:00"
     },
     {
+      "id": "42dbe94acb1a",
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 53 # Comments: 6",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "source": "Hacker News (AI)",
+      "domain": "newsroom.usra.edu",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-19T04:44:35+00:00"
+    },
+    {
       "id": "b61f05c63e54",
       "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 59 # Comments: 64",
+      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 76 # Comments: 70",
       "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
       "source": "Hacker News (AI)",
       "domain": "reuters.com",
@@ -89,7 +265,7 @@ window.NEWS_DATA = {
     {
       "id": "1823cb664bdf",
       "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 124 # Comments: 16",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 148 # Comments: 21",
       "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
       "source": "Hacker News (AI)",
       "domain": "scmp.com",
@@ -131,17 +307,6 @@ window.NEWS_DATA = {
       "published": "2026-09-18T23:12:32+00:00"
     },
     {
-      "id": "ff669cef60a6",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T21:44:33+00:00"
-    },
-    {
       "id": "783c2aae66e2",
       "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
       "summary": "But the military's overall use of AI seems to be accelerating.",
@@ -151,17 +316,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
       "published": "2026-09-18T20:26:33+00:00"
-    },
-    {
-      "id": "983573567a6b",
-      "title": "World model companies are keeping a lot of secrets",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T20:18:14+00:00"
     },
     {
       "id": "ea9b462fed84",
@@ -188,46 +342,13 @@ window.NEWS_DATA = {
     {
       "id": "8df3f3392200",
       "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 70 # Comments: 28",
+      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 78 # Comments: 29",
       "url": "https://arxiv.org/abs/2609.02852",
       "source": "Hacker News (AI)",
       "domain": "arxiv.org",
       "category": "Community",
       "image": "",
       "published": "2026-09-18T19:00:06+00:00"
-    },
-    {
-      "id": "898f8a6b1d6f",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T18:49:30+00:00"
-    },
-    {
-      "id": "69ed783407d6",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T17:59:53+00:00"
-    },
-    {
-      "id": "bde0242b35b7",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T17:33:50+00:00"
     },
     {
       "id": "c0082930747a",
@@ -243,46 +364,13 @@ window.NEWS_DATA = {
     {
       "id": "c7aac94824a1",
       "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 454 # Comments: 340",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 503 # Comments: 387",
       "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "source": "Hacker News (AI)",
       "domain": "cnn.com",
       "category": "Community",
       "image": "",
       "published": "2026-09-18T17:28:01+00:00"
-    },
-    {
-      "id": "c9a36cb76e31",
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some indu…",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T17:09:56+00:00"
-    },
-    {
-      "id": "2bcadc228160",
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some indu…",
-      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T17:06:32+00:00"
-    },
-    {
-      "id": "e61c1ab1d757",
-      "title": "AI is an elite crime spree",
-      "summary": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 116 # Comments: 40",
-      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-      "source": "Hacker News (AI)",
-      "domain": "thebignewsletter.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-18T15:15:33+00:00"
     },
     {
       "id": "4a0f606db22e",
@@ -307,17 +395,6 @@ window.NEWS_DATA = {
       "published": "2026-09-18T15:00:00+00:00"
     },
     {
-      "id": "0a36e55c75b5",
-      "title": "AI Protest in Montreal",
-      "summary": "Article URL: https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/ Comments URL: https://news.ycombinator.com/item?id=49755162 Points: 52 # Comments: 84",
-      "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
-      "source": "Hacker News (AI)",
-      "domain": "montrealgazette.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-18T14:45:41+00:00"
-    },
-    {
       "id": "d596266189f8",
       "title": "New experts join Google’s AI & Economy team",
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
@@ -327,17 +404,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
       "published": "2026-09-18T14:00:00+00:00"
-    },
-    {
-      "id": "156a3bc790c8",
-      "title": "AI chatbots are becoming experts at changing people's minds",
-      "summary": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret Comments URL: https://news.ycombinator.com/item?id=49754250 Points: 107 # Comments: 97",
-      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-      "source": "Hacker News (AI)",
-      "domain": "science.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-18T13:39:27+00:00"
     },
     {
       "id": "a6cbe1cada1d",
@@ -406,50 +472,6 @@ window.NEWS_DATA = {
       "published": "2026-09-18T10:15:00+00:00"
     },
     {
-      "id": "e91557df5aff",
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 892 # Comments: 787",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "source": "Hacker News (AI)",
-      "domain": "techcrunch.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-18T09:45:07+00:00"
-    },
-    {
-      "id": "c9bc0b8fdcc2",
-      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-      "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T09:15:00+00:00"
-    },
-    {
-      "id": "a326b0d6214c",
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T09:00:00+00:00"
-    },
-    {
-      "id": "e08a291c196e",
-      "title": "Here’s What the AI Apocalypse Could Look Like",
-      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-17T22:20:21+00:00"
-    },
-    {
       "id": "8943d0aa65b3",
       "title": "Small AI models let drones autonomously identify and attack battlefield targets",
       "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
@@ -459,28 +481,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png",
       "published": "2026-09-17T22:12:58+00:00"
-    },
-    {
-      "id": "2f157451420c",
-      "title": "How to Write with an LLM",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 495 # Comments: 335",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "source": "Hacker News (AI)",
-      "domain": "sockpuppet.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-17T21:48:38+00:00"
-    },
-    {
-      "id": "3be281991ba5",
-      "title": "Sex, AI, and the Apocalypse",
-      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 220 # Comments: 265",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-      "source": "Hacker News (AI)",
-      "domain": "iankduncan.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-17T21:15:52+00:00"
     },
     {
       "id": "46d9092684d3",
