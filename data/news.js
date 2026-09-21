@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-09-20T11:05:57.486189+00:00",
-  "count": 85,
+  "generated_at": "2026-09-21T12:34:13.423595+00:00",
+  "count": 110,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,424 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "f570cd08de08",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Di…",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T12:00:00+00:00"
+    },
+    {
+      "id": "5c208380256d",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died ne…",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T12:00:00+00:00"
+    },
+    {
+      "id": "959d559bfdb2",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. New…",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T12:00:00+00:00"
+    },
+    {
+      "id": "677d6143b7d5",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This story is part of Dyi…",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T12:00:00+00:00"
+    },
+    {
+      "id": "09391db7c8fa",
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-21T10:34:43+00:00"
+    },
+    {
+      "id": "1fe133e6977d",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 122 # Comments: 58",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "source": "Hacker News (AI)",
+      "domain": "ft.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-21T04:28:44+00:00"
+    },
+    {
+      "id": "6a7c9e028901",
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many…",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "101a4cb8c778",
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features ex…",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "03a5d8fcb269",
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a fr…",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "8fe27610abcf",
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models t…",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "6bf77507ded2",
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in…",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "bda2acc72292",
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs,…",
+      "url": "https://arxiv.org/abs/2609.21113",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "43b6b90db447",
+      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+      "summary": "arXiv:2609.21139v1 Announce Type: new Abstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introduces a \\emph{quality-gated post-training conversion} framework using CeNN-inspired cellular-recurre…",
+      "url": "https://arxiv.org/abs/2609.21139",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "8c5db21a117a",
+      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+      "summary": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for quality assurance. Because clinicians may use different intake styles, evaluation for this task must…",
+      "url": "https://arxiv.org/abs/2609.21149",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "9d72ba9b3357",
+      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+      "summary": "arXiv:2609.21157v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We compare Direct RTL Design, Agent-based HLS D…",
+      "url": "https://arxiv.org/abs/2609.21157",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "48d1990dade8",
+      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+      "summary": "arXiv:2609.21165v1 Announce Type: new Abstract: Off-target protein binding is a major source of adverse effects for small-molecule drugs, yet most structure-based molecular design methods focus on generating selective compounds de novo rather than improving the selectivity of existing, well- characterized drugs. We in…",
+      "url": "https://arxiv.org/abs/2609.21165",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "2a0b724484d9",
+      "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+      "summary": "arXiv:2609.21181v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on shortcuts. We address this gap by studying te…",
+      "url": "https://arxiv.org/abs/2609.21181",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "4dc7d6ff1cc7",
+      "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+      "summary": "arXiv:2609.21192v1 Announce Type: new Abstract: Organizations deploying agentic artificial intelligence must determine more than whether a model is trustworthy; they must establish what to validate, control, and observe for a use case to deliver its intended outcome while meeting applicable obligations. This paper pro…",
+      "url": "https://arxiv.org/abs/2609.21192",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "878c5d7e0eeb",
+      "title": "Sparse Priors for Efficient Distribution Learning",
+      "summary": "arXiv:2609.20883v1 Announce Type: new Abstract: Despite the widespread use and success of generative AI techniques today, theoretical guarantees on learning a distribution supported in $d$ dimensions from $n$ samples degrade as $O(n^{-1/\\Theta(d)})$, though shown to be minimax optimal. We hypothesize that present boun…",
+      "url": "https://arxiv.org/abs/2609.20883",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "5e15dd1d2f9d",
+      "title": "BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence",
+      "summary": "arXiv:2609.20886v1 Announce Type: new Abstract: Business intelligence (BI) is a cornerstone of enterprise decision-making and is widely used by enterprise users in software such as Power BI and Tableau. In traditional BI workflows, users need to prepare data by (1) identifying relevant tables, (2) performing data tran…",
+      "url": "https://arxiv.org/abs/2609.20886",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "83f5971683df",
+      "title": "Elastic Threshold Attention: Learned Contextual Sparsity for Long-Context Decoding",
+      "summary": "arXiv:2609.20888v1 Announce Type: new Abstract: Massive KV caches can cause severe memory-bandwidth bottlenecks during long-context decoding. Sparse attention methods mitigate this via selective loading, but that comes at a cost: rigid heuristics drop necessary context, leading to quality degradation. We introduce \\te…",
+      "url": "https://arxiv.org/abs/2609.20888",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "ab65c46a694b",
+      "title": "Bio-MF: Low-Latency and High-Fidelity EEG-to-fNIRS Cross-Modal Generation for Hybrid Motor-Imagery Brain--Computer Interfaces",
+      "summary": "arXiv:2609.20904v1 Announce Type: new Abstract: Hybrid motor-imagery brain-computer interfaces (MI-BCIs) combining EEG and fNIRS can outperform EEG-only systems by exploiting complementary electrophysiological and hemodynamic information. To obtain such hybrid information when paired EEG-fNIRS acquisition is unavailab…",
+      "url": "https://arxiv.org/abs/2609.20904",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "d06945f99989",
+      "title": "Continuous Delayed-Memory Stochastic Gradient Descent and Continuous-Time Reinforcement Learning from History of Astrophysical Time Series Studies",
+      "summary": "arXiv:2609.20906v1 Announce Type: new Abstract: Quasars are luminous objects in the universe that exhibit stochastic brightness variations encoding information about the supermassive black holes powering them, and modeling these variations from ground-based survey data time series, known as light curves, is a statisti…",
+      "url": "https://arxiv.org/abs/2609.20906",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "25a816bc7f1f",
+      "title": "Do Quantum Models Scale Like LLMs?",
+      "summary": "arXiv:2609.20912v1 Announce Type: new Abstract: In this work, we study the neural scaling laws of RydbergGPT, an autoregressive transformer model trained on qubit projective measurement data gathered from interacting Rydberg atom arrays. The quantum system is known to exhibit a finite-size remnant of a critical point…",
+      "url": "https://arxiv.org/abs/2609.20912",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "67447682b0c4",
+      "title": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation",
+      "summary": "arXiv:2609.20942v1 Announce Type: new Abstract: Large language models (LLMs) increasingly participate in scientific evaluation, both as automated reviewers and as assistants to human reviewers. As model-generated reviews enter public data and future training corpora, AI peer review can become recursive: later reviewer…",
+      "url": "https://arxiv.org/abs/2609.20942",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "35fa6b84631a",
+      "title": "Efficient Bayes-Adaptive Reinforcement Learning with Temporal Logic Specifications",
+      "summary": "arXiv:2609.20954v1 Announce Type: new Abstract: We present a novel end-to-end model-based Reinforcement Learning (RL) algorithm for efficient policy synthesis under given Linear Temporal Logic (LTL) specifications (e.g., safety or reachability) in unknown environments. To do so, a Limit-Deterministic B{\\\"u}chi Automat…",
+      "url": "https://arxiv.org/abs/2609.20954",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "359d880b7e10",
+      "title": "From Switching to Dynamic Regret: A Simple Reduction via Unbiased Random Sequences",
+      "summary": "arXiv:2609.20968v1 Announce Type: new Abstract: In non-stationary online learning, dynamic regret has attracted increasing attention as a measure of how well an online learner performs against a time-varying comparator sequence. Despite considerable advances, attaining optimal bounds for strongly convex and exp-concav…",
+      "url": "https://arxiv.org/abs/2609.20968",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "2fd795d48d50",
+      "title": "Generative inversion for early ranking of competing geologic interpretations",
+      "summary": "arXiv:2609.20978v1 Announce Type: new Abstract: High-consequence subsurface decisions are often made under severe data scarcity. Experts may arrive at competing interpretations of the same subsurface system, yet early in a project there is rarely a practical way to determine which one is most realistic. This uncertain…",
+      "url": "https://arxiv.org/abs/2609.20978",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "af93e6d774ee",
+      "title": "ASGARD: Action-Space Guard for UAV Resilience via Reinforcement Learning",
+      "summary": "arXiv:2609.20982v1 Announce Type: new Abstract: Reinforcement learning (RL) controllers have been recently adopted for Unmanned Aerial Vehicles (UAV) navigation and control. However, they are susceptible to action-space attacks that overwrite the action commands after the policy generates them and before the actuators…",
+      "url": "https://arxiv.org/abs/2609.20982",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "a1c137aa8625",
+      "title": "From Stress to Affect: Multimodal Deep Learning for Physiological Emotion Recognition Across Wearable Sensor Modalities",
+      "summary": "arXiv:2609.20991v1 Announce Type: new Abstract: Physiological emotion recognition using wearable sensors has important applications in mental health monitoring, affective computing, and human-computer interaction. However, existing studies typically evaluate a single model, sensing configuration, or dataset, limiting…",
+      "url": "https://arxiv.org/abs/2609.20991",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "id": "8787eb8a9a9a",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-20T21:41:08+00:00"
+    },
+    {
+      "id": "f502e374e286",
+      "title": "I stopped drinking the AI Kool-Aid",
+      "summary": "Article URL: https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/ Comments URL: https://news.ycombinator.com/item?id=49780162 Points: 62 # Comments: 44",
+      "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
+      "source": "Hacker News (AI)",
+      "domain": "joshtronic.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-20T21:17:26+00:00"
+    },
+    {
+      "id": "c96dddf9035b",
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-20T20:29:07+00:00"
+    },
+    {
+      "id": "2b5873f12dfd",
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-20T18:56:04+00:00"
+    },
+    {
+      "id": "6ff49d8a98b8",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-20T18:32:52+00:00"
+    },
+    {
+      "id": "12fda829f3eb",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-20T18:00:00+00:00"
+    },
+    {
+      "id": "8b190d8c4586",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 537 # Comments: 143",
+      "url": "https://pirateface.co/",
+      "source": "Hacker News (AI)",
+      "domain": "pirateface.co",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-20T15:16:07+00:00"
+    },
+    {
+      "id": "a5fcbcc03561",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 100 # Comments: 146",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "source": "Hacker News (AI)",
+      "domain": "i-kh.net",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-20T11:37:10+00:00"
+    },
     {
       "id": "7ba559c642ee",
       "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
@@ -32,9 +450,31 @@ window.NEWS_DATA = {
       "published": "2026-09-20T10:30:00+00:00"
     },
     {
+      "id": "64e6dc9ca568",
+      "title": "AI and the Destruction of the Creative Commons",
+      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 230 # Comments: 275",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "source": "Hacker News (AI)",
+      "domain": "chesterwisniewski.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-20T10:07:51+00:00"
+    },
+    {
+      "id": "cfb2ce0745f3",
+      "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
+      "summary": "Article URL: https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2 Comments URL: https://news.ycombinator.com/item?id=49772544 Points: 56 # Comments: 39",
+      "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
+      "source": "Hacker News (AI)",
+      "domain": "medium.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-20T04:39:12+00:00"
+    },
+    {
       "id": "7fe4414fb397",
       "title": "Can you tell which images are AI-generated?",
-      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 86 # Comments: 71",
+      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 109 # Comments: 85",
       "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
       "source": "Hacker News (AI)",
       "domain": "slop-sense.labtoagi.com",
@@ -67,7 +507,7 @@ window.NEWS_DATA = {
     {
       "id": "15a7b7eba97c",
       "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-      "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Points: 51 # Comments: 19",
+      "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Points: 55 # Comments: 22",
       "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
       "source": "Hacker News (AI)",
       "domain": "apnews.com",
@@ -100,7 +540,7 @@ window.NEWS_DATA = {
     {
       "id": "512cc93e0d3c",
       "title": "I think you should almost never use AI to write",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 302 # Comments: 149",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 353 # Comments: 168",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "source": "Hacker News (AI)",
       "domain": "erichgrunewald.substack.com",
@@ -133,7 +573,7 @@ window.NEWS_DATA = {
     {
       "id": "2dcf8f96db7e",
       "title": "AI Safety Is Mostly a Sex Cult",
-      "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 71 # Comments: 42",
+      "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 75 # Comments: 44",
       "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
       "source": "Hacker News (AI)",
       "domain": "bsky.app",
@@ -144,7 +584,7 @@ window.NEWS_DATA = {
     {
       "id": "e12ff72bc115",
       "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
       "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
       "source": "TechCrunch AI",
       "domain": "techcrunch.com",
@@ -188,7 +628,7 @@ window.NEWS_DATA = {
     {
       "id": "16f9c0cb33bf",
       "title": "AI-generated posters don’t have to be horrible",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1600 # Comments: 851",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1828 # Comments: 927",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "source": "Hacker News (AI)",
       "domain": "john.hartnup.uk",
@@ -206,105 +646,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-09-19T09:00:00+00:00"
-    },
-    {
-      "id": "35a0962e61d9",
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 383 # Comments: 174",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "source": "Hacker News (AI)",
-      "domain": "prinzai.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-19T06:41:44+00:00"
-    },
-    {
-      "id": "42dbe94acb1a",
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 53 # Comments: 6",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "source": "Hacker News (AI)",
-      "domain": "newsroom.usra.edu",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-19T04:44:35+00:00"
-    },
-    {
-      "id": "b61f05c63e54",
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49762493 Points: 76 # Comments: 70",
-      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-      "source": "Hacker News (AI)",
-      "domain": "reuters.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-19T01:40:35+00:00"
-    },
-    {
-      "id": "bc2ad94cedbc",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-19T01:00:00+00:00"
-    },
-    {
-      "id": "3c98e34647da",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-19T00:12:07+00:00"
-    },
-    {
-      "id": "1823cb664bdf",
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 148 # Comments: 21",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "source": "Hacker News (AI)",
-      "domain": "scmp.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-18T23:54:42+00:00"
-    },
-    {
-      "id": "482fb549de89",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T23:25:01+00:00"
-    },
-    {
-      "id": "43c411042570",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T23:13:31+00:00"
-    },
-    {
-      "id": "3239c8e17fc1",
-      "title": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T23:12:32+00:00"
     },
     {
       "id": "783c2aae66e2",
@@ -340,17 +681,6 @@ window.NEWS_DATA = {
       "published": "2026-09-18T19:20:50+00:00"
     },
     {
-      "id": "8df3f3392200",
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 78 # Comments: 29",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "source": "Hacker News (AI)",
-      "domain": "arxiv.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-18T19:00:06+00:00"
-    },
-    {
       "id": "c0082930747a",
       "title": "US government website used Chinese model the FBI called \"malicious\"",
       "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
@@ -360,17 +690,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-1024x648.jpg",
       "published": "2026-09-18T17:28:50+00:00"
-    },
-    {
-      "id": "c7aac94824a1",
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 503 # Comments: 387",
-      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "source": "Hacker News (AI)",
-      "domain": "cnn.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-18T17:28:01+00:00"
     },
     {
       "id": "4a0f606db22e",
@@ -459,17 +778,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-09-18T11:29:22+00:00"
-    },
-    {
-      "id": "c86a7463116e",
-      "title": "The Leftist Split Over AI Doom",
-      "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
-      "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-18T10:15:00+00:00"
     },
     {
       "id": "8943d0aa65b3",
@@ -846,17 +1154,6 @@ window.NEWS_DATA = {
       "published": "2026-09-10T16:00:00+00:00"
     },
     {
-      "id": "2bd183778dd2",
-      "title": "Powering AI is an architecture problem",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts…",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-10T11:00:00+00:00"
-    },
-    {
       "id": "a8b96930e0a0",
       "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
       "summary": "",
@@ -901,17 +1198,6 @@ window.NEWS_DATA = {
       "published": "2026-09-09T16:00:00+00:00"
     },
     {
-      "id": "10838637e976",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But…",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-09T03:10:08+00:00"
-    },
-    {
       "id": "87aa5ed544b1",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "summary": "",
@@ -932,17 +1218,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
       "published": "2026-09-08T14:00:15+00:00"
-    },
-    {
-      "id": "cb03ec9373e1",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks in decor,…",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-09-08T10:34:00+00:00"
     }
   ]
 };
