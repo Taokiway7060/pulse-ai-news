@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-09-26T11:11:42.524593+00:00",
+  "generated_at": "2026-09-27T11:50:16.048350+00:00",
   "count": 90,
   "categories": [
     "Community",
@@ -9,6 +9,61 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "d4a6409c604e",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-27T01:30:00+00:00"
+    },
+    {
+      "id": "7d4ca7adb979",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-26T21:02:06+00:00"
+    },
+    {
+      "id": "75e8ff191465",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-09-26T14:00:00+00:00"
+    },
+    {
+      "id": "c2a959a56d64",
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 56 # Comments: 71",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "source": "Hacker News (AI)",
+      "domain": "lasso.security",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-26T13:05:36+00:00"
+    },
+    {
+      "id": "c4d412488b6e",
+      "title": "CEO of Mistral: AI is software. It can be controlled",
+      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 94 # Comments: 162",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+      "source": "Hacker News (AI)",
+      "domain": "lemonde.fr",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-26T12:52:04+00:00"
+    },
     {
       "id": "bcce5159d57a",
       "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
@@ -21,6 +76,17 @@ window.NEWS_DATA = {
       "published": "2026-09-26T10:30:00+00:00"
     },
     {
+      "id": "bdba36d64e87",
+      "title": "One Month Without AI",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 175 # Comments: 223",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "source": "Hacker News (AI)",
+      "domain": "blog.bustikiller.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-26T10:08:21+00:00"
+    },
+    {
       "id": "8a965bb971e0",
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
@@ -30,6 +96,17 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-09-26T01:08:57+00:00"
+    },
+    {
+      "id": "2dd82a6bf0ba",
+      "title": "Generate fonts where every LLM token is the same width",
+      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 71 # Comments: 14",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "source": "Hacker News (AI)",
+      "domain": "ampdot.mesh.host",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-26T00:30:03+00:00"
     },
     {
       "id": "32811a3cd359",
@@ -45,7 +122,7 @@ window.NEWS_DATA = {
     {
       "id": "5018f509d498",
       "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "summary": "Article URL: https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49850999 Points: 50 # Comments: 16",
+      "summary": "Article URL: https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49850999 Points: 67 # Comments: 21",
       "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
       "source": "Hacker News (AI)",
       "domain": "reuters.com",
@@ -89,7 +166,7 @@ window.NEWS_DATA = {
     {
       "id": "1df2ae30d27d",
       "title": "Too AI; Didn't Read",
-      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 108 # Comments: 108",
+      "summary": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 111 # Comments: 111",
       "url": "https://www.tai-dr.com/",
       "source": "Hacker News (AI)",
       "domain": "tai-dr.com",
@@ -208,17 +285,6 @@ window.NEWS_DATA = {
       "published": "2026-09-25T17:29:46+00:00"
     },
     {
-      "id": "541b4af2b985",
-      "title": "Astra and Opus just passed Turing’s other test",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-25T17:24:36+00:00"
-    },
-    {
       "id": "3559bda0281a",
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
       "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
@@ -241,31 +307,9 @@ window.NEWS_DATA = {
       "published": "2026-09-25T16:51:28+00:00"
     },
     {
-      "id": "62672e2384a1",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-25T16:16:52+00:00"
-    },
-    {
-      "id": "82f446f1b286",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotl…",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-25T16:00:00+00:00"
-    },
-    {
       "id": "56647114fdd8",
       "title": "Classified estimates show the NSA is paying billions to test AI models",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 171 # Comments: 101",
+      "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 176 # Comments: 106",
       "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
       "source": "Hacker News (AI)",
       "domain": "washingtonsun.com",
@@ -276,7 +320,7 @@ window.NEWS_DATA = {
     {
       "id": "d92e53605567",
       "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 125 # Comments: 118",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 149 # Comments: 143",
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
       "source": "Hacker News (AI)",
       "domain": "bloomberg.com",
@@ -307,9 +351,20 @@ window.NEWS_DATA = {
       "published": "2026-09-25T09:16:25+00:00"
     },
     {
+      "id": "b34138cdd460",
+      "title": "Evolving programming languages in the AI era",
+      "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 105 # Comments: 64",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "source": "Hacker News (AI)",
+      "domain": "dashbit.co",
+      "category": "Community",
+      "image": "",
+      "published": "2026-09-25T02:34:39+00:00"
+    },
+    {
       "id": "f00af8f1310d",
       "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 82 # Comments: 71",
+      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 222 # Comments: 199",
       "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
       "source": "Hacker News (AI)",
       "domain": "thelastsoftwareengineer.substack.com",
@@ -386,35 +441,13 @@ window.NEWS_DATA = {
     {
       "id": "f33895300aff",
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 137 # Comments: 223",
+      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 142 # Comments: 231",
       "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
       "source": "Hacker News (AI)",
       "domain": "afr.com",
       "category": "Community",
       "image": "",
       "published": "2026-09-24T15:09:38+00:00"
-    },
-    {
-      "id": "87cdb14ae03a",
-      "title": "AI safety is mostly a sex cult in Berkeley",
-      "summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in Comments URL: https://news.ycombinator.com/item?id=49831269 Points: 119 # Comments: 30",
-      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-      "source": "Hacker News (AI)",
-      "domain": "verysane.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-24T14:38:31+00:00"
-    },
-    {
-      "id": "d320914ab012",
-      "title": "Best LLM for every budget, updated daily",
-      "summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 180 # Comments: 111",
-      "url": "https://bestmodelforyourbudget.terrydjony.com/",
-      "source": "Hacker News (AI)",
-      "domain": "bestmodelforyourbudget.terrydjony.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-24T14:09:57+00:00"
     },
     {
       "id": "f781fea8a34c",
@@ -439,17 +472,6 @@ window.NEWS_DATA = {
       "published": "2026-09-24T14:03:38+00:00"
     },
     {
-      "id": "3e03e7d425fa",
-      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 205 # Comments: 309",
-      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "source": "Hacker News (AI)",
-      "domain": "theguardian.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-24T12:23:41+00:00"
-    },
-    {
       "id": "c1a50a3e6eea",
       "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
       "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
@@ -459,28 +481,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-09-24T10:46:56+00:00"
-    },
-    {
-      "id": "1dad428ffaf1",
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 626 # Comments: 382",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "source": "Hacker News (AI)",
-      "domain": "reddit.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-24T08:23:03+00:00"
-    },
-    {
-      "id": "47e2bf124314",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 264 # Comments: 304",
-      "url": "https://transluce.org/agent-activity",
-      "source": "Hacker News (AI)",
-      "domain": "transluce.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-24T05:21:10+00:00"
     },
     {
       "id": "e786cc239f2f",
