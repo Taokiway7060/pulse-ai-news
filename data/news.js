@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-10-03T11:28:26.336914+00:00",
-  "count": 98,
+  "generated_at": "2026-10-04T12:09:51.968767+00:00",
+  "count": 87,
   "categories": [
     "Community",
     "Industry",
@@ -10,136 +10,158 @@ window.NEWS_DATA = {
   ],
   "items": [
     {
-      "id": "c35988dd920b",
-      "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
-      "summary": "arXiv:2610.00002v1 Announce Type: new Abstract: We introduce reverse Item Response Theory (IRT) to pharmacogenomic drug-response analysis by treating cancer types as latent \"subjects\" with resistance ability and drugs as \"items\" with evasion difficulty. Applied to 242,036 drug sensitivity measurements from the Genomic…",
-      "url": "https://arxiv.org/abs/2610.00002",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "fb98195bbc39",
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-04T10:00:00+00:00"
     },
     {
-      "id": "61cbdbade015",
-      "title": "How Far is Adam from Natural Gradient Descent?",
-      "summary": "arXiv:2610.00004v1 Announce Type: new Abstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unresolved questions. We study Adam's full update rule, including momentum, as a diagonal empirical Fisher approximation subject to diagonal truncat…",
-      "url": "https://arxiv.org/abs/2610.00004",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "8351484afeb7",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T22:56:48+00:00"
     },
     {
-      "id": "2edb6517ef32",
-      "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
-      "summary": "arXiv:2610.00009v1 Announce Type: new Abstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inner product at a learned frequency. A natural follow-up question is: which filter shape works best, and why? W…",
-      "url": "https://arxiv.org/abs/2610.00009",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "346f3fad739c",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 263 # Comments: 3",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "Hacker News (AI)",
+      "domain": "theguardian.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T22:18:13+00:00"
     },
     {
-      "id": "0aa7dea8377a",
-      "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
-      "summary": "arXiv:2610.00035v1 Announce Type: new Abstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaningful intervention, while demographic information introduces an additional risk of unfair predictions. This study investig…",
-      "url": "https://arxiv.org/abs/2610.00035",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "6838739191ef",
+      "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 55 # Comments: 84",
+      "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+      "source": "Hacker News (AI)",
+      "domain": "telegraph.co.uk",
+      "category": "Community",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T19:33:10+00:00"
     },
     {
-      "id": "48748140fdac",
-      "title": "Fast Polynomial Transcendentals for LLMs",
-      "summary": "arXiv:2610.00049v1 Announce Type: new Abstract: Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates, so kernel bottlenecks move as hardware evolves. FlashAttention-4 exposed this imbalance inside attention on NVIDIA Blackwell. We test whether short polynom…",
-      "url": "https://arxiv.org/abs/2610.00049",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "8458234cd2d2",
+      "title": "Our AI Midwife",
+      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 63 # Comments: 61",
+      "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+      "source": "Hacker News (AI)",
+      "domain": "astralcodexten.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T19:12:27+00:00"
     },
     {
-      "id": "5425c01a773c",
-      "title": "SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials",
-      "summary": "arXiv:2610.00050v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) represent a paradigmatic shift in deep learning by replacing fixed node activations with learnable univariate functions on edges, offering enhanced interpretability and parameter efficiency. While recent polynomial-based KAN variants hav…",
-      "url": "https://arxiv.org/abs/2610.00050",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "fcaaa8487f3e",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T18:43:57+00:00"
     },
     {
-      "id": "d12daea31cdf",
-      "title": "Format-Aware Fusion for Fast FP4 Pretraining",
-      "summary": "arXiv:2610.00053v1 Announce Type: new Abstract: Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing, layout construction, and saved backward state can erase the gain. We present \\emph{format-aware fusion}, which co-designs each quantization producer with…",
-      "url": "https://arxiv.org/abs/2610.00053",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "011b2d6d6829",
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T18:00:00+00:00"
     },
     {
-      "id": "ecc5a33fbbf6",
-      "title": "\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification",
-      "summary": "arXiv:2610.00083v1 Announce Type: new Abstract: Humans express uncertainty verbally via markers (e.g., \"possible,\" \"likely\"), yet most LLM uncertainty quantification (UQ) relies on costing likelihood- or consistency-based signals. From a cognitive perspective, accurate verbal uncertainty reflects metacognitive monitor…",
-      "url": "https://arxiv.org/abs/2610.00083",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "0bb804a749bb",
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 106 # Comments: 156",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "source": "Hacker News (AI)",
+      "domain": "neowin.net",
+      "category": "Community",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T17:57:03+00:00"
     },
     {
-      "id": "716662e3b321",
-      "title": "Nous: Learning and Certifying Memory Decisions Before Source Calibration",
-      "summary": "arXiv:2610.00094v1 Announce Type: new Abstract: Belief-based agent memory needs reliable decisions about current state, yet its evidence may be noisy, copied, or stale. Must a memory calibrate its sources before it can improve its decisions? We separate learning, calibration, and revision certification. On one four-mo…",
-      "url": "https://arxiv.org/abs/2610.00094",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "f05ac14a1461",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 174 # Comments: 248",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "source": "Hacker News (AI)",
+      "domain": "fortune.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T17:44:29+00:00"
     },
     {
-      "id": "1a903042e342",
-      "title": "One Mastery Threshold Does Not Fit All Knowledge Tracing Models",
-      "summary": "arXiv:2610.00095v1 Announce Type: new Abstract: Tutoring systems use mastery thresholds to decide when students can stop practicing and advance, but the same numerical threshold can lead to very different decisions when the underlying knowledge tracing (KT) model changes. We examine six KT models across four public ed…",
-      "url": "https://arxiv.org/abs/2610.00095",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "2f8e4c03b16d",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T16:30:01+00:00"
     },
     {
-      "id": "086f7a7d9159",
-      "title": "Uncertainty-Aware Learning from Multi-Expert Interval Targets",
-      "summary": "arXiv:2610.00102v1 Announce Type: new Abstract: Many machine learning (ML) applications rely on expert labels, and qualified experts may provide different but plausible interpretations of the same observation. Such variation across expert labels may reflect genuine disagreement or ambiguity rather than annotation erro…",
-      "url": "https://arxiv.org/abs/2610.00102",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "d5dedb536435",
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T14:00:00+00:00"
     },
     {
-      "id": "86b88034dc79",
-      "title": "The Hidden Costs of 99% Accuracy: A Trustworthiness Audit of the Telco Customer Churn Benchmark",
-      "summary": "arXiv:2610.00118v1 Announce Type: new Abstract: Customer churn prediction on the IBM Telco Customer Churn benchmark (n = 7,043) routinely reports test accuracies above 95%, with the most cited published study reporting 99.01%. We audit this benchmark for four trustworthiness failures invisible to the accuracy- and F1-…",
-      "url": "https://arxiv.org/abs/2610.00118",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
+      "id": "be8dbf06b6de",
+      "title": "US killer's sentence quashed because of AI video of victim shown in court",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 71 # Comments: 60",
+      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "source": "Hacker News (AI)",
+      "domain": "bbc.com",
+      "category": "Community",
       "image": "",
-      "published": "2026-10-03T04:00:00+00:00"
+      "published": "2026-10-03T13:34:18+00:00"
+    },
+    {
+      "id": "ef298d661b1e",
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-03T12:00:00+00:00"
+    },
+    {
+      "id": "eb58fbbb8088",
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+      "summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 413 # Comments: 12",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "source": "Hacker News (AI)",
+      "domain": "tej.as",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-03T10:43:51+00:00"
     },
     {
       "id": "4f7463f44aee",
@@ -232,7 +254,7 @@ window.NEWS_DATA = {
     {
       "id": "ed65059c0c99",
       "title": "From the creator of Redis; run LLM locally with ds4",
-      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 259 # Comments: 68",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 351 # Comments: 99",
       "url": "https://dwarfstar.sh/",
       "source": "Hacker News (AI)",
       "domain": "dwarfstar.sh",
@@ -329,6 +351,17 @@ window.NEWS_DATA = {
       "published": "2026-10-02T15:39:41+00:00"
     },
     {
+      "id": "a01f03c831fb",
+      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+      "summary": "Article URL: https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832 Comments URL: https://news.ycombinator.com/item?id=49934569 Points: 50 # Comments: 23",
+      "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+      "source": "Hacker News (AI)",
+      "domain": "theregister.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-02T15:24:54+00:00"
+    },
+    {
       "id": "4d72cdc995a7",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "summary": "",
@@ -342,7 +375,7 @@ window.NEWS_DATA = {
     {
       "id": "8f91084994b3",
       "title": "AI Makes Me Sad",
-      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 188 # Comments: 225",
+      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 193 # Comments: 240",
       "url": "https://mondobe.com/ai-makes-me-sad",
       "source": "Hacker News (AI)",
       "domain": "mondobe.com",
@@ -382,39 +415,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-1152x648.jpg",
       "published": "2026-10-02T14:52:16+00:00"
-    },
-    {
-      "id": "27b56157bff2",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-02T14:30:00+00:00"
-    },
-    {
-      "id": "409b866e945e",
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-02T14:00:00+00:00"
-    },
-    {
-      "id": "0ec9c6e57df4",
-      "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-      "summary": "Article URL: https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/ Comments URL: https://news.ycombinator.com/item?id=49933251 Points: 73 # Comments: 58",
-      "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
-      "source": "Hacker News (AI)",
-      "domain": "agent-wow.sh",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-02T13:19:47+00:00"
     },
     {
       "id": "c715106aa56d",
@@ -461,17 +461,6 @@ window.NEWS_DATA = {
       "published": "2026-10-02T04:01:31+00:00"
     },
     {
-      "id": "cad6ebacb368",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 248 # Comments: 78",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "source": "Hacker News (AI)",
-      "domain": "youtube.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-02T02:51:27+00:00"
-    },
-    {
       "id": "e72afa11a774",
       "title": "Chatham scales its capital markets expertise with OpenAI",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
@@ -494,17 +483,6 @@ window.NEWS_DATA = {
       "published": "2026-10-01T22:10:42+00:00"
     },
     {
-      "id": "ab6d6b110776",
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-01T21:08:11+00:00"
-    },
-    {
       "id": "3a267f9f07e2",
       "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
       "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
@@ -525,17 +503,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-10-01T19:58:31+00:00"
-    },
-    {
-      "id": "829ca4b651a5",
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 197 # Comments: 259",
-      "url": "https://stoppels.ch/goalposts/",
-      "source": "Hacker News (AI)",
-      "domain": "stoppels.ch",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-01T17:32:43+00:00"
     },
     {
       "id": "1372dc96abec",
@@ -569,50 +536,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-10-01T16:00:00+00:00"
-    },
-    {
-      "id": "9dd2b12cb9e6",
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 78 # Comments: 28",
-      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "source": "Hacker News (AI)",
-      "domain": "openid.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-01T15:11:10+00:00"
-    },
-    {
-      "id": "7e9b3a402996",
-      "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-      "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243 Comments URL: https://news.ycombinator.com/item?id=49921051 Points: 90 # Comments: 64",
-      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-      "source": "Hacker News (AI)",
-      "domain": "ft.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-01T13:01:02+00:00"
-    },
-    {
-      "id": "a2968aa0bdc6",
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 210 # Comments: 159",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "source": "Hacker News (AI)",
-      "domain": "cnbc.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-01T13:00:55+00:00"
-    },
-    {
-      "id": "fbaf8f2defd0",
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 188 # Comments: 111",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "source": "Hacker News (AI)",
-      "domain": "news.synopsys.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-01T10:21:36+00:00"
     },
     {
       "id": "0a0f434ee4cd",
@@ -659,17 +582,6 @@ window.NEWS_DATA = {
       "published": "2026-09-30T20:01:45+00:00"
     },
     {
-      "id": "b99809d03075",
-      "title": "CS240 AI Cheating Retrospective",
-      "summary": "Article URL: https://turkeyland.net/thoughts/ai.php Comments URL: https://news.ycombinator.com/item?id=49913458 Points: 118 # Comments: 104",
-      "url": "https://turkeyland.net/thoughts/ai.php",
-      "source": "Hacker News (AI)",
-      "domain": "turkeyland.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-09-30T19:54:29+00:00"
-    },
-    {
       "id": "7de67efaecbc",
       "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
       "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
@@ -679,28 +591,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-1152x648.jpg",
       "published": "2026-09-30T19:31:25+00:00"
-    },
-    {
-      "id": "a0ce06d20aa3",
-      "title": "The Battle to Be Your Personal AI Agent Is Here",
-      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
-      "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-30T19:30:00+00:00"
-    },
-    {
-      "id": "b9b4104b02f6",
-      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
-      "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-30T19:00:00+00:00"
     },
     {
       "id": "f7216ec83c2c",
@@ -800,17 +690,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-09-30T00:00:00+00:00"
-    },
-    {
-      "id": "f51097f98c9d",
-      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-09-29T19:05:00+00:00"
     },
     {
       "id": "49786df4d58f",
