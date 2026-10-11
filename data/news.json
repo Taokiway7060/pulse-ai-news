@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:17:03.766302+00:00",
+  "generated_at": "2026-10-11T12:33:21.664740+00:00",
   "count": 85,
   "categories": [
     "Community",
@@ -9,6 +9,94 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "bbc7a67fe1e6",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-11T11:30:00+00:00"
+    },
+    {
+      "id": "ab43940b0600",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 109 # Comments: 79",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "source": "Hacker News (AI)",
+      "domain": "momo5502.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-11T02:02:38+00:00"
+    },
+    {
+      "id": "573e229aae4e",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-10T21:47:51+00:00"
+    },
+    {
+      "id": "694acbf23589",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-10T19:50:00+00:00"
+    },
+    {
+      "id": "d6e63042ce4a",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 166 # Comments: 106",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "source": "Hacker News (AI)",
+      "domain": "ft.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-10T18:48:35+00:00"
+    },
+    {
+      "id": "28455ddae3be",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-10T15:00:00+00:00"
+    },
+    {
+      "id": "4f393ed058da",
+      "title": "My personal AI agent posted my bank details on company Slack",
+      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 61 # Comments: 66",
+      "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+      "source": "Hacker News (AI)",
+      "domain": "businessinsider.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-10T14:46:16+00:00"
+    },
+    {
+      "id": "137c228c192c",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-10T14:00:00+00:00"
+    },
     {
       "id": "c6e4c2d6cb60",
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
@@ -21,6 +109,28 @@
       "published": "2026-10-10T12:00:00+00:00"
     },
     {
+      "id": "adede234125e",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 301 # Comments: 137",
+      "url": "https://github.com/rociiu/talorys",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-10T10:52:09+00:00"
+    },
+    {
+      "id": "18973aa0d186",
+      "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+      "summary": "Article URL: https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/ Comments URL: https://news.ycombinator.com/item?id=50031156 Points: 56 # Comments: 8",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+      "source": "Hacker News (AI)",
+      "domain": "warren.senate.gov",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-10T09:30:03+00:00"
+    },
+    {
       "id": "6a957b17ea69",
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
@@ -30,6 +140,17 @@
       "category": "Industry",
       "image": "",
       "published": "2026-10-10T00:18:32+00:00"
+    },
+    {
+      "id": "8f71ab94af4a",
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 88 # Comments: 82",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "source": "Hacker News (AI)",
+      "domain": "epoch.ai",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-09T22:14:40+00:00"
     },
     {
       "id": "b37f7d3c0df4",
@@ -45,7 +166,7 @@
     {
       "id": "953f6225e8a3",
       "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 175 # Comments: 127",
+      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 209 # Comments: 154",
       "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "source": "Hacker News (AI)",
       "domain": "nbcphiladelphia.com",
@@ -111,7 +232,7 @@
     {
       "id": "9e5ab941332a",
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 134 # Comments: 28",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 198 # Comments: 58",
       "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
       "source": "Hacker News (AI)",
       "domain": "terrytao.wordpress.com",
@@ -122,7 +243,7 @@
     {
       "id": "e52a4ca14150",
       "title": "Typesafe AI raises $870M at $7.5B",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 382 # Comments: 290",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 439 # Comments: 348",
       "url": "https://typesafe.ai/blog/series-ai",
       "source": "Hacker News (AI)",
       "domain": "typesafe.ai",
@@ -199,7 +320,7 @@
     {
       "id": "30044dea4efe",
       "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 71 # Comments: 74",
+      "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 73 # Comments: 74",
       "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
       "source": "Hacker News (AI)",
       "domain": "nbcnews.com",
@@ -208,20 +329,9 @@
       "published": "2026-10-09T14:14:08+00:00"
     },
     {
-      "id": "7215c75e5c4a",
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-09T14:00:00+00:00"
-    },
-    {
       "id": "a4d959659861",
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 152 # Comments: 78",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 183 # Comments: 89",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "source": "Hacker News (AI)",
       "domain": "jessewaites.com",
@@ -232,7 +342,7 @@
     {
       "id": "d3aa5b59b411",
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 400 # Comments: 177",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 413 # Comments: 189",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "source": "Hacker News (AI)",
       "domain": "github.com",
@@ -307,39 +417,6 @@
       "published": "2026-10-08T21:14:12+00:00"
     },
     {
-      "id": "bf3a7ec57986",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-08T21:00:00+00:00"
-    },
-    {
-      "id": "3fe2e0b51d50",
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 146 # Comments: 20",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "source": "Hacker News (AI)",
-      "domain": "biohub.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-08T20:46:25+00:00"
-    },
-    {
-      "id": "e006325e3fd6",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-08T20:04:26+00:00"
-    },
-    {
       "id": "5eccdad6762c",
       "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
       "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
@@ -351,39 +428,6 @@
       "published": "2026-10-08T19:30:00+00:00"
     },
     {
-      "id": "ba7ed0d52ea8",
-      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 65 # Comments: 64",
-      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-      "source": "Hacker News (AI)",
-      "domain": "cointelegraph.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-08T19:17:51+00:00"
-    },
-    {
-      "id": "b10589d60548",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-08T18:20:32+00:00"
-    },
-    {
-      "id": "2294d535a480",
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "summary": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there. We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making. So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya…",
-      "url": "https://opper.ai/jevman-benchmark/",
-      "source": "Hacker News (AI)",
-      "domain": "opper.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-08T16:34:13+00:00"
-    },
-    {
       "id": "8a0187e4990a",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
@@ -393,17 +437,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-10-08T16:00:00+00:00"
-    },
-    {
-      "id": "db06c2f122d9",
-      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 88 # Comments: 26",
-      "url": "https://github.com/SamsungLabs/LittleBit",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-08T13:29:46+00:00"
     },
     {
       "id": "f4f2cb8d1818",
@@ -472,17 +505,6 @@
       "published": "2026-10-08T08:17:32+00:00"
     },
     {
-      "id": "244bcfb151d7",
-      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 112 # Comments: 218",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-08T00:46:00+00:00"
-    },
-    {
       "id": "ad337cb87418",
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
       "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
@@ -525,17 +547,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp",
       "published": "2026-10-07T21:56:42+00:00"
-    },
-    {
-      "id": "6bca181f0dbd",
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 375 # Comments: 382",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "source": "Hacker News (AI)",
-      "domain": "rswebsols.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-07T18:49:40+00:00"
     },
     {
       "id": "31e3883caba4",
@@ -657,17 +668,6 @@
       "category": "Labs",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
       "published": "2026-10-07T12:00:00+00:00"
-    },
-    {
-      "id": "96954d97248d",
-      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-07T11:00:00+00:00"
     },
     {
       "id": "316edede7761",
