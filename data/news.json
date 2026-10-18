@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T10:28:25.490930+00:00",
-  "count": 86,
+  "generated_at": "2026-10-18T10:48:06.357746+00:00",
+  "count": 85,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,83 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "53bc725aafba",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-18T10:30:00+00:00"
+    },
+    {
+      "id": "e14eef8f0f38",
+      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-18T10:30:00+00:00"
+    },
+    {
+      "id": "35c5b74898ec",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 139 # Comments: 41",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "Hacker News (AI)",
+      "domain": "sphinx-six-theta.vercel.app",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-18T04:33:49+00:00"
+    },
+    {
+      "id": "94a44a338d72",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-17T21:31:32+00:00"
+    },
+    {
+      "id": "26551ff58bf1",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-17T20:21:19+00:00"
+    },
+    {
+      "id": "790fa3f4d9e5",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-17T18:48:08+00:00"
+    },
+    {
+      "id": "a63f02b8c76f",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 165 # Comments: 58",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "source": "Hacker News (AI)",
+      "domain": "opendemocracy.net",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-17T16:04:23+00:00"
+    },
     {
       "id": "88960a04b0bf",
       "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
@@ -23,24 +100,13 @@
     {
       "id": "41fec0f8a7b8",
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 73 # Comments: 28",
+      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 297 # Comments: 82",
       "url": "https://llmspeed.dev/",
       "source": "Hacker News (AI)",
       "domain": "llmspeed.dev",
       "category": "Community",
       "image": "",
       "published": "2026-10-17T04:36:53+00:00"
-    },
-    {
-      "id": "dd242cf97edc",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-16T21:22:28+00:00"
     },
     {
       "id": "566ea3397f46",
@@ -111,7 +177,7 @@
     {
       "id": "e586c7100371",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 503 # Comments: 425",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 610 # Comments: 552",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "source": "Hacker News (AI)",
       "domain": "mercor.com",
@@ -155,7 +221,7 @@
     {
       "id": "cd674e61ca8e",
       "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 198 # Comments: 77",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 213 # Comments: 88",
       "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "source": "Hacker News (AI)",
       "domain": "theregister.com",
@@ -199,7 +265,7 @@
     {
       "id": "cd3fd131c4fb",
       "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "summary": "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 53 # Comments: 19",
+      "summary": "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 58 # Comments: 19",
       "url": "https://rstation.ai/",
       "source": "Hacker News (AI)",
       "domain": "rstation.ai",
@@ -274,10 +340,10 @@
       "published": "2026-10-16T01:44:47+00:00"
     },
     {
-      "id": "e54259160719",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "549bc2318fd6",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI",
       "domain": "openai.com",
       "category": "Labs",
@@ -285,10 +351,10 @@
       "published": "2026-10-16T00:00:00+00:00"
     },
     {
-      "id": "549bc2318fd6",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "url": "https://openai.com/index/benefit-street-partners",
+      "id": "e54259160719",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI",
       "domain": "openai.com",
       "category": "Labs",
@@ -351,28 +417,6 @@
       "published": "2026-10-15T20:34:01+00:00"
     },
     {
-      "id": "c12712de564f",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-15T20:04:53+00:00"
-    },
-    {
-      "id": "e7830f74c42a",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-15T19:55:25+00:00"
-    },
-    {
       "id": "8be971c6680d",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
@@ -386,7 +430,7 @@
     {
       "id": "05dd44a67ac7",
       "title": "Why We're Banning AI",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 255 # Comments: 201",
+      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 260 # Comments: 203",
       "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "source": "Hacker News (AI)",
       "domain": "currentaffairs.org",
@@ -397,7 +441,7 @@
     {
       "id": "0efaee3d46f7",
       "title": "Market selloff, rising rates test AI data centre deal boom",
-      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 74 # Comments: 90",
+      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 75 # Comments: 90",
       "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
       "source": "Hacker News (AI)",
       "domain": "reuters.com",
@@ -441,7 +485,7 @@
     {
       "id": "80e50ccfded9",
       "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 247 # Comments: 198",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 249 # Comments: 199",
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "source": "Hacker News (AI)",
       "domain": "simonsfoundation.org",
@@ -452,7 +496,7 @@
     {
       "id": "c18e4f7a3fd3",
       "title": "Using AI to reverse engineer hardware",
-      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 249 # Comments: 239",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 253 # Comments: 249",
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "source": "Hacker News (AI)",
       "domain": "blogs.gnome.org",
@@ -474,7 +518,7 @@
     {
       "id": "edfe42c7098c",
       "title": "AI was great until it was not",
-      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 122 # Comments: 77",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 124 # Comments: 77",
       "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
       "source": "Hacker News (AI)",
       "domain": "thetheorygirlie.substack.com",
@@ -529,7 +573,7 @@
     {
       "id": "2e657aad6fae",
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 383 # Comments: 277",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 384 # Comments: 277",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "source": "Hacker News (AI)",
       "domain": "startupfortune.com",
@@ -549,17 +593,6 @@
       "published": "2026-10-14T18:15:00+00:00"
     },
     {
-      "id": "f5928ceb487d",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 946 # Comments: 619",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "source": "Hacker News (AI)",
-      "domain": "csoonline.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-14T17:45:23+00:00"
-    },
-    {
       "id": "885abb6f2806",
       "title": "Researchers use AI to design proteins that cut up other proteins",
       "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
@@ -569,17 +602,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-1152x648.jpg",
       "published": "2026-10-14T17:10:15+00:00"
-    },
-    {
-      "id": "4d6d13849bca",
-      "title": "Linus Torvalds's first LLM-assisted patch series",
-      "summary": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 122 # Comments: 110",
-      "url": "https://lwn.net/Articles/1100449/",
-      "source": "Hacker News (AI)",
-      "domain": "lwn.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-14T16:55:07+00:00"
     },
     {
       "id": "a0df9838b808",
@@ -657,28 +679,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-10-14T11:00:00+00:00"
-    },
-    {
-      "id": "ff17003c4c5f",
-      "title": "Men Can’t Stop Faking How Much They Know About AI",
-      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-      "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-14T09:30:00+00:00"
-    },
-    {
-      "id": "77ec14363505",
-      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-14T09:00:00+00:00"
     },
     {
       "id": "898afc2961c1",
@@ -943,17 +943,6 @@
       "category": "Research",
       "image": "",
       "published": "2026-10-05T04:00:00+00:00"
-    },
-    {
-      "id": "8351484afeb7",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-10-03T22:56:48+00:00"
     }
   ]
 }
