@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-10-24T10:42:55.971497+00:00",
+  "generated_at": "2026-10-25T11:08:04.469859+00:00",
   "count": 88,
   "categories": [
     "Community",
@@ -10,15 +10,125 @@ window.NEWS_DATA = {
   ],
   "items": [
     {
-      "id": "be2b4cd8a1f9",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 133 # Comments: 23",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "id": "c8d028f2a519",
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-25T10:00:00+00:00"
+    },
+    {
+      "id": "fcca8b25a203",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 186 # Comments: 63",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "source": "Hacker News (AI)",
-      "domain": "reddit.com",
+      "domain": "cerebras.ai",
       "category": "Community",
       "image": "",
-      "published": "2026-10-24T05:49:57+00:00"
+      "published": "2026-10-25T01:33:49+00:00"
+    },
+    {
+      "id": "733692c7712a",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 375 # Comments: 381",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News (AI)",
+      "domain": "apricitas.io",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-24T23:11:54+00:00"
+    },
+    {
+      "id": "16b56a9ae423",
+      "title": "No signs of AI payoff outside the tech sector",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 558 # Comments: 588",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "Hacker News (AI)",
+      "domain": "apollo.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-24T19:47:19+00:00"
+    },
+    {
+      "id": "8650c14fa82e",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-24T19:00:00+00:00"
+    },
+    {
+      "id": "f83772d9e36a",
+      "title": "Why is AI generated language so hard to understand?",
+      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 207 # Comments: 171",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "source": "Hacker News (AI)",
+      "domain": "arxiv.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-24T18:04:57+00:00"
+    },
+    {
+      "id": "447c13bfe163",
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-24T16:00:00+00:00"
+    },
+    {
+      "id": "4de114c6284c",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-24T15:00:00+00:00"
+    },
+    {
+      "id": "c5af1627dc8b",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-24T14:00:00+00:00"
+    },
+    {
+      "id": "83c31cd2f203",
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-24T12:00:00+00:00"
+    },
+    {
+      "id": "8f8333e6e091",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 96 # Comments: 52",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "source": "Hacker News (AI)",
+      "domain": "torrentfreak.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-24T11:18:54+00:00"
     },
     {
       "id": "45c850be9bb7",
@@ -56,7 +166,7 @@ window.NEWS_DATA = {
     {
       "id": "5273b160a18a",
       "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-      "summary": "Article URL: https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562 Comments URL: https://news.ycombinator.com/item?id=50214185 Points: 56 # Comments: 47",
+      "summary": "Article URL: https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562 Comments URL: https://news.ycombinator.com/item?id=50214185 Points: 66 # Comments: 58",
       "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
       "source": "Hacker News (AI)",
       "domain": "gizmodo.com",
@@ -111,7 +221,7 @@ window.NEWS_DATA = {
     {
       "id": "dbbce0676388",
       "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 62 # Comments: 53",
+      "summary": "Article URL: https://www.thisandthat.chat/enron/ Comments URL: https://news.ycombinator.com/item?id=50207620 Points: 67 # Comments: 56",
       "url": "https://www.thisandthat.chat/enron/",
       "source": "Hacker News (AI)",
       "domain": "thisandthat.chat",
@@ -133,7 +243,7 @@ window.NEWS_DATA = {
     {
       "id": "7c7a09145425",
       "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 140 # Comments: 155",
+      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 142 # Comments: 157",
       "url": "https://berget.ai/en/blog/per-request-co2-press-release",
       "source": "Hacker News (AI)",
       "domain": "berget.ai",
@@ -188,7 +298,7 @@ window.NEWS_DATA = {
     {
       "id": "af49ccc196eb",
       "title": "AI compute is the new oil–and needs a new market",
-      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 52 # Comments: 59",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 53 # Comments: 62",
       "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
       "source": "Hacker News (AI)",
       "domain": "economist.com",
@@ -232,7 +342,7 @@ window.NEWS_DATA = {
     {
       "id": "f1c537184064",
       "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-      "summary": "Article URL: https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085 Comments URL: https://news.ycombinator.com/item?id=50200843 Points: 90 # Comments: 67",
+      "summary": "Article URL: https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085 Comments URL: https://news.ycombinator.com/item?id=50200843 Points: 91 # Comments: 67",
       "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
       "source": "Hacker News (AI)",
       "domain": "abcnews.com",
@@ -274,17 +384,6 @@ window.NEWS_DATA = {
       "published": "2026-10-22T19:00:00+00:00"
     },
     {
-      "id": "d9f58b2634ad",
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-22T19:00:00+00:00"
-    },
-    {
       "id": "5e4ad95c14ec",
       "title": "Build more responsive apps with the Decisions API",
       "summary": "Fast, focused, low-cost decisions for any application.",
@@ -307,20 +406,9 @@ window.NEWS_DATA = {
       "published": "2026-10-22T18:48:04+00:00"
     },
     {
-      "id": "904440ef477c",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-22T18:43:53+00:00"
-    },
-    {
       "id": "4c178a20ae6a",
       "title": "Show HN: UI micro interactions prompts for AI",
-      "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 79 # Comments: 44",
+      "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 80 # Comments: 46",
       "url": "https://www.typeui.sh/micro-interactions",
       "source": "Hacker News (AI)",
       "domain": "typeui.sh",
@@ -331,79 +419,13 @@ window.NEWS_DATA = {
     {
       "id": "9238bc8f869c",
       "title": "Award-winning AI literature",
-      "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 65 # Comments: 75",
+      "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 66 # Comments: 76",
       "url": "https://jamesyu.org/award-winning-ai-literature/",
       "source": "Hacker News (AI)",
       "domain": "jamesyu.org",
       "category": "Community",
       "image": "",
       "published": "2026-10-22T18:28:26+00:00"
-    },
-    {
-      "id": "ae37d2654b7d",
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 137 # Comments: 80",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "source": "Hacker News (AI)",
-      "domain": "arxiv.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-22T18:28:16+00:00"
-    },
-    {
-      "id": "c1e1ed6c3e7c",
-      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 89 # Comments: 46",
-      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-      "source": "Hacker News (AI)",
-      "domain": "biograph.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-22T18:02:54+00:00"
-    },
-    {
-      "id": "3cde1f2aedff",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 495 # Comments: 213",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-22T17:44:06+00:00"
-    },
-    {
-      "id": "f29126580494",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-22T16:47:17+00:00"
-    },
-    {
-      "id": "b5e3cfc4ac55",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 632 # Comments: 603",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "source": "Hacker News (AI)",
-      "domain": "modelcompare.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-22T16:08:00+00:00"
-    },
-    {
-      "id": "98850aca1649",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-22T16:00:00+00:00"
     },
     {
       "id": "df269649274a",
@@ -670,17 +692,6 @@ window.NEWS_DATA = {
       "published": "2026-10-21T14:26:19+00:00"
     },
     {
-      "id": "50bad9d6d10f",
-      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-21T14:00:00+00:00"
-    },
-    {
       "id": "5f27b7200961",
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
@@ -690,17 +701,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-10-21T13:00:00+00:00"
-    },
-    {
-      "id": "8227893c8777",
-      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-      "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-21T12:35:00+00:00"
     },
     {
       "id": "d08258aa019d",
