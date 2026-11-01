@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T12:03:50.966046+00:00",
-  "count": 97,
+  "generated_at": "2026-11-01T13:03:13.309988+00:00",
+  "count": 85,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,138 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "31462455a278",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-01T10:30:00+00:00"
+    },
+    {
+      "id": "c3c3cd9472c2",
+      "title": "The AI cost of JavaScript frameworks",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 121 # Comments: 70",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "source": "Hacker News (AI)",
+      "domain": "nolanlawson.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-01T06:06:19+00:00"
+    },
+    {
+      "id": "7409155859ed",
+      "title": "AI text watermarking and quality loss",
+      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 57 # Comments: 9",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "source": "Hacker News (AI)",
+      "domain": "blog.keyvan.net",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-31T21:50:13+00:00"
+    },
+    {
+      "id": "71bb6dae3937",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-31T21:41:00+00:00"
+    },
+    {
+      "id": "6f473418b1d6",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-31T21:36:07+00:00"
+    },
+    {
+      "id": "a5d358fed3b7",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-31T21:17:03+00:00"
+    },
+    {
+      "id": "50b227cc1716",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 173 # Comments: 184",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "source": "Hacker News (AI)",
+      "domain": "ryanmadden.net",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-31T18:50:34+00:00"
+    },
+    {
+      "id": "b0a547f56259",
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 78 # Comments: 53",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "source": "Hacker News (AI)",
+      "domain": "dl.acm.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-31T18:02:29+00:00"
+    },
+    {
+      "id": "2a7b7e174a35",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-31T16:12:55+00:00"
+    },
+    {
+      "id": "447373de286f",
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "summary": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news.ycombinator.com/item?id=50315990 Points: 74 # Comments: 18",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "source": "Hacker News (AI)",
+      "domain": "indiatoday.in",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-31T13:25:10+00:00"
+    },
+    {
+      "id": "9950c990389a",
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked Comments URL: https://news.ycombinator.com/item?id=50315987 Points: 71 # Comment…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "source": "Hacker News (AI)",
+      "domain": "tomshardware.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-10-31T13:25:00+00:00"
+    },
+    {
+      "id": "0f56734e0da4",
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-10-31T12:00:00+00:00"
+    },
     {
       "id": "47595463dd13",
       "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
@@ -30,138 +162,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-10-31T10:00:00+00:00"
-    },
-    {
-      "id": "90776c05c35f",
-      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet additional expert copies compete with tok…",
-      "url": "https://arxiv.org/abs/2610.37720",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "498e16dcdde4",
-      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We construct a family of loca…",
-      "url": "https://arxiv.org/abs/2610.37731",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "cac5c8aecb46",
-      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as arithmetic, counting…",
-      "url": "https://arxiv.org/abs/2610.37732",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "f04d8309302a",
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-discipl…",
-      "url": "https://arxiv.org/abs/2610.37739",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "ad959d82c5d8",
-      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
-      "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites. Capture-and-replay preserves…",
-      "url": "https://arxiv.org/abs/2610.37786",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "f62af0bbb455",
-      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
-      "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge. Yet a checker can be wrong as well: it can miss errors, and it can flag correct…",
-      "url": "https://arxiv.org/abs/2610.37809",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "d3dc52651880",
-      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move money on a blockchain and cannot be fixed on…",
-      "url": "https://arxiv.org/abs/2610.37830",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "33d91174fdd8",
-      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
-      "summary": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behavioural test: a partner that uses a code reacts to the exact wording of a message, whereas an uninvolved…",
-      "url": "https://arxiv.org/abs/2610.37849",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "c89e65b2d39c",
-      "title": "Evaluating and improving AI agents for sequencing protocol understanding",
-      "summary": "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays. We introduce LibStructBench, a…",
-      "url": "https://arxiv.org/abs/2610.37851",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "010998725623",
-      "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-      "summary": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of operation in modern agent…",
-      "url": "https://arxiv.org/abs/2610.37859",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "969df6e923ae",
-      "title": "What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine",
-      "summary": "arXiv:2610.37867v1 Announce Type: new Abstract: Food similarity underlies retrieval, recommendation, substitution, and other food computing tasks, yet food representations are typically evaluated by identity preservation. We ask what happens to food similarity beyond identity: how different visual representations orga…",
-      "url": "https://arxiv.org/abs/2610.37867",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
-    },
-    {
-      "id": "e469c8e3d535",
-      "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
-      "summary": "arXiv:2610.37875v1 Announce Type: new Abstract: Accurate AI assistance can improve immediate judgments while reducing opportunities to practise the operations needed for independent performance. Verification Learning Theory (VLT) formalises this possibility for claim-evaluation practice followed by correct, independen…",
-      "url": "https://arxiv.org/abs/2610.37875",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-31T04:00:00+00:00"
     },
     {
       "id": "08563074884e",
@@ -221,7 +221,7 @@
     {
       "id": "bc5a70987c36",
       "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-      "summary": "Article URL: https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50310431 Points: 62 # Comments: 13",
+      "summary": "Article URL: https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50310431 Points: 69 # Comments: 15",
       "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
       "source": "Hacker News (AI)",
       "domain": "reuters.com",
@@ -331,7 +331,7 @@
     {
       "id": "aa75df4ae33c",
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 277 # Comments: 232",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 291 # Comments: 252",
       "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
       "source": "Hacker News (AI)",
       "domain": "404media.co",
@@ -364,7 +364,7 @@
     {
       "id": "b18c4e1c0cd1",
       "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 256 # Comments: 284",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 267 # Comments: 296",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "source": "Hacker News (AI)",
       "domain": "bbc.co.uk",
@@ -373,20 +373,9 @@
       "published": "2026-10-30T16:13:02+00:00"
     },
     {
-      "id": "ca0fc9eb56fc",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-30T16:03:45+00:00"
-    },
-    {
       "id": "3e98e0a76f9f",
       "title": "Some Thing is Happening A note from the AI companies",
-      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 50 # Comments: 13",
+      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 68 # Comments: 19",
       "url": "https://alanbellows.com/some-thing-is-happening/",
       "source": "Hacker News (AI)",
       "domain": "alanbellows.com",
@@ -397,7 +386,7 @@
     {
       "id": "85a47826f389",
       "title": "AI isn't replacing SREs, it's deskilling them",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 605 # Comments: 455",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 655 # Comments: 476",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "source": "Hacker News (AI)",
       "domain": "newsletter.signoz.io",
@@ -408,57 +397,13 @@
     {
       "id": "9d808ebb685d",
       "title": "Neal Stephenson on AI and What Comes Next [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 53 # Comments: 24",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 55 # Comments: 24",
       "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
       "source": "Hacker News (AI)",
       "domain": "youtube.com",
       "category": "Community",
       "image": "",
       "published": "2026-10-30T14:18:34+00:00"
-    },
-    {
-      "id": "89b5618e262c",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 210 # Comments: 247",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "source": "Hacker News (AI)",
-      "domain": "fortune.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-30T14:08:20+00:00"
-    },
-    {
-      "id": "756222519e6a",
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second f…",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-30T14:00:00+00:00"
-    },
-    {
-      "id": "ffb0ace266e8",
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "summary": "DoorDash said that it is open to working with third-party agent makers.",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-30T13:54:25+00:00"
-    },
-    {
-      "id": "9f2c6fc5c67e",
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-30T13:00:00+00:00"
     },
     {
       "id": "2c6deedadab4",
@@ -470,17 +415,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-10-30T09:30:00+00:00"
-    },
-    {
-      "id": "dda897223d2b",
-      "title": "Ask HN: Are you tired too in this AI era?",
-      "summary": "Although AI lets us do much more, I feel considerably more tired than before. We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context switching overload me. I am pretty sure most of you are experiencing the same as…",
-      "url": "https://news.ycombinator.com/item?id=50301479",
-      "source": "Hacker News (AI)",
-      "domain": "news.ycombinator.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-30T09:17:43+00:00"
     },
     {
       "id": "86c2d6306fd5",
@@ -503,50 +437,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "44f405005a55",
-      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 77 # Comments: 35",
-      "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-      "source": "Hacker News (AI)",
-      "domain": "bbc.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-29T22:22:13+00:00"
-    },
-    {
-      "id": "735743dec3bb",
-      "title": "Building an AI-native engineering org",
-      "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 163 # Comments: 184",
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "source": "Hacker News (AI)",
-      "domain": "twitter.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-29T21:58:34+00:00"
-    },
-    {
-      "id": "e0098bab4b7b",
-      "title": "Proton goes all in on using AI",
-      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 117 # Comments: 114",
-      "url": "https://convo.casa/@b/117525936178835007",
-      "source": "Hacker News (AI)",
-      "domain": "convo.casa",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-29T21:49:28+00:00"
-    },
-    {
-      "id": "e21f39ea939e",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 403 # Comments: 166",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "source": "Hacker News (AI)",
-      "domain": "labs.ycombinator.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-29T21:40:28+00:00"
     },
     {
       "id": "2c6b7960e4c6",
@@ -791,17 +681,6 @@
       "published": "2026-10-28T12:00:00+00:00"
     },
     {
-      "id": "4492893608df",
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-28T10:15:00+00:00"
-    },
-    {
       "id": "f6417b512a01",
       "title": "The future of the firm",
       "summary": "How AI might enter the org chart—beneath, beside, and between us.",
@@ -822,17 +701,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-10-28T09:30:00+00:00"
-    },
-    {
-      "id": "b7c5aeee5d2a",
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-28T08:30:00+00:00"
     },
     {
       "id": "f49c62e028df",
