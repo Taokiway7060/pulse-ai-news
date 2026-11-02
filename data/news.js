@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-11-01T13:03:13.309988+00:00",
-  "count": 85,
+  "generated_at": "2026-11-02T15:26:58.883596+00:00",
+  "count": 98,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,325 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "7b13be3d0ee5",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-02T15:00:00+00:00"
+    },
+    {
+      "id": "bae512e79aee",
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-02T15:00:00+00:00"
+    },
+    {
+      "id": "e2314886b4c9",
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-02T14:00:00+00:00"
+    },
+    {
+      "id": "1c7726b341c5",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-02T13:57:53+00:00"
+    },
+    {
+      "id": "6dec194058f8",
+      "title": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T13:10:32+00:00"
+    },
+    {
+      "id": "5ac3495ca900",
+      "title": "Last night an AI agent performed brain surgery on a mouse",
+      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 52 # Comments: 45",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "source": "Hacker News (AI)",
+      "domain": "twitter.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-02T12:50:59+00:00"
+    },
+    {
+      "id": "8368ac45d907",
+      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "id": "9bfba487c87f",
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-02T10:00:00+00:00"
+    },
+    {
+      "id": "bf7e4f1be5f0",
+      "title": "The agentic web is here",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that cou…",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T09:35:19+00:00"
+    },
+    {
+      "id": "6e406f18ccb7",
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 125 # Comments: 62",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "source": "Hacker News (AI)",
+      "domain": "labs.cloudsecurityalliance.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-02T07:27:28+00:00"
+    },
+    {
+      "id": "8bcdf77b54f7",
+      "title": "Automatic Construction of Strong Simple Baselines",
+      "summary": "arXiv:2610.40700v1 Announce Type: new Abstract: To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baselines. As deep learning has become increasingly common in the physical and life sciences, there have been numerous cases in which apparent progress has turned o…",
+      "url": "https://arxiv.org/abs/2610.40700",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "e304726f8dc9",
+      "title": "Bayesian Distribution System State Estimation with Flow Matching",
+      "summary": "arXiv:2610.40728v1 Announce Type: new Abstract: Medium-voltage feeders have few real-time measurements, so distribution system state estimation (DSSE) rests on pseudo-measurements of the secondary substations, a prior in Bayesian terms. Weighted least squares keeps the power flow exact but reduces this prior to a mean…",
+      "url": "https://arxiv.org/abs/2610.40728",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "56fcc7b89b79",
+      "title": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
+      "summary": "arXiv:2610.40732v1 Announce Type: new Abstract: Industrial Internet of Things (IIoT) edge pipelines routinely lose contiguous blocks of multi-sensor data to network dropouts and hardware faults. The standard remedy is a disjointed \"impute-then-detect\" pipeline whose imputer is trained only for Mean Squared Error (MSE)…",
+      "url": "https://arxiv.org/abs/2610.40732",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "155c99f5193b",
+      "title": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
+      "summary": "arXiv:2610.40736v1 Announce Type: new Abstract: High dimensionality degrades both the efficiency and the effectiveness of learning algorithms, and in many applications no class labels are available to guide dimensionality reduction. This paper proposes LIDFS, an unsupervised feature selection method based on Local Int…",
+      "url": "https://arxiv.org/abs/2610.40736",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "19fa8c9e65a6",
+      "title": "Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors",
+      "summary": "arXiv:2610.40740v1 Announce Type: new Abstract: Continual adaptation requires deciding not only how to update a model, but whether to commit an update without exceeding a declared budget for changes to protected behavior. We introduce Certified Anchor-Based Adaptation (CABA), a candidate-agnostic post-update gate that…",
+      "url": "https://arxiv.org/abs/2610.40740",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "d54286ce3cdc",
+      "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
+      "summary": "arXiv:2610.40757v1 Announce Type: new Abstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and continual learning (CL) -- two powerful cognitive abilities. Despite this importance, efforts to model ZI and CL are seriously limited in sever…",
+      "url": "https://arxiv.org/abs/2610.40757",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "145130a34aad",
+      "title": "Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation",
+      "summary": "arXiv:2610.40857v1 Announce Type: new Abstract: Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the ability to efficiently adapt to unseen data distributions with additional finetuning. As with all neural architectures, finetuning such models comes with the…",
+      "url": "https://arxiv.org/abs/2610.40857",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "1ea069fd0fb2",
+      "title": "FARO: Function-Space Adaptive Return-to-Risk Optimization via Cross-Block Equal-Risk-Contribution Budget Allocation",
+      "summary": "arXiv:2610.40858v1 Announce Type: new Abstract: Training a large language model is compute-bound, and current recipes divide the work between optimizers by hand: orthogonalized momentum for attention and MLP matrices, Adam-style updates for the rest. This division rests on human priors about which layer type deserves…",
+      "url": "https://arxiv.org/abs/2610.40858",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "a39b61ccce34",
+      "title": "Near-Optimal First-Order Regret for Bandits with Feedback Graphs",
+      "summary": "arXiv:2610.40861v1 Announce Type: new Abstract: We study first-order regret guarantees for adversarial bandits with a fixed, known directed feedback graph. For strongly observable graphs, [ACBDK15] establishes a minimax regret of $\\widetilde{\\Theta}(\\sqrt{\\alpha T})$, where $\\alpha$ denotes the independence number of…",
+      "url": "https://arxiv.org/abs/2610.40861",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "f1e69680b97b",
+      "title": "TensorSSM: Memorizing Spatial Position in Dynamic State Space for Tensor Core Generation",
+      "summary": "arXiv:2610.40871v1 Announce Type: new Abstract: High-dimensional tensors are ubiquitous in real-world applications but lead to massive storage overhead. Functional tensor decomposition addresses this by employing neural networks to map element coordinates to tensor cores, significantly reducing the parameters for data…",
+      "url": "https://arxiv.org/abs/2610.40871",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "a22446e316be",
+      "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
+      "summary": "arXiv:2610.40901v1 Announce Type: new Abstract: As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existing work. First, not all publications release code. For instance, only about 20% of arXiv TSF papers have a code link in the surveyed period. Se…",
+      "url": "https://arxiv.org/abs/2610.40901",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "8acae9469eab",
+      "title": "No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates",
+      "summary": "arXiv:2610.40914v1 Announce Type: new Abstract: Training acceleration methods for diffusion transformers, such as REPA and dispersive regularization, are commonly explained by additional supervision, spatial-structure priors, or improved feature geometry. We revisit this view and uncover a striking internal change: th…",
+      "url": "https://arxiv.org/abs/2610.40914",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-02T05:00:00+00:00"
+    },
+    {
+      "id": "486009b3e936",
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 98 # Comments: 91",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "source": "Hacker News (AI)",
+      "domain": "eurogamer.net",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-02T01:47:07+00:00"
+    },
+    {
+      "id": "574f8e36a96e",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 236 # Comments: 238",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "Hacker News (AI)",
+      "domain": "techcrunch.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-01T22:10:45+00:00"
+    },
+    {
+      "id": "96fbdeda0c64",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-01T21:55:23+00:00"
+    },
+    {
+      "id": "dff2fa2bf920",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-01T20:57:58+00:00"
+    },
+    {
+      "id": "d019c3c9ec81",
+      "title": "It wasn't AI that flipped Proton's charge",
+      "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 162 # Comments: 97",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "source": "Hacker News (AI)",
+      "domain": "blog.raed.dev",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-01T18:53:55+00:00"
+    },
+    {
+      "id": "4f47c9921405",
+      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+      "summary": "Article URL: https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial Comments URL: https://news.ycombinator.com/item?id=50328293 Points: 56 # Comments: 6",
+      "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
+      "source": "Hacker News (AI)",
+      "domain": "paulfwalsh.substack.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-01T18:33:02+00:00"
+    },
+    {
+      "id": "581eb007140a",
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy Comments URL: https://news.ycombinator.com/item?id=50325662 Points: 174 # Comments: 87",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "source": "Hacker News (AI)",
+      "domain": "tomshardware.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-01T13:47:24+00:00"
+    },
     {
       "id": "31462455a278",
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
@@ -23,7 +342,7 @@ window.NEWS_DATA = {
     {
       "id": "c3c3cd9472c2",
       "title": "The AI cost of JavaScript frameworks",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 121 # Comments: 70",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 428 # Comments: 325",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "source": "Hacker News (AI)",
       "domain": "nolanlawson.com",
@@ -34,7 +353,7 @@ window.NEWS_DATA = {
     {
       "id": "7409155859ed",
       "title": "AI text watermarking and quality loss",
-      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 57 # Comments: 9",
+      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 74 # Comments: 16",
       "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
       "source": "Hacker News (AI)",
       "domain": "blog.keyvan.net",
@@ -78,7 +397,7 @@ window.NEWS_DATA = {
     {
       "id": "50b227cc1716",
       "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 173 # Comments: 184",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 188",
       "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
       "source": "Hacker News (AI)",
       "domain": "ryanmadden.net",
@@ -89,7 +408,7 @@ window.NEWS_DATA = {
     {
       "id": "b0a547f56259",
       "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 78 # Comments: 53",
+      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 81 # Comments: 54",
       "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
       "source": "Hacker News (AI)",
       "domain": "dl.acm.org",
@@ -118,17 +437,6 @@ window.NEWS_DATA = {
       "category": "Community",
       "image": "",
       "published": "2026-10-31T13:25:10+00:00"
-    },
-    {
-      "id": "9950c990389a",
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked Comments URL: https://news.ycombinator.com/item?id=50315987 Points: 71 # Comment…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "source": "Hacker News (AI)",
-      "domain": "tomshardware.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-31T13:25:00+00:00"
     },
     {
       "id": "0f56734e0da4",
@@ -197,17 +505,6 @@ window.NEWS_DATA = {
       "published": "2026-10-30T21:54:34+00:00"
     },
     {
-      "id": "f4b672275999",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-30T21:52:03+00:00"
-    },
-    {
       "id": "be3ac93884dc",
       "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
       "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
@@ -219,28 +516,6 @@ window.NEWS_DATA = {
       "published": "2026-10-30T21:41:54+00:00"
     },
     {
-      "id": "bc5a70987c36",
-      "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-      "summary": "Article URL: https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50310431 Points: 69 # Comments: 15",
-      "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
-      "source": "Hacker News (AI)",
-      "domain": "reuters.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-30T21:32:35+00:00"
-    },
-    {
-      "id": "fb6200262c29",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-30T21:26:59+00:00"
-    },
-    {
       "id": "d8cf1a65c622",
       "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
       "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
@@ -250,17 +525,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-10-30T21:19:26+00:00"
-    },
-    {
-      "id": "d6ad93cbc1a4",
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-30T21:17:40+00:00"
     },
     {
       "id": "e54def311fcf",
@@ -307,17 +571,6 @@ window.NEWS_DATA = {
       "published": "2026-10-30T17:57:24+00:00"
     },
     {
-      "id": "484cc4f9692f",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-30T17:47:12+00:00"
-    },
-    {
       "id": "5c7eadc45fa0",
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "summary": "Low costs and offline security mean magnetic tape still has a job.",
@@ -327,28 +580,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg",
       "published": "2026-10-30T17:38:19+00:00"
-    },
-    {
-      "id": "aa75df4ae33c",
-      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 291 # Comments: 252",
-      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-      "source": "Hacker News (AI)",
-      "domain": "404media.co",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-30T17:24:45+00:00"
-    },
-    {
-      "id": "74b28ffb7784",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-30T17:00:00+00:00"
     },
     {
       "id": "9e100ee8420c",
@@ -362,48 +593,15 @@ window.NEWS_DATA = {
       "published": "2026-10-30T16:53:49+00:00"
     },
     {
-      "id": "b18c4e1c0cd1",
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 267 # Comments: 296",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "source": "Hacker News (AI)",
-      "domain": "bbc.co.uk",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-30T16:13:02+00:00"
-    },
-    {
-      "id": "3e98e0a76f9f",
-      "title": "Some Thing is Happening A note from the AI companies",
-      "summary": "Article URL: https://alanbellows.com/some-thing-is-happening/ Comments URL: https://news.ycombinator.com/item?id=50305724 Points: 68 # Comments: 19",
-      "url": "https://alanbellows.com/some-thing-is-happening/",
-      "source": "Hacker News (AI)",
-      "domain": "alanbellows.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-30T15:53:42+00:00"
-    },
-    {
-      "id": "85a47826f389",
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 655 # Comments: 476",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "source": "Hacker News (AI)",
-      "domain": "newsletter.signoz.io",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-30T15:52:18+00:00"
-    },
-    {
-      "id": "9d808ebb685d",
-      "title": "Neal Stephenson on AI and What Comes Next [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ Comments URL: https://news.ycombinator.com/item?id=50304280 Points: 55 # Comments: 24",
-      "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
-      "source": "Hacker News (AI)",
-      "domain": "youtube.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-10-30T14:18:34+00:00"
+      "id": "3276f3fb0087",
+      "title": "Speeding up planning decisions with AI",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "source": "DeepMind",
+      "domain": "deepmind.google",
+      "category": "Labs",
+      "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
+      "published": "2026-10-30T14:18:30+00:00"
     },
     {
       "id": "2c6deedadab4",
@@ -527,17 +725,6 @@ window.NEWS_DATA = {
       "published": "2026-10-29T10:11:12+00:00"
     },
     {
-      "id": "b29c2accfd26",
-      "title": "I Gave My Blood to the AI Death Clock",
-      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-      "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-29T10:00:00+00:00"
-    },
-    {
       "id": "e8d06bf83170",
       "title": "How we detect frontier model misalignment",
       "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
@@ -624,17 +811,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
       "published": "2026-10-28T18:47:27+00:00"
-    },
-    {
-      "id": "08178eb25c20",
-      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-      "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-28T18:30:00+00:00"
     },
     {
       "id": "f83618ac9daa",
@@ -780,17 +956,6 @@ window.NEWS_DATA = {
       "published": "2026-10-27T11:19:18+00:00"
     },
     {
-      "id": "5c2a8bbd723c",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-10-27T07:00:00+00:00"
-    },
-    {
       "id": "5c503e6b2b74",
       "title": "Will the real Anthropic please stand up",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the t…",
@@ -877,28 +1042,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
       "published": "2026-10-22T14:30:24+00:00"
-    },
-    {
-      "id": "a934363d4c7f",
-      "title": "Making the case for context-aware AI",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI fr…",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-22T10:00:00+00:00"
-    },
-    {
-      "id": "a9123818e5a3",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily p…",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-22T08:41:18+00:00"
     },
     {
       "id": "2afa16b75fba",
