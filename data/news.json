@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T13:58:00.630189+00:00",
-  "count": 99,
+  "generated_at": "2026-11-04T14:13:22.941058+00:00",
+  "count": 88,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,380 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "4870cca36a23",
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption",
+      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-04T13:49:51+00:00"
+    },
+    {
+      "id": "24b85334fcf2",
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-04T13:00:00+00:00"
+    },
+    {
+      "id": "02120b7c4ff7",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either…",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-04T13:00:00+00:00"
+    },
+    {
+      "id": "a63321a69d15",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 276 # Comments: 164",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "Hacker News (AI)",
+      "domain": "spectrum.ieee.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-04T11:52:17+00:00"
+    },
+    {
+      "id": "fd2ddea2c5e1",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 168 # Comments: 112",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "source": "Hacker News (AI)",
+      "domain": "theguardian.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-04T10:23:34+00:00"
+    },
+    {
+      "id": "a4327e915d27",
+      "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
+      "summary": "arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysing real graphs, including social, citation, biological, and many other networks. This article proposes three new, general, hierarchical frameworks to deal with this task. The introduced approach supports…",
+      "url": "https://arxiv.org/abs/2303.12212",
+      "source": "arXiv cs.LG",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-04T05:00:00+00:00"
+    },
+    {
+      "id": "f7f2d5c84219",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T22:41:03+00:00"
+    },
+    {
+      "id": "364fcc858cae",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T22:19:53+00:00"
+    },
+    {
+      "id": "a27fd208035e",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T21:43:08+00:00"
+    },
+    {
+      "id": "a05974033c21",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 362 # Comments: 56",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "source": "Hacker News (AI)",
+      "domain": "arxiv.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T21:40:53+00:00"
+    },
+    {
+      "id": "38d37f840734",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 381 # Comments: 156",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "source": "Hacker News (AI)",
+      "domain": "asia.nikkei.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T21:26:44+00:00"
+    },
+    {
+      "id": "0b7b97f5018b",
+      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight Comments URL: https://news.ycombinator.com/item?id=50358414 Points: 73 # Comments: 77",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+      "source": "Hacker News (AI)",
+      "domain": "bloomberg.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T21:25:48+00:00"
+    },
+    {
+      "id": "78f24cce8b50",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "summary": "To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The part that I care most…",
+      "url": "https://uncracked.city",
+      "source": "Hacker News (AI)",
+      "domain": "uncracked.city",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T21:20:03+00:00"
+    },
+    {
+      "id": "63fa06981389",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T21:05:55+00:00"
+    },
+    {
+      "id": "7c2a9c8131d4",
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg",
+      "published": "2026-11-03T20:39:55+00:00"
+    },
+    {
+      "id": "20e5c66f4f1d",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T19:34:43+00:00"
+    },
+    {
+      "id": "af69e940cf44",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T18:42:16+00:00"
+    },
+    {
+      "id": "7b4f1a5b48a4",
+      "title": "How I use AI (Oct 2026)",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 209 # Comments: 247",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "source": "Hacker News (AI)",
+      "domain": "ben.stolovitz.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T18:11:11+00:00"
+    },
+    {
+      "id": "7151a4d22bab",
+      "title": "Google researchers demand freedom to tell the world what they know about AI",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/ Comments URL: https://news.ycombinator.com/item?id=50355504 Points: 91 # Comments: 105",
+      "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+      "source": "Hacker News (AI)",
+      "domain": "washingtonpost.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T17:55:26+00:00"
+    },
+    {
+      "id": "3dd1e1405d95",
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
+      "published": "2026-11-03T17:54:43+00:00"
+    },
+    {
+      "id": "88b611d59457",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1389 # Comments: 460",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T17:22:37+00:00"
+    },
+    {
+      "id": "692782848ae3",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-03T17:15:21+00:00"
+    },
+    {
+      "id": "c9b397427e5f",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T17:07:01+00:00"
+    },
+    {
+      "id": "4a25bc1c1afe",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "DeepMind",
+      "domain": "deepmind.google",
+      "category": "Labs",
+      "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",
+      "published": "2026-11-03T17:01:49+00:00"
+    },
+    {
+      "id": "b8cc9a97b9cd",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-03T16:35:36+00:00"
+    },
+    {
+      "id": "0b510d0d3c0a",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T16:30:34+00:00"
+    },
+    {
+      "id": "90ec543fed0d",
+      "title": "Quili AI",
+      "summary": "Article URL: https://www.quili.ai/ Comments URL: https://news.ycombinator.com/item?id=50353475 Points: 98 # Comments: 64",
+      "url": "https://www.quili.ai/",
+      "source": "Hacker News (AI)",
+      "domain": "quili.ai",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T15:49:02+00:00"
+    },
+    {
+      "id": "480a276f40f2",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T15:38:27+00:00"
+    },
+    {
+      "id": "1b429199d2f2",
+      "title": "AI is destroying my CS degree",
+      "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/ Comments URL: https://news.ycombinator.com/item?id=50353300 Points: 124 # Comments: 116",
+      "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+      "source": "Hacker News (AI)",
+      "domain": "lordtoots.bearblog.dev",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T15:35:06+00:00"
+    },
+    {
+      "id": "940872662784",
+      "title": "Google will turn off search for schools that reject AI",
+      "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 637 # Comments: 439",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "source": "Hacker News (AI)",
+      "domain": "nytimes.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-03T15:25:47+00:00"
+    },
+    {
+      "id": "524d334f568d",
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
+      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T14:45:08+00:00"
+    },
+    {
+      "id": "83ed92cbe1f4",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T14:30:00+00:00"
+    },
+    {
+      "id": "9e5adfe4ca7c",
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-03T14:00:00+00:00"
+    },
+    {
+      "id": "19004c559d1d",
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-03T12:00:00+00:00"
+    },
     {
       "id": "193cfb22989d",
       "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
@@ -30,6 +404,17 @@
       "category": "Research",
       "image": "",
       "published": "2026-11-03T10:43:41+00:00"
+    },
+    {
+      "id": "ccdfe5509a66",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "url": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-03T08:00:00+00:00"
     },
     {
       "id": "352ad6012a1b",
@@ -54,37 +439,26 @@
       "published": "2026-11-03T04:18:47+00:00"
     },
     {
-      "id": "7954842b8c34",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
+      "id": "a5e5241066f0",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
       "image": "",
-      "published": "2026-11-03T03:30:00+00:00"
+      "published": "2026-11-03T00:00:00+00:00"
     },
     {
-      "id": "93dc0b090ec9",
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
+      "id": "95fde5a34dba",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "summary": "",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
       "image": "",
-      "published": "2026-11-03T01:49:52+00:00"
-    },
-    {
-      "id": "74032a44c02a",
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-03T00:35:52+00:00"
+      "published": "2026-11-03T00:00:00+00:00"
     },
     {
       "id": "2f1eccb65bca",
@@ -96,83 +470,6 @@
       "category": "Open Source",
       "image": "",
       "published": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "id": "9ea330a06e9c",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-02T23:13:53+00:00"
-    },
-    {
-      "id": "2848de275c40",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-02T22:14:50+00:00"
-    },
-    {
-      "id": "484fa0d6420c",
-      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-      "summary": "Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f Comments URL: https://news.ycombinator.com/item?id=50342424 Points: 73 # Comments: 44",
-      "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
-      "source": "Hacker News (AI)",
-      "domain": "ft.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-02T19:36:37+00:00"
-    },
-    {
-      "id": "0808a09178e8",
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 190 # Comments: 168",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "source": "Hacker News (AI)",
-      "domain": "cnbc.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-02T19:27:37+00:00"
-    },
-    {
-      "id": "2a4be18b5a56",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-02T19:25:59+00:00"
-    },
-    {
-      "id": "01aa81a5be84",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-02T19:19:17+00:00"
-    },
-    {
-      "id": "df1e61468b87",
-      "title": "Egoless Mathematics in the AI Era",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 173 # Comments: 137",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "source": "Hacker News (AI)",
-      "domain": "terrytao.wordpress.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-02T18:54:44+00:00"
     },
     {
       "id": "8ecdaae4e157",
@@ -197,10 +494,10 @@
       "published": "2026-11-02T18:05:31+00:00"
     },
     {
-      "id": "4dd7253f91f0",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "id": "a9cf695a5f7b",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
       "domain": "openai.com",
       "category": "Labs",
@@ -208,10 +505,10 @@
       "published": "2026-11-02T18:00:00+00:00"
     },
     {
-      "id": "a9cf695a5f7b",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "id": "4dd7253f91f0",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "domain": "openai.com",
       "category": "Labs",
@@ -241,39 +538,6 @@
       "published": "2026-11-02T17:00:00+00:00"
     },
     {
-      "id": "c31c969e3a61",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 335 # Comments: 257",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "source": "Hacker News (AI)",
-      "domain": "businessinsider.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-02T16:40:29+00:00"
-    },
-    {
-      "id": "ca5b95418e99",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-02T16:30:00+00:00"
-    },
-    {
-      "id": "cfd3b613e835",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-02T16:23:21+00:00"
-    },
-    {
       "id": "ed9f1aad779d",
       "title": "Scaling Git at OpenAI",
       "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
@@ -283,17 +547,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-11-02T15:30:00+00:00"
-    },
-    {
-      "id": "7b13be3d0ee5",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-02T15:00:00+00:00"
     },
     {
       "id": "bae512e79aee",
@@ -307,50 +560,6 @@
       "published": "2026-11-02T15:00:00+00:00"
     },
     {
-      "id": "7a24a2308fa1",
-      "title": "GPT-Rosalind-6 System Card Addendum",
-      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 70 # Comments: 55",
-      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-      "source": "Hacker News (AI)",
-      "domain": "deploymentsafety.openai.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-02T14:44:02+00:00"
-    },
-    {
-      "id": "26393ccf22cc",
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 180 # Comments: 249",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "source": "Hacker News (AI)",
-      "domain": "bloomberg.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-02T14:40:05+00:00"
-    },
-    {
-      "id": "e2314886b4c9",
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "id": "2114b7399bda",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-02T13:57:53+00:00"
-    },
-    {
       "id": "6dec194058f8",
       "title": "Stop counting tokens, start counting what ships",
       "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
@@ -360,17 +569,6 @@
       "category": "Research",
       "image": "",
       "published": "2026-11-02T13:10:32+00:00"
-    },
-    {
-      "id": "5ac3495ca900",
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 137 # Comments: 111",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "source": "Hacker News (AI)",
-      "domain": "twitter.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-02T12:50:59+00:00"
     },
     {
       "id": "8368ac45d907",
@@ -417,160 +615,6 @@
       "published": "2026-11-02T09:00:00+00:00"
     },
     {
-      "id": "6e406f18ccb7",
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 157 # Comments: 87",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-      "source": "Hacker News (AI)",
-      "domain": "labs.cloudsecurityalliance.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-02T07:27:28+00:00"
-    },
-    {
-      "id": "034214085463",
-      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
-      "summary": "arXiv:2610.40758v1 Announce Type: new Abstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent can also pass by writing down each correction as an exception, and its list then grows with every new rule. We introdu…",
-      "url": "https://arxiv.org/abs/2610.40758",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "ac4fb283a49b",
-      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
-      "summary": "arXiv:2610.40798v1 Announce Type: new Abstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily support the correct safety decision. In a matched human evaluation of 3,000 predictions from ten frozen open models, 86.1%…",
-      "url": "https://arxiv.org/abs/2610.40798",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "5cb2041eccf9",
-      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
-      "summary": "arXiv:2610.40831v1 Announce Type: new Abstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermediary purchases inference from a portfolio of models and resells it to users at a…",
-      "url": "https://arxiv.org/abs/2610.40831",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "a3e4415a98d4",
-      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
-      "summary": "arXiv:2610.40883v1 Announce Type: new Abstract: Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether that disagreement degrades speech emotion recognition. Mapping text and audio into a shared valence-arousal-dominance sp…",
-      "url": "https://arxiv.org/abs/2610.40883",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "3275c0fb2237",
-      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
-      "summary": "arXiv:2610.40890v1 Announce Type: new Abstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products as of 2026, ChatGPT gives broad public access to these capabilities, motivating concerns about its…",
-      "url": "https://arxiv.org/abs/2610.40890",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "69714a35e3a4",
-      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
-      "summary": "arXiv:2610.40906v1 Announce Type: new Abstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluated end-to-end, usually without ground truth, so the effect of each des…",
-      "url": "https://arxiv.org/abs/2610.40906",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "51ddb339aae1",
-      "title": "Towards Portable Specification of the Agent Harness",
-      "summary": "arXiv:2610.40917v1 Announce Type: new Abstract: Large language models act only through the infrastructure that surrounds them. That infrastructure, the harness, determines what a model can accomplish and how it fails, yet it has no settled definition. To address this gap, we decompose the harness into eight functional…",
-      "url": "https://arxiv.org/abs/2610.40917",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "86f9db13025e",
-      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
-      "summary": "arXiv:2610.40927v1 Announce Type: new Abstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these trajectories can be executed in parallel. This assumption breaks in realistic deployments, where enterp…",
-      "url": "https://arxiv.org/abs/2610.40927",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "bc00c1586f80",
-      "title": "DiRAFT: Privacy-Aware Financial Transcript Synthesis from Aggregate Discourse Priors",
-      "summary": "arXiv:2610.40938v1 Announce Type: new Abstract: Using customer conversations to train and evaluate financial language models raises confidentiality concerns because non-public financial facts can remain after direct identifiers are masked. Synthetic transcripts offer an alternative data source, but their discourse fid…",
-      "url": "https://arxiv.org/abs/2610.40938",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "fce076e8fc6f",
-      "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
-      "summary": "arXiv:2610.40939v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising way to oversee increasingly capable agents. It succeeds in part because current models appear limited in their ability to control what they verbalize in their reasoning traces. We investigate the source of this limitation…",
-      "url": "https://arxiv.org/abs/2610.40939",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "56112f10beb3",
-      "title": "Benchmarking Forecasting Agents on Yesterday's Tomorrows",
-      "summary": "arXiv:2610.40940v1 Announce Type: new Abstract: Digital agents can now gather and organize information, reason over it, and use tools to complete complex tasks. Forecasting puts all of these abilities to the test: it requires integrating incomplete evidence, inferring causal drivers, and committing to calibrated proba…",
-      "url": "https://arxiv.org/abs/2610.40940",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "a371c98db617",
-      "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
-      "summary": "arXiv:2610.40946v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning allows large language models (LLMs) to generate intermediate reasoning traces in natural language while solving complex tasks. These traces can support safety monitoring by exposing potentially harmful plans before actions are executed. I…",
-      "url": "https://arxiv.org/abs/2610.40946",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "id": "486009b3e936",
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 100 # Comments: 113",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "source": "Hacker News (AI)",
-      "domain": "eurogamer.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-02T01:47:07+00:00"
-    },
-    {
       "id": "b5e419000899",
       "title": "Qodo builds context into AI code review with Codex",
       "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
@@ -593,39 +637,6 @@
       "published": "2026-11-02T00:00:00+00:00"
     },
     {
-      "id": "574f8e36a96e",
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 243 # Comments: 254",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "source": "Hacker News (AI)",
-      "domain": "techcrunch.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-01T22:10:45+00:00"
-    },
-    {
-      "id": "d019c3c9ec81",
-      "title": "It wasn't AI that flipped Proton's charge",
-      "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 169 # Comments: 99",
-      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
-      "source": "Hacker News (AI)",
-      "domain": "blog.raed.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-01T18:53:55+00:00"
-    },
-    {
-      "id": "4f47c9921405",
-      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "summary": "Article URL: https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial Comments URL: https://news.ycombinator.com/item?id=50328293 Points: 60 # Comments: 6",
-      "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
-      "source": "Hacker News (AI)",
-      "domain": "paulfwalsh.substack.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-01T18:33:02+00:00"
-    },
-    {
       "id": "31462455a278",
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
       "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
@@ -639,7 +650,7 @@
     {
       "id": "0f56734e0da4",
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "summary": "Named Volta-Autodoxer, the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
       "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
       "source": "Wired AI",
       "domain": "wired.com",
@@ -780,28 +791,6 @@
       "published": "2026-10-30T09:30:00+00:00"
     },
     {
-      "id": "86c2d6306fd5",
-      "title": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-10-30T09:00:00+00:00"
-    },
-    {
-      "id": "545161420e79",
-      "title": "Fair use benefits everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-10-30T00:00:00+00:00"
-    },
-    {
       "id": "2c6b7960e4c6",
       "title": "Trump declares robot imports a national security threat",
       "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
@@ -813,28 +802,6 @@
       "published": "2026-10-29T19:07:53+00:00"
     },
     {
-      "id": "078c8f349c5e",
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-29T18:39:43+00:00"
-    },
-    {
-      "id": "ea3822321c0a",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-10-29T17:00:00+00:00"
-    },
-    {
       "id": "1a98390afccb",
       "title": "Google admits AI search makes less money, but it's fixing that with more ads",
       "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
@@ -844,17 +811,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
       "published": "2026-10-29T16:24:55+00:00"
-    },
-    {
-      "id": "63d4a479aa20",
-      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-10-29T15:00:00+00:00"
     },
     {
       "id": "38d918f46b62",
@@ -923,28 +879,6 @@
       "published": "2026-10-28T20:32:02+00:00"
     },
     {
-      "id": "b38919d45499",
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
-      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
-      "published": "2026-10-28T18:47:27+00:00"
-    },
-    {
-      "id": "f83618ac9daa",
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "summary": "But the AI responses get more forthright when asked outside the US.",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
-      "published": "2026-10-28T17:46:32+00:00"
-    },
-    {
       "id": "3807663ea017",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "summary": "",
@@ -978,17 +912,6 @@
       "published": "2026-10-27T17:16:52+00:00"
     },
     {
-      "id": "b17e72453d71",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-10-27T16:12:42+00:00"
-    },
-    {
       "id": "202d8f3637ed",
       "title": "Genie 4: A new generation of world simulation",
       "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
@@ -1009,17 +932,6 @@
       "category": "Research",
       "image": "",
       "published": "2026-10-27T11:19:18+00:00"
-    },
-    {
-      "id": "5c503e6b2b74",
-      "title": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the t…",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-26T17:45:43+00:00"
     },
     {
       "id": "22eb296228b0",
@@ -1064,39 +976,6 @@
       "category": "Labs",
       "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
       "published": "2026-10-22T14:30:24+00:00"
-    },
-    {
-      "id": "2afa16b75fba",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-10-22T07:51:31+00:00"
-    },
-    {
-      "id": "50568754eb9f",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-10-21T17:35:36+00:00"
-    },
-    {
-      "id": "657142f5011d",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "source": "Google AI",
-      "domain": "blog.google",
-      "category": "Labs",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
-      "published": "2026-10-21T04:00:00+00:00"
     }
   ]
 }
