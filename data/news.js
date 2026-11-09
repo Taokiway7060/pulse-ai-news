@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-11-08T13:08:18.824992+00:00",
+  "generated_at": "2026-11-09T15:53:24.811220+00:00",
   "count": 88,
   "categories": [
     "Community",
@@ -9,6 +9,182 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "f7c37c866d93",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg",
+      "published": "2026-11-09T15:23:20+00:00"
+    },
+    {
+      "id": "5167df450956",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-09T15:05:57+00:00"
+    },
+    {
+      "id": "6d323628da16",
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-09T14:30:56+00:00"
+    },
+    {
+      "id": "4d0ca9ff0809",
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-09T14:00:00+00:00"
+    },
+    {
+      "id": "1a11541c6c23",
+      "title": "Innovating with AI in the special chemicals industry",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digita…",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-09T13:00:00+00:00"
+    },
+    {
+      "id": "2383c619b96b",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-09T12:34:29+00:00"
+    },
+    {
+      "id": "102451347b30",
+      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 64 # Comments: 10",
+      "url": "https://github.com/samir-sarwar/samir-vllm",
+      "source": "Hacker News (AI)",
+      "domain": "github.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-09T11:36:55+00:00"
+    },
+    {
+      "id": "003740011e08",
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-09T11:00:00+00:00"
+    },
+    {
+      "id": "022932c7e819",
+      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-09T08:00:00+00:00"
+    },
+    {
+      "id": "90e6bca39c4d",
+      "title": "Apple capped engineers at a $200 daily AI budget",
+      "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1 Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 102 # Comments: 104",
+      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+      "source": "Hacker News (AI)",
+      "domain": "stork.ai",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-09T05:30:11+00:00"
+    },
+    {
+      "id": "98935449fdcc",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-09T05:26:29+00:00"
+    },
+    {
+      "id": "8413e6569967",
+      "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 58 # Comments: 29",
+      "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+      "source": "Hacker News (AI)",
+      "domain": "itsfoss.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-09T03:06:55+00:00"
+    },
+    {
+      "id": "2aa5b1759e5d",
+      "title": "I'm not convinced the AI bubble exists",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 449 # Comments: 778",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "source": "Hacker News (AI)",
+      "domain": "matteoraso.github.io",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-08T23:44:36+00:00"
+    },
+    {
+      "id": "4bc64c7afa8a",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-08T21:00:11+00:00"
+    },
+    {
+      "id": "c56424239b35",
+      "title": "How I Fight AI Brain Fry",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 283 # Comments: 199",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "source": "Hacker News (AI)",
+      "domain": "sergeykuhne.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-08T19:37:42+00:00"
+    },
+    {
+      "id": "801bc9dc4680",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 96 # Comments: 124",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "Hacker News (AI)",
+      "domain": "wsj.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-08T18:43:07+00:00"
+    },
     {
       "id": "7f6277e8e629",
       "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
@@ -67,7 +243,7 @@ window.NEWS_DATA = {
     {
       "id": "92e7ca82e184",
       "title": "The end of Microsoft Research's AI Frontiers group",
-      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 471 # Comments: 282",
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 505 # Comments: 309",
       "url": "https://hunch.net/?p=13764006",
       "source": "Hacker News (AI)",
       "domain": "hunch.net",
@@ -87,9 +263,20 @@ window.NEWS_DATA = {
       "published": "2026-11-07T11:00:00+00:00"
     },
     {
+      "id": "47f48e575c89",
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "summary": "Hi Guys, like many of you I work with AI agents every day and across several clients. The major time cost for me is to re-explaining context and past decisions, client rules, that we already do. To finish every tools as its own memory. So I’m curious how you actually handle this: 1. When you start a new session, how d…",
+      "url": "https://news.ycombinator.com/item?id=50403153",
+      "source": "Hacker News (AI)",
+      "domain": "news.ycombinator.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-07T10:01:48+00:00"
+    },
+    {
       "id": "59f44f4b5cda",
       "title": "The AI sell-off compared to well-known stock market crashes",
-      "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 94 # Comments: 78",
+      "summary": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 100 # Comments: 84",
       "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
       "source": "Hacker News (AI)",
       "domain": "kadoa.com",
@@ -122,7 +309,7 @@ window.NEWS_DATA = {
     {
       "id": "b8216c8292ca",
       "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 370 # Comments: 349",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 374 # Comments: 357",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "source": "Hacker News (AI)",
       "domain": "planned-obsolescence.org",
@@ -166,7 +353,7 @@ window.NEWS_DATA = {
     {
       "id": "80b925abd299",
       "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 107 # Comments: 19",
+      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 109 # Comments: 20",
       "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
       "source": "Hacker News (AI)",
       "domain": "reuters.com",
@@ -184,17 +371,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "id": "f8e461e271ce",
-      "title": "Perplexity launches AI agents for work",
-      "summary": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 64 # Comments: 54",
-      "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-      "source": "Hacker News (AI)",
-      "domain": "perplexity.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-06T17:59:41+00:00"
     },
     {
       "id": "53220fd188bb",
@@ -252,28 +428,6 @@ window.NEWS_DATA = {
       "published": "2026-11-06T15:54:47+00:00"
     },
     {
-      "id": "3aa2b63ec2e2",
-      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 136 # Comments: 63",
-      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-      "source": "Hacker News (AI)",
-      "domain": "cbc.ca",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-06T14:13:09+00:00"
-    },
-    {
-      "id": "951d6b015c8f",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-06T14:10:00+00:00"
-    },
-    {
       "id": "c70eea9dfba1",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "summary": "",
@@ -283,28 +437,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-11-06T14:00:48+00:00"
-    },
-    {
-      "id": "7376db006678",
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-06T13:02:16+00:00"
-    },
-    {
-      "id": "0a4dba977226",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-06T13:00:00+00:00"
     },
     {
       "id": "8d15e07802d8",
@@ -318,17 +450,6 @@ window.NEWS_DATA = {
       "published": "2026-11-06T10:00:00+00:00"
     },
     {
-      "id": "25ae7505f377",
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 101 # Comments: 39",
-      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-      "source": "Hacker News (AI)",
-      "domain": "anthropic.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-06T09:13:30+00:00"
-    },
-    {
       "id": "2122e89eea17",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
@@ -338,39 +459,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-11-06T08:00:00+00:00"
-    },
-    {
-      "id": "fd204fb50fe5",
-      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "summary": "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 60 # Comments: 55",
-      "url": "https://obelisk.club/research/app-store-2026",
-      "source": "Hacker News (AI)",
-      "domain": "obelisk.club",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-06T07:59:19+00:00"
-    },
-    {
-      "id": "8843bf284974",
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "summary": "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 220 # Comments: 217",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "source": "Hacker News (AI)",
-      "domain": "lesswrong.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-06T05:19:04+00:00"
-    },
-    {
-      "id": "55cc30c27c48",
-      "title": "Closed AI models dominate the price-performance frontier",
-      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 77 # Comments: 74",
-      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-      "source": "Hacker News (AI)",
-      "domain": "village.dev",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-06T02:49:56+00:00"
     },
     {
       "id": "a17042cb5418",
@@ -393,17 +481,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-11-06T00:00:00+00:00"
-    },
-    {
-      "id": "41a0c86c173e",
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 515 # Comments: 229",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "source": "Hacker News (AI)",
-      "domain": "finance.yahoo.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-05T23:09:57+00:00"
     },
     {
       "id": "7d0c34b8a157",
@@ -450,17 +527,6 @@ window.NEWS_DATA = {
       "published": "2026-11-05T20:00:00+00:00"
     },
     {
-      "id": "0aef1bb325b9",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-11-05T19:35:16+00:00"
-    },
-    {
       "id": "d211130e10a9",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": "",
@@ -505,28 +571,6 @@ window.NEWS_DATA = {
       "published": "2026-11-05T16:26:57+00:00"
     },
     {
-      "id": "2a9eac4271f9",
-      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-      "url": "https://www.wired.com/story/aina-smart-ring/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-05T14:00:00+00:00"
-    },
-    {
-      "id": "3c98d9f0de2e",
-      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-05T13:00:00+00:00"
-    },
-    {
       "id": "85fb9cca1371",
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
       "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
@@ -536,17 +580,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
       "published": "2026-11-05T12:00:41+00:00"
-    },
-    {
-      "id": "e15c06d2fb3a",
-      "title": "AI’s Next Trick? Speaking Dolphin",
-      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-05T12:00:00+00:00"
     },
     {
       "id": "201332d7c8dc",
@@ -857,17 +890,6 @@ window.NEWS_DATA = {
       "published": "2026-10-30T21:41:54+00:00"
     },
     {
-      "id": "e54def311fcf",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "published": "2026-10-30T21:09:54+00:00"
-    },
-    {
       "id": "3276f3fb0087",
       "title": "Speeding up planning decisions with AI",
       "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
@@ -921,28 +943,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-10-29T00:00:00+00:00"
-    },
-    {
-      "id": "c5605acb1052",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "summary": "",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-10-29T00:00:00+00:00"
-    },
-    {
-      "id": "e1d19078e735",
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions th…",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-10-28T20:32:02+00:00"
     },
     {
       "id": "3807663ea017",
