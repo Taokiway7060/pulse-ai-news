@@ -1,6 +1,6 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-11-11T13:57:16.946969+00:00",
-  "count": 117,
+  "generated_at": "2026-11-12T14:58:16.176786+00:00",
+  "count": 95,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,105 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "1614ea9492c2",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-12T14:30:01+00:00"
+    },
+    {
+      "id": "973feb5dc0bd",
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-12T14:14:33+00:00"
+    },
+    {
+      "id": "042c8d22d09a",
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-12T13:58:06+00:00"
+    },
+    {
+      "id": "f12aee120c95",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-12T13:26:25+00:00"
+    },
+    {
+      "id": "b663ee494210",
+      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-12T10:30:00+00:00"
+    },
+    {
+      "id": "6ebe8b51b1b8",
+      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+      "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-12T10:15:00+00:00"
+    },
+    {
+      "id": "bc3440925553",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-12T09:30:00+00:00"
+    },
+    {
+      "id": "fdfae23e074c",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-12T03:13:10+00:00"
+    },
+    {
+      "id": "2083f694830e",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-12T00:00:00+00:00"
+    },
     {
       "id": "49cd7d076194",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -21,10 +120,263 @@ window.NEWS_DATA = {
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
-      "id": "b598c61ffe17",
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 227 # Comments: 93",
-      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "id": "6f59362680b1",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "f80392689506",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T23:28:45+00:00"
+    },
+    {
+      "id": "51a817b74636",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T23:17:05+00:00"
+    },
+    {
+      "id": "a09ef210adc0",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 617 # Comments: 636",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "Hacker News (AI)",
+      "domain": "cbsnews.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-11T21:24:35+00:00"
+    },
+    {
+      "id": "45d6bf70d77c",
+      "title": "Why the data center you dread might never even be built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With…",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T20:15:15+00:00"
+    },
+    {
+      "id": "28e4fd4c472b",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T20:12:01+00:00"
+    },
+    {
+      "id": "1f913c96ce79",
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With…",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T20:02:14+00:00"
+    },
+    {
+      "id": "9fa3bb57696b",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T19:55:54+00:00"
+    },
+    {
+      "id": "9f713f439b9c",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T19:54:00+00:00"
+    },
+    {
+      "id": "d5bc968cfdea",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T19:34:55+00:00"
+    },
+    {
+      "id": "51df96fb2baf",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T19:22:22+00:00"
+    },
+    {
+      "id": "168bc85ec9ef",
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 162 # Comments: 177",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "source": "Hacker News (AI)",
+      "domain": "lpeproject.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-11T19:06:43+00:00"
+    },
+    {
+      "id": "96501881c113",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+      "published": "2026-11-11T18:16:40+00:00"
+    },
+    {
+      "id": "8b3850b79569",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI",
+      "domain": "blog.google",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-11T18:00:00+00:00"
+    },
+    {
+      "id": "601d0098dffd",
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+      "published": "2026-11-11T17:37:32+00:00"
+    },
+    {
+      "id": "d8cf0861ec9b",
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T17:00:00+00:00"
+    },
+    {
+      "id": "384f7c839ac6",
+      "title": "AI, activity, and outcomes in software engineering",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 122 # Comments: 110",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "source": "Hacker News (AI)",
+      "domain": "cabird.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-11T16:33:28+00:00"
+    },
+    {
+      "id": "2234bdfc6ef0",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T16:16:07+00:00"
+    },
+    {
+      "id": "761db2511b56",
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+      "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T16:13:03+00:00"
+    },
+    {
+      "id": "4de254e45455",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google AI",
+      "domain": "blog.google",
+      "category": "Labs",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
+      "published": "2026-11-11T16:00:00+00:00"
+    },
+    {
+      "id": "88e7de6bc1cd",
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-11T15:30:00+00:00"
+    },
+    {
+      "id": "f313a0d6cffc",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "DeepMind",
+      "domain": "deepmind.google",
+      "category": "Labs",
+      "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
+      "published": "2026-11-11T15:00:15+00:00"
+    },
+    {
+      "id": "904018450ff9",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg",
+      "published": "2026-11-11T14:08:57+00:00"
+    },
+    {
+      "id": "492863ebe947",
+      "title": "My AI agents found an unmapped Maya site?",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1018 # Comments: 379",
+      "url": "https://pietromiotti.com/latest/maya-site",
       "source": "Hacker News (AI)",
       "domain": "pietromiotti.com",
       "category": "Community",
@@ -56,7 +408,7 @@ window.NEWS_DATA = {
     {
       "id": "1e0863d9859c",
       "title": "OSS projects banning AI-generated contributions",
-      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 54 # Comments: 92",
+      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 64 # Comments: 110",
       "url": "https://osssaysno.com",
       "source": "Hacker News (AI)",
       "domain": "osssaysno.com",
@@ -76,17 +428,6 @@ window.NEWS_DATA = {
       "published": "2026-11-11T08:00:00+00:00"
     },
     {
-      "id": "fcf3bc864f33",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-11T07:30:51+00:00"
-    },
-    {
       "id": "c48b7a0c7ea6",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "summary": "",
@@ -98,279 +439,37 @@ window.NEWS_DATA = {
       "published": "2026-11-11T05:01:16+00:00"
     },
     {
-      "id": "a9010d0557d9",
-      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-      "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, using coding-agent i…",
-      "url": "https://arxiv.org/abs/2611.12933",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "94a030a1d46b",
-      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-      "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: they pose questions o…",
-      "url": "https://arxiv.org/abs/2611.12934",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "86d5f523278b",
-      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-      "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes. We introduce Topic…",
-      "url": "https://arxiv.org/abs/2611.12935",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "a333dd807e64",
-      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-      "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these limitations, we propos…",
-      "url": "https://arxiv.org/abs/2611.12936",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "849a0c711d7f",
-      "title": "Tracing Psychometric Inference in Large Language Models",
-      "summary": "arXiv:2611.12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from two families (Llama 3 and Qwen 2.5, 0.5B-1…",
-      "url": "https://arxiv.org/abs/2611.12937",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "199f66658612",
-      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
-      "summary": "arXiv:2611.12938v1 Announce Type: new Abstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP and CWQ questions and six VLMs within a fixed KGQA pipeline, we compare text-only prompting against…",
-      "url": "https://arxiv.org/abs/2611.12938",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "7a5c1536b74e",
-      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "summary": "arXiv:2611.12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on modelling real-life scenarios. Personalized m…",
-      "url": "https://arxiv.org/abs/2611.12940",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "284e91b67823",
-      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-      "summary": "arXiv:2611.12941v1 Announce Type: new Abstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathways: intelligence-mediated discovery, proc…",
-      "url": "https://arxiv.org/abs/2611.12941",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "6bd04e82d5d3",
-      "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-      "summary": "arXiv:2611.12942v1 Announce Type: new Abstract: Tabular foundation models (TFMs) predict from a labelled context in a single forward pass. A recent benchmark reported that they decisively outperform tree ensembles for customer churn, but it compared them with untuned gradient-boosted trees (GBDTs) and scored only rank…",
-      "url": "https://arxiv.org/abs/2611.12942",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "1fb47c68024b",
-      "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-      "summary": "arXiv:2611.12950v1 Announce Type: new Abstract: Black-box LLM fingerprinting aims to determine whether a target model was derived from a source model when only the output responses to input queries are observable. One way to reveal this relationship is to perturb each query and observe the resulting responses of both…",
-      "url": "https://arxiv.org/abs/2611.12950",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "e78836c8e3d7",
-      "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
-      "summary": "arXiv:2611.12953v1 Announce Type: new Abstract: Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-intensive workflows. Yet there is little controlled evidence for choosing among competing agentic architectures. Holding the model, tasks, and…",
-      "url": "https://arxiv.org/abs/2611.12953",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "58c55caf7825",
-      "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
-      "summary": "arXiv:2611.12954v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have enabled weight-space programming (WSP), which directly generates neural network weights without gradient-based optimization. However, extending WSP to physical problems remains challenging, particularly in achieving bo…",
-      "url": "https://arxiv.org/abs/2611.12954",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "5b8d27f7694f",
-      "title": "An ensemble of graph generative models for assisted history matching of the Brugge field case",
-      "summary": "arXiv:2611.12927v1 Announce Type: new Abstract: Assisted history matching remains non-unique because many geological realisations can reproduce equivalent production responses with substantial differences between individual well matches. This ambiguity increases when a field comprises several depositional settings and…",
-      "url": "https://arxiv.org/abs/2611.12927",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "438ded681689",
-      "title": "Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series",
-      "summary": "arXiv:2611.12955v1 Announce Type: new Abstract: Time-series classifiers deployed in risk-sensitive domains must be (1) accurate, (2) interpretable, and (3) able to abstain when evidence is weak. Existing methods do not deliver all 3 at once, and the obstacle is structural, rather than logistical. Meaningful temporal p…",
-      "url": "https://arxiv.org/abs/2611.12955",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "4e002a25ac92",
-      "title": "ADIndex: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation",
-      "summary": "arXiv:2611.12956v1 Announce Type: new Abstract: DeepSeek Sparse Attention (DSA) reduces the computational cost of attention through token-level selection. However, its indexer still scores the entire causal prefix for each query, making indexing a dominant source of latency in long-context inference. Notably, the inde…",
-      "url": "https://arxiv.org/abs/2611.12956",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "aad490243274",
-      "title": "Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL",
-      "summary": "arXiv:2611.12964v1 Announce Type: new Abstract: While federated reinforcement learning (RL) has traditionally guaranteed high efficiency in homogeneous environments, collaboration is often hindered when agents possess distinct goals. In this paper, we flip this paradigm, framing reward heterogeneity not as a hurdle to…",
-      "url": "https://arxiv.org/abs/2611.12964",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "2264c5ad1b19",
-      "title": "StatPrompt-LLM: A Lightweight Statistical Refinement for Foundation-Style Time-Series Forecasting",
-      "summary": "arXiv:2611.12974v1 Announce Type: new Abstract: Time-series forecasting has recently seen a paradigm shift with the introduction of foundation-style models that adapt large pretrained language architectures to sequential data. However, effectively exposing fundamental temporal structures, such as trend, scale, and tem…",
-      "url": "https://arxiv.org/abs/2611.12974",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "13caf60f5002",
-      "title": "MADSNet: A Multi-Scale Axial-Attentive Dense Spiking Network for Spike Camera Image Reconstruction",
-      "summary": "arXiv:2611.12980v1 Announce Type: new Abstract: Spike cameras encode dynamic scenes into high-temporal-resolution binary spike streams for efficient high-speed vision. Although spiking neural networks (SNNs) can process such signals with sparse and accumulate-only computation, existing SNN-based reconstruction methods…",
-      "url": "https://arxiv.org/abs/2611.12980",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "fe3fc04a50c2",
-      "title": "Third Eye: Beyond Immediate Gains in Recursive Self-Improvement",
-      "summary": "arXiv:2611.12988v1 Announce Type: new Abstract: Does a useful self-update remain useful after the model updates again? Third Eye separates immediate performance from the outcome of a further native update. We evaluate five 3-8B backbones on math and code: 64 fresh runs, three candidates per run, and three continuation…",
-      "url": "https://arxiv.org/abs/2611.12988",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "af93cd67a771",
-      "title": "Multimodal Graph Learning: A Survey of Models, Benchmarks, and Frontiers",
-      "summary": "arXiv:2611.12990v1 Announce Type: new Abstract: Multimodal attributed graphs (MAGs), in which nodes carry text, images, and other modalities while edges encode relations among entities, underlie e-commerce, social media, content platforms, and creative applications. Learning on MAGs has developed along two complementa…",
-      "url": "https://arxiv.org/abs/2611.12990",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "d8aa07c30bac",
-      "title": "Linear Probes to Bayesian Manifolds: Geometry of Arithmetic in Large Language Models",
-      "summary": "arXiv:2611.12998v1 Announce Type: new Abstract: Linear probes are a standard method to study geometric structures, such as helices and circles, from the activations of large language models (LLMs), and such structure is often taken as evidence that the model computes with it. Probe accuracy alone cannot establish this…",
-      "url": "https://arxiv.org/abs/2611.12998",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "94d6c13ba74d",
-      "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
-      "summary": "arXiv:2611.13001v1 Announce Type: new Abstract: Generation, imputation, and prediction query different aspects of the same tabular distribution, but are usually evaluated separately. This leaves unclear which capabilities they share, how their training objectives interact, and whether one model can perform all three w…",
-      "url": "https://arxiv.org/abs/2611.13001",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "7f8525947ecf",
-      "title": "Branch-and-Commit for Frozen RL Agents: When and Where to Spend Test-Time Compute",
-      "summary": "arXiv:2611.13003v1 Announce Type: new Abstract: Reinforcement learning agents are often deployed with policies that cannot be retrained or modified. In digital environments whose states can be copied and resumed, an operator has another option: sample several continuations from the current state, evaluate them, and co…",
-      "url": "https://arxiv.org/abs/2611.13003",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-      "id": "d04d600c10a2",
-      "title": "The Shape of a Program: Path Signatures for Trace-to-Program Induction",
-      "summary": "arXiv:2611.13005v1 Announce Type: new Abstract: Synthesizing programs from execution traces is a fundamental challenge in algorithmic interpretability and the reverse engineering of complex systems. We bring a rough-path-theoretic perspective to program induction, treating execution traces as high-dimensional rough pa…",
-      "url": "https://arxiv.org/abs/2611.13005",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
       "id": "ee2fdea2046d",
       "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 55 # Comments: 64",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 58 # Comments: 87",
       "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
       "source": "Hacker News (AI)",
       "domain": "niemanlab.org",
       "category": "Community",
       "image": "",
       "published": "2026-11-11T00:15:33+00:00"
+    },
+    {
+      "id": "3b1f3145a3a5",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-11T00:00:00+00:00"
+    },
+    {
+      "id": "d876dcdd83f6",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-11T00:00:00+00:00"
     },
     {
       "id": "651aa2043c33",
@@ -386,7 +485,7 @@ window.NEWS_DATA = {
     {
       "id": "eca8fd3cc79a",
       "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 358 # Comments: 352",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 543 # Comments: 545",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "source": "Hacker News (AI)",
       "domain": "9to5mac.com",
@@ -406,28 +505,6 @@ window.NEWS_DATA = {
       "published": "2026-11-10T21:12:59+00:00"
     },
     {
-      "id": "d5b012be1218",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T21:08:52+00:00"
-    },
-    {
-      "id": "6f2adcbb98d2",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T20:52:13+00:00"
-    },
-    {
       "id": "3b169287456e",
       "title": "What happens to mathematics when AI becomes an oracle?",
       "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
@@ -437,39 +514,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
       "published": "2026-11-10T20:30:01+00:00"
-    },
-    {
-      "id": "fd78f043e051",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T19:57:52+00:00"
-    },
-    {
-      "id": "b3eaa8148654",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T19:23:34+00:00"
-    },
-    {
-      "id": "c8f01dc82f81",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T19:03:52+00:00"
     },
     {
       "id": "65f0145a3a35",
@@ -483,39 +527,6 @@ window.NEWS_DATA = {
       "published": "2026-11-10T19:00:00+00:00"
     },
     {
-      "id": "b64c7fe28988",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T18:49:52+00:00"
-    },
-    {
-      "id": "852126f74e4d",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T17:30:00+00:00"
-    },
-    {
-      "id": "c849b8a11732",
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T17:04:19+00:00"
-    },
-    {
       "id": "76314a68fe03",
       "title": "Gemini 4 Carbon is now available",
       "summary": "",
@@ -527,28 +538,6 @@ window.NEWS_DATA = {
       "published": "2026-11-10T16:03:47+00:00"
     },
     {
-      "id": "f8cb8d1301ce",
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T15:54:08+00:00"
-    },
-    {
-      "id": "9f6d93c12fe8",
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T15:29:30+00:00"
-    },
-    {
       "id": "23b587932c71",
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
       "summary": "The new model is up to twice as successful at some tasks.",
@@ -558,17 +547,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
       "published": "2026-11-10T15:00:39+00:00"
-    },
-    {
-      "id": "7747ca6c9055",
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T14:05:10+00:00"
     },
     {
       "id": "236d153f9618",
@@ -606,7 +584,7 @@ window.NEWS_DATA = {
     {
       "id": "023172d01b66",
       "title": "AI Users have workdays up to 90 min longer than non-users",
-      "summary": "Article URL: https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/ Comments URL: https://news.ycombinator.com/item?id=50439686 Points: 57 # Comments: 23",
+      "summary": "Article URL: https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/ Comments URL: https://news.ycombinator.com/item?id=50439686 Points: 64 # Comments: 26",
       "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/",
       "source": "Hacker News (AI)",
       "domain": "activtrak.com",
@@ -648,28 +626,6 @@ window.NEWS_DATA = {
       "published": "2026-11-10T12:00:00+00:00"
     },
     {
-      "id": "a2cbb4787a3c",
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-      "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T11:00:00+00:00"
-    },
-    {
-      "id": "c54d6556feb1",
-      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-      "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
-      "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T11:00:00+00:00"
-    },
-    {
       "id": "e1f11c12400e",
       "title": "Meet the Sad Wives of AI",
       "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 78 # Comments: 71",
@@ -683,7 +639,7 @@ window.NEWS_DATA = {
     {
       "id": "30c9f0685fc0",
       "title": "AI usage generates a fragile codebase",
-      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 605 # Comments: 574",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 637 # Comments: 618",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "source": "Hacker News (AI)",
       "domain": "evanxmerz.com",
@@ -727,24 +683,13 @@ window.NEWS_DATA = {
     {
       "id": "d0aa08f00260",
       "title": "Fireworks AI security breach impacts Notion and their customers",
-      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 63",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 164 # Comments: 64",
       "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
       "source": "Hacker News (AI)",
       "domain": "notion.com",
       "category": "Community",
       "image": "",
       "published": "2026-11-10T07:19:38+00:00"
-    },
-    {
-      "id": "f4c984deb88c",
-      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
-      "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T07:00:00+00:00"
     },
     {
       "id": "2388174ad3d2",
@@ -758,37 +703,15 @@ window.NEWS_DATA = {
       "published": "2026-11-10T07:00:00+00:00"
     },
     {
-      "id": "9aaab31de7d5",
-      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
-      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T05:01:00+00:00"
-    },
-    {
       "id": "48198c4bc56b",
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 194 # Comments: 193",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 195 # Comments: 192",
       "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "source": "Hacker News (AI)",
       "domain": "cnbc.com",
       "category": "Community",
       "image": "",
       "published": "2026-11-10T03:20:06+00:00"
-    },
-    {
-      "id": "af75a9b03012",
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-10T00:18:19+00:00"
     },
     {
       "id": "064f91f61bdb",
@@ -824,17 +747,6 @@ window.NEWS_DATA = {
       "published": "2026-11-10T00:00:00+00:00"
     },
     {
-      "id": "4f798365520b",
-      "title": "A year after the 100% AI mandate nobody understands our code",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 158 # Comments: 196",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-      "source": "Hacker News (AI)",
-      "domain": "reddit.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-09T22:19:12+00:00"
-    },
-    {
       "id": "7d397d7d2023",
       "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
       "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
@@ -866,17 +778,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-11-09T19:00:00+00:00"
-    },
-    {
-      "id": "af12ceb3a424",
-      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer Comments URL: https://news.ycombinator.com/item?id=50429144 Points: 109 # Comments: 41",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-09T18:05:44+00:00"
     },
     {
       "id": "da93e9b84695",
@@ -923,17 +824,6 @@ window.NEWS_DATA = {
       "published": "2026-11-09T15:05:57+00:00"
     },
     {
-      "id": "6d323628da16",
-      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-      "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-09T14:30:56+00:00"
-    },
-    {
       "id": "1a11541c6c23",
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digita…",
@@ -941,17 +831,6 @@ window.NEWS_DATA = {
       "source": "MIT Tech Review AI",
       "domain": "technologyreview.com",
       "category": "Research",
-      "image": "",
-      "published": "2026-11-09T13:00:00+00:00"
-    },
-    {
-      "id": "7f0f629a670f",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
       "image": "",
       "published": "2026-11-09T13:00:00+00:00"
     },
@@ -965,61 +844,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-11-09T12:34:29+00:00"
-    },
-    {
-      "id": "102451347b30",
-      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm Comments URL: https://news.ycombinator.com/item?id=50424199 Points: 79 # Comments: 12",
-      "url": "https://github.com/samir-sarwar/samir-vllm",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-09T11:36:55+00:00"
-    },
-    {
-      "id": "003740011e08",
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-09T11:00:00+00:00"
-    },
-    {
-      "id": "022932c7e819",
-      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-09T08:00:00+00:00"
-    },
-    {
-      "id": "e6e5f56bea6c",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-09T08:00:00+00:00"
-    },
-    {
-      "id": "b94f2db2e8d8",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "url": "https://openai.com/index/kuken",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-09T08:00:00+00:00"
     },
     {
       "id": "53220fd188bb",
@@ -1077,28 +901,6 @@ window.NEWS_DATA = {
       "published": "2026-11-06T00:00:00+00:00"
     },
     {
-      "id": "7d0c34b8a157",
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
-      "published": "2026-11-05T21:40:36+00:00"
-    },
-    {
-      "id": "782c4d861757",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
-      "published": "2026-11-05T21:39:40+00:00"
-    },
-    {
       "id": "d211130e10a9",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": "",
@@ -1119,17 +921,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
       "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "id": "85fb9cca1371",
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
-      "published": "2026-11-05T12:00:41+00:00"
     },
     {
       "id": "14a75945c332",
@@ -1220,28 +1011,6 @@ window.NEWS_DATA = {
       "published": "2026-11-03T04:18:47+00:00"
     },
     {
-      "id": "95fde5a34dba",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "summary": "",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "id": "2f1eccb65bca",
-      "title": "Transformers Model Integration Contracts",
-      "summary": "",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-11-03T00:00:00+00:00"
-    },
-    {
       "id": "3e3827a41eb6",
       "title": "The latest AI news we announced in October 2026",
       "summary": "Animated carousel of images from AI posts in October",
@@ -1284,17 +1053,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
       "published": "2026-10-30T14:18:30+00:00"
-    },
-    {
-      "id": "3807663ea017",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "summary": "",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "DeepMind",
-      "domain": "deepmind.google",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-10-28T17:00:58+00:00"
     }
   ]
 };
