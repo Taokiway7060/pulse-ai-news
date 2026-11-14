@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T14:23:47.972866+00:00",
-  "count": 97,
+  "generated_at": "2026-11-14T13:20:01.752021+00:00",
+  "count": 109,
   "categories": [
     "Community",
     "Industry",
@@ -9,6 +9,402 @@
     "Research"
   ],
   "items": [
+    {
+      "id": "c5cd400bf2bc",
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-14T13:00:00+00:00"
+    },
+    {
+      "id": "630725f71c3a",
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-14T11:00:00+00:00"
+    },
+    {
+      "id": "578e52ce8b75",
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "summary": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately…",
+      "url": "https://news.ycombinator.com/item?id=50494696",
+      "source": "Hacker News (AI)",
+      "domain": "news.ycombinator.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-14T06:56:42+00:00"
+    },
+    {
+      "id": "d6e7b4da04b1",
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal move is loud. One that yields a legal-b…",
+      "url": "https://arxiv.org/abs/2611.14544",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "4ac65a095dcb",
+      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+      "summary": "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work cleans the history at a fixed world, w…",
+      "url": "https://arxiv.org/abs/2611.14654",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "6c9f656700fc",
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compilin…",
+      "url": "https://arxiv.org/abs/2611.14681",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "6e6dcd880ad7",
+      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+      "summary": "arXiv:2611.14736v1 Announce Type: new Abstract: Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these directions, but incorrect proposals can exclude the true causal graph and invalidate downstream infere…",
+      "url": "https://arxiv.org/abs/2611.14736",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "45aacd447a67",
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "summary": "arXiv:2611.14765v1 Announce Type: new Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. E…",
+      "url": "https://arxiv.org/abs/2611.14765",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "a0abb33f3d2d",
+      "title": "Rational Use of Time for Social Coordination in Humans and AI",
+      "summary": "arXiv:2611.14766v1 Announce Type: new Abstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others' mental states. But how do humans use temporal cues for dynamic, fine-grained social coordinatio…",
+      "url": "https://arxiv.org/abs/2611.14766",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "d58be36d2fa0",
+      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+      "summary": "arXiv:2611.14769v1 Announce Type: new Abstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user…",
+      "url": "https://arxiv.org/abs/2611.14769",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "7dedcd945fb2",
+      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+      "summary": "arXiv:2611.14781v1 Announce Type: new Abstract: Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundamental challenge that predictions are uncertain. Still, most approaches determinize these predictions into a single best-guess state and make decis…",
+      "url": "https://arxiv.org/abs/2611.14781",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "9e232bcb582c",
+      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+      "summary": "arXiv:2611.14794v1 Announce Type: new Abstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage…",
+      "url": "https://arxiv.org/abs/2611.14794",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "907241157ec3",
+      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+      "summary": "arXiv:2611.14804v1 Announce Type: new Abstract: Costly simulations and experiments limit the data available for engineering design. This paper proposes GenPFN, a training-free candidate generator guided by a pretrained tabular Prior-Data Fitted Network (TabPFN) classifier with fixed weights. The context contains evalu…",
+      "url": "https://arxiv.org/abs/2611.14804",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "cc419cd10451",
+      "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+      "summary": "arXiv:2611.14844v1 Announce Type: new Abstract: Many advances in ML systems came from breaking an assumption that earlier methods took for granted: speculative decoding dropped the assumption that a model needs one forward pass per token. Yet algorithms rarely state their assumptions, so experts and discovery harnesse…",
+      "url": "https://arxiv.org/abs/2611.14844",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "0d1429a46a0a",
+      "title": "Open Challenges and Opportunities in Human-Agent Systems",
+      "summary": "arXiv:2611.14846v1 Announce Type: new Abstract: Agentic AI systems increasingly undertake extended tasks and act on people's behalf, making human-agent interaction central to their effectiveness. Successful interaction requires understanding human perspectives, coordinating complementary capabilities, and maintaining…",
+      "url": "https://arxiv.org/abs/2611.14846",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "id": "713dfb18755f",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 740 # Comments: 432",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News (AI)",
+      "domain": "techpowerup.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-14T02:52:59+00:00"
+    },
+    {
+      "id": "63fe33584a11",
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 92 # Comments: 86",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "source": "Hacker News (AI)",
+      "domain": "claude.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-14T00:28:11+00:00"
+    },
+    {
+      "id": "54d01757e13e",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-13T22:43:00+00:00"
+    },
+    {
+      "id": "2933a1c597bb",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+      "published": "2026-11-13T21:20:47+00:00"
+    },
+    {
+      "id": "eea2388eb64c",
+      "title": "No AI Slop: A Manifesto",
+      "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 203 # Comments: 123",
+      "url": "https://www.slopmanifesto.com/",
+      "source": "Hacker News (AI)",
+      "domain": "slopmanifesto.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-13T19:51:56+00:00"
+    },
+    {
+      "id": "a7874beb3d20",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-13T19:37:57+00:00"
+    },
+    {
+      "id": "07245152b736",
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-13T19:08:57+00:00"
+    },
+    {
+      "id": "eebda6e5fb7b",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-13T18:40:30+00:00"
+    },
+    {
+      "id": "ba8f0ee884d5",
+      "title": "The avalanche that hit math is coming for AI development",
+      "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 64 # Comments: 105",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "source": "Hacker News (AI)",
+      "domain": "dwarkesh.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-13T18:39:42+00:00"
+    },
+    {
+      "id": "e988933145dd",
+      "title": "Are we just going to ignore that books are destroyed for AI?",
+      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/ Comments URL: https://news.ycombinator.com/item?id=50487469 Points: 57 # Comments: 62",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
+      "source": "Hacker News (AI)",
+      "domain": "forbes.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-13T18:14:38+00:00"
+    },
+    {
+      "id": "e8feb3286d96",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-13T18:00:39+00:00"
+    },
+    {
+      "id": "7bcd40c36629",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 398 # Comments: 101",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "source": "Hacker News (AI)",
+      "domain": "theguardian.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-13T17:30:10+00:00"
+    },
+    {
+      "id": "31a735d52b9a",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+      "published": "2026-11-13T17:25:45+00:00"
+    },
+    {
+      "id": "75aee88eb573",
+      "title": "XYBench: Helping with the problem behind the question",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-13T17:02:35+00:00"
+    },
+    {
+      "id": "eaed0df154b8",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-13T16:00:12+00:00"
+    },
+    {
+      "id": "d5a31b386d9e",
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-13T16:00:00+00:00"
+    },
+    {
+      "id": "2f7822536c9f",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-13T15:58:00+00:00"
+    },
+    {
+      "id": "6450a424567d",
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 188 # Comments: 180",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "source": "Hacker News (AI)",
+      "domain": "text.npr.org",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-13T15:29:10+00:00"
+    },
+    {
+      "id": "8c52dcf9bcf3",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 348 # Comments: 469",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "Hacker News (AI)",
+      "domain": "youtube.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-13T15:08:44+00:00"
+    },
+    {
+      "id": "999c856e8088",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-13T15:00:00+00:00"
+    },
+    {
+      "id": "e1686bf599ed",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-13T14:44:48+00:00"
+    },
     {
       "id": "e82b4dac1de9",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
@@ -54,9 +450,20 @@
       "published": "2026-11-13T11:45:00+00:00"
     },
     {
+      "id": "495bd8225733",
+      "title": "AI is destroying the trust between writers and readers",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 347 # Comments: 212",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "source": "Hacker News (AI)",
+      "domain": "theatlantic.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-13T11:13:46+00:00"
+    },
+    {
       "id": "0ffd1a030e38",
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 333 # Comments: 296",
+      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 489 # Comments: 387",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "Hacker News (AI)",
       "domain": "status.claude.com",
@@ -65,37 +472,26 @@
       "published": "2026-11-13T10:18:13+00:00"
     },
     {
+      "id": "14682acd22f4",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-13T08:00:00+00:00"
+    },
+    {
       "id": "14f883c521d5",
       "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 83 # Comments: 25",
+      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 89 # Comments: 29",
       "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
       "source": "Hacker News (AI)",
       "domain": "techspot.com",
       "category": "Community",
       "image": "",
       "published": "2026-11-13T00:38:41+00:00"
-    },
-    {
-      "id": "38cab70a9e58",
-      "title": "Why You Should Expect an AI Crash",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 97 # Comments: 81",
-      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-      "source": "Hacker News (AI)",
-      "domain": "economist.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-12T23:08:31+00:00"
-    },
-    {
-      "id": "2f63949ee1b6",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 294 # Comments: 87",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "source": "Hacker News (AI)",
-      "domain": "edge0.ai",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-12T23:06:17+00:00"
     },
     {
       "id": "690ba8164189",
@@ -120,17 +516,6 @@
       "published": "2026-11-12T22:29:43+00:00"
     },
     {
-      "id": "ea800afaae18",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-      "published": "2026-11-12T22:28:47+00:00"
-    },
-    {
       "id": "cd49d013e7ff",
       "title": "Muse can now place calls to US businesses — if you pay",
       "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
@@ -153,28 +538,6 @@
       "published": "2026-11-12T22:14:41+00:00"
     },
     {
-      "id": "1966a2d43f59",
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 322 # Comments: 122",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "source": "Hacker News (AI)",
-      "domain": "unemploymentlabs.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-12T21:56:11+00:00"
-    },
-    {
-      "id": "1614ea9492c2",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T21:35:00+00:00"
-    },
-    {
       "id": "a44716a2e11b",
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
       "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
@@ -184,17 +547,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-11-12T21:27:10+00:00"
-    },
-    {
-      "id": "eeed803f838a",
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 184 # Comments: 210",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "source": "Hacker News (AI)",
-      "domain": "synthanatomy.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-12T21:09:49+00:00"
     },
     {
       "id": "f6e1c3ba2776",
@@ -252,17 +604,6 @@
       "published": "2026-11-12T19:59:59+00:00"
     },
     {
-      "id": "046a12e96e34",
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T19:27:45+00:00"
-    },
-    {
       "id": "aeaa0071768e",
       "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
       "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
@@ -272,17 +613,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
       "published": "2026-11-12T19:23:03+00:00"
-    },
-    {
-      "id": "e1cfc826adbe",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T19:11:00+00:00"
     },
     {
       "id": "fb4015c080d3",
@@ -318,17 +648,6 @@
       "published": "2026-11-12T18:57:45+00:00"
     },
     {
-      "id": "e7bdb8eca36f",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T18:39:23+00:00"
-    },
-    {
       "id": "a0ada4fbaccc",
       "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
       "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
@@ -362,39 +681,6 @@
       "published": "2026-11-12T18:00:00+00:00"
     },
     {
-      "id": "11ea3ecd63e4",
-      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-      "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
-      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T17:59:15+00:00"
-    },
-    {
-      "id": "6ff98e98fa3d",
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T17:36:40+00:00"
-    },
-    {
-      "id": "cc7b57c9dc93",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T17:17:58+00:00"
-    },
-    {
       "id": "1276b0d10529",
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
       "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
@@ -406,28 +692,6 @@
       "published": "2026-11-12T14:50:17+00:00"
     },
     {
-      "id": "973feb5dc0bd",
-      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
-      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T14:14:33+00:00"
-    },
-    {
-      "id": "042c8d22d09a",
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T13:58:06+00:00"
-    },
-    {
       "id": "f04c37b9fa79",
       "title": "Gondola doubles revenue as its team builds more with Codex",
       "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
@@ -437,17 +701,6 @@
       "category": "Labs",
       "image": "",
       "published": "2026-11-12T12:00:00+00:00"
-    },
-    {
-      "id": "b663ee494210",
-      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-      "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
-      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-12T10:30:00+00:00"
     },
     {
       "id": "bc3440925553",
@@ -494,28 +747,6 @@
       "published": "2026-11-12T00:00:00+00:00"
     },
     {
-      "id": "a09ef210adc0",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 675 # Comments: 697",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "source": "Hacker News (AI)",
-      "domain": "cbsnews.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-11T21:24:35+00:00"
-    },
-    {
-      "id": "168bc85ec9ef",
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 195",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "source": "Hacker News (AI)",
-      "domain": "lpeproject.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-11T19:06:43+00:00"
-    },
-    {
       "id": "96501881c113",
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
       "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
@@ -547,17 +778,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
       "published": "2026-11-11T17:37:32+00:00"
-    },
-    {
-      "id": "384f7c839ac6",
-      "title": "AI, activity, and outcomes in software engineering",
-      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 128 # Comments: 112",
-      "url": "https://cabird.com/talks/shipping-faster/",
-      "source": "Hacker News (AI)",
-      "domain": "cabird.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-11T16:33:28+00:00"
     },
     {
       "id": "4de254e45455",
@@ -593,17 +813,6 @@
       "published": "2026-11-11T14:08:57+00:00"
     },
     {
-      "id": "492863ebe947",
-      "title": "My AI agents found an unmapped Maya site?",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1033 # Comments: 392",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "source": "Hacker News (AI)",
-      "domain": "pietromiotti.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-11T12:05:22+00:00"
-    },
-    {
       "id": "99ec9b529e33",
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
       "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
@@ -613,17 +822,6 @@
       "category": "Labs",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
       "published": "2026-11-11T09:00:00+00:00"
-    },
-    {
-      "id": "1e0863d9859c",
-      "title": "OSS projects banning AI-generated contributions",
-      "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 65 # Comments: 114",
-      "url": "https://osssaysno.com",
-      "source": "Hacker News (AI)",
-      "domain": "osssaysno.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-11T08:51:45+00:00"
     },
     {
       "id": "3d76f069d049",
@@ -646,17 +844,6 @@
       "category": "Open Source",
       "image": "",
       "published": "2026-11-11T05:01:16+00:00"
-    },
-    {
-      "id": "ee2fdea2046d",
-      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 59 # Comments: 88",
-      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "source": "Hacker News (AI)",
-      "domain": "niemanlab.org",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-11T00:15:33+00:00"
     },
     {
       "id": "3b1f3145a3a5",
@@ -736,17 +923,6 @@
       "published": "2026-11-10T16:03:47+00:00"
     },
     {
-      "id": "23b587932c71",
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "summary": "The new model is up to twice as successful at some tasks.",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
-      "published": "2026-11-10T15:00:39+00:00"
-    },
-    {
       "id": "9670e78aaa15",
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
@@ -824,28 +1000,6 @@
       "published": "2026-11-10T09:00:00+00:00"
     },
     {
-      "id": "3fa708fe6dc9",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-10T08:00:00+00:00"
-    },
-    {
-      "id": "2388174ad3d2",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-10T07:00:00+00:00"
-    },
-    {
       "id": "2449ee350996",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "summary": "",
@@ -901,17 +1055,6 @@
       "published": "2026-11-09T17:05:43+00:00"
     },
     {
-      "id": "5167df450956",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-11-09T15:05:57+00:00"
-    },
-    {
       "id": "1a11541c6c23",
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digita…",
@@ -932,17 +1075,6 @@
       "category": "Open Source",
       "image": "",
       "published": "2026-11-09T12:34:29+00:00"
-    },
-    {
-      "id": "c70eea9dfba1",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-11-06T14:00:48+00:00"
     },
     {
       "id": "8d15e07802d8",
