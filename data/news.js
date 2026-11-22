@@ -1,5 +1,5 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-11-21T14:29:11.474262+00:00",
+  "generated_at": "2026-11-22T14:25:05.321068+00:00",
   "count": 100,
   "categories": [
     "Community",
@@ -9,6 +9,94 @@ window.NEWS_DATA = {
     "Research"
   ],
   "items": [
+    {
+      "id": "808ea0eeb243",
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-22T11:00:00+00:00"
+    },
+    {
+      "id": "19c81df44c60",
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 89 # Comments: 21",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "source": "Hacker News (AI)",
+      "domain": "dragos.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-22T05:11:43+00:00"
+    },
+    {
+      "id": "4c9c80c64d09",
+      "title": "The Mythology of Conscious AI",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 100 # Comments: 235",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "source": "Hacker News (AI)",
+      "domain": "noemamag.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-22T02:10:02+00:00"
+    },
+    {
+      "id": "be5660a5940d",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-21T21:37:10+00:00"
+    },
+    {
+      "id": "eb5d78a4186d",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-21T21:07:42+00:00"
+    },
+    {
+      "id": "dd4cdf7a15c6",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 115 # Comments: 29",
+      "url": "https://www.pandex.io",
+      "source": "Hacker News (AI)",
+      "domain": "pandex.io",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-21T20:47:41+00:00"
+    },
+    {
+      "id": "4ab99b1cb753",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-21T17:00:00+00:00"
+    },
+    {
+      "id": "585f443134bc",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-21T16:00:00+00:00"
+    },
     {
       "id": "a689f4019046",
       "title": "The Outages Are Just Getting Started",
@@ -23,7 +111,7 @@ window.NEWS_DATA = {
     {
       "id": "39cd7d47d94d",
       "title": "ClawDOS – An AI coding agent for DOS",
-      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 118 # Comments: 33",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 166 # Comments: 52",
       "url": "http://ricapar.net/ClawDOS/",
       "source": "Hacker News (AI)",
       "domain": "ricapar.net",
@@ -54,6 +142,17 @@ window.NEWS_DATA = {
       "published": "2026-11-20T21:58:29+00:00"
     },
     {
+      "id": "31519e9ea454",
+      "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/ Comments URL: https://news.ycombinator.com/item?id=50582794 Points: 57 # Comments: 8",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Hacker News (AI)",
+      "domain": "arstechnica.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-20T21:53:39+00:00"
+    },
+    {
       "id": "ab25c188297e",
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
       "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
@@ -67,7 +166,7 @@ window.NEWS_DATA = {
     {
       "id": "d0bc28523da6",
       "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 60 # Comments: 5",
+      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 66 # Comments: 5",
       "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
       "source": "Hacker News (AI)",
       "domain": "wsj.com",
@@ -144,7 +243,7 @@ window.NEWS_DATA = {
     {
       "id": "6e7a3aa23afb",
       "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 277 # Comments: 217",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 282 # Comments: 229",
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
       "source": "Hacker News (AI)",
       "domain": "motherjones.com",
@@ -155,7 +254,7 @@ window.NEWS_DATA = {
     {
       "id": "db2df48e9df2",
       "title": "AI is giving everyone the same advice",
-      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 99 # Comments: 42",
+      "summary": "Article URL: https://a90.com/experiments/same-advice/ Comments URL: https://news.ycombinator.com/item?id=50577872 Points: 124 # Comments: 52",
       "url": "https://a90.com/experiments/same-advice/",
       "source": "Hacker News (AI)",
       "domain": "a90.com",
@@ -188,7 +287,7 @@ window.NEWS_DATA = {
     {
       "id": "396992957420",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 386 # Comments: 694",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 514 # Comments: 905",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "Hacker News (AI)",
       "domain": "theguardian.com",
@@ -232,7 +331,7 @@ window.NEWS_DATA = {
     {
       "id": "6e641f6b1fd2",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 653 # Comments: 341",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 673 # Comments: 362",
       "url": "https://architectlabs.com/blog/frostbite",
       "source": "Hacker News (AI)",
       "domain": "architectlabs.com",
@@ -254,7 +353,7 @@ window.NEWS_DATA = {
     {
       "id": "13ea0dac3064",
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 557 # Comments: 328",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 577 # Comments: 343",
       "url": "https://signal.org/blog/protecting-your-privacy/",
       "source": "Hacker News (AI)",
       "domain": "signal.org",
@@ -340,17 +439,6 @@ window.NEWS_DATA = {
       "published": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "72b7cbba9d3a",
-      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 69 # Comments: 21",
-      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-      "source": "Hacker News (AI)",
-      "domain": "techdirt.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-19T22:56:59+00:00"
-    },
-    {
       "id": "527b64c2332f",
       "title": "Meta’s new Muse Charm device may cost $300",
       "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
@@ -371,17 +459,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-11-19T21:57:01+00:00"
-    },
-    {
-      "id": "f952acc90a20",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-19T21:42:31+00:00"
     },
     {
       "id": "6ffdab4006d7",
@@ -406,61 +483,6 @@ window.NEWS_DATA = {
       "published": "2026-11-19T20:19:28+00:00"
     },
     {
-      "id": "3f90cf7c1b00",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-19T20:18:49+00:00"
-    },
-    {
-      "id": "af6920d535ce",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-19T19:10:45+00:00"
-    },
-    {
-      "id": "8a51fed77d19",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 114 # Comments: 247",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "source": "Hacker News (AI)",
-      "domain": "youtube.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-19T18:47:16+00:00"
-    },
-    {
-      "id": "5bad4da736ef",
-      "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 51 # Comments: 36",
-      "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
-      "source": "Hacker News (AI)",
-      "domain": "techpolicy.press",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-19T18:42:13+00:00"
-    },
-    {
-      "id": "e84452d93555",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-19T18:09:11+00:00"
-    },
-    {
       "id": "a579ddb64736",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "summary": "Gemini spark on a space background",
@@ -470,17 +492,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
       "published": "2026-11-19T18:00:00+00:00"
-    },
-    {
-      "id": "08aa0e39c058",
-      "title": "AI came for the coders. Understanding why tells us who's next",
-      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 68 # Comments: 81",
-      "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
-      "source": "Hacker News (AI)",
-      "domain": "robertpeake.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-19T17:43:38+00:00"
     },
     {
       "id": "ced1b2ca5ecc",
@@ -503,17 +514,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
       "published": "2026-11-19T17:00:00+00:00"
-    },
-    {
-      "id": "b05192987630",
-      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-19T12:00:00+00:00"
     },
     {
       "id": "b7e80155607e",
