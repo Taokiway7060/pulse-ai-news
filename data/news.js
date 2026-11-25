@@ -1,14 +1,244 @@
 window.NEWS_DATA = {
-  "generated_at": "2026-11-24T17:25:23.497622+00:00",
-  "count": 97,
+  "generated_at": "2026-11-25T17:01:11.842188+00:00",
+  "count": 81,
   "categories": [
-    "Community",
     "Industry",
     "Labs",
     "Open Source",
     "Research"
   ],
   "items": [
+    {
+      "id": "d59556d98882",
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+      "published": "2026-11-25T16:47:14+00:00"
+    },
+    {
+      "id": "8a63611a8a74",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selli…",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-25T15:41:43+00:00"
+    },
+    {
+      "id": "756a0a250b7d",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-25T14:10:18+00:00"
+    },
+    {
+      "id": "74c78bd70443",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-25T13:00:00+00:00"
+    },
+    {
+      "id": "61bdd3e419f9",
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
+      "published": "2026-11-25T12:00:28+00:00"
+    },
+    {
+      "id": "5df3c3f2dedb",
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-25T11:30:00+00:00"
+    },
+    {
+      "id": "c4c81914fdff",
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-25T10:22:09+00:00"
+    },
+    {
+      "id": "78b5069d55f6",
+      "title": "AI is straining America’s open records systems",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded…",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Tech Review AI",
+      "domain": "technologyreview.com",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-25T10:00:00+00:00"
+    },
+    {
+      "id": "0e83ea23d0e8",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebra…",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-25T00:12:02+00:00"
+    },
+    {
+      "id": "210060bdccb5",
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-24T23:39:04+00:00"
+    },
+    {
+      "id": "6c07475b294b",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-24T22:27:52+00:00"
+    },
+    {
+      "id": "a126066af741",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-24T21:48:27+00:00"
+    },
+    {
+      "id": "3d3951b647d9",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-24T21:33:29+00:00"
+    },
+    {
+      "id": "f7fcd8964837",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-24T21:32:38+00:00"
+    },
+    {
+      "id": "1750350fd2af",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-24T21:19:52+00:00"
+    },
+    {
+      "id": "23d5a2ecb890",
+      "title": "What's going on with the Riemann hypothesis?",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
+      "published": "2026-11-24T20:34:53+00:00"
+    },
+    {
+      "id": "f4a7cd749252",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg",
+      "published": "2026-11-24T18:47:57+00:00"
+    },
+    {
+      "id": "b3375f8533b2",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-24T18:30:42+00:00"
+    },
+    {
+      "id": "ab4799b14900",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-24T18:02:59+00:00"
+    },
+    {
+      "id": "cc4c4c205aaf",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-24T17:44:53+00:00"
+    },
+    {
+      "id": "80b26eab400e",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "source": "Ars Technica AI",
+      "domain": "arstechnica.com",
+      "category": "Industry",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
+      "published": "2026-11-24T17:34:34+00:00"
+    },
     {
       "id": "6f227f22bbfc",
       "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
@@ -21,17 +251,6 @@ window.NEWS_DATA = {
       "published": "2026-11-24T17:00:00+00:00"
     },
     {
-      "id": "77625135afe9",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-24T16:46:00+00:00"
-    },
-    {
       "id": "d5b6e823aa44",
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "summary": "",
@@ -41,39 +260,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-11-24T16:34:13+00:00"
-    },
-    {
-      "id": "aea7d5e9c8e3",
-      "title": "Tidal bans AI-generated music",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 185 # Comments: 143",
-      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "source": "Hacker News (AI)",
-      "domain": "variety.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-24T16:12:38+00:00"
-    },
-    {
-      "id": "2d542f5352cf",
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-24T16:10:00+00:00"
-    },
-    {
-      "id": "b124c321b256",
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-24T16:02:37+00:00"
     },
     {
       "id": "b7cdcf99ca54",
@@ -98,28 +284,6 @@ window.NEWS_DATA = {
       "published": "2026-11-24T16:00:00+00:00"
     },
     {
-      "id": "b6463358b683",
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-24T15:51:07+00:00"
-    },
-    {
-      "id": "76e70d39a5ee",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done…",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-24T15:15:16+00:00"
-    },
-    {
       "id": "9bf63714efba",
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
       "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
@@ -131,15 +295,15 @@ window.NEWS_DATA = {
       "published": "2026-11-24T14:56:50+00:00"
     },
     {
-      "id": "6ff8164bef1c",
-      "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 610 # Comments: 250",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "source": "Hacker News (AI)",
-      "domain": "michaelharley.net",
-      "category": "Community",
+      "id": "d2a84d4b16af",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
       "image": "",
-      "published": "2026-11-24T12:40:15+00:00"
+      "published": "2026-11-24T13:00:00+00:00"
     },
     {
       "id": "4fbfa943cc09",
@@ -151,6 +315,17 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
       "published": "2026-11-24T12:30:05+00:00"
+    },
+    {
+      "id": "f09dd0a144c4",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
+      "image": "",
+      "published": "2026-11-24T11:00:00+00:00"
     },
     {
       "id": "31d024c0a115",
@@ -175,59 +350,37 @@ window.NEWS_DATA = {
       "published": "2026-11-24T10:15:00+00:00"
     },
     {
-      "id": "88ac31584e71",
-      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 74 # Comments: 34",
-      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
-      "source": "Hacker News (AI)",
-      "domain": "philippdubach.com",
-      "category": "Community",
+      "id": "26f2e4870177",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
       "image": "",
-      "published": "2026-11-24T09:39:50+00:00"
+      "published": "2026-11-24T00:00:00+00:00"
     },
     {
-      "id": "3015f3748831",
-      "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 91 # Comments: 71",
-      "url": "https://davidtemkin.github.io/declarelang/",
-      "source": "Hacker News (AI)",
-      "domain": "davidtemkin.github.io",
-      "category": "Community",
+      "id": "b71180518fff",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
       "image": "",
-      "published": "2026-11-24T02:36:56+00:00"
+      "published": "2026-11-24T00:00:00+00:00"
     },
     {
-      "id": "75729564c995",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
+      "id": "b62d4048f3e1",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "category": "Labs",
       "image": "",
-      "published": "2026-11-23T22:05:50+00:00"
-    },
-    {
-      "id": "a6fa9e510918",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-23T22:02:05+00:00"
-    },
-    {
-      "id": "b36b9c01c56c",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-23T21:47:41+00:00"
+      "published": "2026-11-24T00:00:00+00:00"
     },
     {
       "id": "a27d3c988a7e",
@@ -241,17 +394,6 @@ window.NEWS_DATA = {
       "published": "2026-11-23T21:30:44+00:00"
     },
     {
-      "id": "71588aa7039d",
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-23T21:25:42+00:00"
-    },
-    {
       "id": "80289657cca1",
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
@@ -261,39 +403,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-11-23T21:20:00+00:00"
-    },
-    {
-      "id": "ba845e976141",
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-23T20:38:53+00:00"
-    },
-    {
-      "id": "fbb6862ed0a7",
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-23T19:14:46+00:00"
-    },
-    {
-      "id": "e30e479d16f0",
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-23T18:12:22+00:00"
     },
     {
       "id": "b8bb39f43ded",
@@ -327,17 +436,6 @@ window.NEWS_DATA = {
       "category": "Open Source",
       "image": "",
       "published": "2026-11-23T17:20:37+00:00"
-    },
-    {
-      "id": "06ad66d50112",
-      "title": "How should an LLM see a computer?",
-      "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 58 # Comments: 25",
-      "url": "https://www.greptile.com/blog/trex-computer-use",
-      "source": "Hacker News (AI)",
-      "domain": "greptile.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-23T17:19:25+00:00"
     },
     {
       "id": "e1f82cab059d",
@@ -395,17 +493,6 @@ window.NEWS_DATA = {
       "published": "2026-11-23T13:11:00+00:00"
     },
     {
-      "id": "172aef0014f2",
-      "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness Comments URL: https://news.ycombinator.com/item?id=50610830 Points: 77 # Comments: 82",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-      "source": "Hacker News (AI)",
-      "domain": "theverge.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-23T12:41:14+00:00"
-    },
-    {
       "id": "21cb943ac370",
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
       "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
@@ -426,28 +513,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "",
       "published": "2026-11-23T12:00:00+00:00"
-    },
-    {
-      "id": "68b8c5e855f7",
-      "title": "States Sue SpaceX Over Grok Deepfakes",
-      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-23T11:00:00+00:00"
-    },
-    {
-      "id": "735f40dff22d",
-      "title": "Goodbye, World: The End of Programmers",
-      "summary": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
-      "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-23T10:00:00+00:00"
     },
     {
       "id": "56a4bd0d6ada",
@@ -483,83 +548,6 @@ window.NEWS_DATA = {
       "published": "2026-11-23T00:00:00+00:00"
     },
     {
-      "id": "c4c56c4a045c",
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 71 # Comments: 17",
-      "url": "https://0rwx.com/",
-      "source": "Hacker News (AI)",
-      "domain": "0rwx.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-22T23:53:00+00:00"
-    },
-    {
-      "id": "ed572a0ed114",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 766 # Comments: 312",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "Hacker News (AI)",
-      "domain": "gpupartner.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-22T21:01:16+00:00"
-    },
-    {
-      "id": "6f29964338f4",
-      "title": "Harvard CS 2881R AI Safety",
-      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 81 # Comments: 8",
-      "url": "https://boazbk.github.io/mltheoryseminar/",
-      "source": "Hacker News (AI)",
-      "domain": "boazbk.github.io",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-22T18:01:54+00:00"
-    },
-    {
-      "id": "8266b54a3804",
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 359 # Comments: 89",
-      "url": "https://github.com/gulivan/worker755",
-      "source": "Hacker News (AI)",
-      "domain": "github.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-22T13:56:58+00:00"
-    },
-    {
-      "id": "f2de8f5ca2a2",
-      "title": "AI is becoming a disaster for the climate",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 134 # Comments: 64",
-      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-      "source": "Hacker News (AI)",
-      "domain": "bloodinthemachine.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-22T12:19:46+00:00"
-    },
-    {
-      "id": "808ea0eeb243",
-      "title": "Banks Have Had It Up to Here With Your AI Agent",
-      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-22T11:00:00+00:00"
-    },
-    {
-      "id": "5a5580e68e34",
-      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 78 # Comments: 12",
-      "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "source": "Hacker News (AI)",
-      "domain": "simonwillison.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-22T09:57:01+00:00"
-    },
-    {
       "id": "ffc6dfd4491b",
       "title": "Perplexity and Intelligence",
       "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
@@ -591,17 +579,6 @@ window.NEWS_DATA = {
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
       "published": "2026-11-20T21:47:10+00:00"
-    },
-    {
-      "id": "5d947b7b1fd0",
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
-      "published": "2026-11-20T20:59:08+00:00"
     },
     {
       "id": "f8fadab84c58",
@@ -670,17 +647,6 @@ window.NEWS_DATA = {
       "published": "2026-11-20T00:00:00+00:00"
     },
     {
-      "id": "2580573a578b",
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
-      "published": "2026-11-19T20:19:28+00:00"
-    },
-    {
       "id": "a579ddb64736",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "summary": "Gemini spark on a space background",
@@ -701,61 +667,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
       "published": "2026-11-19T17:00:00+00:00"
-    },
-    {
-      "id": "b7e80155607e",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-19T08:00:00+00:00"
-    },
-    {
-      "id": "16ece48a2e37",
-      "title": "See PR scans in action",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "d2507b5d42dd",
-      "title": "Get started with Daybreak Blue",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "2b95877e394d",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "40ec556c1697",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI",
-      "domain": "openai.com",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-19T00:00:00+00:00"
     },
     {
       "id": "ee9b74407ddf",
@@ -780,17 +691,6 @@ window.NEWS_DATA = {
       "published": "2026-11-18T19:54:56+00:00"
     },
     {
-      "id": "da8552fa0740",
-      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
-      "published": "2026-11-18T19:19:33+00:00"
-    },
-    {
       "id": "7a994fd917f8",
       "title": "Why your fine-tuning job takes longer than the FLOPs say",
       "summary": "",
@@ -813,17 +713,6 @@ window.NEWS_DATA = {
       "published": "2026-11-18T18:13:42+00:00"
     },
     {
-      "id": "31c71db4dd7f",
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "summary": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
-      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
-      "published": "2026-11-18T18:10:33+00:00"
-    },
-    {
       "id": "c559ab27f76d",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
@@ -833,17 +722,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
       "published": "2026-11-18T17:00:00+00:00"
-    },
-    {
-      "id": "4e3a263b24d3",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-11-18T15:00:23+00:00"
     },
     {
       "id": "73f7af2933a7",
@@ -866,17 +744,6 @@ window.NEWS_DATA = {
       "category": "Research",
       "image": "",
       "published": "2026-11-18T10:20:30+00:00"
-    },
-    {
-      "id": "a903570b90cd",
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "source": "Ars Technica AI",
-      "domain": "arstechnica.com",
-      "category": "Industry",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
-      "published": "2026-11-18T00:27:29+00:00"
     },
     {
       "id": "b04f55be054c",
@@ -1031,50 +898,6 @@ window.NEWS_DATA = {
       "category": "Labs",
       "image": "",
       "published": "2026-11-11T18:00:00+00:00"
-    },
-    {
-      "id": "4de254e45455",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "source": "Google AI",
-      "domain": "blog.google",
-      "category": "Labs",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
-      "published": "2026-11-11T16:00:00+00:00"
-    },
-    {
-      "id": "f313a0d6cffc",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "source": "DeepMind",
-      "domain": "deepmind.google",
-      "category": "Labs",
-      "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
-      "published": "2026-11-11T15:00:15+00:00"
-    },
-    {
-      "id": "99ec9b529e33",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "source": "Google AI",
-      "domain": "blog.google",
-      "category": "Labs",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
-      "published": "2026-11-11T09:00:00+00:00"
-    },
-    {
-      "id": "65f0145a3a35",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI",
-      "domain": "blog.google",
-      "category": "Labs",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
-      "published": "2026-11-10T19:00:00+00:00"
     }
   ]
 };
