@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T16:42:50.767496+00:00",
-  "count": 116,
+  "generated_at": "2026-11-27T16:28:26.035042+00:00",
+  "count": 102,
   "categories": [
     "Community",
     "Industry",
@@ -10,8 +10,239 @@
   ],
   "items": [
     {
-      "id": "15955222ff4c",
-      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "id": "e0dc75adecb4",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 53 # Comments: 21",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "Hacker News (AI)",
+      "domain": "generativehistory.substack.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-27T15:03:17+00:00"
+    },
+    {
+      "id": "70cc3ab207b6",
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "summary": "https://archive.ph/4hRp8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 75 # Comments: 87",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "source": "Hacker News (AI)",
+      "domain": "thetimes.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-27T11:09:04+00:00"
+    },
+    {
+      "id": "6235c8f3510a",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "source": "Wired AI",
+      "domain": "wired.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-27T07:00:00+00:00"
+    },
+    {
+      "id": "ca5589a5dbc6",
+      "title": "The group chat where your AI talks behind your back",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 530 # Comments: 233",
+      "url": "https://construct22.com/",
+      "source": "Hacker News (AI)",
+      "domain": "construct22.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-27T06:44:34+00:00"
+    },
+    {
+      "id": "04dfb648eb9e",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be unava…",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "dafbce1cab96",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausible but physically in…",
+      "url": "https://arxiv.org/abs/2611.33161",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "6f63b1a590f5",
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "summary": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that connect a result to…",
+      "url": "https://arxiv.org/abs/2611.33165",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "7e5bb3b10cb8",
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "summary": "arXiv:2611.33190v1 Announce Type: new Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost. We investigate whe…",
+      "url": "https://arxiv.org/abs/2611.33190",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "c3b58cf9a8c3",
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "summary": "arXiv:2611.33263v1 Announce Type: new Abstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate response. We introduce a c…",
+      "url": "https://arxiv.org/abs/2611.33263",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "3e9dac5207f1",
+      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "summary": "arXiv:2611.33303v1 Announce Type: new Abstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. However, a planted proo…",
+      "url": "https://arxiv.org/abs/2611.33303",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "6f1f3685eab4",
+      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "summary": "arXiv:2611.33304v1 Announce Type: new Abstract: The Platonic Representation Hypothesis (PRH) posits that AI models converge toward a shared representation of the world, even when trained on different data modalities. Previous work has found evidence for the PRH in the activations of vision and language models. In this…",
+      "url": "https://arxiv.org/abs/2611.33304",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "db558d51b527",
+      "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+      "summary": "arXiv:2611.33322v1 Announce Type: new Abstract: A language model can name a brand without classifying it correctly. This study measures these outcomes separately for 1,000 B2B SaaS brands across 333 product categories. On Gemma 4 12B, with no external retrieval, category prompts elicit 510 brands (51.0%). A separate f…",
+      "url": "https://arxiv.org/abs/2611.33322",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "82968f85b555",
+      "title": "Confidence scores for gated automation of large language models",
+      "summary": "arXiv:2611.33394v1 Announce Type: new Abstract: AI agents built on large language models (LLMs) demonstrate strong capabilities in automated decision-making. However, LLMs may produce incorrect answers with high confidence, limiting their applicability in decisions that affect individuals and organizations. Reliable c…",
+      "url": "https://arxiv.org/abs/2611.33394",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "0dd64cbb04aa",
+      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "summary": "arXiv:2611.33402v1 Announce Type: new Abstract: AI models vary enormously in capability and price. Model routing exploits this by sending easier tasks to cheaper models. However, a single agentic task often combines easy and difficult subtasks, making one model choice for the entire task inefficient. We introduce part…",
+      "url": "https://arxiv.org/abs/2611.33402",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "91113f690a50",
+      "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
+      "summary": "arXiv:2611.33411v1 Announce Type: new Abstract: Internet of Things (IoT) systems generate low-level sensor observations that are not directly suitable for process analysis and must first be transformed into semantically meaningful events. This paper investigates collaborative language models as a zero-shot semantic ab…",
+      "url": "https://arxiv.org/abs/2611.33411",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "2e0b27e6576d",
+      "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+      "summary": "arXiv:2611.33470v1 Announce Type: new Abstract: We present an end-to-end empirical study of dynamic reasoning in next-generation detection and response pipelines, evaluating how static classifiers, graph-based signal fusion, and large language model (LLM) triage agents perform under strict human-analyst attention budg…",
+      "url": "https://arxiv.org/abs/2611.33470",
+      "source": "arXiv cs.AI",
+      "domain": "arxiv.org",
+      "category": "Research",
+      "image": "",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "f8d1eeea15ce",
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 56 # Comments: 28",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "source": "Hacker News (AI)",
+      "domain": "the-decoder.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-27T00:03:18+00:00"
+    },
+    {
+      "id": "a2d012680f8c",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Open Source",
+      "image": "",
+      "published": "2026-11-27T00:00:00+00:00"
+    },
+    {
+      "id": "d3108d022e1e",
+      "title": "AI made self-hosting fun again",
+      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 940 # Comments: 451",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News (AI)",
+      "domain": "janlukas.blog",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-26T21:47:45+00:00"
+    },
+    {
+      "id": "d336ccb91598",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "domain": "techcrunch.com",
+      "category": "Industry",
+      "image": "",
+      "published": "2026-11-26T20:03:54+00:00"
+    },
+    {
+      "id": "7b1f1cff2708",
+      "title": "Tracking Diseases Cured by AI",
+      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 314 # Comments: 190",
+      "url": "https://diseasescuredbyai.com/",
+      "source": "Hacker News (AI)",
+      "domain": "diseasescuredbyai.com",
+      "category": "Community",
+      "image": "",
+      "published": "2026-11-26T17:16:41+00:00"
+    },
+    {
+      "id": "950493b830f9",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
       "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "source": "TechCrunch AI",
@@ -45,7 +276,7 @@
     {
       "id": "d61dea3a3e13",
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 92 # Comments: 105",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 388 # Comments: 318",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "source": "Hacker News (AI)",
       "domain": "techstackups.com",
@@ -65,273 +296,9 @@
       "published": "2026-11-26T05:05:36+00:00"
     },
     {
-      "id": "7228e2048355",
-      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
-      "summary": "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act. In this paper, we show that allocation is not an auxiliary co…",
-      "url": "https://arxiv.org/abs/2611.31284",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "26b035596656",
-      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-      "summary": "arXiv:2611.31301v2 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchmark with a 4-way labe…",
-      "url": "https://arxiv.org/abs/2611.31301",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "a061b5cba97e",
-      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
-      "summary": "arXiv:2611.31329v1 Announce Type: new Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conservative Overlap Fuzzy Rough Set (COFRS) model. Each object is described by its set of present attribut…",
-      "url": "https://arxiv.org/abs/2611.31329",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "a03fbcaefa18",
-      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "summary": "arXiv:2611.31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive data exploration. U…",
-      "url": "https://arxiv.org/abs/2611.31345",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "ead75496e0d6",
-      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
-      "summary": "arXiv:2611.31346v1 Announce Type: new Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benchmarks largely focus on coarse-grained emotion recognition or binary truth-deception detection, ove…",
-      "url": "https://arxiv.org/abs/2611.31346",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "08fbd3c38dd5",
-      "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
-      "summary": "arXiv:2611.31347v1 Announce Type: new Abstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act on the answer unseen. We attack six Laya models with 81 programmatic edits of 566 synthetic items…",
-      "url": "https://arxiv.org/abs/2611.31347",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "b70b77c6c17b",
-      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
-      "summary": "arXiv:2611.31424v1 Announce Type: new Abstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These benign conversations contain evidence on task results, user concerns, and operational constraints. The risk is that attackers who can observe…",
-      "url": "https://arxiv.org/abs/2611.31424",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "34f313f5d761",
-      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
-      "summary": "arXiv:2611.31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic questi…",
-      "url": "https://arxiv.org/abs/2611.31427",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "bb18253cc91c",
-      "title": "Taxi: Analyzing Agents at (Real) Scale",
-      "summary": "arXiv:2611.31457v1 Announce Type: new Abstract: In this technical report, we present Taxi -- a system for debugging, clustering, and monitoring agents at scale. Taxi scales to millions of steps efficiently. This is made possible by a combination of scalable analysis methods. Taxi relies primarily on clustering to gene…",
-      "url": "https://arxiv.org/abs/2611.31457",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "f49098bed49f",
-      "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
-      "summary": "arXiv:2611.31475v1 Announce Type: new Abstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multimodal large language model (MLLM) cannot resolve from pixels alone. Tool access, however, shifts the bottlene…",
-      "url": "https://arxiv.org/abs/2611.31475",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "85cd65351ca6",
-      "title": "Evaluating Frontier-Model Agent Skills with Open-Weight Models in a Science Gateway",
-      "summary": "arXiv:2611.31480v1 Announce Type: new Abstract: Scientific analyses that span many jobs and computing sites depend on workflow management systems to run reliably, but writing a production workflow requires expertise in such a system, which many domain scientists do not have. Coding agents can supply this expertise whe…",
-      "url": "https://arxiv.org/abs/2611.31480",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "c65c1d3c6849",
-      "title": "XRL4T1D: A Post-hoc Explainability Framework for Reinforcement Learning in Type 1 Diabetes Management",
-      "summary": "arXiv:2611.31498v1 Announce Type: new Abstract: Type 1 diabetes (T1D) requires lifelong insulin therapy, and reinforcement learning (RL) has shown promise for automated dosing in the UVA/Padova simulator. However, the decisions of RL controllers remain difficult to interpret. We present XRL4T1D, a post-hoc explainabil…",
-      "url": "https://arxiv.org/abs/2611.31498",
-      "source": "arXiv cs.AI",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "291d053010e7",
-      "title": "Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments",
-      "summary": "arXiv:2611.33162v1 Announce Type: new Abstract: Agentic benchmarks report a success rate that confounds distinct causes of failure: misreading the environment, never working out how components of the environment operates, operating the components in the wrong order, and failing to recover from a mistake, each of which…",
-      "url": "https://arxiv.org/abs/2611.33162",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "8088316755e9",
-      "title": "Quantum Machine Learning for Signature Forgery Detection",
-      "summary": "arXiv:2611.33163v1 Announce Type: new Abstract: Offline handwritten signatures remain a primary behavioural biometric in legal and financial documents. Detecting skilled forgeries from a static raster image is hard because pen pressure, timing and stroke order are missing. This work studies a family of quantum machine…",
-      "url": "https://arxiv.org/abs/2611.33163",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "7cf3d31a92ea",
-      "title": "Code availability is not enough: schemas for documenting and extending data analysis",
-      "summary": "arXiv:2611.33167v1 Announce Type: new Abstract: A data analysis involves a sequence of decisions, from data cleaning to model specification, each of which can affect the reported result. Reproducing that result is not the same as understanding the sequence of decisions that produced it and the reasons for each: the co…",
-      "url": "https://arxiv.org/abs/2611.33167",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "46ace27a4084",
-      "title": "Temporal Exposure to Byzantine Vulnerability Under Intermittent Participation in Federated Learning",
-      "summary": "arXiv:2611.33168v1 Announce Type: new Abstract: In this paper, we study the effect of participation variability on per-round Byzantine vulnerability. We formalise Dynamic Participation Exposure (DPE), a phenomenon in which the global Byzantine fraction remains below an aggregation rule's tolerance threshold, while a p…",
-      "url": "https://arxiv.org/abs/2611.33168",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "2f76608f5dfa",
-      "title": "Geophysics-informed invertible operator network for Bayesian geophysical inversion",
-      "summary": "arXiv:2611.33178v1 Announce Type: new Abstract: Geophysical inverse problems are inherently ill-posed because of sparse observations and measurement noise. Classical sampling-based Bayesian inference methods, such as Markov chain Monte Carlo (MCMC), are computationally prohibitive because they require many forward sim…",
-      "url": "https://arxiv.org/abs/2611.33178",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "1074e2cc8db7",
-      "title": "Deep Learning-Based Mesoscopic Emission Modeling",
-      "summary": "arXiv:2611.33179v1 Announce Type: new Abstract: Traffic-related emissions are a major contributor to urban air pollution. However, existing emission models face a fundamental trade-off: macroscopic models are computationally efficient but rely on average speeds, leading to systematic errors, while microscopic models a…",
-      "url": "https://arxiv.org/abs/2611.33179",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "2e4c2650a134",
-      "title": "Neighbor Crowding Predicts Feature Stability in Sparse Autoencoders",
-      "summary": "arXiv:2611.33182v1 Announce Type: new Abstract: Sparse Autoencoders (SAEs) offer an approach to identify language model representations by breaking apart polysemantic features into more sparse, interpretable ones. Yet, it is challenging to identify which of the learned features are actually stable, rather than artifac…",
-      "url": "https://arxiv.org/abs/2611.33182",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "8fe4005fc4a0",
-      "title": "REI: Learning Ideation from Repository Evolution",
-      "summary": "arXiv:2611.33183v1 Announce Type: new Abstract: As AI systems become increasingly capable of executing and evaluating experiments, ideation is emerging as a bottleneck in automated scientific and engineering iteration. In many real-world domains, useful ideas are sparse and their validation is costly, making direct on…",
-      "url": "https://arxiv.org/abs/2611.33183",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "1f4b4965624b",
-      "title": "Semantic Density Does Not Predict Agent-Memory Collapse",
-      "summary": "arXiv:2611.33184v1 Announce Type: new Abstract: Persistent textual memory can improve LLM agents, but repeated updates can erode task performance. We ask whether memory-store statistics warn before held-out accuracy declines. We registered mean pairwise cosine similarity ($\\rho$) and 13 additional geometry, retrieval,…",
-      "url": "https://arxiv.org/abs/2611.33184",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "8e3c69ddac1b",
-      "title": "KiRA: Kronecker Input-Gated Rank Adaptation for Parameter-Efficient Fine-Tuning of Pretrained Models",
-      "summary": "arXiv:2611.33236v1 Announce Type: new Abstract: Full fine-tuning of large pretrained models is expensive, and parameter-efficient fine-tuning (PEFT) is the standard alternative. Most PEFT methods use low-rank updates, whose rank lies far below that of full fine-tuning and is the same for every input. Input-adaptive va…",
-      "url": "https://arxiv.org/abs/2611.33236",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "6692d8846cb0",
-      "title": "Resource-Efficient Multimodal Fusion for Early Rice Blast Forecasting in Sustainable Agriculture",
-      "summary": "arXiv:2611.33237v1 Announce Type: new Abstract: Resource-efficient artificial intelligence has become increasingly important for sustainable agriculture, where timely disease forecasting must be achieved under computational and energy constraints. Early estimation of rice blast can enhance food security by optimizing…",
-      "url": "https://arxiv.org/abs/2611.33237",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
-      "id": "044266e2de27",
-      "title": "Sequential Testing on Complex and High Dimensional Data Streams Leveraging Unsupervised Model Errors",
-      "summary": "arXiv:2611.33238v1 Announce Type: new Abstract: We propose two general, distribution-free test statistics for binary Sequential Hypothesis Testing (SHT) and Sequential Change Point Detection (SCPD) respectively, in streaming environments where the data (e.g., network traffic metadata) are too complicated for the exact…",
-      "url": "https://arxiv.org/abs/2611.33238",
-      "source": "arXiv cs.LG",
-      "domain": "arxiv.org",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-26T05:00:00+00:00"
-    },
-    {
       "id": "658a49a44de8",
       "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 419 # Comments: 231",
+      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 502 # Comments: 272",
       "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
       "source": "Hacker News (AI)",
       "domain": "twitter.com",
@@ -364,7 +331,7 @@
     {
       "id": "dd9d55aae66b",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 533 # Comments: 449",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 676 # Comments: 540",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "source": "Hacker News (AI)",
       "domain": "theverge.com",
@@ -441,7 +408,7 @@
     {
       "id": "b6e0cc564581",
       "title": "New York bans AI toys, including those using internet to talk to children",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 55 # Comments: 13",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys Comments URL: https://news.ycombinator.com/item?id=50644909 Points: 56 # Comments: 14",
       "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
       "source": "Hacker News (AI)",
       "domain": "theguardian.com",
@@ -540,7 +507,7 @@
     {
       "id": "6a28281ed0cf",
       "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 222 # Comments: 85",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 224 # Comments: 84",
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "source": "Hacker News (AI)",
       "domain": "marginalia.nu",
@@ -551,7 +518,7 @@
     {
       "id": "f8e926eb1141",
       "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 104 # Comments: 53",
+      "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 105 # Comments: 53",
       "url": "https://www.proofatlas.ai/open-problems/",
       "source": "Hacker News (AI)",
       "domain": "proofatlas.ai",
@@ -591,28 +558,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-11-24T23:39:04+00:00"
-    },
-    {
-      "id": "6c07475b294b",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "source": "TechCrunch AI",
-      "domain": "techcrunch.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-24T22:27:52+00:00"
-    },
-    {
-      "id": "984fb38d3ad0",
-      "title": "Working with AI",
-      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 89 # Comments: 77",
-      "url": "https://www.anthropic.com/research/working-with-ai",
-      "source": "Hacker News (AI)",
-      "domain": "anthropic.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-24T21:07:38+00:00"
     },
     {
       "id": "23d5a2ecb890",
@@ -657,17 +602,6 @@
       "category": "Industry",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
       "published": "2026-11-24T17:34:34+00:00"
-    },
-    {
-      "id": "aea7d5e9c8e3",
-      "title": "Tidal bans AI-generated music",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 337 # Comments: 333",
-      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "source": "Hacker News (AI)",
-      "domain": "variety.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-24T16:12:38+00:00"
     },
     {
       "id": "b7cdcf99ca54",
@@ -725,17 +659,6 @@
       "published": "2026-11-24T13:00:00+00:00"
     },
     {
-      "id": "6ff8164bef1c",
-      "title": "LLM agents work for their parent companies, not for you",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 1021 # Comments: 412",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "source": "Hacker News (AI)",
-      "domain": "michaelharley.net",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-24T12:40:15+00:00"
-    },
-    {
       "id": "4fbfa943cc09",
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
@@ -778,28 +701,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-11-24T10:15:00+00:00"
-    },
-    {
-      "id": "88ac31584e71",
-      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 82 # Comments: 40",
-      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
-      "source": "Hacker News (AI)",
-      "domain": "philippdubach.com",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-24T09:39:50+00:00"
-    },
-    {
-      "id": "3015f3748831",
-      "title": "Declare is a UI language for you and your AI",
-      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 120 # Comments: 96",
-      "url": "https://davidtemkin.github.io/declarelang/",
-      "source": "Hacker News (AI)",
-      "domain": "davidtemkin.github.io",
-      "category": "Community",
-      "image": "",
-      "published": "2026-11-24T02:36:56+00:00"
     },
     {
       "id": "26f2e4870177",
@@ -921,17 +822,6 @@
       "category": "Industry",
       "image": "",
       "published": "2026-11-23T14:27:35+00:00"
-    },
-    {
-      "id": "ab1985b00934",
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "source": "Wired AI",
-      "domain": "wired.com",
-      "category": "Industry",
-      "image": "",
-      "published": "2026-11-23T13:11:00+00:00"
     },
     {
       "id": "21cb943ac370",
@@ -1176,17 +1066,6 @@
       "published": "2026-11-18T10:20:30+00:00"
     },
     {
-      "id": "b04f55be054c",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "source": "Hugging Face",
-      "domain": "huggingface.co",
-      "category": "Open Source",
-      "image": "",
-      "published": "2026-11-18T00:00:00+00:00"
-    },
-    {
       "id": "61975f2834da",
       "title": "Put Gemini to work for you",
       "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
@@ -1251,39 +1130,6 @@
       "category": "Research",
       "image": "",
       "published": "2026-11-16T13:00:00+00:00"
-    },
-    {
-      "id": "4da42a89885e",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.…",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "MIT Tech Review AI",
-      "domain": "technologyreview.com",
-      "category": "Research",
-      "image": "",
-      "published": "2026-11-12T20:16:24+00:00"
-    },
-    {
-      "id": "cb29f8a77ec4",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "DeepMind",
-      "domain": "deepmind.google",
-      "category": "Labs",
-      "image": "",
-      "published": "2026-11-12T18:00:50+00:00"
-    },
-    {
-      "id": "37fb9827ce6f",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI",
-      "domain": "blog.google",
-      "category": "Labs",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
-      "published": "2026-11-12T18:00:00+00:00"
     }
   ]
 }
